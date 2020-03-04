@@ -5,7 +5,7 @@ The purpose of this repository is to get familiar with the Git and GitHub's conc
 *Important:* Send your GitHub username to Antonis (if you have not shared it yet either in the lab or via email). Expect an invitation to join as a repository collaborator. 
 
 ## Tasks
-- Clone this repository locally
+- Clone the repository locally
 - Add information about interesting things to do in Athens (tours, food, night-life, etc.) to the guide.md file
 - Contribute generously and in several categories.
 - Add interesting things __use references if you reuse others' material__
