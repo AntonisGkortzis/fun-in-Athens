@@ -2,7 +2,7 @@
 
 The purpose of this repository is to get familiar with the Git and GitHub's concepts and practice some basic commands.
 
-**Important:** Send your GitHub username to Antonis (if you have not shared it yet either in the lab or via email). Expect an invitation to join as a repository collaborator. 
+*Important:* Send your GitHub username to Antonis (if you have not shared it yet either in the lab or via email). Expect an invitation to join as a repository collaborator. 
 
 ## Tasks
 - Clone this repository locally
