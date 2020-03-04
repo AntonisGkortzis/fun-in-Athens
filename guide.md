@@ -33,7 +33,7 @@ Athens is famous for its history and its numerous monuments and museums, you don
 **Acropolis**
 >The most famous historical monument in Greece
 
-![Acropolis](/images/acropolis.jpg)
+![Acropolis](/media/acropolis.jpg)
 
 The Acropolis of Athens is the most famous historical monument in Greece. It was constructed in the mid 5th century BC, also known as the Golden Century of Athens. Although the most famous building on the Acropolis is the Parthenon, there are many other buildings, like the Propylaea, the Erectheion and the Temple of Athena Nike. The Acropolis was entirely made of the finest Pentelic marble and by the best craftsmen of the era. Along the centuries that followed, it was largely destroyed by wars. The greatest destructions were in 1687 by a Venetian gun, and in 1816 when Lord Elgin removed many parts of the Parthenon frieze.
 
