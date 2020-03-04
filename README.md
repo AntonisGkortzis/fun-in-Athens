@@ -15,7 +15,7 @@ The purpose of this repository is to get familiar with the Git and GitHub's conc
 - Commit your changes
 - Push to the GitHub repository (if required pull and resolve merge conflicts)
 
-**Deadline – 12:59 PM, March 11, 2020**
+**Deadline – 12:00 PM, March 11, 2020**
 
 ## Tips
 - Include links where necessary (i.e., locations, bars, etc.).
