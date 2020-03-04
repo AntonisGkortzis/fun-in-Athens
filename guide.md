@@ -30,7 +30,7 @@ In order to enjoy the beauty of the city, you have to walk. So here are some tou
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
 
-**Acropolis
+**Acropolis**
 >The most famous historical monument in Greece
 
 ![Acropolis](/images/acropolis.jpg)
