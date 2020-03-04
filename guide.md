@@ -30,5 +30,6 @@ In order to enjoy the beauty of the city, you have to walk. So here are some tou
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
 
-##Activities
+## Activities
+
 Athens has many things to do for athletics individuals too! From walking to our fammous mountains to skydiving!
