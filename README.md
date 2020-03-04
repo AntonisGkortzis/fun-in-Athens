@@ -5,7 +5,7 @@ The purpose of this repository is to get familiar with the Git and GitHub's conc
 *Important:* Send your GitHub username to Antonis (if you have not shared it yet either in the lab or via email). Expect an invitation to join as a repository collaborator. 
 
 ## Tasks
-- Clone the repository locally
+- Clone this repository
 - Add information about interesting things to do in Athens (tours, food, night-life, etc.) to the guide.md file
 - Contribute generously and in several categories.
 - Add interesting things __use references if you reuse others' material__
@@ -18,10 +18,10 @@ The purpose of this repository is to get familiar with the Git and GitHub's conc
 **Deadline – 12:00 PM, March 11, 2020**
 
 ## Tips
-- Include links where necessary (i.e., locations, bars, etc.).
+- Include links where necessary (i.e., locations, bars, etc.)
 - You can include pictures, but don't forget to commit and push them. Pictures should be placed in the ```media/``` directory. Create the directory if does not exist. 
 - Rearrange text if you think that it should be organized different - refactorings are always welcome!
-- Use references for pictures and videos - You cannot reuse web content without citing the original source.
+- Use references for pictures and videos - You cannot reuse web content without citing the original source
 
 ## Grading system
 - Number of contributions - the more the better
