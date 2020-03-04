@@ -1,5 +1,11 @@
 # Cool things to do in Athens
 
+![alt text](media/acro.jpg)
+
+
+Foto owned by [ceoworld.biz](https://ceoworld.biz/)
+
+
 Are you planning to visit Athens and searching for exciting activities to spend your time? This guide will help you find the most suitable way to explore the city depending on your taste!
 
 ## Food
@@ -33,3 +39,6 @@ The Acropolis of Athens is the most famous historical monument in Greece. It was
 
 *All info retrieved from:* [Greeka](https://www.greeka.com/greece-history/monuments/) 
 
+## Activities
+
+Athens has many things to do for athletics individuals too! From walking to our fammous mountains to skydiving!
