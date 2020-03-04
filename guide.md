@@ -53,4 +53,4 @@ On the north side of the temple, there is the famous "Porch of the Maidens", wit
 
 ## Activities
 
-Athens has many things to do for athletics individuals too! From walking to our fammous mountains to skydiving!
+Athens has many things to do for athletics individuals too! From walking to our famous mountains to skydiving!
