@@ -6,7 +6,7 @@ The purpose of this repository is to get familiar with the Git and GitHub's conc
 
 ## Tasks
 - Clone this repository
-- Add information about interesting things to do in Athens (tours, food, night-life, etc.) to the guide.md file
+- Add information about interesting things to do in Athens (tours, food, night-life, etc.) to the **guide.md** file
 - Contribute generously and in several categories.
 - Add interesting things __use references if you reuse others' material__
 - Introduce new categories, organize things
