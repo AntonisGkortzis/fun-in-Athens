@@ -1,5 +1,11 @@
 # Cool things to do in Athens
 
+![alt text](media/acro.jpg)
+
+
+Foto owned by [ceoworld.biz](https://ceoworld.biz/)
+
+
 Are you planning to visit Athens and searching for exciting activities to spend your time? This guide will help you find the most suitable way to explore the city depending on your taste!
 
 ## Food
@@ -24,4 +30,5 @@ In order to enjoy the beauty of the city, you have to walk. So here are some tou
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
 
-
+##Activities
+Athens has many things to do for athletics individuals too! From walking to our fammous mountains to skydiving!
