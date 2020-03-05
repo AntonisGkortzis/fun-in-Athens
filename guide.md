@@ -48,6 +48,13 @@ If you like pop and trap music, this club is definitely a must for you. The huge
 
 *Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d11827483-Reviews-Lohan_Nightclub-Athens_Attica.html)
 
+**Nalu**
+
+<img src="media/nalu.jpg" alt="drawing" width="500"/>
+
+Nalu is an all day venue, next to the sea and open all year! It is located in Alimos and you can go there by bus or tram, but I would recommend by car since the place offers a free parking lot! A cozy enviroment offers its customers to enjoy themselves all day long. In the morning, you can enjoy your beverage and brunch with the unique sea view. In the afternoon, you can enjoy the breathtaking sunset next to the sea while drinking a glass of wine. And in the night, you can enjoy unique cocktails and drinks, while listening to your favourite music.
+
+*All info retrieved from:* [Nalu](https://www.nalu.gr/en/home)
 
 ## Tours
 
