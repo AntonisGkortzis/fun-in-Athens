@@ -26,6 +26,15 @@ An ideal place to enjoy your house special cocktails at night! On the top floor,
 
 *All info retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d2665318-Reviews-A_for_Athens_Cocktail_Bar-Athens_Attica.html)
 
+**Lohan Nightclub**
+
+![Lohan-Nightclub](/media/lohan-nightclub.jpg)
+
+If you like pop and trap music, this club is definitely a must for you. The huge space and the beautiful design will give you an unforgettable experience. In this club, you can have your favourite drinks, dance till the morning and enjoy the performance of the best DJ's in the world. It is near the city center, just a five-minute walk from the metro station "Keramikos"!
+
+*Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d11827483-Reviews-Lohan_Nightclub-Athens_Attica.html)
+
+
 ## Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
