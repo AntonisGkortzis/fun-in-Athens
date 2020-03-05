@@ -111,6 +111,12 @@ Organizing a trip to the Temple of Poseidon is worth your time but making the mo
 
 Athens has many things to do for athletics individuals too! From walking to our famous mountains to skydiving!
 
+**Kartland**
+
+One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!!
+
+---> https://kartland.gr/
+
 **Hiking**
 
 Going hiking is a great way to explore and get to know Athens! There are a lot of places ideal for a hiking adventure!
@@ -160,8 +166,3 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 *Info retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens))
 
-**Kartland**
-
-One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!!
-
----> https://kartland.gr/
