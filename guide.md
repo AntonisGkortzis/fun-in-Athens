@@ -60,7 +60,7 @@ One of the most stunning views all over Greece as well as a monument difficult t
 
 Organizing a trip to the Temple of Poseidon is worth your time but making the most of your trip is also important by swimming on the beach, underneath the monument, getting an astonishing experience of clear blue waters.
 
-*Info extracted from: *[VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio)
+*Info extracted from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio)
 
 ## Activities
 
