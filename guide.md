@@ -20,9 +20,11 @@ Of course, when you visit Athens, you cannot skip its night life. Below, we have
 
 **A for Athens Cocktail Bar**
 
-![A For Athens](/media/aForAthens.jpg)
+![aForAthens](/media/aForAthens.jpg)
 
 An ideal place to enjoy your house special cocktails at night! On the top floor, there is an urban terrace which creates a beautiful and fun atmosphere with a stunning view over the Acropolis and Monastiraki Square. It is placed right in the city center and is easily accessible, as the metro station is 2 minutes away by walking.
+
+*All info retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d2665318-Reviews-A_for_Athens_Cocktail_Bar-Athens_Attica.html)
 
 ## Tours
 
