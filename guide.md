@@ -45,6 +45,15 @@ The Acropolis of Athens is the most famous historical monument in Greece. It was
 
 *All info retrieved from:* [Greeka](https://www.greeka.com/greece-history/monuments/)
 
+**Parthenon**
+
+![Parthenon](media/parthenon.jpg "Parthenon")
+
+This magnificent temple on the Acropolis of Athens was built between 447 and 432 BCE in the Age of Pericles, and was dedicated to goddess Athena, the city's patron. It was designed by architects Iktinos and Kallikrates, while the sculptor Pheidias supervised the entire building process and conceived the temple's sculptural decoration and [chryselephantine statue of Athena](https://en.wikipedia.org/wiki/Athena_Parthenos). The temple is considered to be the epitome of Classical Greece.
+
+*Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/monuments/parthenon) |
+*Photo of Parthenon retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parthenon)
+
 **Erechtheion**
 
 ![Erechtheion](media/erechtheion.jpg "Erechtheion")
