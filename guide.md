@@ -84,7 +84,7 @@ Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. 
 
 **Lycabettus hill**
 
-![Lycabettus](media/lycabettus)
+![Lycabettus](media/lycabettus.jpg)
 
 Lycabettus hill is the highest point in the center of Athens. At the top of the hill, you can dine in the reastaurant and visit the church of Agios Georgios. There are 3 ways to reach the top:
 1.Climbing up the hill on foot, which is a long climb but not so difficult one.
@@ -93,5 +93,5 @@ Lycabettus hill is the highest point in the center of Athens. At the top of the 
 
 No matter what you choose, you must be sure for one thing. You will enjoy the breathtaking panoramic view of Athens.
 
-*Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/)
+*Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/)|
 *Image retrieved from*[Tripsavvy](https://www.tripsavvy.com)
