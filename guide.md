@@ -15,12 +15,11 @@ Here are the best places where you can enjoy the Greek food.
 
 **LUKUΜΑΔΕΣ**
 
-[!aLukumades](/media/loukoumades.png)
+![loukoumades](/media/loukoumades.png)
 
 Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection.They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry!
 
-*Information and foto retrieved from : *[Lukumades](https://www.lukumades.com/about)
-
+*Information and foto retrieved from :* [Lukumades](https://www.lukumades.com/about)
 
 ## Night Life
 
