@@ -162,6 +162,6 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 **Kartland**
 
-One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!
+One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!!
 
 ---> https://kartland.gr/
