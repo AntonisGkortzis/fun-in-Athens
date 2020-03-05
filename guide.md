@@ -18,7 +18,15 @@ Here are the best places where you can enjoy the Greek food.
 
 Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection.They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry!
 
-*Information and foto retrieved from :* [Lukumades](https://www.lukumades.com/about)
+*Information and photo retrieved from :* [Lukumades](https://www.lukumades.com/about)
+
+**Nancy's Sweet Home**
+
+<img src="media/nancy.png" alt="drawing" width="500"/>
+
+If you are a fan of sweets, that's the place for you! So many different options, but all so delicious! Being such a huge fan of chocolate, I strongly recommend it, but even if you are not so into chocolate you can find all kinds of sweets there! Juicy chocolate pies, hellish strawberry pies, southern kazan dip and many more are waiting for you. The most relaxing and sweet Candy Store in Athens is located at Psyri, really close to the Monastiraki Square.
+
+*All info retrieved from:* [Nancy's Sweet Home](https://www.nancysweethome.gr/)
 
 ## Night Life
 
