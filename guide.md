@@ -22,7 +22,7 @@ Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried 
 
 **Nancy's Sweet Home**
 
-<img src="media/nancy.png" alt="drawing" width="500"/>
+<img src="media/nancy.jpg" alt="drawing" width="500"/>
 
 If you are a fan of sweets, that's the place for you! So many different options, but all so delicious! Being such a huge fan of chocolate, I strongly recommend it, but even if you are not so into chocolate you can find all kinds of sweets there! Juicy chocolate pies, hellish strawberry pies, southern kazan dip and many more are waiting for you. The most relaxing and sweet Candy Store in Athens is located at Psyri, really close to the Monastiraki Square.
 
