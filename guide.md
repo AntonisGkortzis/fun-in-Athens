@@ -136,7 +136,7 @@ Of course, if you want to go shopping in Athens you can't miss the largest shopp
 
 **Ermou street**
 
-![Ermou](media/ermou.jpg)
+<img src="media/ermou.jpg" alt="drawing" width="500"/>
 
 *Photo taken from:* [gtp](https://news.gtp.gr)
 
