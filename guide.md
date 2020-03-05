@@ -22,7 +22,7 @@ Of course, when you visit Athens, you cannot skip its night life. Below, we have
 
 ![aForAthens](/media/aForAthens.jpg)
 
-An ideal place to enjoy your house special cocktails at night! On the top floor, there is an urban terrace which creates a beautiful and fun atmosphere with a stunning view over the Acropolis and Monastiraki Square. It is placed right in the city center and is easily accessible, as the metro station is 2 minutes away by walking.
+An ideal place to enjoy your house special cocktails at night! On the top floor, there is an urban terrace which creates a beautiful and fun atmosphere with a stunning view over the Acropolis and Monastiraki Square. It is placed right in the city center and is easily accessible, as the metro station is 2 minutes away on foot.
 
 *All info retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d2665318-Reviews-A_for_Athens_Cocktail_Bar-Athens_Attica.html)
 
@@ -80,3 +80,18 @@ Going hiking is a great way to explore and get to know Athens! There are a lot o
 Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. Lying about 50km south-east of Athens, the  Sounion National Park hosts relics of ancient silver, lead and zinc mines, as well as cave fossils unique to the whole of Greece. Inside the park you will find a magnificent and easy trail which starts near the Agios Konstantinos village(you will usually find a parking spot there), it surrounds the dramatic Chaos gulch (a collapsed ancient cave), it continues briefly on tarmac and then the view opens and you can see the city of Lavrion as well as the islands of Makronisos and Kea. The path arrives at the church of Agia Triada, where you will find natural spring water. From there, a dirty old road will lead you to the ancient mines' washing plants and tanks and then you will come across Kitsios cave. Finally, north of Poseidon's temple you will fing the rocky outcrops of Mavro Lithari and Vasilopoula.
 *Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)|
 *Photo of Sounion National Park retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
+
+
+**Lycabettus hill**
+
+![Lycabettus](media/lycabettus)
+
+Lycabettus hill is the highest point in the center of Athens. At the top of the hill, you can dine in the reastaurant and visit the church of Agios Georgios. There are 3 ways to reach the top:
+1.Climbing up the hill on foot, which is a long climb but not so difficult one.
+2.Cable car if hiking and climbing isn't your thing. I would recommend that you take the cable car to get to the top and then go down on foot.
+3.Car by following Lycabettus ring road, you will reach the end of the road with a huge parking lot and lot of people hanging out there. Next to the parking lot is the open theater of Lycabettus, where concerts and theatrical performances take place during summer.
+
+No matter what you choose, you must be sure for one thing. You will enjoy the breathtaking panoramic view of Athens.
+
+*Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/)
+*Image retrieved from*[Tripsavvy](https://www.tripsavvy.com)
