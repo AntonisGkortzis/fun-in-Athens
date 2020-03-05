@@ -37,7 +37,7 @@ Athens is famous for its history and its numerous monuments and museums, you don
 
 The Acropolis of Athens is the most famous historical monument in Greece. It was constructed in the mid 5th century BC, also known as the Golden Century of Athens. Although the most famous building on the Acropolis is the Parthenon, there are many other buildings, like the Propylaea, the Erechtheion and the Temple of Athena Nike. The Acropolis was entirely made of the finest Pentelic marble and by the best craftsmen of the era. Along the centuries that followed, it was largely destroyed by wars. The greatest destructions were in 1687 by a Venetian gun, and in 1816 when Lord Elgin removed many parts of the Parthenon frieze.
 
-*All info retrieved from:* [Greeka](https://www.greeka.com/greece-history/monuments/) 
+*All info retrieved from:* [Greeka](https://www.greeka.com/greece-history/monuments/)
 
 **Erechtheion**
 
@@ -47,9 +47,19 @@ The Erechtheion is an ancient Greek temple located on the north side of the Acro
 
 On the north side of the temple, there is the famous "Porch of the Maidens", with six sculpted female figures (Caryatids) serving as supporting columns. Five of them are in the Acropolis Museum and the last one in the British Museum; those on the building are casts.
 
-*Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/monuments/erechtheion) | 
+*Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/monuments/erechtheion) |
 *Photo of Erechtheion retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Erechtheion)
 
+**Temple of Poseidon**
+
+![templeofposeidon](media/templeofposeidon.jpg "Temple Of Poseidon")
+*Photo taken from:* [GreekTravelPages](https://www.gtp.gr/TDirectoryDetails.asp?ID=14990)
+
+One of the most stunning views all over Greece as well as a monument difficult to forget. Located at the southernmost tip of Attica the Temple of Poseidon is build to impress and educate us about history. Stories around this temple involve King Menelaus who stopped there on his way back from Troy and King Aegeus who had the unfortunate fate of drowning on that spot, thus giving his name to the Aegean Sea.
+
+Organizing a trip to the Temple of Poseidon is worth your time but making the most of your trip is also important by swimming on the beach, underneath the monument, getting an astonishing experience of clear blue waters.
+
+*Info extracted from:*[VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio)
 
 ## Activities
 
