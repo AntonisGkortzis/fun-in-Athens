@@ -95,3 +95,15 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 
 *Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/)|
 *Image retrieved from*[Tripsavvy](https://www.tripsavvy.com)
+
+## Shopping
+
+There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
+
+**The Mall Athens**
+
+![Mall](media/mallAthens.jpg)
+
+Of course, if you want to go shopping in Athens you can't miss the largest shopping mall in the city! This mall brings together over 200 different shopping, entertainment and dining options. In its 4 floors you can find many famous brands, restaurants, cafés, cinemas and entertainment spaces for the whole family. It is easily accessible, since you can go there by car with a huge parking lot or public transportations using the train at the Stop Neratziotissa you just climb up the stairs. 
+
+*All info retrieved from:* [MallAthens](https://themallathens.gr)
