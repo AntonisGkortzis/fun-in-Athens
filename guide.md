@@ -8,12 +8,12 @@ Photo owned by [ceoworld.biz](https://ceoworld.biz/)
 Are you planning to visit Athens and searching for exciting activities to spend your time? This guide will help you find the most suitable way to explore the city depending on your taste!
 
 ## <a name="menu"></a>Menu
-* [Food](#food)
-* [Night Life](#nightlife)
-* [Tours](#tours)
-* [Monuments](#monuments)
-* [Activities](#activities)
-* [Shopping](#shopping)
+* [Food](#food) 🍕
+* [Night Life](#nightlife) 💃
+* [Tours](#tours) 🚶
+* [Monuments](#monuments) 🗼
+* [Activities](#activities) 🚴
+* [Shopping](#shopping) 🎁
 
 ## <a name="food"></a>Food
 
