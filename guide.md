@@ -21,7 +21,7 @@ Here are the best places where you can enjoy the Greek food.
 
 **TELI'S CHOPS**
 
-<img src="media/tbtt.png" alt="drawing" width="500"/>
+<img src="media/tbtt.jpg" alt="drawing" width="500"/>
 
 "TELI'S CHOPS", or in Greek, "ΤΑ ΜΠΡΙΖΟΛΑΚΙΑ ΤΟΥ ΤΕΛΗ", is a very good hidden tavern, with only one main dish. Chops. You get in, and they just ask you how many portions to bring on table. They also serve a legendary dish as an appetizer with tomato, peppers (spicy and not) & feta cheese, all grilled, just for free. Of course fried potatoes are served with the chops. Telis's tavern started its functioning since 1977 and is still the best of its kind. A portion costs almost 10 euros but it's totally worth its money (you satiate for good). But be careful not to be confused with the real tavern, because some unfair competitors have opened a chop-shop right next to the original, with the name "Telis"! The real one is the one on your right, as you see both taverns. Anyway, words are not enough to describe the taste. We suggest you going at least one time, and you won't lose. And just a tip of advice. If you go, when the order comes in table, do not post a picture of it on any social media or something like that. You will ruin it's magicness.
 
