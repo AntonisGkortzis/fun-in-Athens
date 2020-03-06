@@ -88,6 +88,14 @@ This residential neighbourhood, located at the foot of the Acropolis and the Fil
 
 *Information and photo retrieved from:* [Culture Trip](https://theculturetrip.com/europe/greece/articles/a-walk-around-koukaki-neighbourhood-in-central-athens/)
 
+**Thisseio**
+
+<img src="media/thisseio.jpg" alt="drawing" width="500"/>
+
+Picture-perfect Thisseio is an ideal district for relaxing strolls and evening walks with views over century-old monuments. In addition to Filopappou Hill, the pedestrian street of Dyonisus Areopagitou and the lines of street vendors selling crafts and jewellery are just some of the highlights. Green, quiet and charming, Thisseio has also its fair share of cafés, bars and restaurants, where during the warm days, you can find a quiet corner on a terrace to enjoy a great book or an intense conversation with your friends. And just when you thought you knew everything about Thisseio, it surprises you with its small collection of museums, such as the Herakleidon Museum of Visual Arts, housed in a neoclassical mansion, or the Stoa of Attalos Museum, located in the Ancient Agora.
+
+*Information and photo retrieved from:* [Culture Trip](https://theculturetrip.com/europe/greece/articles/a-walking-guide-to-thisseio-neighbourhood-athens/)
+
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
