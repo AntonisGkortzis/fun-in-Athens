@@ -7,7 +7,15 @@ Photo owned by [ceoworld.biz](https://ceoworld.biz/)
 
 Are you planning to visit Athens and searching for exciting activities to spend your time? This guide will help you find the most suitable way to explore the city depending on your taste!
 
-## Food
+## <a name="menu"></a>Menu
+* [Food](#food)
+* [Night Life](#nightlife)
+* [Tours](#tours)
+* [Monuments](#monuments)
+* [Activities](#activities)
+* [Shopping](#shopping)
+
+## <a name="food"></a>Food
 
 Here are the best places where you can enjoy the Greek food.
 
@@ -29,7 +37,7 @@ If you are a fan of sweets, that's the place for you! So many different options,
 *Information retrieved from:* [Nancy's Sweet Home](https://www.nancysweethome.gr/) |
 *Photo retrieved from:* [LIFO](https://www.lifo.gr/team/peina/55522)
 
-## Night Life
+## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
 
@@ -57,13 +65,13 @@ Nalu is an all day venue, next to the sea and open all year! It is located in Al
 
 *All info retrieved from:* [Nalu](https://www.nalu.gr/en/home)
 
-## Tours
+## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
 
 
 
-## Monuments
+## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
 
@@ -108,7 +116,7 @@ Organizing a trip to the Temple of Poseidon is worth your time but making the mo
 
 *Info extracted from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio)
 
-## Activities
+## <a name="activities"></a>Activities
 
 Athens has many things to do for athletics individuals too! From walking to our famous mountains to skydiving!
 
@@ -147,7 +155,7 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 *Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/)|
 *Image retrieved from*[Tripsavvy](https://www.tripsavvy.com)
 
-## Shopping
+## <a name="shopping"></a>Shopping
 
 There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
 
