@@ -19,12 +19,20 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 
 Here are the best places where you can enjoy the Greek food.
 
+**TELI'S CHOPS**
+
+<img src="media/tbtt.png" alt="drawing" width="500"/>
+
+"TELI'S CHOPS", or in Greek, "ΤΑ ΜΠΡΙΖΟΛΑΚΙΑ ΤΟΥ ΤΕΛΗ", is a very good hidden tavern, with only one main dish. Chops. You get in, and they just ask you how many portions to bring on table. They also serve a legendary dish as an appetizer with tomato, peppers (spicy and not) & feta cheese, all grilled, just for free. Of course fried potatoes are served with the chops. Telis's tavern started its functioning since 1977 and is still the best of its kind. A portion costs almost 10 euros but it's totally worth its money (you satiate for good). But be careful not to be confused with the real tavern, because some unfair competitors have opened a chop-shop right next to the original, with the name "Telis"! The real one is the one on your right, as you see both taverns. Anyway, words are not enough to describe the taste. We suggest you going at least one time, and you won't lose. And just a tip of advice. If you go, when the order comes in table, do not post a picture of it on any social media or something like that. You will ruin it's magicness.
+
+*Information retrieved from:* **My soul**
+*Photo retrieved from:* [Oneman](https://www.oneman.gr/food-drink/sta-mprizolakia-toy-telh-afhneis-kai-thn-psyxh-soy/)
 
 **LUKUΜΑΔΕΣ**
 
 <img src="media/loukoumades.png" alt="drawing" width="500"/>
 
-Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection.They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry!
+Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection. They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry!
 
 *Information and photo retrieved from :* [Lukumades](https://www.lukumades.com/about)
 
@@ -63,7 +71,7 @@ A For Athens is an ideal place to enjoy your house special cocktails at night! O
 
 <img src="media/lohan-nightclub.jpg" alt="drawing" width="500"/>
 
-If you like pop and trap music, this club is definitely a must for you. The huge space and the beautiful design will give you an unforgettable experience. In this club, you can have your favourite drinks, dance till the morning and enjoy the performance of the best DJ's in the world. It is near the city center, just a five-minute walk from the metro station "Keramikos"!
+If you like pop and trap music, this club is definitely a must for you. The huge space and the beautiful design will give you an unforgettable experience. In this club, you can have your favorite drinks, dance till the morning and enjoy the performance of the best DJ's in the world. It is near the city center, just a five-minute walk from the metro station "Keramikos"!
 
 *Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d11827483-Reviews-Lohan_Nightclub-Athens_Attica.html)
 
@@ -71,7 +79,7 @@ If you like pop and trap music, this club is definitely a must for you. The huge
 
 <img src="media/nalu.jpg" alt="drawing" width="500"/>
 
-Nalu is an all day venue, next to the sea and open all year! It is located in Alimos and you can go there by bus or tram, but I would recommend by car since the place offers a free parking lot! A cozy enviroment offers its customers to enjoy themselves all day long. In the morning, you can enjoy your beverage and brunch with the unique sea view. In the afternoon, you can enjoy the breathtaking sunset next to the sea while drinking a glass of wine. And in the night, you can enjoy unique cocktails and drinks, while listening to your favourite music.
+Nalu is an all day venue, next to the sea and open all year! It is located in Alimos and you can go there by bus or tram, but I would recommend by car since the place offers a free parking lot! A cozy environment offers its customers to enjoy themselves all day long. In the morning, you can enjoy your beverage and brunch with the unique sea view. In the afternoon, you can enjoy the breathtaking sunset next to the sea while drinking a glass of wine. And in the night, you can enjoy unique cocktails and drinks, while listening to your favorite music.
 
 *Information retrieved from:* [Nalu](https://www.nalu.gr/en/home) |
 *Photo retrieved from:* [Regroup](https://www.regroup.gr/default/388/deals/5870/nalu-menu/)
@@ -84,7 +92,7 @@ In order to enjoy the beauty of the city, you have to walk. So here are some tou
 
 <img src="media/koukaki.jpg" alt="drawing" width="500"/>
 
-This residential neighbourhood, located at the foot of the Acropolis and the Filopappou Hill, is a combination of authenticity, convenience and entertainment. One of Koukaki’s highlights is the blend of architectural styles it contains. With its mismatch of neoclassical houses, low-rise buildings dating from the 1930s and post-1970s apartment blocks, Koukaki includes small shops, traditional restaurants, art galleries, museums and colourful bars and cafes. After a leisurely stroll around the streets, you can be sure to always find a cafe with a couple of tables and chairs set up outside where we suspect your coffee break will quickly turn into an impromptu lunch. Whether you are on your own or with friends, looking to celebrate a special occasion or simply want to hang, Koukaki has it all.
+This residential neighborhood, located at the foot of the Acropolis and the Filopappou Hill, is a combination of authenticity, convenience and entertainment. One of Koukaki’s highlights is the blend of architectural styles it contains. With its mismatch of neoclassical houses, low-rise buildings dating from the 1930s and post-1970s apartment blocks, Koukaki includes small shops, traditional restaurants, art galleries, museums and colorful bars and cafes. After a leisurely stroll around the streets, you can be sure to always find a café with a couple of tables and chairs set up outside where we suspect your coffee break will quickly turn into an impromptu lunch. Whether you are on your own or with friends, looking to celebrate a special occasion or simply want to hang, Koukaki has it all.
 
 *Information and photo retrieved from:* [Culture Trip](https://theculturetrip.com/europe/greece/articles/a-walk-around-koukaki-neighbourhood-in-central-athens/)
 
@@ -92,7 +100,7 @@ This residential neighbourhood, located at the foot of the Acropolis and the Fil
 
 <img src="media/thisseio.jpg" alt="drawing" width="500"/>
 
-Picture-perfect Thisseio is an ideal district for relaxing strolls and evening walks with views over century-old monuments. In addition to Filopappou Hill, the pedestrian street of Dyonisus Areopagitou and the lines of street vendors selling crafts and jewellery are just some of the highlights. Green, quiet and charming, Thisseio has also its fair share of cafés, bars and restaurants, where during the warm days, you can find a quiet corner on a terrace to enjoy a great book or an intense conversation with your friends. And just when you thought you knew everything about Thisseio, it surprises you with its small collection of museums, such as the Herakleidon Museum of Visual Arts, housed in a neoclassical mansion, or the Stoa of Attalos Museum, located in the Ancient Agora.
+Picture-perfect Thisseio is an ideal district for relaxing strolls and evening walks with views over century-old monuments. In addition to Filopappou Hill, the pedestrian street of Dyonisus Areopagitou and the lines of street vendors selling crafts and jewelry are just some of the highlights. Green, quiet and charming, Thisseio has also its fair share of cafés, bars and restaurants, where during the warm days, you can find a quiet corner on a terrace to enjoy a great book or an intense conversation with your friends. And just when you thought you knew everything about Thisseio, it surprises you with its small collection of museums, such as the Herakleidon Museum of Visual Arts, housed in a neoclassical mansion, or the "Stoa of Attalos Museum", located in the Ancient Agora.
 
 *Information and photo retrieved from:* [Culture Trip](https://theculturetrip.com/europe/greece/articles/a-walking-guide-to-thisseio-neighbourhood-athens/)
 
@@ -122,7 +130,7 @@ This magnificent temple on the Acropolis of Athens was built between 447 and 432
 
 <img src="media/erechtheion.jpg" alt="drawing" width="500"/>
 
-The Erechtheion is an ancient Greek temple located on the north side of the Acropolis. The temple was erected in 421-406 BC and was dedicated to both Athena and Poseidon. In particular, the eastern part of the building was dedicated to Athena Polias, while the western part served the cult of Poseidon-Erechtheus and held the altars of Hephaistus and Voutos, brother of Erechtheus.
+The Erechtheion is an ancient Greek temple located on the north side of the Acropolis. The temple was erected in 421-406 BC and was dedicated to both Athena and Poseidon. In particular, the eastern part of the building was dedicated to Athena Polias, while the western part served the cult of Poseidon-Erechtheus and held the altars of Hephaestus and Voutos, brother of Erechtheus.
 
 On the north side of the temple, there is the famous "Porch of the Maidens", with six sculpted female figures (Caryatids) serving as supporting columns. Five of them are in the Acropolis Museum and the last one in the British Museum; those on the building are casts.
 
@@ -169,7 +177,7 @@ Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. 
 
 <img src="media/lycabettus.jpg" alt="drawing" width="500"/>
 
-Lycabettus hill is the highest point in the center of Athens. At the top of the hill, you can dine in the reastaurant and visit the church of Agios Georgios. There are 3 ways to reach the top:
+Lycabettus hill is the highest point in the center of Athens. At the top of the hill, you can dine in the restaurant and visit the church of Agios Georgios. There are 3 ways to reach the top:
 
 1. Climbing up the hill on foot, which is a long climb but not so difficult one.
 2. Cable car if hiking and climbing isn't your thing. I would recommend that you take the cable car to get to the top and then go down on foot.
