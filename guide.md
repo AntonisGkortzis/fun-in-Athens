@@ -50,13 +50,14 @@ For meat lovers, Mparmpeekiou is heaven on earth. It started as a traditional-or
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
 
-**A for Athens Cocktail Bar**
+**A For Athens Cocktail Bar**
 
 <img src="media/aForAthens.jpg" alt="drawing" width="500"/>
 
-An ideal place to enjoy your house special cocktails at night! On the top floor, there is an urban terrace which creates a beautiful and fun atmosphere with a stunning view over the Acropolis and Monastiraki Square. It is placed right in the city center and is easily accessible, as the metro station is 2 minutes away on foot.
+A For Athens is an ideal place to enjoy your house special cocktails at night! On the top floor, there is an urban terrace which creates a beautiful and fun atmosphere with a stunning view over the Acropolis and Monastiraki Square. It is placed right in the city center and is easily accessible, as the metro station is 2 minutes away on foot.
 
-*All info retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d2665318-Reviews-A_for_Athens_Cocktail_Bar-Athens_Attica.html)
+*Information retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d2665318-Reviews-A_for_Athens_Cocktail_Bar-Athens_Attica.html) |
+*Photo retrieved from:* [A For Athens](https://aforathens.com/photos/)
 
 **Lohan Nightclub**
 
