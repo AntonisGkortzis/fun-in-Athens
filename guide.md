@@ -114,9 +114,11 @@ Athens has many things to do for athletics individuals too! From walking to our 
 
 **Kartland**
 
-One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!!
+<img src="media/kartland.jpg" alt="drawing" width="500"/>
 
----> https://kartland.gr/
+One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!! It is the 1st track in Greece to implement a self-timer system and light board in every kart! Please note that all drivers are required to wear a helmet and a disposable cap through the helmet for hygiene reasons. Kartland is located in Pallini, Athens and is easily accessible by car or by public transportations, using the metro and the bus.
+
+*All info extracted from:* [Kartland](https://kartland.gr/)
 
 **Hiking**
 
@@ -166,4 +168,3 @@ Of course, if you want to go shopping in Athens you can't miss the largest shopp
 Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos with Syntagma Square through Monastiraki. The east side of the street is a pedestrian road and a very busy shopping street. Walking down Ermou street you cannot only shop from famous brands that are located there but you can also find a lot of places to rest, such as restaurants and cafés. Since it is located in the city center it is easily accessible through public transportations(bus, metro, train). You can also visit Ermou street before or after sightseeing in the city center, like Acropolis or Parthenon, and you can dine in the Monastiraki or Syntagma Square, that are really close to the street
 
 *Info retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens))
-
