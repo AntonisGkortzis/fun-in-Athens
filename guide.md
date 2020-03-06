@@ -92,6 +92,8 @@ In order to enjoy the beauty of the city, you have to walk. So here are some tou
 
 <img src="media/downtown.jpg" alt="drawing" width="500"/>
 
+Photo by Adrian Dascal on Unsplash
+
 Stroll around the picturesque Monastiraki and Plaka neighbourhoods
 Feel the atmosphere of "old Athens" and get the touch of history on the pedestrian streets.
 It’s hard to imagine how many different experiences can fit in two neighbourhoods of a city centre! Archaeological sites, little arrays, old beautiful houses, antique shops and pittoresque cafes live together in the neighbourhoods of old Athens.
