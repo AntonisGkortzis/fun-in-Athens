@@ -43,7 +43,8 @@ If you are a fan of sweets, that's the place for you! So many different options,
 
 For meat lovers, Mparmpeekiou is heaven on earth. It started as a traditional-original stake house and later became an awarded burger house known for its huge portions, the wide variety of burgers and amazing flavors. Mparmpeekiou is located at Piraeus, Nea Smyrni and Chalandri. Don't forget to try out the most popular burger in the menu called *the brave one*, however you might win a special prize if you manage to eat the burger called *grandpa of the brave* which is equal to eating 8 entire burgers.
 
-*Information retrieved from:* [Mparmpeekiou](http://www.mparmpeekiou.com/en/)
+*Information retrieved from:* [Mparmpeekiou](http://www.mparmpeekiou.com/en/) |
+*Photo retrieved from:* [Peiraias.me](http://peiraias.me/mparmpekiou/)
 
 ## <a name="nightlife"></a>Night Life
 
