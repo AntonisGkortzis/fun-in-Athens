@@ -80,7 +80,13 @@ Nalu is an all day venue, next to the sea and open all year! It is located in Al
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
 
+**Koukaki**
 
+<img src="media/koukaki.jpg" alt="drawing" width="500"/>
+
+This residential neighbourhood, located at the foot of the Acropolis and the Filopappou Hill, is a combination of authenticity, convenience and entertainment. One of Koukaki’s highlights is the blend of architectural styles it contains. With its mismatch of neoclassical houses, low-rise buildings dating from the 1930s and post-1970s apartment blocks, Koukaki includes small shops, traditional restaurants, art galleries, museums and colourful bars and cafes. After a leisurely stroll around the streets, you can be sure to always find a cafe with a couple of tables and chairs set up outside where we suspect your coffee break will quickly turn into an impromptu lunch. Whether you are on your own or with friends, looking to celebrate a special occasion or simply want to hang, Koukaki has it all.
+
+*Information and photo retrieved from:* [Culture Trip](https://theculturetrip.com/europe/greece/articles/a-walk-around-koukaki-neighbourhood-in-central-athens/)
 
 ## <a name="monuments"></a>Monuments
 
