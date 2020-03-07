@@ -191,7 +191,7 @@ Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. 
 *Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)|
 *Photo of Sounion National Park retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
 
-2. Ymittos Trails
+2. Ymittos Mountain
 
 <img src="media/ymittos.jpg" alt="Ymittos Trails" width="500"/>
 
