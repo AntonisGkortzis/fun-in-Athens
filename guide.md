@@ -199,7 +199,7 @@ It has great view and if you climb up, you will be able to see the port of Pirae
 
 If interested in finding specific trails in the mountain [Click here!](https://www.wikiloc.com/trails/hiking/greece/attica/ymittos)
 
-*Information retrieved from:*[Protothema](http://en.protothema.gr/hiking-in-ymittos/)
+*Information retrieved from:* [Protothema](http://en.protothema.gr/hiking-in-ymittos/)
 
 
 **Lycabettus hill**
