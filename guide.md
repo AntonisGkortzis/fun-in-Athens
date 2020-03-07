@@ -234,6 +234,14 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 *Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/)|
 *Image retrieved from*[Tripsavvy](https://www.tripsavvy.com)
 
+**Paintball Park Malakasa**
+
+<img src="media/paintball.jpg" alt="drawing" width="500"/>
+
+If you are in Athens and you are searching for an alternative way of fun, this is the best place for you! Paintball Park Malakasa is an area of 150 acres and it constitutes the biggest Paintball Park of Greece and one of the biggest if not the biggest in Europe. There are two independent areas, Paintball NEST, for friends and teams, and Paintball Park EVENT, for kid's parties and events. Both areas promise to offer moments of action, decompression and joy to any type of groups. The park is ready to serve every paintball scenario needed in order to fulfill its customers to the fullest! You will find formed forest fields, with army jeep, bulwarks, bridges, wooden homes, small rivers, fortresses, minefields, sniper position, observatories, stone village etc. It is only 25 minutes far from Athens and you can access the area by car, bus or train. More details on how to get there in the link below!
+
+*All info extracted from:* [Paintball Park](https://www.paintball-park.gr/)
+
 ## <a name="shopping"></a>Shopping
 
 There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
