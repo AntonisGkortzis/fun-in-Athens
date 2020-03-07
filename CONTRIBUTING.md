@@ -1,6 +1,6 @@
-#Guideline to contributing
+# Guideline to contributing
 
-###Contributing to guide.md
+### Contributing to guide.md
 
 There are 5 categories that you can write about: Food, Night life, Tours, Monuments, Activities & Shopping.
 1. In the begining, always add the name of the place/activity/whatever you add, styled as `**Second largest heading**`.
