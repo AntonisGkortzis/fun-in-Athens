@@ -255,3 +255,12 @@ Of course, if you want to go shopping in Athens you can't miss the largest shopp
 Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos with Syntagma Square through Monastiraki. The east side of the street is a pedestrian road and a very busy shopping street. Walking down Ermou street you cannot only shop from famous brands that are located there but you can also find a lot of places to rest, such as restaurants and cafés. Since it is located in the city center it is easily accessible through public transportations(bus, metro, train). You can also visit Ermou street before or after sightseeing in the city center, like Acropolis or Parthenon, and you can dine in the Monastiraki or Syntagma Square, that are really close to the street.
 
 *Info retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens))
+
+
+**Golden Hall**
+
+<img src="media/goldenHall.jpg" alt="drawing" width="500"/>
+
+Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful building of three tiers which houses more than 140 fashion stores, making it perfect for anyone looking for a shopping experience. What makes it unique is that at Golden Hall, one can find the most expensive brands (Ralph Lauren, Carolina Herrera etc.) and visit fast fashion stores (Zara, American Eagle etc) at the same place. Aside from the fashion stores, you will come across various cafeterias and restaurants that can satisfy all tastes, such as Wagamama, Ben & Jerry's, TGI Friday's and many more. There is also a huge uderground car park with moore than 1500 spaces, so you won't have to wonder around looking for a parking spot. However you can also get there using public transportation.
+*Photo taken from:* [Ypodomes](https://ypodomes.com/)|
+*Info retrieved from:* [Golden Hall](https://goldenhall.gr)
