@@ -23,7 +23,7 @@ Here are the best places where you can enjoy the Greek food.
 
 <img src="media/theDoctorsWheelchair.jpg" alt="drawing" width="500"/>
 
-Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in greek "Το Καροτσάκι του Γιατρού") is one of the best Greek fast food restaurants you can find in the city center. Located in the area of Psiri, this little unique restaurant offers all the delicacies a normal fast food restaurant would offer but with the generous portioning of the Greeks. If you decide to visit, i suggest trying the "Loua Loua" sandwich. This magnificent gastronomical creation will probably keep you satisfied for the rest of the day, that is if you manage to eat it whole.
+Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in greek "Το Καροτσάκι του Γιατρού") is one of the best Greek fast food restaurants you can find in the city center. Located in the area of Psiri, this little unique restaurant offers all the delicacies a normal fast food restaurant would offer but with the generous portioning of the Greeks. If you decide to visit, I suggest trying the "Loua Loua" sandwich. This magnificent gastronomical creation will probably keep you satisfied for the rest of the day, that is if you manage to eat it whole.
 Address:[Μιαούλη 5, Αθήνα](https://www.google.gr/maps/place/Miaouli+5,+Athina+105+54/@37.97708,23.7233708,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd23053dac0b:0xb0155bec7836bf32!8m2!3d37.97708!4d23.7255595)
 
 *Photo retrieved from:* [Maxmag](https://www.maxmag.gr/city-guide/karotsi-toy-giatroy-docs-burger-bar/)
@@ -252,6 +252,6 @@ Of course, if you want to go shopping in Athens you can't miss the largest shopp
 
 *Photo taken from:* [gtp](https://news.gtp.gr)
 
-Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos with Syntagma Square through Monastiraki. The east side of the street is a pedestrian road and a very busy shopping street. Walking down Ermou street you cannot only shop from famous brands that are located there but you can also find a lot of places to rest, such as restaurants and cafés. Since it is located in the city center it is easily accessible through public transportations(bus, metro, train). You can also visit Ermou street before or after sightseeing in the city center, like Acropolis or Parthenon, and you can dine in the Monastiraki or Syntagma Square, that are really close to the street
+Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos with Syntagma Square through Monastiraki. The east side of the street is a pedestrian road and a very busy shopping street. Walking down Ermou street you cannot only shop from famous brands that are located there but you can also find a lot of places to rest, such as restaurants and cafés. Since it is located in the city center it is easily accessible through public transportations(bus, metro, train). You can also visit Ermou street before or after sightseeing in the city center, like Acropolis or Parthenon, and you can dine in the Monastiraki or Syntagma Square, that are really close to the street.
 
 *Info retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens))
