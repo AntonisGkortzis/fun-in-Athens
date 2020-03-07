@@ -116,6 +116,14 @@ Feel the atmosphere of "old Athens" and get the touch of history on the pedestri
 It’s hard to imagine how many different experiences can fit in two neighbourhoods of a city centre! Archaeological sites, little arrays, old beautiful houses, antique shops and pittoresque cafes live together in the neighbourhoods of old Athens.
 Plaka is full of people, colours and music! With the “tavernas” (typical Greek restaurants), the little shops, the cosy cafés, you will feel like playing in a movie of the ’60s. Don't miss out!
 
+**Kifissia**
+
+<img src="media/kifissia.jpg" alt="drawing" width="500"/>
+
+Just 14km from downtown Athens – or a short, 35-minute ride from Monastiraki on the electric railway (HSAP), Kifissia is a great choice for an action-packed day. Enjoy glamorous shopping, admire wonderful art, dine at a restaurant and study a fascinating mix of centuries-old mansions. Here you can relish cool air, abundant greenery and a sense of nonchalant affluence that is light years away from the sometimes overwhelming chaos of the city center. While Kifissia’s boutiques may be the exclusive domain of the elite, there is an abundance of things to discover and explore beyond shopping.
+
+*Info retrieved from:* [Kifissia](https://www.greece-is.com/info)
+
 **Koukaki**
 
 <img src="media/koukaki.jpg" alt="drawing" width="500"/>
