@@ -1,5 +1,7 @@
 # Guideline to contributing
 
+**Disclaimer:** These guidelines are created by the students, **not** by the professor. The purpose is to help new contributors to involve in the project and to have some rules in order to achieve a more beautiful result.
+
 For the time being, there are 6 categories that you can write about: Food, Night life, Tours, Monuments, Activities & Shopping. Feel free to add a new category if you want.
 
 ### The steps of contributing to guide.md
