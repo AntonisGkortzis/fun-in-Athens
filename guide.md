@@ -160,13 +160,13 @@ On the north side of the temple, there is the famous "Porch of the Maidens", wit
 
 <img src="media/templeofposeidon.jpg" alt="drawing" width="500"/>
 
-*Photo taken from:* [GreekTravelPages](https://www.gtp.gr/TDirectoryDetails.asp?ID=14990)
+*Photo retrieved from:* [GreekTravelPages](https://www.gtp.gr/TDirectoryDetails.asp?ID=14990)
 
 One of the most stunning views all over Greece as well as a monument difficult to forget. Located at the southernmost tip of Attica the Temple of Poseidon is build to impress and educate us about history. Stories around this temple involve King Menelaus who stopped there on his way back from Troy and King Aegeus who had the unfortunate fate of drowning on that spot, thus giving his name to the Aegean Sea.
 
 Organizing a trip to the Temple of Poseidon is worth your time but making the most of your trip is also important by swimming on the beach, underneath the monument, getting an astonishing experience of clear blue waters.
 
-*Info extracted from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio)
+*Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio)
 
 ## <a name="activities"></a>Activities
 
