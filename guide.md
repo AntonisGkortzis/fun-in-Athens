@@ -19,6 +19,15 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 
 Here are the best places where you can enjoy the Greek food.
 
+**The Doctors Wheelchair**
+
+<img src="media/theDoctorsWheelchair.jpg" alt="drawing" width="500"/>
+
+Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in greek "Το Καροτσάκι του Γιατρού") is one of the best Greek fast food restaurants you can find in the city center. Located in the area of Psiri, this little unique restaurant offers all the delicacies a normal fast food restaurant would offer but with the generous portioning of the Greeks. If you decide to visit, i suggest trying the "Loua Loua" sandwich. This magnificent gastronomical creation will probably keep you satisfied for the rest of the day, that is if you manage to eat it whole.
+Address:[Μιαούλη 5, Αθήνα](https://www.google.gr/maps/place/Miaouli+5,+Athina+105+54/@37.97708,23.7233708,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd23053dac0b:0xb0155bec7836bf32!8m2!3d37.97708!4d23.7255595)
+
+*Photo retrieved from:* [Maxmag](https://www.maxmag.gr/city-guide/karotsi-toy-giatroy-docs-burger-bar/)
+
 **TELI'S CHOPS**
 
 <img src="media/tbtt.jpg" alt="drawing" width="500"/>
@@ -58,9 +67,9 @@ For meat lovers, Mparmpeekiou is heaven on earth. It started as a traditional-or
 
 <img src="media/falafel.jpg" alt="drawing" width="500"/>
 
-If you are in the mood for a good falafel, look no more! "Falafellas" is a small shop right in the heart of Athens(on the central street called "Aiolou").No matter the time you decide to visit, you will probably have to wait for a while, since there are always people waiting in line to have a taste of the delicious falafel. Don't worry though, the line moves on quickly and it is totally worth the wait. You can order the classic falafel, as much spicy as you want it, or you can go for the meatball one. Both of them are amazing! 
+If you are in the mood for a good falafel, look no more! "Falafellas" is a small shop right in the heart of Athens(on the central street called "Aiolou").No matter the time you decide to visit, you will probably have to wait for a while, since there are always people waiting in line to have a taste of the delicious falafel. Don't worry though, the line moves on quickly and it is totally worth the wait. You can order the classic falafel, as much spicy as you want it, or you can go for the meatball one. Both of them are amazing!
 
-*Information and photo retrieved from:* [iEfimerida](https://www.iefimerida.gr) 
+*Information and photo retrieved from:* [iEfimerida](https://www.iefimerida.gr)
 
 ## <a name="nightlife"></a>Night Life
 
