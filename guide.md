@@ -122,7 +122,7 @@ Plaka is full of people, colours and music! With the “tavernas” (typical Gre
 
 Just 14km from downtown Athens – or a short, 35-minute ride from Monastiraki on the electric railway (HSAP), Kifissia is a great choice for an action-packed day. Enjoy glamorous shopping, admire wonderful art, dine at a restaurant and study a fascinating mix of centuries-old mansions. Here you can relish cool air, abundant greenery and a sense of nonchalant affluence that is light years away from the sometimes overwhelming chaos of the city center. While Kifissia’s boutiques may be the exclusive domain of the elite, there is an abundance of things to discover and explore beyond shopping.
 
-*Info retrieved from:* [Kifissia](https://www.greece-is.com/info)
+*Info retrieved from:* [Kifissia](https://www.greece-is.com/kifissia-the-northern-aristocrat/)
 
 **Koukaki**
 
