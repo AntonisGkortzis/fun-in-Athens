@@ -191,6 +191,16 @@ Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. 
 *Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)|
 *Photo of Sounion National Park retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
 
+2. Ymittos Trails
+
+<img src="media/ymittos.jpg" alt="Ymittos Trails" width="500"/>
+
+It has great view and if you climb up, you will be able to see the port of Piraeus on the one side and the Athens airport on the other side Mount Ymittos in Athens, Attica, is covered with beautiful pine forest, impressive caves, historic monasteries and many marked footpaths and is very close to the center of Athens. It is also a great birdwatching area and attracts an impressive number of bird species.
+
+If interested in finding specific trails in the mountain [Click here!](https://www.wikiloc.com/trails/hiking/greece/attica/ymittos)
+
+*Information retrieved from:*[Protothema](http://en.protothema.gr/hiking-in-ymittos/)
+
 
 **Lycabettus hill**
 
