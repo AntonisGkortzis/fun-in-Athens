@@ -115,6 +115,14 @@ Picture-perfect Thisseio is an ideal district for relaxing strolls and evening w
 
 *Information and photo retrieved from:* [Culture Trip](https://theculturetrip.com/europe/greece/articles/a-walking-guide-to-thisseio-neighbourhood-athens/)
 
+**Filopappou Hill**
+
+<img src="media/filopappou.jpg" alt="drawing" width="500"/>
+
+Filopappou hill, also called the Hill of the Muses, is the perfect spot for a stroll escpecially at sunset! The hill offers a breathtaking view to the Saronic Gulf and of course and a really advantaging point to take a photo of the Acropolis. Of course there is a lot of history hidden in this hill. The monument of Filopappos, which identifies the hill, was built between AD 114 and 116 in honour of Julius Antiochus Filopappos, a prominent Roman consul and administrator.
+
+*All info retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
+
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
