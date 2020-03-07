@@ -54,6 +54,14 @@ For meat lovers, Mparmpeekiou is heaven on earth. It started as a traditional-or
 *Information retrieved from:* [Mparmpeekiou](http://www.mparmpeekiou.com/en/) |
 *Photo retrieved from:* [Peiraias.me](http://peiraias.me/mparmpekiou/)
 
+**Falafellas**
+
+<img src="media/falafellas.jpg" alt="drawing" width="500"/>
+
+If you are in the mood for a good falafel, look no more! "Falafellas" is a small shop right in the heart of Athens(on the central street called "Aiolou").No matter the time you decide to visit, you will probably have to wait for a while, since there are always people waiting in line to have a taste of the delicious falafel. Don't worry though, the line moves on quickly and it is totally worth the wait. You can order the classic falafel, as much spicy as you want it, or you can go for the meatball one. Both of them are amazing! 
+
+*Photo retrieved from:* [iEfimerida](https://www.iefimerida.gr)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
