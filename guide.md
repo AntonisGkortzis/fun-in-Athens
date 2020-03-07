@@ -60,8 +60,7 @@ For meat lovers, Mparmpeekiou is heaven on earth. It started as a traditional-or
 
 If you are in the mood for a good falafel, look no more! "Falafellas" is a small shop right in the heart of Athens(on the central street called "Aiolou").No matter the time you decide to visit, you will probably have to wait for a while, since there are always people waiting in line to have a taste of the delicious falafel. Don't worry though, the line moves on quickly and it is totally worth the wait. You can order the classic falafel, as much spicy as you want it, or you can go for the meatball one. Both of them are amazing! 
 
-*Information retrieved from:* [iEfimerida](https://www.iefimerida.gr) |
-*Photo retrieved from:* [iEfimerida](https://www.iefimerida.gr)
+*Information and photo retrieved from:* [iEfimerida](https://www.iefimerida.gr) 
 
 ## <a name="nightlife"></a>Night Life
 
