@@ -190,7 +190,11 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 **The Acropolis Museum**
 
+<img src="media/acropolisMuseum.jpg" alt="drawing" width="500"/>
+
 The Acropolis Museum is consistently rated as one of the best museums in the world. Devoted to the Parthenon and its surrounding temples, it is cleverly perched above Athens like a luminous box. The large glass panes beautifully draw in the ancient and modern parts of the city, making it a truly evocative experience. Designed by New York’s, Bernard Tschumi, with local Greek architect Michael Photiadis, it is the perfect sanctuary for the ancient artefacts that were found in and around the Acropolis and successfully deconstructs how the Parthenon sculptures once looked to the citizens of ancient Athens.
+
+*Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) | *Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
 
 **National Archaeological Museum**
 
