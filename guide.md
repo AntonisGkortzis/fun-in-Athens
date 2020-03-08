@@ -80,15 +80,15 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
 *Image retrieved from* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
 
-
+ 
 **Kostas Souvlaki Shop**
 
 <img src= "media/kwstas.jpg" alt= "drawing" width="500"/>
 
 It may be hidden in a small passage of Mitropoleos street which does not grab your attention at first sight, but judging from the large queue of people waiting outside for a souvlaki you can understand that something unique is located there. There is the small shop of Kostas, whose traditional souvlaki is worshipped not only by Athenians but also from a lot of tourists, since its fame has reached a lot of tourist guides about Athens. 
 
-**Information retrieved from:* [iefimerida] (http://www.iefimerida.gr/)
-*Image retrieved from* [taxianddriver] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftaxianddriver.gr%2Fpou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta%2F&psig=AOvVaw2u0G39aYVHxbndCxjS6mZ8&ust=1583787337655000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj_t-Lhi-gCFQAAAAAdAAAAABAD)
+**Information retrieved from:* [Éefimerida] (http://www.iefimerida.gr/) |
+*Image retrieved from* [Ôaxianddriver] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftaxianddriver.gr%2Fpou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta%2F&psig=AOvVaw2u0G39aYVHxbndCxjS6mZ8&ust=1583787337655000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj_t-Lhi-gCFQAAAAAdAAAAABAD)
 
 **Cookoomela**
 
