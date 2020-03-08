@@ -4,6 +4,20 @@
 
 For the time being, there are 6 categories that you can write about: Food, Night life, Tours, Monuments, Activities & Shopping. Feel free to add a new category if you want.
 
+### Installation of fun-in-Athens 
+  1. Open Git - Bash ,make sure you are logged in.
+  2. Clone this repository as 
+  	`> $ git clone https://github.com/iasonasma/fun-in-Athens`
+  3. A folder with the project should be made.To check if it is use 
+  	`> $ ls`
+     to see if the file has been cloned to your local computer.
+  4. Browse fun-in-Athens repository with 
+  	`> $ cd fun-in-Athens`
+  5.To edit guide.md use the editor vim
+  	`> $ vim guide.md` 
+     File should be opened.You are now able to edit the guide.
+
+
 ### The steps of contributing to guide.md
 
   1. In the begining, always add the name of the place/activity/whatever you add, styled as `**Second largest heading**`.
