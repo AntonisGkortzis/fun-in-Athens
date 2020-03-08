@@ -178,6 +178,20 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 *All info retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
 
+Apart from all the tours you can do on your own, you can also join some organised walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
+
+
+**Athens Street Art Free tour**
+This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist wil let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
+
+**Athens free Food tour**
+Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
+
+
+*Note that thsese free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour.*
+*All info retrieved from Freetour.com app:* (https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
+
+
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
