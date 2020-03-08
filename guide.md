@@ -208,6 +208,16 @@ The collection is displayed along the museum’s two floors and is divided into 
 *Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
 *Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
 
+**National Observatory**
+
+<img src="media/observatory.jpg" alt="drawing" width="500"/>
+
+About 18km outside the center of Athens, is the National Observatory of Athens. It is operation since 1995 and has been hosting visitors for years. The main goal of the Observatory is to spread the astrophysics knowledge we have, to the visitors, in the simplest way possible.
+
+The location of the Observatory offers a panoramic view of Athens which is breathtaking! The visiting room can host up to 125 people and you need to book a ticket in order to join. The stuff will give you a very interesting introduction before going to the big room of the telescope where you can look at the stars and planets.
+
+*Information and photo retrieved from:* [Like A Local](https://www.likealocalguide.com/athens/penteli-observatory)
+
 Apart from all the tours you can do on your own, you can also join some organised walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
 
 
