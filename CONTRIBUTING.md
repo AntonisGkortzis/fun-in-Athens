@@ -7,14 +7,14 @@ For the time being, there are 6 categories that you can write about: Food, Night
 ### Installation of fun-in-Athens 
   1. Open Git - Bash ,make sure you are logged in.
   2. Clone this repository as 
-  	> $ git clone https://github.com/iasonasma/fun-in-Athens
+  	`> $ git clone https://github.com/iasonasma/fun-in-Athens`
   3. A folder with the project should be made.To check if it is use 
-  	> $ ls 
+  	`> $ ls`
      to see if the file has been cloned to your local computer.
   4. Browse fun-in-Athens repository with 
-  	> $ cd fun-in-Athens
+  	`> $ cd fun-in-Athens`
   5.To edit guide.md use the editor vim
-  	> $ vim guide.md 
+  	`> $ vim guide.md` 
      File should be opened.You are now able to edit the guide.
 
 
