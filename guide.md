@@ -110,6 +110,17 @@ Nalu is an all day venue, next to the sea and open all year! It is located in Al
 *Information retrieved from:* [Nalu](https://www.nalu.gr/en/home) |
 *Photo retrieved from:* [Regroup](https://www.regroup.gr/default/388/deals/5870/nalu-menu/)
 
+**Holy Spirit Cocktail Bar-Holy Spirit Beach Bar**
+
+<img src="media/HolySpirit.jpg" alt="drawing" width="500"/>
+
+If you like cocktails and fancy drinks, then Holy Spirit is an ideal place for you. It is located at Laodikis 42 street in Glyfada, abouut 100 meters far from Nymfon Square. Holy Spirit offers a large variety of cocktails and drinks such as sour cocktails like Gimlet, bitter cocktails like Negroni, sweet cocktails like Mai Tai and salty cocktails like Margarita. 
+
+If you prefer cocktails only in summer, then Holy Spirit Beach Bar is a very beautiful place and the best choice that you have. Enjoy amazing and tasty cocktails at the beach of Varkiza with the sound of the sea waves. Holy Spirit Beach Bar is located at Varkiza Resort Yabanaki beach. 
+
+*Information retrieved from:* [Varkiza Resort](https://www.varkizaresort.gr/el_GR/stores/holy-spirit.html) |
+*Photo retrieved from:* [Varkiza Resort](https://www.varkizaresort.gr/media/upload-files/cache/843/84346924fb1b5c02c2e105b1c65ddc6a_mg5443.jpg)
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
