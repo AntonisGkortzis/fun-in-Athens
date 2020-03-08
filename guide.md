@@ -78,7 +78,7 @@ If you are in the mood for a good falafel, look no more! "Falafellas" is a small
 If you are a meat lover, then Vlachika is the perfect place to taste quality and delicious greek bbq. There they offer a large vriety of meat based dishes, so you can choose and eat any delicacies such us beef grilled steak, grilled lamb chops, pork on a spit (in greek γουρνοπούλα) and many other grilled dishes. In Vlachica you can also taste traditional greek dishes such as Mousakas, Pastitsio, Gemista etc. One the best dishes that you can taste in Vlachika is the lamb on a spit and Kokoretsi. Lamb on a spit and Kokoretsi are the most traditional, popular and delicious meals in Greece, so I strongly recommend them! Vlachika are located at the southern suburbs of Athens on a region called Vari.
 
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
-*Image retrieved from* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
+*Photo retrieved from* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
 
 **Hoocut**
 
@@ -88,7 +88,7 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 Someone whould probably think that you can't fit another souvlaki in the center of Athens but I'm sure you will understand the reason this restaurant made the list the moment you take the first bite! Great quality ingredients and different choices in the meat like beef or lamb will surely introduce you to a souvlaki flavour you never knew before. Hoocut is placed at Platia Agias Eirinis 9 in Athens (near Monastiraki square).
 
 *Information retrieved from:* [Hoocut](https://hoocut.com/hoocut) |
-*Image retrieved from* [Facebook](https://www.facebook.com/hoocut/photos/p.352925158604743/352925158604743/?type=1&theater)
+*Photo retrieved from* [Facebook](https://www.facebook.com/hoocut/photos/p.352925158604743/352925158604743/?type=1&theater)
 
 ## <a name="nightlife"></a>Night Life
 
@@ -162,7 +162,7 @@ Plaka is full of people, colours and music! With the “tavernas” (typical Gre
 
 Just 14km from downtown Athens – or a short, 35-minute ride from Monastiraki on the electric railway (HSAP), Kifissia is a great choice for an action-packed day. Enjoy glamorous shopping, admire wonderful art, dine at a restaurant and study a fascinating mix of centuries-old mansions. Here you can relish cool air, abundant greenery and a sense of nonchalant affluence that is light years away from the sometimes overwhelming chaos of the city center. While Kifissia’s boutiques may be the exclusive domain of the elite, there is an abundance of things to discover and explore beyond shopping.
 
-*Info retrieved from:* [Kifissia](https://www.greece-is.com/kifissia-the-northern-aristocrat/)
+*Information retrieved from:* [Kifissia](https://www.greece-is.com/kifissia-the-northern-aristocrat/)
 
 **Koukaki**
 
@@ -186,7 +186,18 @@ Picture-perfect Thisseio is an ideal district for relaxing strolls and evening w
 
 Filopappou hill, also called the Hill of the Muses, is the perfect spot for a stroll escpecially at sunset! The hill offers a breathtaking view to the Saronic Gulf and of course and a really advantaging point to take a photo of the Acropolis. Of course there is a lot of history hidden in this hill. The monument of Filopappos, which identifies the hill, was built between AD 114 and 116 in honour of Julius Antiochus Filopappos, a prominent Roman consul and administrator.
 
-*All info retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
+*Information retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
+
+**National Archaeological Museum**
+
+<img src="media/nationalMuseum.jpg" alt="drawing" width="500"/>
+
+The National Archaeological Museum of Athens, built between 1866 and 1889, was initially named the Central Museum. It was first established to display the numerous findings dating from the beginning of Prehistory to Late Antiquity excavated in Athens and its surroundings. In later years, it housed objects from all over the country. During World War II, the imposing neoclassical building was closed, and its pieces were placed in wooden boxes and buried to avoid the German troops from looting them. Once the war was over, the museum was reopened in 1945.
+
+The collection is displayed along the museum’s two floors and is divided into various exhibitions, including the Prehistory Collection, the Sculpture Collection, the Vase and Minor Objects Collection and the Metallurgy Collection. It also houses a varied art collection from Ancient Egypt.
+
+*Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
+*Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
 
 ## <a name="monuments"></a>Monuments
 
@@ -199,7 +210,7 @@ Athens is famous for its history and its numerous monuments and museums, you don
 
 The Acropolis of Athens is the most famous historical monument in Greece. It was constructed in the mid 5th century BC, also known as the Golden Century of Athens. Although the most famous building on the Acropolis is the Parthenon, there are many other buildings, like the Propylaea, the Erechtheion and the Temple of Athena Nike. The Acropolis was entirely made of the finest Pentelic marble and by the best craftsmen of the era. Along the centuries that followed, it was largely destroyed by wars. The greatest destructions were in 1687 by a Venetian gun, and in 1816 when Lord Elgin removed many parts of the Parthenon frieze.
 
-*All info retrieved from:* [Greeka](https://www.greeka.com/greece-history/monuments/)
+*Information retrieved from:* [Greeka](https://www.greeka.com/greece-history/monuments/)
 
 **Parthenon**
 
@@ -208,7 +219,7 @@ The Acropolis of Athens is the most famous historical monument in Greece. It was
 This magnificent temple on the Acropolis of Athens was built between 447 and 432 BCE in the Age of Pericles, and was dedicated to goddess Athena, the city's patron. It was designed by architects Iktinos and Kallikrates, while the sculptor Pheidias supervised the entire building process and conceived the temple's sculptural decoration and [chryselephantine statue of Athena](https://en.wikipedia.org/wiki/Athena_Parthenos). The temple is considered to be the epitome of Classical Greece.
 
 *Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/monuments/parthenon) |
-*Photo of Parthenon retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parthenon)
+*Photo retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parthenon)
 
 **Erechtheion**
 
@@ -219,7 +230,7 @@ The Erechtheion is an ancient Greek temple located on the north side of the Acro
 On the north side of the temple, there is the famous "Porch of the Maidens", with six sculpted female figures (Caryatids) serving as supporting columns. Five of them are in the Acropolis Museum and the last one in the British Museum; those on the building are casts.
 
 *Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/monuments/erechtheion) |
-*Photo of Erechtheion retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Erechtheion)
+*Photo retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Erechtheion)
 
 **Temple of Poseidon**
 
@@ -243,7 +254,7 @@ Athens has many things to do for athletics individuals too! From walking to our 
 
 One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!! It is the 1st track in Greece to implement a self-timer system and light board in every kart! Please note that all drivers are required to wear a helmet and a disposable cap through the helmet for hygiene reasons. Kartland is located in Pallini, Athens and is easily accessible by car or by public transportations, using the metro and the bus.
 
-*All info extracted from:* [Kartland](https://kartland.gr/)
+*Information retrieved from:* [Kartland](https://kartland.gr/)
 
 **Hiking**
 
@@ -253,8 +264,9 @@ Going hiking is a great way to explore and get to know Athens! There are a lot o
 <img src="media/sounionpark.jpg" alt="drawing" width="500"/>
 
 Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. Lying about 50km south-east of Athens, the  Sounion National Park hosts relics of ancient silver, lead and zinc mines, as well as cave fossils unique to the whole of Greece. Inside the park you will find a magnificent and easy trail which starts near the Agios Konstantinos village(you will usually find a parking spot there), it surrounds the dramatic Chaos gulch (a collapsed ancient cave), it continues briefly on tarmac and then the view opens and you can see the city of Lavrion as well as the islands of Makronisos and Kea. The path arrives at the church of Agia Triada, where you will find natural spring water. From there, a dirty old road will lead you to the ancient mines' washing plants and tanks and then you will come across Kitsios cave. Finally, north of Poseidon's temple you will fing the rocky outcrops of Mavro Lithari and Vasilopoula.
-*Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)|
-*Photo of Sounion National Park retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
+
+*Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/) |
+*Photo retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
 
 2. Ymittos Mountain
 
@@ -271,10 +283,10 @@ If interested in finding specific trails in the mountain [Click here!](https://w
 
 <img src="media/marathon.jpg" alt="marathonas" width="500"/>
 
-Wanna spend a peaceful day out of the center? Marathon is the perfect place to visit! Almost 25km out of Athens , and easily being transpoted with the bus,you will get your time of your life in these calming watters of Marathon. Make sure you visit also Marathon Tomb , where the great battle of Marathon happened! 
+Wanna spend a peaceful day out of the center? Marathon is the perfect place to visit! Almost 25km out of Athens , and easily being transpoted with the bus,you will get your time of your life in these calming watters of Marathon. Make sure you visit also Marathon Tomb , where the great battle of Marathon happened!
 
-*Image retrieved from:* [trekearth.com](https://www.trekearth.com/)
-*Informations retrieved from:* [Tripadvisor](https://www.tripadvisor.com.gr/)
+*Photo retrieved from:* [trekearth.com](https://www.trekearth.com/)
+*Information retrieved from:* [Tripadvisor](https://www.tripadvisor.com.gr/)
 
 **Lycabettus hill**
 
@@ -288,8 +300,8 @@ Lycabettus hill is the highest point in the center of Athens. At the top of the 
 
 No matter what you choose, you must be sure for one thing. You will enjoy the breathtaking panoramic view of Athens.
 
-*Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/)|
-*Image retrieved from*[Tripsavvy](https://www.tripsavvy.com)
+*Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/) |
+*Photo retrieved from*[Tripsavvy](https://www.tripsavvy.com)
 
 **Paintball Park Malakasa**
 
@@ -297,7 +309,7 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 
 If you are in Athens and you are searching for an alternative way of fun, this is the best place for you! Paintball Park Malakasa is an area of 150 acres and it constitutes the biggest Paintball Park of Greece and one of the biggest if not the biggest in Europe. There are two independent areas, Paintball NEST, for friends and teams, and Paintball Park EVENT, for kid's parties and events. Both areas promise to offer moments of action, decompression and joy to any type of groups. The park is ready to serve every paintball scenario needed in order to fulfill its customers to the fullest! You will find formed forest fields, with army jeep, bulwarks, bridges, wooden homes, small rivers, fortresses, minefields, sniper position, observatories, stone village etc. It is only 25 minutes far from Athens and you can access the area by car, bus or train. More details on how to get there in the link below!
 
-*All info extracted from:* [Paintball Park](https://www.paintball-park.gr/)
+*Information retrieved from:* [Paintball Park](https://www.paintball-park.gr/)
 
 ## <a name="shopping"></a>Shopping
 
@@ -309,7 +321,7 @@ There are a lot of places where you can go shopping in Athens! Below you can fin
 
 Of course, if you want to go shopping in Athens you can't miss the largest shopping mall in the city! This mall brings together over 200 different shopping, entertainment and dining options. In its 4 floors you can find many famous brands, restaurants, cafés, cinemas and entertainment spaces for the whole family. It is easily accessible, since you can go there by car with a huge parking lot or public transportations using the train at the Stop Neratziotissa you just climb up the stairs.
 
-*All info retrieved from:* [MallAthens](https://themallathens.gr)
+*Information retrieved from:* [MallAthens](https://themallathens.gr)
 
 **Ermou street**
 
@@ -319,7 +331,7 @@ Of course, if you want to go shopping in Athens you can't miss the largest shopp
 
 Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos with Syntagma Square through Monastiraki. The east side of the street is a pedestrian road and a very busy shopping street. Walking down Ermou street you cannot only shop from famous brands that are located there but you can also find a lot of places to rest, such as restaurants and cafés. Since it is located in the city center it is easily accessible through public transportations(bus, metro, train). You can also visit Ermou street before or after sightseeing in the city center, like Acropolis or Parthenon, and you can dine in the Monastiraki or Syntagma Square, that are really close to the street.
 
-*Info retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens))
+*Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens))
 
 
 **Golden Hall**
@@ -328,5 +340,5 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful building of three tiers which houses more than 140 fashion stores, making it perfect for anyone looking for a shopping experience. What makes it unique is that at Golden Hall, one can find the most expensive brands (Ralph Lauren, Carolina Herrera etc.) and visit fast fashion stores (Zara, American Eagle etc) at the same place. Aside from the fashion stores, you will come across various cafeterias and restaurants that can satisfy all tastes, such as Wagamama, Ben & Jerry's, TGI Friday's and many more. There is also a huge uderground car park with more than 1500 spaces, so you won't have to wonder around looking for a parking spot. However you can also get there using public transportation.
 
-*Photo taken from:* [Ypodomes](https://ypodomes.com/)|
-*Info retrieved from:* [Golden Hall](https://goldenhall.gr)
+*Photo retrieved from:* [Ypodomes](https://ypodomes.com/) |
+*Information retrieved from:* [Golden Hall](https://goldenhall.gr)
