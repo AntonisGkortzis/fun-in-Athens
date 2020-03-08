@@ -188,6 +188,14 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 *Information retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
 
+**The Acropolis Museum**
+
+<img src="media/acropolisMuseum.jpg" alt="drawing" width="500"/>
+
+The Acropolis Museum is consistently rated as one of the best museums in the world. Devoted to the Parthenon and its surrounding temples, it is cleverly perched above Athens like a luminous box. The large glass panes beautifully draw in the ancient and modern parts of the city, making it a truly evocative experience. Designed by New York’s, Bernard Tschumi, with local Greek architect Michael Photiadis, it is the perfect sanctuary for the ancient artefacts that were found in and around the Acropolis and successfully deconstructs how the Parthenon sculptures once looked to the citizens of ancient Athens.
+
+*Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) | *Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
+
 **National Archaeological Museum**
 
 <img src="media/nationalMuseum.jpg" alt="drawing" width="500"/>
@@ -198,6 +206,30 @@ The collection is displayed along the museum’s two floors and is divided into 
 
 *Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
 *Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
+
+**National Observatory**
+
+<img src="media/observatory.jpg" alt="drawing" width="500"/>
+
+About 18km outside the center of Athens, is the National Observatory of Athens. It is operation since 1995 and has been hosting visitors for years. The main goal of the Observatory is to spread the astrophysics knowledge we have, to the visitors, in the simplest way possible.
+
+The location of the Observatory offers a panoramic view of Athens which is breathtaking! The visiting room can host up to 125 people and you need to book a ticket in order to join. The stuff will give you a very interesting introduction before going to the big room of the telescope where you can look at the stars and planets.
+
+*Information and photo retrieved from:* [Like A Local](https://www.likealocalguide.com/athens/penteli-observatory)
+
+Apart from all the tours you can do on your own, you can also join some organised walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
+
+
+**Athens Street Art Free tour**
+This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist wil let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
+
+**Athens free Food tour**
+Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
+
+
+*Note that thsese free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour.*
+*All info retrieved from Freetour.com app:* (https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
+
 
 ## <a name="monuments"></a>Monuments
 
@@ -348,7 +380,7 @@ Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful
 
 <img src="media/athensmetromall.jpg" alt="drawing" width="500"/>
 
-Athens Metro Mall is one of the most popular shopping mall in Athens. With more than 90 fashion stores, Athens Metro Mall becomes an ideal place for anyone who is seeking an amazing and unique experience of shopping therapy. In Athens Metro you will come across a large variety of cafeterias and restaurnats where you can go and enjoy your coffe and your meal after a long and an exhausting day of shopping therapy. If you are a movie lover, then on the 3rd flor of Athens Metro Mall you will find Village Cinemas where you can go and and watch the latest releases of Hollywood movies and many more. Athens Metro Mall is located near the subway station of Agios Dimitrios in Athens. 
+Athens Metro Mall is one of the most popular shopping mall in Athens. With more than 90 fashion stores, Athens Metro Mall becomes an ideal place for anyone who is seeking an amazing and unique experience of shopping therapy. In Athens Metro you will come across a large variety of cafeterias and restaurnats where you can go and enjoy your coffe and your meal after a long and an exhausting day of shopping therapy. If you are a movie lover, then on the 3rd flor of Athens Metro Mall you will find Village Cinemas where you can go and and watch the latest releases of Hollywood movies and many more. Athens Metro Mall is located near the subway station of Agios Dimitrios in Athens.
 
-*Info retrieved form:* [Athens Metto Mall](https://www.athensmetromall.gr/)
+*Information retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/)
 *Photo retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/photos/c_574px_558px/pages/201911/athensmetromall_stores.jpg)
