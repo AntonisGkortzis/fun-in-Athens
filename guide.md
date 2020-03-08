@@ -14,6 +14,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Monuments](#monuments) 🗼
 * [Activities](#activities) 🚴
 * [Shopping](#shopping) 🎁
+* [Fun and Games](#fun) 😁
 
 ## <a name="food"></a>Food
 
@@ -80,15 +81,15 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
 *Image retrieved from* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
 
- 
+
 **Kostas Souvlaki Shop**
 
 <img src= "media/kwstas.jpg" alt= "drawing" width="500"/>
 
-It may be hidden in a small passage of Mitropoleos street which does not grab your attention at first sight, but judging from the large queue of people waiting outside for a souvlaki you can understand that something unique is located there. There is the small shop of Kostas, whose traditional souvlaki is worshipped not only by Athenians but also from a lot of tourists, since its fame has reached a lot of tourist guides about Athens. 
+It may be hidden in a small passage of Mitropoleos street which does not grab your attention at first sight, but judging from the large queue of people waiting outside for a souvlaki you can understand that something unique is located there. There is the small shop of Kostas, whose traditional souvlaki is worshipped not only by Athenians but also from a lot of tourists, since its fame has reached a lot of tourist guides about Athens.
 
-**Information retrieved from:* [�efimerida] (http://www.iefimerida.gr/) |
-*Image retrieved from* [�axianddriver] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftaxianddriver.gr%2Fpou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta%2F&psig=AOvVaw2u0G39aYVHxbndCxjS6mZ8&ust=1583787337655000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj_t-Lhi-gCFQAAAAAdAAAAABAD)
+**Information retrieved from:* [�efimerida] (http://www.iefimerida.gr/) |
+*Image retrieved from* [�axianddriver] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftaxianddriver.gr%2Fpou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta%2F&psig=AOvVaw2u0G39aYVHxbndCxjS6mZ8&ust=1583787337655000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj_t-Lhi-gCFQAAAAAdAAAAABAD)
 
 **Cookoomela**
 
@@ -405,3 +406,15 @@ Athens Metro Mall is one of the most popular shopping mall in Athens. With more 
 
 *Information retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/)
 *Photo retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/photos/c_574px_558px/pages/201911/athensmetromall_stores.jpg)
+
+## <a name="fun"></a>Fun and Games
+
+While you are in Athens you can have fun and enjoy your time there, doing a lot of different things.
+
+**Great Escape Rooms**
+
+<img src="media/escape.jpg" alt="drawing" width="500"/>
+
+If you don't know already what escape rooms are about, I can personally guarantee you that you are going to have a lot of fun while you are "locked" inside a theme room(approximately 1 to 2 hours). Great Escape Rooms is the biggest real life escape room game in Athens. The whole idea behind these rooms is that teams consisting of 2-8 people focus on completing a certain task within the given timeframe by overcoming obstacles and solving puzzles. In some challenges there is an actor or many actors inside this room with you, helping you out or the exact opposite. Of course, some of these challenges are scaring, but if you are too afraid to get locked inside a "haunted" room, don't worry there are also rooms that are not scaring at all. These rooms will expand your imagination and exercise your perceptual skills as well. Thus, you will not activate only your mind but all of your 5 senses. In extreme cases, you may need to be athletic in order to enter a certain type of room. Great Escape Rooms are located in Psirri, really close to the Monastiraki square, so it is very easily accessible through by the metro or by train.
+
+*All info retrieved from:* [Trip Advisor](https://www.tripadvisor.com/)
