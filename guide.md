@@ -82,7 +82,7 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 
 **Cookoomela**
 
-<img scr="media/Cookoomela.jpg" alt="Cookoomela" width="500"/>
+<img src="media/Cookoomela.jpg" alt="Cookoomela" width="500"/>
 
 Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's menu remains small and at the same time complete. Five wrapped skewers, potatoes and a salad. Skewers' main ingredients are mushrooms or lentil meatballs, which are enriched with a variety of healthy, fresh and handmade ingredients such as authentic Sicilian recipe tomato sauce, avocado, vegan mayo, mustard, organic vegan yogurt sauce, vegan cheese, salad and bbq sauce.
 
