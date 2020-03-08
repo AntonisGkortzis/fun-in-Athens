@@ -80,6 +80,16 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
 *Image retrieved from* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
 
+**Hoocut**
+
+<img src="media/hoocut.jpg" alt="drawing" width="500"/>
+
+"Seeking a true dining experience will bring you to Hoocut. Here we make the real souvlaki right from the start, wanting to offer you a product with top quality raw materials, simple techniques and culinary thinking."
+Someone whould probably think that you can't fit another souvlaki in the center of Athens but I'm sure you will understand the reason this restaurant made the list the moment you take the first bite! Great quality ingredients and different choices in the meat like beef or lamb will sure introduce you to a souvlaki flavour you never knew before. Hoocut is placed at Platia Agias Eirinis 9 in Athens (near Monastiraki square)
+
+*Information retrieved from:* [Hoocut](https://hoocut.com/hoocut) |
+*Image retrieved from* [Facebook](https://www.facebook.com/hoocut/photos/p.352925158604743/352925158604743/?type=1&theater)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
