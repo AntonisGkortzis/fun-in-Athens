@@ -80,6 +80,15 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
 *Image retrieved from* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
 
+**Cookoomela**
+
+<img scr="media/Cookoomela-Exarcheia-1.jpg" alt="Cookoomela" width="500"/>
+
+Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's menu remains small and at the same time complete. Five wrapped skewers, potatoes and a salad. Skewers' main ingredients are mushrooms or lentil meatballs, which are enriched with a variety of healthy, fresh and handmade ingredients such as authentic Sicilian recipe tomato sauce, avocado, vegan mayo, mustard, organic vegan yogurt sauce, vegan cheese, salad and bbq sauce.
+
+*Information retrieved from:* [Lifo](http: //www.lifo.gr"/) |
+*Image retrieved from* [Google](https://www.google.com/search?q=cookoomela&sxsrf=ALeKk01wSsMImfWKPpWjt1-Liqs9-Uv3Nw:1583701124689&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjesN634ovoAhWxURUIHa-uDZkQ_AUoAnoECBUQBA&biw=1536&bih=706#imgrc=yZ7HLklrIllkgM)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
