@@ -197,6 +197,17 @@ The Acropolis Museum is consistently rated as one of the best museums in the wor
 
 *Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) | *Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
 
+**National Archaeological Museum**
+
+<img src="media/nationalMuseum.jpg" alt="drawing" width="500"/>
+
+The National Archaeological Museum of Athens, built between 1866 and 1889, was initially named the Central Museum. It was first established to display the numerous findings dating from the beginning of Prehistory to Late Antiquity excavated in Athens and its surroundings. In later years, it housed objects from all over the country. During World War II, the imposing neoclassical building was closed, and its pieces were placed in wooden boxes and buried to avoid the German troops from looting them. Once the war was over, the museum was reopened in 1945.
+
+The collection is displayed along the museum’s two floors and is divided into various exhibitions, including the Prehistory Collection, the Sculpture Collection, the Vase and Minor Objects Collection and the Metallurgy Collection. It also houses a varied art collection from Ancient Egypt.
+
+*Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
+*Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
+
 Apart from all the tours you can do on your own, you can also join some organised walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
 
 
