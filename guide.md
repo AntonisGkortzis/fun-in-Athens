@@ -71,6 +71,15 @@ If you are in the mood for a good falafel, look no more! "Falafellas" is a small
 
 *Information and photo retrieved from:* [iEfimerida](https://www.iefimerida.gr)
 
+**Vlachika**
+
+<img src="media/Vlachika.jpg" alt="drawing" width="500"/>
+
+If you are a meat lover, then Vlachika is the perfect place to taste quality and delicious greek bbq. There they offer a large vriety of meat based dishes, so you can choose and eat any delicacies such us beef grilled steak, grilled lamb chops, pork on a spit (in greek γουρνοπούλα) and many other grilled dishes. In Vlachica you can also taste traditional greek dishes such as Mousakas, Pastitsio, Gemista etc. One the best dishes that you can taste in Vlachika is the lamb on a spit and Kokoretsi. Lamb on a spit and Kokoretsi are the most traditional, popular and delicious meals in Greece, so I strongly recommend them! Vlachika are located at the southern suburbs of Athens on a region called Vari.
+
+*Information retrieved from:* [Vlachika](http://www.vlachika.gr/)|
+*Image retrieved from* [Google](shorturl.at/kvxK1)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
