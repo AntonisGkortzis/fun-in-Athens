@@ -342,3 +342,13 @@ Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful
 
 *Photo retrieved from:* [Ypodomes](https://ypodomes.com/) |
 *Information retrieved from:* [Golden Hall](https://goldenhall.gr)
+
+
+**Athens Metro Mall**
+
+<img src="media/athensmetromall.jpg" alt="drawing" width="500"/>
+
+Athens Metro Mall is one of the most popular shopping mall in Athens. With more than 90 fashion stores, Athens Metro Mall becomes an ideal place for anyone who is seeking an amazing and unique experience of shopping therapy. In Athens Metro you will come across a large variety of cafeterias and restaurnats where you can go and enjoy your coffe and your meal after a long and an exhausting day of shopping therapy. If you are a movie lover, then on the 3rd flor of Athens Metro Mall you will find Village Cinemas where you can go and and watch the latest releases of Hollywood movies and many more. Athens Metro Mall is located near the subway station of Agios Dimitrios in Athens. 
+
+*Info retrieved form:* [Athens Metto Mall](https://www.athensmetromall.gr/)
+*Photo retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/photos/c_574px_558px/pages/201911/athensmetromall_stores.jpg)
