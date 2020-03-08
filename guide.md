@@ -301,7 +301,7 @@ If you are in Athens and you are searching for an alternative way of fun, this i
 Allou Fun Park is the most famous entertainment park in Athens. There you can experience plenty of action activities that will boost your adrenaline and make you have the time of your life. Allou Fun Park covers a wide range of ages where kids and adults can go and try a large variety of action and horor games such us star flyer, sock tower and the famous house of fear. Allou Fun Park is located at Petrou Ralli avenue at Rentis region.
 
 *Information retrieved from:* [Allou Fun Park](https://www.allou.gr/) |
-*Photo retrieved from*[Allou Fun Park](https://www.infokids.gr/wp-content/uploads/2015/07/670754.jpg)
+*Photo retrieved from:* [Allou Fun Park](https://www.infokids.gr/wp-content/uploads/2015/07/670754.jpg)
 
 
 ## <a name="shopping"></a>Shopping
