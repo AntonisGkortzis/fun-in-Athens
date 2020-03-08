@@ -80,6 +80,7 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
 *Image retrieved from* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
 
+
 **Kostas Souvlaki Shop**
 
 <img src= "media/kwstas.jpg" alt= "drawing" width="500"/>
@@ -88,6 +89,16 @@ It may be hidden in a small passage of Mitropoleos street which does not grab yo
 
 **Information retrieved from:* [iefimerida] (http://www.iefimerida.gr/)
 *Image retrieved from* [taxianddriver] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftaxianddriver.gr%2Fpou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta%2F&psig=AOvVaw2u0G39aYVHxbndCxjS6mZ8&ust=1583787337655000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj_t-Lhi-gCFQAAAAAdAAAAABAD)
+
+**Cookoomela**
+
+<img src="media/Cookoomela.jpg" alt="Cookoomela" width="500"/>
+
+Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's menu remains small and at the same time complete. Five wrapped skewers, potatoes and a salad. Skewers' main ingredients are mushrooms or lentil meatballs, which are enriched with a variety of healthy, fresh and handmade ingredients such as authentic Sicilian recipe tomato sauce, avocado, vegan mayo, mustard, organic vegan yogurt sauce, vegan cheese, salad and bbq sauce.
+
+*Information retrieved from:* [Lifo](http: //www.lifo.gr"/) |
+*Image retrieved from* [Google](https://www.google.com/search?q=cookoomela&sxsrf=ALeKk01wSsMImfWKPpWjt1-Liqs9-Uv3Nw:1583701124689&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjesN634ovoAhWxURUIHa-uDZkQ_AUoAnoECBUQBA&biw=1536&bih=706#imgrc=yZ7HLklrIllkgM)
+>>>>>>> 3935c9c618afafa856deea2b42b48bc87df16eed
 
 **Hoocut**
 
@@ -198,6 +209,35 @@ Picture-perfect Thisseio is an ideal district for relaxing strolls and evening w
 Filopappou hill, also called the Hill of the Muses, is the perfect spot for a stroll escpecially at sunset! The hill offers a breathtaking view to the Saronic Gulf and of course and a really advantaging point to take a photo of the Acropolis. Of course there is a lot of history hidden in this hill. The monument of Filopappos, which identifies the hill, was built between AD 114 and 116 in honour of Julius Antiochus Filopappos, a prominent Roman consul and administrator.
 
 *All info retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
+
+**The Acropolis Museum**
+
+<img src="media/acropolisMuseum.jpg" alt="drawing" width="500"/>
+
+The Acropolis Museum is consistently rated as one of the best museums in the world. Devoted to the Parthenon and its surrounding temples, it is cleverly perched above Athens like a luminous box. The large glass panes beautifully draw in the ancient and modern parts of the city, making it a truly evocative experience. Designed by New York’s, Bernard Tschumi, with local Greek architect Michael Photiadis, it is the perfect sanctuary for the ancient artefacts that were found in and around the Acropolis and successfully deconstructs how the Parthenon sculptures once looked to the citizens of ancient Athens.
+
+*Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) | *Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
+
+**National Archaeological Museum**
+
+<img src="media/nationalMuseum.jpg" alt="drawing" width="500"/>
+
+The National Archaeological Museum of Athens, built between 1866 and 1889, was initially named the Central Museum. It was first established to display the numerous findings dating from the beginning of Prehistory to Late Antiquity excavated in Athens and its surroundings. In later years, it housed objects from all over the country. During World War II, the imposing neoclassical building was closed, and its pieces were placed in wooden boxes and buried to avoid the German troops from looting them. Once the war was over, the museum was reopened in 1945.
+
+The collection is displayed along the museum’s two floors and is divided into various exhibitions, including the Prehistory Collection, the Sculpture Collection, the Vase and Minor Objects Collection and the Metallurgy Collection. It also houses a varied art collection from Ancient Egypt.
+
+*Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
+*Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
+
+**National Observatory**
+
+<img src="media/observatory.jpg" alt="drawing" width="500"/>
+
+About 18km outside the center of Athens, is the National Observatory of Athens. It is operation since 1995 and has been hosting visitors for years. The main goal of the Observatory is to spread the astrophysics knowledge we have, to the visitors, in the simplest way possible.
+
+The location of the Observatory offers a panoramic view of Athens which is breathtaking! The visiting room can host up to 125 people and you need to book a ticket in order to join. The stuff will give you a very interesting introduction before going to the big room of the telescope where you can look at the stars and planets.
+
+*Information and photo retrieved from:* [Like A Local](https://www.likealocalguide.com/athens/penteli-observatory)
 
 Apart from all the tours you can do on your own, you can also join some organised walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
 
@@ -354,5 +394,14 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful building of three tiers which houses more than 140 fashion stores, making it perfect for anyone looking for a shopping experience. What makes it unique is that at Golden Hall, one can find the most expensive brands (Ralph Lauren, Carolina Herrera etc.) and visit fast fashion stores (Zara, American Eagle etc) at the same place. Aside from the fashion stores, you will come across various cafeterias and restaurants that can satisfy all tastes, such as Wagamama, Ben & Jerry's, TGI Friday's and many more. There is also a huge uderground car park with more than 1500 spaces, so you won't have to wonder around looking for a parking spot. However you can also get there using public transportation.
 
-*Photo taken from:* [Ypodomes](https://ypodomes.com/)|
+*Photo taken from:* [Ypodomes](https://ypodomes.com/) |
 *Info retrieved from:* [Golden Hall](https://goldenhall.gr)
+
+**Athens Metro Mall**
+
+<img src="media/athensmetromall.jpg" alt="drawing" width="500"/>
+
+Athens Metro Mall is one of the most popular shopping mall in Athens. With more than 90 fashion stores, Athens Metro Mall becomes an ideal place for anyone who is seeking an amazing and unique experience of shopping therapy. In Athens Metro you will come across a large variety of cafeterias and restaurnats where you can go and enjoy your coffe and your meal after a long and an exhausting day of shopping therapy. If you are a movie lover, then on the 3rd flor of Athens Metro Mall you will find Village Cinemas where you can go and and watch the latest releases of Hollywood movies and many more. Athens Metro Mall is located near the subway station of Agios Dimitrios in Athens.
+
+*Information retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/)
+*Photo retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/photos/c_574px_558px/pages/201911/athensmetromall_stores.jpg)
