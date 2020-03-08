@@ -384,5 +384,14 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful building of three tiers which houses more than 140 fashion stores, making it perfect for anyone looking for a shopping experience. What makes it unique is that at Golden Hall, one can find the most expensive brands (Ralph Lauren, Carolina Herrera etc.) and visit fast fashion stores (Zara, American Eagle etc) at the same place. Aside from the fashion stores, you will come across various cafeterias and restaurants that can satisfy all tastes, such as Wagamama, Ben & Jerry's, TGI Friday's and many more. There is also a huge uderground car park with more than 1500 spaces, so you won't have to wonder around looking for a parking spot. However you can also get there using public transportation.
 
-*Photo taken from:* [Ypodomes](https://ypodomes.com/)|
+*Photo taken from:* [Ypodomes](https://ypodomes.com/) |
 *Info retrieved from:* [Golden Hall](https://goldenhall.gr)
+
+**Athens Metro Mall**
+
+<img src="media/athensmetromall.jpg" alt="drawing" width="500"/>
+
+Athens Metro Mall is one of the most popular shopping mall in Athens. With more than 90 fashion stores, Athens Metro Mall becomes an ideal place for anyone who is seeking an amazing and unique experience of shopping therapy. In Athens Metro you will come across a large variety of cafeterias and restaurnats where you can go and enjoy your coffe and your meal after a long and an exhausting day of shopping therapy. If you are a movie lover, then on the 3rd flor of Athens Metro Mall you will find Village Cinemas where you can go and and watch the latest releases of Hollywood movies and many more. Athens Metro Mall is located near the subway station of Agios Dimitrios in Athens.
+
+*Information retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/)
+*Photo retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/photos/c_574px_558px/pages/201911/athensmetromall_stores.jpg)
