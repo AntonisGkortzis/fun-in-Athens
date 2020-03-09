@@ -109,7 +109,6 @@ Someone whould probably think that you can't fit another souvlaki in the center 
 
 *Information retrieved from:* [Hoocut](https://hoocut.com/hoocut) |
 *Photo retrieved from* [Facebook](https://www.facebook.com/hoocut/photos/p.352925158604743/352925158604743/?type=1&theater)
->>>>>>> ce7def48b94fa24895537baaab282c84aeb8d282
 
 ## <a name="nightlife"></a>Night Life
 
