@@ -177,7 +177,7 @@ Then there are the smaller, borderline cult stages, that we call skyladika, whic
 
 Nestled in an unassuming street in the vibrant centre of Athens, The Clumsies is an all-day cocktail bar that has steadily climbed its way up the World’s Best list since its inception in 2012. Don’t let the name fool you, there is nothing clumsy about the quality of cocktails, food or service offered at this slick Athens hip-spot. The Clumsies' philosophy is not only centred around creating a unique cocktail and food experience, but also promoting interaction between the customer and bartender to encourage the exploration new tastes and flavours.
 
-*Information retrieved from:* [Greek City Times](https://greekcitytimes.com/2017/11/23/athens-bar-clumsies-ranked-among-worlds-best/?amp)
+*Information retrieved from:* [Greek City Times](https://greekcitytimes.com/2017/11/23/athens-bar-clumsies-ranked-among-worlds-best/?amp) |
 *Photo retrieved from:* [The Clumsies](https://www.theclumsies.gr/)
 
 ## <a name="tours"></a>Tours
@@ -233,7 +233,8 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 The Acropolis Museum is consistently rated as one of the best museums in the world. Devoted to the Parthenon and its surrounding temples, it is cleverly perched above Athens like a luminous box. The large glass panes beautifully draw in the ancient and modern parts of the city, making it a truly evocative experience. Designed by New York’s, Bernard Tschumi, with local Greek architect Michael Photiadis, it is the perfect sanctuary for the ancient artefacts that were found in and around the Acropolis and successfully deconstructs how the Parthenon sculptures once looked to the citizens of ancient Athens.
 
-*Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) | *Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
+*Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) |
+*Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
 
 **National Archaeological Museum**
 
@@ -307,13 +308,12 @@ On the north side of the temple, there is the famous "Porch of the Maidens", wit
 
 <img src="media/templeofposeidon.jpg" alt="drawing" width="500"/>
 
-*Photo retrieved from:* [GreekTravelPages](https://www.gtp.gr/TDirectoryDetails.asp?ID=14990)
-
 One of the most stunning views all over Greece as well as a monument difficult to forget. Located at the southernmost tip of Attica the Temple of Poseidon is build to impress and educate us about history. Stories around this temple involve King Menelaus who stopped there on his way back from Troy and King Aegeus who had the unfortunate fate of drowning on that spot, thus giving his name to the Aegean Sea.
 
 Organizing a trip to the Temple of Poseidon is worth your time but making the most of your trip is also important by swimming on the beach, underneath the monument, getting an astonishing experience of clear blue waters.
 
-*Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio)
+*Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio) |
+*Photo retrieved from:* [GreekTravelPages](https://www.gtp.gr/TDirectoryDetails.asp?ID=14990)
 
 ## <a name="activities"></a>Activities
 
@@ -335,7 +335,7 @@ Going hiking is a great way to explore and get to know Athens! There are a lot o
 <img src="media/sounionpark.jpg" alt="drawing" width="500"/>
 
 Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. Lying about 50km south-east of Athens, the  Sounion National Park hosts relics of ancient silver, lead and zinc mines, as well as cave fossils unique to the whole of Greece. Inside the park you will find a magnificent and easy trail which starts near the Agios Konstantinos village(you will usually find a parking spot there), it surrounds the dramatic Chaos gulch (a collapsed ancient cave), it continues briefly on tarmac and then the view opens and you can see the city of Lavrion as well as the islands of Makronisos and Kea. The path arrives at the church of Agia Triada, where you will find natural spring water. From there, a dirty old road will lead you to the ancient mines' washing plants and tanks and then you will come across Kitsios cave. Finally, north of Poseidon's temple you will fing the rocky outcrops of Mavro Lithari and Vasilopoula.
-*Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)|
+*Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/) |
 *Photo of Sounion National Park retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
 
 2. Ymittos Mountain
@@ -361,7 +361,7 @@ Lycabettus hill is the highest point in the center of Athens. At the top of the 
 
 No matter what you choose, you must be sure for one thing. You will enjoy the breathtaking panoramic view of Athens.
 
-*Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/)|
+*Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/) |
 *Image retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
 
 **Paintball Park Malakasa**
@@ -398,11 +398,10 @@ Of course, if you want to go shopping in Athens you can't miss the largest shopp
 
 <img src="media/ermou.jpg" alt="drawing" width="500"/>
 
-*Photo taken from:* [gtp](https://news.gtp.gr)
-
 Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos with Syntagma Square through Monastiraki. The east side of the street is a pedestrian road and a very busy shopping street. Walking down Ermou street you cannot only shop from famous brands that are located there but you can also find a lot of places to rest, such as restaurants and cafés. Since it is located in the city center it is easily accessible through public transportations(bus, metro, train). You can also visit Ermou street before or after sightseeing in the city center, like Acropolis or Parthenon, and you can dine in the Monastiraki or Syntagma Square, that are really close to the street.
 
-*Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens))
+*Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens)) |
+*Photo retrieved from:* [GTP](https://news.gtp.gr)
 
 
 **Golden Hall**
