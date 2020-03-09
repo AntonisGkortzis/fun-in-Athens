@@ -163,7 +163,7 @@ Then there are the smaller, borderline cult stages, that we call skyladika, whic
 
 **The Clumsies**
 
-<img src="clumsies.jpg" alt="drawing" width="500"/>
+<img src="media/clumsies.jpg" alt="drawing" width="500"/>
 
 Nestled in an unassuming street in the vibrant centre of Athens, The Clumsies is an all-day cocktail bar that has steadily climbed its way up the World’s Best list since its inception in 2012. Don’t let the name fool you, there is nothing clumsy about the quality of cocktails, food or service offered at this slick Athens hip-spot. However, The Clumsies' philosophy is not only centred around creating a unique cocktail and food experience, but also promoting interaction between the customer and bartender to encourage the exploration new tastes and flavours. 
 
