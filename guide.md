@@ -4,7 +4,6 @@
 
 Photo owned by [ceoworld.biz](https://ceoworld.biz/)
 
-
 Are you planning to visit Athens and searching for exciting activities to spend your time? This guide will help you find the most suitable way to explore the city depending on your taste!
 
 ## <a name="menu"></a>Menu
@@ -21,7 +20,6 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 Here are the best places where you can enjoy the Greek food.
 
 **LIVADIA**
-
 
 <img src="media/leivadeia.jpg" alt="drawing" width="500"/>
 
@@ -79,7 +77,8 @@ For meat lovers, Mparmpeekiou is heaven on earth. It started as a traditional-or
 
 If you are in the mood for a good falafel, look no more! "Falafellas" is a small shop right in the heart of Athens(on the central street called "Aiolou").No matter the time you decide to visit, you will probably have to wait for a while, since there are always people waiting in line to have a taste of the delicious falafel. Don't worry though, the line moves on quickly and it is totally worth the wait. You can order the classic falafel, as much spicy as you want it, or you can go for the meatball one. Both of them are amazing!
 
-*Information and photo retrieved from:* [iEfimerida](https://www.iefimerida.gr)
+*Information retrieved from:* [iEfimerida](https://www.iefimerida.gr) |
+*Photo retrieved from:* [Skyscanner](https://www.skyscanner.net/trip/athens/restaurants/falafellas)
 
 **Vlachika**
 
@@ -176,7 +175,7 @@ Then there are the smaller, borderline cult stages, that we call skyladika, whic
 
 Nestled in an unassuming street in the vibrant centre of Athens, The Clumsies is an all-day cocktail bar that has steadily climbed its way up the World’s Best list since its inception in 2012. Don’t let the name fool you, there is nothing clumsy about the quality of cocktails, food or service offered at this slick Athens hip-spot. The Clumsies' philosophy is not only centred around creating a unique cocktail and food experience, but also promoting interaction between the customer and bartender to encourage the exploration new tastes and flavours.
 
-*Information retrieved from:* [Greek City Times](https://greekcitytimes.com/2017/11/23/athens-bar-clumsies-ranked-among-worlds-best/?amp)
+*Information retrieved from:* [Greek City Times](https://greekcitytimes.com/2017/11/23/athens-bar-clumsies-ranked-among-worlds-best/?amp) |
 *Photo retrieved from:* [The Clumsies](https://www.theclumsies.gr/)
 
 **Jazz in Jazz**
@@ -218,7 +217,7 @@ Plaka is full of people, colours and music! With the “tavernas” (typical Gre
 
 Just 14km from downtown Athens – or a short, 35-minute ride from Monastiraki on the electric railway (HSAP), Kifissia is a great choice for an action-packed day. Enjoy glamorous shopping, admire wonderful art, dine at a restaurant and study a fascinating mix of centuries-old mansions. Here you can relish cool air, abundant greenery and a sense of nonchalant affluence that is light years away from the sometimes overwhelming chaos of the city center. While Kifissia’s boutiques may be the exclusive domain of the elite, there is an abundance of things to discover and explore beyond shopping.
 
-*Info retrieved from:* [Kifissia](https://www.greece-is.com/kifissia-the-northern-aristocrat/)
+*Information retrieved from:* [Kifissia](https://www.greece-is.com/kifissia-the-northern-aristocrat/)
 
 **Koukaki**
 
@@ -242,7 +241,7 @@ Picture-perfect Thisseio is an ideal district for relaxing strolls and evening w
 
 Filopappou hill, also called the Hill of the Muses, is the perfect spot for a stroll especially at sunset! The hill offers a breathtaking view to the Saronic Gulf and of course and a really advantaging point to take a photo of the Acropolis. Of course there is a lot of history hidden in this hill. The monument of Filopappos, which identifies the hill, was built between AD 114 and 116 in honour of Julius Antiochus Filopappos, a prominent Roman consul and administrator.
 
-*All info retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
+*Information and photo retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
 
 **The Acropolis Museum**
 
@@ -250,7 +249,8 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 The Acropolis Museum is consistently rated as one of the best museums in the world. Devoted to the Parthenon and its surrounding temples, it is cleverly perched above Athens like a luminous box. The large glass panes beautifully draw in the ancient and modern parts of the city, making it a truly evocative experience. Designed by New York’s, Bernard Tschumi, with local Greek architect Michael Photiadis, it is the perfect sanctuary for the ancient artefacts that were found in and around the Acropolis and successfully deconstructs how the Parthenon sculptures once looked to the citizens of ancient Athens.
 
-*Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) | *Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
+*Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) |
+*Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
 
 **National Archaeological Museum**
 
@@ -275,30 +275,31 @@ The location of the Observatory offers a panoramic view of Athens which is breat
 
 Apart from all the tours you can do on your own, you can also join some organized walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
 
-
 **Athens Street Art Free tour**
+
 This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist will let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
 
 **Athens free Food tour**
+
 Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
 
-
 *Note that these free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour. Walk and have fun!*
-*All info retrieved from:* [Freetour.com app](https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
 
+*Information retrieved from:* [Freetour.com app](https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
 
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
 
 **Acropolis**
+
 >The most famous historical monument in Greece
 
 <img src="media/acropolis.jpg" alt="drawing" width="500"/>
 
 The Acropolis of Athens is the most famous historical monument in Greece. It was constructed in the mid 5th century BC, also known as the Golden Century of Athens. Although the most famous building on the Acropolis is the Parthenon, there are many other buildings, like the Propylaea, the Erechtheion and the Temple of Athena Nike. The Acropolis was entirely made of the finest Pentelic marble and by the best craftsmen of the era. Along the centuries that followed, it was largely destroyed by wars. The greatest destructions were in 1687 by a Venetian gun, and in 1816 when Lord Elgin removed many parts of the Parthenon frieze.
 
-*All info retrieved from:* [Greeka](https://www.greeka.com/greece-history/monuments/)
+*Information and photo retrieved from:* [Greeka](https://www.greeka.com/greece-history/monuments/)
 
 **Parthenon**
 
@@ -307,7 +308,7 @@ The Acropolis of Athens is the most famous historical monument in Greece. It was
 This magnificent temple on the Acropolis of Athens was built between 447 and 432 BCE in the Age of Pericles, and was dedicated to goddess Athena, the city's patron. It was designed by architects Iktinos and Kallikrates, while the sculptor Pheidias supervised the entire building process and conceived the temple's sculptural decoration and [chryselephantine statue of Athena](https://en.wikipedia.org/wiki/Athena_Parthenos). The temple is considered to be the epitome of Classical Greece.
 
 *Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/monuments/parthenon) |
-*Photo of Parthenon retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parthenon)
+*Photo retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parthenon)
 
 **Erechtheion**
 
@@ -318,19 +319,18 @@ The Erechtheion is an ancient Greek temple located on the north side of the Acro
 On the north side of the temple, there is the famous "Porch of the Maidens", with six sculpted female figures (Caryatids) serving as supporting columns. Five of them are in the Acropolis Museum and the last one in the British Museum; those on the building are casts.
 
 *Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/monuments/erechtheion) |
-*Photo of Erechtheion retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Erechtheion)
+*Photo retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Erechtheion)
 
 **Temple of Poseidon**
 
 <img src="media/templeofposeidon.jpg" alt="drawing" width="500"/>
 
-*Photo retrieved from:* [GreekTravelPages](https://www.gtp.gr/TDirectoryDetails.asp?ID=14990)
-
 One of the most stunning views all over Greece as well as a monument difficult to forget. Located at the southernmost tip of Attica the Temple of Poseidon is build to impress and educate us about history. Stories around this temple involve King Menelaus who stopped there on his way back from Troy and King Aegeus who had the unfortunate fate of drowning on that spot, thus giving his name to the Aegean Sea.
 
 Organizing a trip to the Temple of Poseidon is worth your time but making the most of your trip is also important by swimming on the beach, underneath the monument, getting an astonishing experience of clear blue waters.
 
-*Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio)
+*Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio) |
+*Photo retrieved from:* [GreekTravelPages](https://www.gtp.gr/TDirectoryDetails.asp?ID=14990)
 
 ## <a name="activities"></a>Activities
 
@@ -342,17 +342,19 @@ Athens has many things to do for athletics individuals too! From walking to our 
 
 One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!! It is the 1st track in Greece to implement a self-timer system and light board in every kart! Please note that all drivers are required to wear a helmet and a disposable cap through the helmet for hygiene reasons. Kartland is located in Pallini, Athens and is easily accessible by car or by public transportations, using the metro and the bus.
 
-*All info extracted from:* [Kartland](https://kartland.gr/)
+*Information extracted from:* [Kartland](https://kartland.gr/)
 
 **Hiking**
 
 Going hiking is a great way to explore and get to know Athens! There are a lot of places ideal for a hiking adventure!
+
 1. Sounion National Park
 
 <img src="media/sounionpark.jpg" alt="drawing" width="500"/>
 
 Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. Lying about 50km south-east of Athens, the  Sounion National Park hosts relics of ancient silver, lead and zinc mines, as well as cave fossils unique to the whole of Greece. Inside the park you will find a magnificent and easy trail which starts near the Agios Konstantinos village(you will usually find a parking spot there), it surrounds the dramatic Chaos gulch (a collapsed ancient cave), it continues briefly on tarmac and then the view opens and you can see the city of Lavrion as well as the islands of Makronisos and Kea. The path arrives at the church of Agia Triada, where you will find natural spring water. From there, a dirty old road will lead you to the ancient mines' washing plants and tanks and then you will come across Kitsios cave. Finally, north of Poseidon's temple you will fing the rocky outcrops of Mavro Lithari and Vasilopoula.
-*Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)|
+
+*Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/) |
 *Photo of Sounion National Park retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
 
 2. Ymittos Mountain
@@ -364,7 +366,6 @@ It has great view and if you climb up, you will be able to see the port of Pirae
 If interested in finding specific trails in the mountain [Click here!](https://www.wikiloc.com/trails/hiking/greece/attica/ymittos)
 
 *Information retrieved from:* [Protothema](http://en.protothema.gr/hiking-in-ymittos/)
-
 
 **Lycabettus hill**
 
@@ -378,7 +379,7 @@ Lycabettus hill is the highest point in the center of Athens. At the top of the 
 
 No matter what you choose, you must be sure for one thing. You will enjoy the breathtaking panoramic view of Athens.
 
-*Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/)|
+*Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/) |
 *Image retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
 
 **Paintball Park Malakasa**
@@ -387,7 +388,7 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 
 If you are in Athens and you are searching for an alternative way of fun, this is the best place for you! Paintball Park Malakasa is an area of 150 acres and it constitutes the biggest Paintball Park of Greece and one of the biggest if not the biggest in Europe. There are two independent areas, Paintball NEST, for friends and teams, and Paintball Park EVENT, for kid's parties and events. Both areas promise to offer moments of action, decompression and joy to any type of groups. The park is ready to serve every paintball scenario needed in order to fulfill its customers to the fullest! You will find formed forest fields, with army jeep, bulwarks, bridges, wooden homes, small rivers, fortresses, minefields, sniper position, observatories, stone village etc. It is only 25 minutes far from Athens and you can access the area by car, bus or train. More details on how to get there in the link below!
 
-*All info extracted from:* [Paintball Park](https://www.paintball-park.gr/)
+*Information and photo extracted from:* [Paintball Park](https://www.paintball-park.gr/)
 
 **Allou Fun Park**
 
@@ -397,7 +398,6 @@ Allou Fun Park is the most famous entertainment park in Athens. There you can ex
 
 *Information retrieved from:* [Allou Fun Park](https://www.allou.gr/) |
 *Photo retrieved from:* [Allou Fun Park](https://www.infokids.gr/wp-content/uploads/2015/07/670754.jpg)
-
 
 ## <a name="shopping"></a>Shopping
 
@@ -409,18 +409,16 @@ There are a lot of places where you can go shopping in Athens! Below you can fin
 
 Of course, if you want to go shopping in Athens you can't miss the largest shopping mall in the city! This mall brings together over 200 different shopping, entertainment and dining options. In its 4 floors you can find many famous brands, restaurants, cafés, cinemas and entertainment spaces for the whole family. It is easily accessible, since you can go there by car with a huge parking lot or public transportations using the train at the Stop Neratziotissa you just climb up the stairs.
 
-*All info retrieved from:* [MallAthens](https://themallathens.gr)
+*Information retrieved from:* [MallAthens](https://themallathens.gr)
 
 **Ermou street**
 
 <img src="media/ermou.jpg" alt="drawing" width="500"/>
 
-*Photo taken from:* [gtp](https://news.gtp.gr)
-
 Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos with Syntagma Square through Monastiraki. The east side of the street is a pedestrian road and a very busy shopping street. Walking down Ermou street you cannot only shop from famous brands that are located there but you can also find a lot of places to rest, such as restaurants and cafés. Since it is located in the city center it is easily accessible through public transportations(bus, metro, train). You can also visit Ermou street before or after sightseeing in the city center, like Acropolis or Parthenon, and you can dine in the Monastiraki or Syntagma Square, that are really close to the street.
 
-*Info retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens))
-
+*Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens)) |
+*Photo retrieved from:* [GTP](https://news.gtp.gr)
 
 **Golden Hall**
 
@@ -428,8 +426,8 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful building of three tiers which houses more than 140 fashion stores, making it perfect for anyone looking for a shopping experience. What makes it unique is that at Golden Hall, one can find the most expensive brands (Ralph Lauren, Carolina Herrera etc.) and visit fast fashion stores (Zara, American Eagle etc.) at the same place. Aside from the fashion stores, you will come across various cafeterias and restaurants that can satisfy all tastes, such as Wagamama, Ben & Jerry's, TGI Friday's and many more. There is also a huge underground car park with more than 1500 spaces, so you won't have to wonder around looking for a parking spot. However you can also get there using public transportation.
 
-*Photo retrieved from:* [Google](https://www.fortunegreece.com/wp-content/uploads/2018/10/03/golden-hall.jpg) |
-*Info retrieved from:* [Golden Hall](https://goldenhall.gr)
+*Information retrieved from:* [Golden Hall](https://goldenhall.gr) |
+*Photo retrieved from:* [Google](https://www.fortunegreece.com/wp-content/uploads/2018/10/03/golden-hall.jpg)
 
 **Athens Metro Mall**
 
@@ -437,7 +435,7 @@ Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful
 
 Athens Metro Mall is one of the most popular shopping mall in Athens. With more than 90 fashion stores, Athens Metro Mall becomes an ideal place for anyone who is seeking an amazing and unique experience of shopping therapy. In Athens Metro you will come across a large variety of cafeterias and restaurants where you can go and enjoy your coffee and your meal after a long and an exhausting day of shopping therapy. If you are a movie lover, then on the 3rd flor of Athens Metro Mall you will find Village Cinemas where you can go and watch the latest releases of Hollywood movies and many more. Athens Metro Mall is located near the subway station of Agios Dimitrios in Athens.
 
-*Information retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/)
+*Information retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/) |
 *Photo retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/photos/c_574px_558px/pages/201911/athensmetromall_stores.jpg)
 
 ## <a name="fun"></a>Fun and Games
@@ -450,7 +448,7 @@ While you are in Athens you can have fun and enjoy your time there, doing a lot 
 
 If you don't know already what escape rooms are about, I can personally guarantee you that you are going to have a lot of fun while you are "locked" inside a theme room(approximately 1 to 2 hours). Great Escape Rooms is the biggest real life escape room game in Athens. The whole idea behind these rooms is that teams consisting of 2-8 people focus on completing a certain task within the given timeframe by overcoming obstacles and solving puzzles. In some challenges there is an actor or many actors inside this room with you, helping you out or the exact opposite. Of course, some of these challenges are scaring, but if you are too afraid to get locked inside a "haunted" room, don't worry there are also rooms that are not scaring at all. These rooms will expand your imagination and exercise your perceptual skills as well. Thus, you will not activate only your mind but all of your 5 senses. In extreme cases, you may need to be athletic in order to enter a certain type of room. Great Escape Rooms are located in Psirri, really close to the Monastiraki square, so it is very easily accessible through by the metro or by train.
 
-*Info retrieved from:* [Trip Advisor](https://www.tripadvisor.com/)
+*Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/) |
 *Photo retrieved form:* [Great Escape Rooms](https://greatescape.gr/)
 
 **The VR Project**
@@ -459,7 +457,7 @@ If you don't know already what escape rooms are about, I can personally guarante
 
 Virtual Reality is a simulated experience that can be similar to the real world. It can be applied for entertaining or educational purposes. While you are on a trip you want to have fun so let's focus on the entertainment part. The VR Project is the first virtual reality center in Greece. It is placed in the city center, and specifically at Monastiraki. The VR Project is available with individual or multiplayer adventures. The suggested duration for this experience is 1 to 2 hours and we guarantee you that this is the best place to get a first try or re-discover the potential of this new technology. You can choose from different categories what you want to do, for example you can visit a place really far from here if you are a fan of travelling. From a personal experience, if you are fan of video games that is the best place for you. You will discover a whole different perspective of your favourite video games. My suggestion for you is to pick a scary video game: your heartbeat is going to raise, your palms are going to get sweaty and get frightened by the plot of the video game that you have chosen, since the experience is too real and you will think that you are a part of this video game. But even if you don't want that, whatever video game you choose it is a experience worth living!
 
-*All info retrieved from:* [The VR Project](https://www.thevrproject.gr/?gclid=Cj0KCQjw0pfzBRCOARIsANi0g0v9Du_FN4pIrL9LjcYjPe5c3d6U0dOP2X5d8mCpEL9E4IXA0Yq7ar4aAtSgEALw_wcB)
+*Information and photo retrieved from:* [The VR Project](https://www.thevrproject.gr/?gclid=Cj0KCQjw0pfzBRCOARIsANi0g0v9Du_FN4pIrL9LjcYjPe5c3d6U0dOP2X5d8mCpEL9E4IXA0Yq7ar4aAtSgEALw_wcB)
 
 **Museum of Illusions**
 
@@ -467,7 +465,7 @@ Virtual Reality is a simulated experience that can be similar to the real world.
 
 Museum of Illusions is the perfect place for fun and new experiences for friends and family. Illusion have delighted all generations, from children to parents and grandparents, so the whole family can enjoy their time there. The museum brings you a space suitable both for social and entertaining tours into the world of illusions. Museum of Illusion is placed in the city center, really close to the Monastiraki metro and train station so it is very easily accessible using the public transportations. If you walk by it or you have a free time while you are walking in the center of Athens and enjoying the  sun please make sure you visit this place.
 
-*All info retrieved from:* [Trip Advisor](https://www.tripadvisor.com/)
+*Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com/)
 
 **Cine Paris**
 
@@ -475,5 +473,5 @@ Museum of Illusions is the perfect place for fun and new experiences for friends
 
 What a better way to enjoy your evening than watching a movie in a rooftop garden Cinema. If you are visiting Athens from May to October then I highly recommend you go there. It is a beautiful place in Plaka, where you can watch a movie under the stars, with the Acropolis lit on your left. Plaka is a beautiful and very interesting area in Athens and you can get there using the train station that it is located in the heart of Plaka. You can choose to watch the movie either tables in the stalls, or small private balconies. There are a lot of different kinds of movies playing and they change every now and then, so choose your favourite one and come watch it. Most of the movies are in English with Greek subtitles, so you don't have a problem keeping up with the movie and its plot. If you are a fan of movies and cinemas don't miss this place, it is totally worth it! And don't forget, there is a snack bar waiting for you to get your drinks and snacks.
 
-*Info retrieved from:* [Cine Paris](https://www.cineparis.gr)
+*Information retrieved from:* [Cine Paris](https://www.cineparis.gr) |
 *Photo retrieved form:* [Trip Advisor](https://www.tripadvisor.com/)
