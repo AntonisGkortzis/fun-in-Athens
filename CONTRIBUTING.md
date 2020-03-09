@@ -22,7 +22,9 @@ For the time being, there are 7 categories that you can write about: Food, Night
 
   1. In the beginning, always add the name of the place/activity/whatever you add, styled as `**Second largest heading**`.
   2. Right below, place a picture or video related to your topic.
-     - For the picture, add it in the file called "media", and then write the following command at guide.md: `<img src="media/fname.extension" alt="Name_of_photo" width="500"/>`, where
+     - For the picture, add it in the folder called "media", and then write the following command at guide.md: `<img src="media/fname.extension" alt="Name_of_photo" width="500"/>`,
+
+     where
          * **fname = name of the file**
          * **.extension = type's of file extension (prefer .jgp or .png)**
          * **Name_of_photo = a name of (maximum) 2-word description in case the picture doesn't load**

@@ -179,6 +179,24 @@ Nestled in an unassuming street in the vibrant centre of Athens, The Clumsies is
 *Information retrieved from:* [Greek City Times](https://greekcitytimes.com/2017/11/23/athens-bar-clumsies-ranked-among-worlds-best/?amp)
 *Photo retrieved from:* [The Clumsies](https://www.theclumsies.gr/)
 
+**Jazz in Jazz**
+
+<img src="media/JazzInJazz.jpg" alt="JazzInJazz" width="500"/>
+
+Jazz In Jazz is, well, ..a Jazz bar! But not any kind of Jazz bar. Jazz In Jazz is kind of like a small Jazz museum. There you can find a collection of 12.000 records and various rare recordings. You will spend the night listening from '20s to '60s Jazz and sometimes modern Jazz if you are lucky. Along with good old Jazz you can enjoy some good hard liquor from their huge variety. Just for reference, there are 120 makes of whisky! There might be no Wifi, but this warm and atmospheric place will still keep you pretty entertained through the night!
+
+Useful info:
+
+
+| Schedule      | Everyday: 20:00 - 03:00|
+| ------------- |:----------------------:|
+| Address       | [Dinokratous 4 Athens 106 75](https://www.google.com/maps/place/Jazz+In+Jazz/@37.9790924,23.7426759,15z/data=!4m5!3m4!1s0x0:0xcb743ab1d8a0c96d!8m2!3d37.9790924!4d23.7426759) |
+| Contact       | (+30) 21 0722 5246 |
+
+*Information retrieved from:* [Popaganda](https://popaganda.gr/citylife/jazz-in-jazz/), [Jazz In Jazz](https://jazzinjazz.business.site/), [Athinorama](https://www.athinorama.gr/clubbing/place.aspx?id=5001112)  
+*Photo retrieved from:* [Popaganda](https://popaganda.gr/wp-content/uploads/2018/03/xIMG_8555.jpg.pagespeed.ic.pJDyb01pV5.webp)
+
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
