@@ -4,7 +4,6 @@
 
 Photo owned by [ceoworld.biz](https://ceoworld.biz/)
 
-
 Are you planning to visit Athens and searching for exciting activities to spend your time? This guide will help you find the most suitable way to explore the city depending on your taste!
 
 ## <a name="menu"></a>Menu
@@ -21,7 +20,6 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 Here are the best places where you can enjoy the Greek food.
 
 **LIVADIA**
-
 
 <img src="media/leivadeia.jpg" alt="drawing" width="500"/>
 
@@ -259,23 +257,24 @@ The location of the Observatory offers a panoramic view of Athens which is breat
 
 Apart from all the tours you can do on your own, you can also join some organized walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
 
-
 **Athens Street Art Free tour**
+
 This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist will let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
 
 **Athens free Food tour**
+
 Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
 
-
 *Note that these free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour. Walk and have fun!*
-*Information retrieved from:* [Freetour.com app](https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
 
+*Information retrieved from:* [Freetour.com app](https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
 
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
 
 **Acropolis**
+
 >The most famous historical monument in Greece
 
 <img src="media/acropolis.jpg" alt="drawing" width="500"/>
@@ -330,11 +329,13 @@ One of the most exciting things that you can to do in Athens is Kart, the small 
 **Hiking**
 
 Going hiking is a great way to explore and get to know Athens! There are a lot of places ideal for a hiking adventure!
+
 1. Sounion National Park
 
 <img src="media/sounionpark.jpg" alt="drawing" width="500"/>
 
 Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. Lying about 50km south-east of Athens, the  Sounion National Park hosts relics of ancient silver, lead and zinc mines, as well as cave fossils unique to the whole of Greece. Inside the park you will find a magnificent and easy trail which starts near the Agios Konstantinos village(you will usually find a parking spot there), it surrounds the dramatic Chaos gulch (a collapsed ancient cave), it continues briefly on tarmac and then the view opens and you can see the city of Lavrion as well as the islands of Makronisos and Kea. The path arrives at the church of Agia Triada, where you will find natural spring water. From there, a dirty old road will lead you to the ancient mines' washing plants and tanks and then you will come across Kitsios cave. Finally, north of Poseidon's temple you will fing the rocky outcrops of Mavro Lithari and Vasilopoula.
+
 *Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/) |
 *Photo of Sounion National Park retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
 
@@ -347,7 +348,6 @@ It has great view and if you climb up, you will be able to see the port of Pirae
 If interested in finding specific trails in the mountain [Click here!](https://www.wikiloc.com/trails/hiking/greece/attica/ymittos)
 
 *Information retrieved from:* [Protothema](http://en.protothema.gr/hiking-in-ymittos/)
-
 
 **Lycabettus hill**
 
@@ -381,7 +381,6 @@ Allou Fun Park is the most famous entertainment park in Athens. There you can ex
 *Information retrieved from:* [Allou Fun Park](https://www.allou.gr/) |
 *Photo retrieved from:* [Allou Fun Park](https://www.infokids.gr/wp-content/uploads/2015/07/670754.jpg)
 
-
 ## <a name="shopping"></a>Shopping
 
 There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
@@ -402,7 +401,6 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 *Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Ermou_Street_(Athens)) |
 *Photo retrieved from:* [GTP](https://news.gtp.gr)
-
 
 **Golden Hall**
 
