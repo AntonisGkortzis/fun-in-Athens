@@ -417,6 +417,14 @@ If you don't know already what escape rooms are about, I can personally guarante
 *Info retrieved from:* [Trip Advisor](https://www.tripadvisor.com/)
 *Photo retrieved form:* [Great Escape Rooms](https://greatescape.gr/)
 
+**The VR Project**
+
+<img src="media/vr.jpg" alt="drawing" width="500"/>
+
+Virtual Reality is a simulated experience that can be similar to the real world. It can be applied for entertaining or educational purposes. While you are on a trip you want to have fun so let's focus on the entertainment part. The VR Project is the first virtual reality center in Greece. It is placed in the city center, and specifically at Monastiraki. The VR Project is available with individual or multiplayer adventures. The suggested duration for this experience is 1 to 2 hours and we guarantee you that this is the best place to get a first try or re-discover the potential of this new technology. You can choose from different categories what you want to do, for example you can visit a place really far from here if you are a fan of travelling. From a personal experience, if you are fan of video games that is the best place for you. You will discover a whole different perspective of your favourite video games. My suggestion for you is to pick a scary video game: your heartbeat is going to raise, your palms are going to get sweaty and get frightened by the plot of the video game that you have chosen, since the experience is too real and you will think that you are a part of this video game. But even if you don't want that, whatever video game you choose it is a experience worth living!
+
+*All info retrieved from:* [The VR Project](https://www.thevrproject.gr/?gclid=Cj0KCQjw0pfzBRCOARIsANi0g0v9Du_FN4pIrL9LjcYjPe5c3d6U0dOP2X5d8mCpEL9E4IXA0Yq7ar4aAtSgEALw_wcB)
+
 **Museum of Illusions**
 
 <img src="media/illusions.jpg" alt="drawing" width="500"/>
