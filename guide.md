@@ -220,9 +220,9 @@ all these cool features apart, the foundation offers a great place for long walk
 
 | More Info     |                        |
 | ------------- |:----------------------:|
-| Halls         | [](https://www.snfcc.org/diathesi-horon) |
-| News          | [](https://www.snfcc.org/news) |
-| Opening Hours | [](https://www.snfcc.org/visit-snfcc) |
+| Halls         | [More...](https://www.snfcc.org/diathesi-horon) |
+| News          | [More...](https://www.snfcc.org/news) |
+| Opening Hours | [More...](https://www.snfcc.org/visit-snfcc) |
 | Contact       | (+30) 216 8091000 |
 
 
