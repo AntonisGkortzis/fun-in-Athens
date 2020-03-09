@@ -406,11 +406,11 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 **Golden Hall**
 
-<img src="media/goldenHall.jpg" alt="drawing" width="500"/>
+<img src="media/golden-hall2.jpg" alt="drawing" width="500"/>
 
 Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful building of three tiers which houses more than 140 fashion stores, making it perfect for anyone looking for a shopping experience. What makes it unique is that at Golden Hall, one can find the most expensive brands (Ralph Lauren, Carolina Herrera etc.) and visit fast fashion stores (Zara, American Eagle etc) at the same place. Aside from the fashion stores, you will come across various cafeterias and restaurants that can satisfy all tastes, such as Wagamama, Ben & Jerry's, TGI Friday's and many more. There is also a huge uderground car park with more than 1500 spaces, so you won't have to wonder around looking for a parking spot. However you can also get there using public transportation.
 
-*Photo taken from:* [Ypodomes](https://ypodomes.com/) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=golden+hall&sxsrf=ALeKk00W9oeN6dDQpqCdt3zD4Ox42K1l4Q:1583761394861&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN3eX6wo3oAhWUUhUIHU5zDjoQ_AUoAnoECBAQBA&biw=1366&bih=657#imgrc=FEfNA9RP4HTsfM) |
 *Info retrieved from:* [Golden Hall](https://goldenhall.gr)
 
 **Athens Metro Mall**
