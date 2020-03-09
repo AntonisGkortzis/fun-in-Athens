@@ -88,7 +88,7 @@ If you are in the mood for a good falafel, look no more! "Falafellas" is a small
 If you are a meat lover, then Vlachika is the perfect place to taste quality and delicious greek bbq. There they offer a large variety of meat based dishes, so you can choose and eat any delicacies such us beef grilled steak, grilled lamb chops, pork on a spit (in Greek γουρνοπούλα) and many other grilled dishes. In Vlachica you can also taste traditional Greek dishes such as Mousakas, Pastitsio, Gemista etc. One the best dishes that you can taste in Vlachika is the lamb on a spit and Kokoretsi. Lamb on a spit and Kokoretsi are the most traditional, popular and delicious meals in Greece, so I strongly recommend them! Vlachika are located at the southern suburbs of Athens on a region called Vari.
 
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
-*Image retrieved from:* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
+*Image retrieved from:* [Google](http://www.vlachika.gr/wp-content/uploads/2010/07/11149389_1582772561974345_6388572603203465498_n.jpg)
 
 **Kostas Souvlaki Shop**
 
@@ -106,7 +106,7 @@ It may be hidden in a small passage of Mitropoleos street which does not grab yo
 Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's menu remains small and at the same time complete. Five wrapped skewers, potatoes and a salad. Skewers' main ingredients are mushrooms or lentil meatballs, which are enriched with a variety of healthy, fresh and handmade ingredients such as authentic Sicilian recipe tomato sauce, avocado, vegan mayo, mustard, organic vegan yogurt sauce, vegan cheese, salad and bbq sauce.
 
 *Information retrieved from:* [Lifo](http://www.lifo.gr"/) |
-*Image retrieved from:* [Google](https://www.google.com/search?q=cookoomela&sxsrf=ALeKk01wSsMImfWKPpWjt1-Liqs9-Uv3Nw:1583701124689&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjesN634ovoAhWxURUIHa-uDZkQ_AUoAnoECBUQBA&biw=1536&bih=706#imgrc=yZ7HLklrIllkgM)
+*Image retrieved from:* [Google](https://i2.wp.com/www.madameginger.com/wp-content/uploads/2019/03/Cookoomela-Exarcheia-1.jpg?quality=92&fit=1310%2C900)
 
 **Hoocut**
 
@@ -410,7 +410,7 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful building of three tiers which houses more than 140 fashion stores, making it perfect for anyone looking for a shopping experience. What makes it unique is that at Golden Hall, one can find the most expensive brands (Ralph Lauren, Carolina Herrera etc.) and visit fast fashion stores (Zara, American Eagle etc.) at the same place. Aside from the fashion stores, you will come across various cafeterias and restaurants that can satisfy all tastes, such as Wagamama, Ben & Jerry's, TGI Friday's and many more. There is also a huge underground car park with more than 1500 spaces, so you won't have to wonder around looking for a parking spot. However you can also get there using public transportation.
 
-*Photo retrieved from:* [Google](https://www.fortunegreece.com/wp-content/uploads/2018/10/03/golden-hall.jpg)
+*Photo retrieved from:* [Google](https://www.fortunegreece.com/wp-content/uploads/2018/10/03/golden-hall.jpg) |
 *Info retrieved from:* [Golden Hall](https://goldenhall.gr)
 
 **Athens Metro Mall**
