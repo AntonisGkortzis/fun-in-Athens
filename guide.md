@@ -199,7 +199,7 @@ Useful info:
 
 <img src="media/newHabits.jpg" alt="New Habits" width="500"/>
 
-Relatively new to Nea Smyrni square, New Habits is a all day cafe-bar located. Very Popular for its cocktails and parties, new Habits is a perfect destination to have fun at one of 
+Relatively new to Nea Smyrni square, New Habits is a all day cafe-bar located. Very Popular for its cocktails and parties, new Habits is a perfect destination to have fun at one of
 the most popular squares of Athens, day and night.
 
 *Photo retrieved from:* [New Habits](http://newhabits.gr/gallery/the-place/#prettyPhoto)
