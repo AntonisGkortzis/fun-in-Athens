@@ -85,10 +85,10 @@ If you are in the mood for a good falafel, look no more! "Falafellas" is a small
 
 <img src="media/Vlachika.jpg" alt="drawing" width="500"/>
 
-If you are a meat lover, then Vlachika is the perfect place to taste quality and delicious greek bbq. There they offer a large vriety of meat based dishes, so you can choose and eat any delicacies such us beef grilled steak, grilled lamb chops, pork on a spit (in greek γουρνοπούλα) and many other grilled dishes. In Vlachica you can also taste traditional greek dishes such as Mousakas, Pastitsio, Gemista etc. One the best dishes that you can taste in Vlachika is the lamb on a spit and Kokoretsi. Lamb on a spit and Kokoretsi are the most traditional, popular and delicious meals in Greece, so I strongly recommend them! Vlachika are located at the southern suburbs of Athens on a region called Vari.
+If you are a meat lover, then Vlachika is the perfect place to taste quality and delicious greek bbq. There they offer a large variety of meat based dishes, so you can choose and eat any delicacies such us beef grilled steak, grilled lamb chops, pork on a spit (in Greek γουρνοπούλα) and many other grilled dishes. In Vlachica you can also taste traditional Greek dishes such as Mousakas, Pastitsio, Gemista etc. One the best dishes that you can taste in Vlachika is the lamb on a spit and Kokoretsi. Lamb on a spit and Kokoretsi are the most traditional, popular and delicious meals in Greece, so I strongly recommend them! Vlachika are located at the southern suburbs of Athens on a region called Vari.
 
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
-*Image retrieved from* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
+*Image retrieved from:* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
 
 **Kostas Souvlaki Shop**
 
@@ -97,7 +97,7 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 It may be hidden in a small passage of Mitropoleos street which does not grab your attention at first sight, but judging from the large queue of people waiting outside for a souvlaki you can understand that something unique is located there. There is the small shop of Kostas, whose traditional souvlaki is worshipped not only by Athenians but also from a lot of tourists, since its fame has reached a lot of tourist guides about Athens.
 
 *Information retrieved from:* [Efimerida](http://www.iefimerida.gr/) |
-*Image retrieved from* [Taxi and Driver](https://taxianddriver.gr/pou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta/)
+*Image retrieved from:* [Taxi and Driver](https://taxianddriver.gr/pou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta/)
 
 **Cookoomela**
 
@@ -106,7 +106,7 @@ It may be hidden in a small passage of Mitropoleos street which does not grab yo
 Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's menu remains small and at the same time complete. Five wrapped skewers, potatoes and a salad. Skewers' main ingredients are mushrooms or lentil meatballs, which are enriched with a variety of healthy, fresh and handmade ingredients such as authentic Sicilian recipe tomato sauce, avocado, vegan mayo, mustard, organic vegan yogurt sauce, vegan cheese, salad and bbq sauce.
 
 *Information retrieved from:* [Lifo](http://www.lifo.gr"/) |
-*Image retrieved from* [Google](https://www.google.com/search?q=cookoomela&sxsrf=ALeKk01wSsMImfWKPpWjt1-Liqs9-Uv3Nw:1583701124689&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjesN634ovoAhWxURUIHa-uDZkQ_AUoAnoECBUQBA&biw=1536&bih=706#imgrc=yZ7HLklrIllkgM)
+*Image retrieved from:* [Google](https://www.google.com/search?q=cookoomela&sxsrf=ALeKk01wSsMImfWKPpWjt1-Liqs9-Uv3Nw:1583701124689&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjesN634ovoAhWxURUIHa-uDZkQ_AUoAnoECBUQBA&biw=1536&bih=706#imgrc=yZ7HLklrIllkgM)
 
 **Hoocut**
 
@@ -114,10 +114,10 @@ Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's 
 
 "Seeking a true dining experience will bring you to Hoocut. Here we make the real souvlaki right from the start, wanting to offer you a product with top quality raw materials, simple techniques and culinary thinking."
 
-Someone whould probably think that you can't fit another souvlaki in the center of Athens but I'm sure you will understand the reason this restaurant made the list the moment you take the first bite! Great quality ingredients and different choices in the meat like beef or lamb will surely introduce you to a souvlaki flavour you never knew before. Hoocut is placed at Platia Agias Eirinis 9 in Athens (near Monastiraki square).
+Someone would probably think that you can't fit another souvlaki in the center of Athens but I'm sure you will understand the reason this restaurant made the list the moment you take the first bite! Great quality ingredients and different choices in the meat like beef or lamb will surely introduce you to a souvlaki flavour you never knew before. Hoocut is placed at Platia Agias Eirinis 9 in Athens (near Monastiraki square).
 
 *Information retrieved from:* [Hoocut](https://hoocut.com/hoocut) |
-*Photo retrieved from* [Facebook](https://www.facebook.com/hoocut/photos/p.352925158604743/352925158604743/?type=1&theater)
+*Photo retrieved from:* [Facebook](https://www.facebook.com/hoocut/photos/p.352925158604743/352925158604743/?type=1&theater)
 
 ## <a name="nightlife"></a>Night Life
 
@@ -153,7 +153,7 @@ Nalu is an all day venue, next to the sea and open all year! It is located in Al
 
 <img src="media/HolySpirit.jpg" alt="drawing" width="500"/>
 
-If you like cocktails and fancy drinks, then Holy Spirit is an ideal place for you. It is located at Laodikis 42 street in Glyfada, abouut 100 meters far from Nymfon Square. Holy Spirit offers a large variety of cocktails and drinks such as sour cocktails like Gimlet, bitter cocktails like Negroni, sweet cocktails like Mai Tai and salty cocktails like Margarita.
+If you like cocktails and fancy drinks, then Holy Spirit is an ideal place for you. It is located at Laodikis 42 street in Glyfada, about 100 meters far from Nymfon Square. Holy Spirit offers a large variety of cocktails and drinks such as sour cocktails like Gimlet, bitter cocktails like Negroni, sweet cocktails like Mai Tai and salty cocktails like Margarita.
 
 If you prefer cocktails only in summer, then Holy Spirit Beach Bar is a very beautiful place and the best choice that you have. Enjoy amazing and tasty cocktails at the beach of Varkiza with the sound of the sea waves. Holy Spirit Beach Bar is located at Varkiza Resort Yabanaki beach.
 
@@ -192,7 +192,7 @@ Photo by Adrian Dascal on Unsplash
 Stroll around the picturesque Monastiraki and Plaka neighbourhoods
 Feel the atmosphere of "old Athens" and get the touch of history on the pedestrian streets.
 It’s hard to imagine how many different experiences can fit in two neighbourhoods of a city centre! Archaeological sites, little arrays, old beautiful houses, antique shops and pittoresque cafes live together in the neighbourhoods of old Athens.
-Plaka is full of people, colours and music! With the “tavernas” (typical Greek restaurants), the little shops, the cosy cafés, you will feel like playing in a movie of the ’60s. Don't miss out!
+Plaka is full of people, colours and music! With the “tavernas” (typical Greek restaurants), the little shops, the cozy cafés, you will feel like playing in a movie of the ’60s. Don't miss out!
 
 **Kifissia**
 
@@ -222,7 +222,7 @@ Picture-perfect Thisseio is an ideal district for relaxing strolls and evening w
 
 <img src="media/filopappou.jpg" alt="drawing" width="500"/>
 
-Filopappou hill, also called the Hill of the Muses, is the perfect spot for a stroll escpecially at sunset! The hill offers a breathtaking view to the Saronic Gulf and of course and a really advantaging point to take a photo of the Acropolis. Of course there is a lot of history hidden in this hill. The monument of Filopappos, which identifies the hill, was built between AD 114 and 116 in honour of Julius Antiochus Filopappos, a prominent Roman consul and administrator.
+Filopappou hill, also called the Hill of the Muses, is the perfect spot for a stroll especially at sunset! The hill offers a breathtaking view to the Saronic Gulf and of course and a really advantaging point to take a photo of the Acropolis. Of course there is a lot of history hidden in this hill. The monument of Filopappos, which identifies the hill, was built between AD 114 and 116 in honour of Julius Antiochus Filopappos, a prominent Roman consul and administrator.
 
 *All info retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
 
@@ -255,17 +255,17 @@ The location of the Observatory offers a panoramic view of Athens which is breat
 
 *Information and photo retrieved from:* [Like A Local](https://www.likealocalguide.com/athens/penteli-observatory)
 
-Apart from all the tours you can do on your own, you can also join some organised walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
+Apart from all the tours you can do on your own, you can also join some organized walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
 
 
 **Athens Street Art Free tour**
-This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist wil let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
+This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist will let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
 
 **Athens free Food tour**
 Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
 
 
-*Note that thsese free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour. Walk and have fun!*
+*Note that these free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour. Walk and have fun!*
 *All info retrieved from:* [Freetour.com app](https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
 
 
@@ -361,7 +361,7 @@ Lycabettus hill is the highest point in the center of Athens. At the top of the 
 No matter what you choose, you must be sure for one thing. You will enjoy the breathtaking panoramic view of Athens.
 
 *Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/)|
-*Image retrieved from*[Tripsavvy](https://www.tripsavvy.com)
+*Image retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
 
 **Paintball Park Malakasa**
 
@@ -375,7 +375,7 @@ If you are in Athens and you are searching for an alternative way of fun, this i
 
 <img src="media/alloufunpark.jpg" alt="drawing" width="500"/>
 
-Allou Fun Park is the most famous entertainment park in Athens. There you can experience plenty of action activities that will boost your adrenaline and make you have the time of your life. Allou Fun Park covers a wide range of ages where kids and adults can go and try a large variety of action and horor games such us star flyer, sock tower and the famous house of fear. Allou Fun Park is located at Petrou Ralli avenue at Rentis region.
+Allou Fun Park is the most famous entertainment park in Athens. There you can experience plenty of action activities that will boost your adrenaline and make you have the time of your life. Allou Fun Park covers a wide range of ages where kids and adults can go and try a large variety of action and horror games such us star flyer, sock tower and the famous house of fear. Allou Fun Park is located at Petrou Ralli avenue at Rentis region.
 
 *Information retrieved from:* [Allou Fun Park](https://www.allou.gr/) |
 *Photo retrieved from:* [Allou Fun Park](https://www.infokids.gr/wp-content/uploads/2015/07/670754.jpg)
@@ -408,16 +408,16 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 <img src="media/golden-hall2.jpg" alt="drawing" width="500"/>
 
-Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful building of three tiers which houses more than 140 fashion stores, making it perfect for anyone looking for a shopping experience. What makes it unique is that at Golden Hall, one can find the most expensive brands (Ralph Lauren, Carolina Herrera etc.) and visit fast fashion stores (Zara, American Eagle etc) at the same place. Aside from the fashion stores, you will come across various cafeterias and restaurants that can satisfy all tastes, such as Wagamama, Ben & Jerry's, TGI Friday's and many more. There is also a huge uderground car park with more than 1500 spaces, so you won't have to wonder around looking for a parking spot. However you can also get there using public transportation.
+Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful building of three tiers which houses more than 140 fashion stores, making it perfect for anyone looking for a shopping experience. What makes it unique is that at Golden Hall, one can find the most expensive brands (Ralph Lauren, Carolina Herrera etc.) and visit fast fashion stores (Zara, American Eagle etc.) at the same place. Aside from the fashion stores, you will come across various cafeterias and restaurants that can satisfy all tastes, such as Wagamama, Ben & Jerry's, TGI Friday's and many more. There is also a huge underground car park with more than 1500 spaces, so you won't have to wonder around looking for a parking spot. However you can also get there using public transportation.
 
-*Photo retrieved from:* [Google](https://www.google.com/search?q=golden+hall&sxsrf=ALeKk00W9oeN6dDQpqCdt3zD4Ox42K1l4Q:1583761394861&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN3eX6wo3oAhWUUhUIHU5zDjoQ_AUoAnoECBAQBA&biw=1366&bih=657#imgrc=FEfNA9RP4HTsfM) |
+*Photo retrieved from:* [Google](https://www.fortunegreece.com/wp-content/uploads/2018/10/03/golden-hall.jpg)
 *Info retrieved from:* [Golden Hall](https://goldenhall.gr)
 
 **Athens Metro Mall**
 
 <img src="media/metromall.jpg" alt="drawing" width="500"/>
 
-Athens Metro Mall is one of the most popular shopping mall in Athens. With more than 90 fashion stores, Athens Metro Mall becomes an ideal place for anyone who is seeking an amazing and unique experience of shopping therapy. In Athens Metro you will come across a large variety of cafeterias and restaurnats where you can go and enjoy your coffe and your meal after a long and an exhausting day of shopping therapy. If you are a movie lover, then on the 3rd flor of Athens Metro Mall you will find Village Cinemas where you can go and and watch the latest releases of Hollywood movies and many more. Athens Metro Mall is located near the subway station of Agios Dimitrios in Athens.
+Athens Metro Mall is one of the most popular shopping mall in Athens. With more than 90 fashion stores, Athens Metro Mall becomes an ideal place for anyone who is seeking an amazing and unique experience of shopping therapy. In Athens Metro you will come across a large variety of cafeterias and restaurants where you can go and enjoy your coffee and your meal after a long and an exhausting day of shopping therapy. If you are a movie lover, then on the 3rd flor of Athens Metro Mall you will find Village Cinemas where you can go and watch the latest releases of Hollywood movies and many more. Athens Metro Mall is located near the subway station of Agios Dimitrios in Athens.
 
 *Information retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/)
 *Photo retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/photos/c_574px_558px/pages/201911/athensmetromall_stores.jpg)
