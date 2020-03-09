@@ -419,3 +419,11 @@ If you don't know already what escape rooms are about, I can personally guarante
 
 *Info retrieved from:* [Trip Advisor](https://www.tripadvisor.com/)
 *Photo retrieved form:* [Great Escape Rooms](https://greatescape.gr/)
+
+**Museum of Illusions**
+
+<img src="media/illusions.jpg" alt="drawing" width="500"/>
+
+Museum of Illusions is the perfect place for fun and new experiences for friends and family. Illusion have delighted all generations, from children to parents and grandparents, so the whole family can enjoy their time there. The museum brings you a space suitable both for social and entertaining tours into the world of illusions. Museum of Illusion is placed in the city center, really close to the Monastiraki metro and train station so it is very easily accessible using the public transportations. If you walk by it or you have a free time while you are walking in the center of Athens and enjoying the  sun please make sure you visit this place.
+
+*All info retrieved from:* [Trip Advisor](https://www.tripadvisor.com/)
