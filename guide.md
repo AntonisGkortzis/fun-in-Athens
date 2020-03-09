@@ -265,7 +265,7 @@ This tour, offered in English, takes you to the Exarchia square, a neighborhood 
 Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
 
 
-*Note that thsese free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour.*
+*Note that thsese free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour. Walk and have fun!*
 *All info retrieved from:* [Freetour.com app](https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
 
 
