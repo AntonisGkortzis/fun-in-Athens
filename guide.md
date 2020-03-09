@@ -427,3 +427,12 @@ If you don't know already what escape rooms are about, I can personally guarante
 Museum of Illusions is the perfect place for fun and new experiences for friends and family. Illusion have delighted all generations, from children to parents and grandparents, so the whole family can enjoy their time there. The museum brings you a space suitable both for social and entertaining tours into the world of illusions. Museum of Illusion is placed in the city center, really close to the Monastiraki metro and train station so it is very easily accessible using the public transportations. If you walk by it or you have a free time while you are walking in the center of Athens and enjoying the  sun please make sure you visit this place.
 
 *All info retrieved from:* [Trip Advisor](https://www.tripadvisor.com/)
+
+**Cine Paris**
+
+<img src="media/cineparis.jpg" alt="drawing" width="500"/>
+
+What a better way to enjoy your evening than watching a movie in a rooftop garden Cinema. If you are visiting Athens from May to October then I highly recommend you go there. It is a beautiful place in Plaka, where you can watch a movie under the stars, with the Acropolis lit on your left. Plaka is a beautiful and very interesting area in Athens and you can get there using the train station that it is located in the heart of Plaka. You can choose to watch the movie either tables in the stalls, or small private balconies. There are a lot of different kinds of movies playing and they change every now and then, so choose your favourite one and come watch it. Most of the movies are in English with Greek subtitles, so you don't have a problem keeping up with the movie and its plot. If you are a fan of movies and cinemas don't miss this place, it is totally worth it! And don't forget, there is a snack bar waiting for you to get your drinks and snacks.
+
+*Info retrieved from:* [Cine Paris](https://www.cineparis.gr)
+*Photo retrieved form:* [Trip Advisor](https://www.tripadvisor.com/)
