@@ -195,6 +195,15 @@ Useful info:
 *Information retrieved from:* [Popaganda](https://popaganda.gr/citylife/jazz-in-jazz/), [Jazz In Jazz](https://jazzinjazz.business.site/), [Athinorama](https://www.athinorama.gr/clubbing/place.aspx?id=5001112)  
 *Photo retrieved from:* [Popaganda](https://popaganda.gr/wp-content/uploads/2018/03/xIMG_8555.jpg.pagespeed.ic.pJDyb01pV5.webp)
 
+**New Habits**
+
+<img src="media/newHabits.jpg" alt="New Habits" width="500"/>
+
+Relatively new to Nea Smyrni square, New Habits is a all day cafe-bar located. Very Popular for its cocktails and parties, new Habits is a perfect destination to have fun at one of 
+the most popular squares of Athens, day and night.
+
+*Photo retrieved from:* [New Habits](http://newhabits.gr/gallery/the-place/#prettyPhoto)
+
 
 ## <a name="tours"></a>Tours
 
