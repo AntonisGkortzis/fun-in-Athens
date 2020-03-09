@@ -20,11 +20,20 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 
 Here are the best places where you can enjoy the Greek food.
 
+**LIVADIA**
+
+
+<img src="media/leivadeia.jpg" alt="drawing" width="500"/>
+
+You are hungry. You are near Omonoia and in 30 minutes you have a presentation with your team at AUEB. You need a classic OG souvlaki-kalamaki, and suddenly... BOOM. "Livadia" or "ΣΟΥΒΛΑΚΙ Η ΛΕΙΒΑΔΕΙΑ" is right next to you. Just the Holy lemon, bread/pita, fried potatoes and  kalamaki-Pork. Functioning since 1965, serves traditional tastes made with joy and meraki. The ingredients are handmade with no extra flavors & add-ons. Just the clean tasteful meat. Of course you can order a cold drink if you are thirsty or a colorful salad to accompany your appetite.   
+
+*Information and photo retrieved from:* [Η ΛΕΙΒΑΔΙΑ](https://www.souvlaki-leivadia.gr/)
+
 **The Doctors Wheelchair**
 
 <img src="media/theDoctorsWheelchair.jpg" alt="drawing" width="500"/>
 
-Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in greek "Το Καροτσάκι του Γιατρού") is one of the best Greek fast food restaurants you can find in the city center. Located in the area of Psiri, this little unique restaurant offers all the delicacies a normal fast food restaurant would offer but with the generous portioning of the Greeks. If you decide to visit, I suggest trying the "Loua Loua" sandwich. This magnificent gastronomical creation will probably keep you satisfied for the rest of the day, that is if you manage to eat it whole.
+Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in Greek "Το Καροτσάκι του Γιατρού") is one of the best Greek fast food restaurants you can find in the city center. Located in the area of Psiri, this little unique restaurant offers all the delicacies a normal fast food restaurant would offer but with the generous portioning of the Greeks. If you decide to visit, I suggest trying the "Loua Loua" sandwich. This magnificent gastronomical creation will probably keep you satisfied for the rest of the day, that is if you manage to eat it whole.
 Address:[Μιαούλη 5, Αθήνα](https://www.google.gr/maps/place/Miaouli+5,+Athina+105+54/@37.97708,23.7233708,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd23053dac0b:0xb0155bec7836bf32!8m2!3d37.97708!4d23.7255595)
 
 *Photo retrieved from:* [Maxmag](https://www.maxmag.gr/city-guide/karotsi-toy-giatroy-docs-burger-bar/)
@@ -165,7 +174,7 @@ Then there are the smaller, borderline cult stages, that we call skyladika, whic
 
 <img src="media/clumsies.jpg" alt="drawing" width="500"/>
 
-Nestled in an unassuming street in the vibrant centre of Athens, The Clumsies is an all-day cocktail bar that has steadily climbed its way up the World’s Best list since its inception in 2012. Don’t let the name fool you, there is nothing clumsy about the quality of cocktails, food or service offered at this slick Athens hip-spot. The Clumsies' philosophy is not only centred around creating a unique cocktail and food experience, but also promoting interaction between the customer and bartender to encourage the exploration new tastes and flavours. 
+Nestled in an unassuming street in the vibrant centre of Athens, The Clumsies is an all-day cocktail bar that has steadily climbed its way up the World’s Best list since its inception in 2012. Don’t let the name fool you, there is nothing clumsy about the quality of cocktails, food or service offered at this slick Athens hip-spot. The Clumsies' philosophy is not only centred around creating a unique cocktail and food experience, but also promoting interaction between the customer and bartender to encourage the exploration new tastes and flavours.
 
 *Information retrieved from:* [Greek City Times](https://greekcitytimes.com/2017/11/23/athens-bar-clumsies-ranked-among-worlds-best/?amp)
 *Photo retrieved from:* [The Clumsies](https://www.theclumsies.gr/)
