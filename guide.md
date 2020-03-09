@@ -53,6 +53,16 @@ Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried 
 
 *Information and photo retrieved from :* [Lukumades](https://www.lukumades.com/about)
 
+
+**Choureal**
+
+<img src="media/choux.jpg" alt="chouxs" width="500"/>
+
+CHOUREAL is a unique and awarded concept, specialized in one beloved desert: the Profiterole. The Profiteroles are made to order, in an ‘a la minute’ fashion. This means that the desert is always fresh and tailor-made, according to the visitor’s desire. The fragrant choux are always freshly-baked, since they are produced every hour.On order, they are filled with either silk cream with Madagascar vanilla or hand-made ice cream.
+
+*Information and photo retrieved from:* [Choureal](https://www.choureal.gr/)
+
+
 **Nancy's Sweet Home**
 
 <img src="media/nancy.jpg" alt="drawing" width="500"/>
