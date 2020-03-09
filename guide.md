@@ -200,6 +200,19 @@ Useful info:
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
 
+
+**Stavros Niarchos Foundation SNF**
+
+<img src="media/snf.jpg" alt="drawing" width="500"/>
+
+Named after the founder of the construction the Stavros Niarchos Foundation was established in May of 2019 and so it offers some of the most modern facilities. The foundation is famous for
+its enormous halls and spectacular events. Due to its advanced amenities, the national library transported all their books there and now you can enjoy a good book while being there. Setting
+all these cool features apart, the foundation offers a great place for long walks and astonishing views of Saronikos. The foundation is placed on the main seaside avenue close to Faliro.
+
+
+*Info retrieved from:* [SNF](https://www.snf.org/en/) | *Photo retrieved from:* [AthensVoice](https://www.athensvoice.gr/places/99674_kentro-politismoy-idryma-stayros-niarhos-snf)
+
+
 **Monastiraki**
 
 <img src="media/downtown.jpg" alt="drawing" width="500"/>
