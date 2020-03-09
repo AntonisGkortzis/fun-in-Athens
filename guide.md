@@ -218,6 +218,13 @@ Named after the founder of the construction the Stavros Niarchos Foundation was 
 its enormous halls and spectacular events. Due to its advanced amenities, the national library transported all their books there and now you can enjoy a good book while being there. Setting
 all these cool features apart, the foundation offers a great place for long walks and astonishing views of Saronikos. The foundation is placed on the main seaside avenue close to Faliro.
 
+| More Info     |                        |
+| ------------- |:----------------------:|
+| Halls         | [](https://www.snfcc.org/diathesi-horon) |
+| News          | [](https://www.snfcc.org/news) |
+| Opening Hours | [](https://www.snfcc.org/visit-snfcc) |
+| Contact       | (+30) 216 8091000 |
+
 
 *Info retrieved from:* [SNF](https://www.snf.org/en/) | *Photo retrieved from:* [AthensVoice](https://www.athensvoice.gr/places/99674_kentro-politismoy-idryma-stayros-niarhos-snf)
 
