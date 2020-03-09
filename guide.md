@@ -81,15 +81,14 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
 *Image retrieved from* [Google](https://www.google.com/search?q=%CE%B2%CE%BB%CE%B1%CF%87%CE%B9%CE%BA%CE%B1+%CE%B2%CE%B1%CF%81%CE%B7&rlz=1C1GCEA_enGR858GR858&sxsrf=ALeKk02ujCpTbH21oujxW2QvTwGqKoBhww:1583665290144&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6hb_43IroAhVM-qQKHadhDfkQ_AUoAnoECBYQBA&biw=1920&bih=969#imgrc=iKBZxXqPB62tRM)
 
-
 **Kostas Souvlaki Shop**
 
 <img src= "media/kwstas.jpg" alt= "drawing" width="500"/>
 
 It may be hidden in a small passage of Mitropoleos street which does not grab your attention at first sight, but judging from the large queue of people waiting outside for a souvlaki you can understand that something unique is located there. There is the small shop of Kostas, whose traditional souvlaki is worshipped not only by Athenians but also from a lot of tourists, since its fame has reached a lot of tourist guides about Athens.
 
-**Information retrieved from:* [�efimerida] (http://www.iefimerida.gr/) |
-*Image retrieved from* [�axianddriver] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftaxianddriver.gr%2Fpou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta%2F&psig=AOvVaw2u0G39aYVHxbndCxjS6mZ8&ust=1583787337655000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj_t-Lhi-gCFQAAAAAdAAAAABAD)
+*Information retrieved from:* [Efimerida](http://www.iefimerida.gr/) |
+*Image retrieved from* [Taxi and Driver](https://taxianddriver.gr/pou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta/)
 
 **Cookoomela**
 
@@ -97,9 +96,8 @@ It may be hidden in a small passage of Mitropoleos street which does not grab yo
 
 Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's menu remains small and at the same time complete. Five wrapped skewers, potatoes and a salad. Skewers' main ingredients are mushrooms or lentil meatballs, which are enriched with a variety of healthy, fresh and handmade ingredients such as authentic Sicilian recipe tomato sauce, avocado, vegan mayo, mustard, organic vegan yogurt sauce, vegan cheese, salad and bbq sauce.
 
-*Information retrieved from:* [Lifo](http: //www.lifo.gr"/) |
+*Information retrieved from:* [Lifo](http://www.lifo.gr"/) |
 *Image retrieved from* [Google](https://www.google.com/search?q=cookoomela&sxsrf=ALeKk01wSsMImfWKPpWjt1-Liqs9-Uv3Nw:1583701124689&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjesN634ovoAhWxURUIHa-uDZkQ_AUoAnoECBUQBA&biw=1536&bih=706#imgrc=yZ7HLklrIllkgM)
->>>>>>> 3935c9c618afafa856deea2b42b48bc87df16eed
 
 **Hoocut**
 
