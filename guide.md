@@ -707,7 +707,7 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 
 Are you a extreme person? Then Skydive Athens is the perfect place to fall from 14.000 ft ,but fear not because you will be receiving plenty of informations from the instructors! Is it by far the most memorable thing to do! There are also other options to do such as jumping from 8.000 ft. And at last,what Skydive athens offers is a package to teach you to make your own skydive without any instructors attached to you! To get there you will have to take a bus from KTEL Liosion to Kastro Viotias,but everything will be set,because a special bus will pick you immediatly after your arrival
 
-*Information and photo retrieved from:* [Skydive Athens] (https://skydive-athens.gr)
+*Information and photo retrieved from:* [Skydive Athens](https://skydive-athens.gr)
 
 
 **Paintball Park Malakasa**
