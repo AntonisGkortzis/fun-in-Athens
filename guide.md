@@ -938,7 +938,7 @@ The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels 
 
 **Four Seasons Astir Palace Hotel Athens**
 
-<img src="media/fsaph.jpg" alt="Four Seasons Astir Palace Hotel Athens" width="500"/>
+<img src="media/fsapha.jpg" alt="Four Seasons Astir Palace Hotel Athens" width="500"/>
 
 On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four Seasons offers the best of both worlds: a laid-back seaside escape just 30 minutes from the historical city centre. So, go on, discover the greek ancient civilization at the Acropolis, downtown, then return to Four Seasons to unwind, relax, enjoy a relaxing spa and an extraordinary gastronomical experience.
 
