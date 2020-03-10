@@ -761,3 +761,18 @@ Its internal space consists of 7 floors and 9 underground levels. During the sum
 *Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/)
 *Photo retrieved form:* [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/)
 
+**Hellenic Motor Museum**
+
+<img src="media/hellenic-motor-museum.jpg" alt="Motor Museum" width="500"/>
+
+Hellenic Motor Museum occupies 5.000 sqm. in a unique building in terms of architecture and design. Its exhibitions are dedicated to the evolution of the car and display more than 110 cars from the 19th and the 20th century.
+It is located in the heart of Athens, just a few minutes away from the National Archaeological Museum.
+
+OPENING HOURS
+
+Monday to Friday	10:00 – 14:00
+Saturday	11:00 – 18:00
+Sunday	11:00 – 18:00
+
+*Information retrieved from:* [Hellenic Motor Museum](https://www.hellenicmotormuseum.gr/en/) |
+*Photo retrieved from:* [the fashionable traveler](http://thefashionabletraveller.blogspot.com/2012/12/i-drove-all-day-night.html)
