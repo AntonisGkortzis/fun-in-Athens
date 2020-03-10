@@ -283,8 +283,7 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
-<<<<<<< HEAD
-**Six Dogs**                                                                                                                                                                                                                                    <img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    *Information retrieved from:* [SixDogs]  (http://www.sixdogs.gr) |                                                      *Image retrieved from:* [Popaganda] (https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
+**Six Dogs**                                                                                                                                                                                                                                   <img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    *Information retrieved from:* [SixDogs]  (http://www.sixdogs.gr) |                                                      *Image retrieved from:* [Popaganda] (https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
 
 
 **Cabezon**
@@ -292,9 +291,8 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 <img src= "media/barrr-thumb-large.jpg" alt= "drawing" width="500"/>
 In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. With cobblestones, small tables and some tires instead of seats, Reggae music and calmness. That kind of calmness that reminds you of your summer vacation. At Cabezon you can sit there and talk, enjoy your night, have some meze and chill with your group of friends with some beer or wine. 
 
-*Information retrieved from:* [Nou-Pou] (https://www.nou-pou.gr/ektos-synorwn/pame-kentro/oi-6-pio-omorfes-ayles-sto-meta3oyrgeio/) |
-*Image retrieved from:* [Kathimerini] (https://www.kathimerini.gr/829044/article/epikairothta/ellada/ayles-all-day)
-=======
+*Information retrieved from:* [Nou-Pou](https://www.nou-pou.gr/ektos-synorwn/pame-kentro/oi-6-pio-omorfes-ayles-sto-meta3oyrgeio/) |
+*Image retrieved from:* [Kathimerini](https://www.kathimerini.gr/829044/article/epikairothta/ellada/ayles-all-day)
 **Romantso**
 
 <img src="media/romantso.jpg" alt="romatso" width="500"/>
