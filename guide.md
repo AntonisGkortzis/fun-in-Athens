@@ -159,7 +159,7 @@ For a reservation or openning hours, please visit the following link: https://ww
 
 <img src="media/rocknroll.jpg" alt="RockNRoll" width="500"/>
 
-The Rock n Roll Restaurant in Kolonaki is one of the most successful places in Athens for nightlife, American-style cuisine and burgers. It has been operating since 1987 as the city's most timeless club restaurant and has loyal personalities. The space is modern, tasteful and mainstream following the rhythm of the night and the city. At the Athens Rock n Roll menu you will find a delectable burger with onions, rice with vegetables and broccoli right, veal steak with red wine, fresh crushed pizza, fresh and vegetarian pasta and New York cheesecake with jam.
+"The Rock n Roll Restaurant in Kolonaki is one of the most successful places in Athens for nightlife, American-style cuisine and burgers. It has been operating since 1987 as the city's most timeless club restaurant and has loyal personalities. The space is modern, tasteful and mainstream following the rhythm of the night and the city. At the Athens Rock n Roll menu you will find a delectable burger with onions, rice with vegetables and broccoli right, veal steak with red wine, fresh crushed pizza, fresh and vegetarian pasta and New York cheesecake with jam." In Rock n Roll it's more than tasting great food. The atmosphere is amazing and the place embraces something classy. Visit it for your breakfast, lunch or dinner and get a great food experience in Athens.
 
 *Information retrieved from:* [e-table](https://www.e-table.gr/restaurant/rock-n-roll-athens) |
 *Photo retrieved from:* [Lifo](https://www.lifo.gr/articles/athens_articles/171381)
