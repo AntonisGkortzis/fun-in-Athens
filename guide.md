@@ -921,6 +921,22 @@ OPENING HOURS
 [MORE INFORMATION](https://www.emst.gr/en/contact)
 
 
+## <a name="Accomodation"></a>Accomodation
+
+Explore Athens'most magical hotels and spas
+
+**The Margi Hotel**
+
+<img src="media/margi.jpg" alt="The Margi Hotel" width="500"/>
+
+The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels of the World (SLH)</strong> and located in the heart of  most exclusive area of Athens Riviera, Vouliagmeni. It is located just a few minutes away from Vouiliagmeni's sandy beaches, but also close enough to some historical sites, like Cape Sounion. Its haute cuisine and organic food from its farm combined with its friendly and attentive staff, its spa premises and its exquisite design make The Margi Hotel a heaven away from home.
+
+[You can discover more about The Margi Hotel and its amenities here:](https://www.emst.gr/en/contact)<br>
+
+*Information retrieved from:* [The Margi Hotel](https://www.themargi.gr/) <br>
+*Photo retrieved form:* [The Margi Hotel](https://www.themargi.gr/gallery/the-pool/)
+
+
 ## <a name="fullDayTrips"></a>Full Day Trips
 
 If you are staying in Athens for a couple of days, it's worth making a day tripand discover a different part of Greece
@@ -930,3 +946,4 @@ If you are staying in Athens for a couple of days, it's worth making a day tripa
 Arachova is a traditional village close to Delphi, mostly known as a winter destination. It gets very popular due to the Ski Centre of Parnassos that is found in close distance from the town. It is also a town with a rich historical background and beautiful nature surrounding it. Not only the town itself has nice architecture, but the surrounding region is also nice for sightseeing. Apart from the close site of Ancient Delphi, other interesting sights in short drive from Arachova are the Byzantine Monastery of Osios Loukas and the seaside towns of Itea and Galaxidi.
 
 *Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/)
+
