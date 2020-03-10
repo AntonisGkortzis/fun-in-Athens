@@ -295,6 +295,15 @@ The Big Bad Wolf is a place where you can enjoy delicious and quality food. It c
 
 *Information and photo retrieved from:* [The Big Bad Wolf] (https://www.tbbw.gr/)
 
+**Bel Rey**
+
+<img src="media/mpel-rey-1280x720.jpg" alt="bel-rey" width="500"/>
+
+Bel Rey is a former car lubricant turned into an all day snack bar. With vintage furniture, glazed posters with current theatrical performances and a large wooden bar, Bel Rey is sure to become a favorite hangout for both yound and old. There is a wide range of tasty brunch and cocktails.
+
+*Information retrieved from:* [maxmag](https://www.maxmag.gr/city-guide/athina-koukaki-bel-rey/)|
+*Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BC%CF%80%CE%B5%CE%BB+%CF%81%CE%B5%CF%85+%CE%BA%CE%BF%CF%85%CE%BA%CE%B1%CE%BA%CE%B9&tbm=isch&ved=2ahUKEwix1-mJhpHoAhWIhxQKHbdmBtYQ2-cCegQIABAA&oq=%CE%BC%CF%80%CE%B5%CE%BB+%CF%81&gs_l=img.1.0.35i39j0j0i8i30j0i24l7.1329.3350..4335...1.0..4.180.1479.0j11......0....1..gws-wiz-img.....10..0i67j35i362i39j0i131.pQF0tnEByWw&ei=-iBoXrHyLoiPUrfNmbAN&bih=754&biw=1536#imgrc=G-r2KpU02Cih3M)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
@@ -927,6 +936,21 @@ The rocks of Acropolis, otherwise called "Vrahakia" are a really popular spot fo
 
 *Information retrieved from:* [SimplyLife](https://simplylife.gr/pages/protaseis/article/id/201) |
 *Photo retrieved from:* [Tumblr](https://www.tumblr.com/privacy/consent?redirect=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2F%25CE%25B1%25CE%25BA%25CF%2581%25CE%25BF%25CF%2580%25CE%25BF%25CE%25BB%25CE%25B7%25CF%2582)
+
+**Sprint & Standard**
+*Biathlon*
+
+<img src="media/biathlon.jpg" alt="biathlon" width="500"/>
+
+Sprint route: 5km running- 20km cycling- 2.5km running
+
+Standard route: 10km running- 40km cycling- 5km running
+
+Super Sprint for children
+
+*Location:*[Olympic Rowing Schinias](https://goo.gl/maps/u9u1oMHeKrxLH7iZ6) |
+*Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/diathlo_sprint_standard)
+
 
 ## <a name="shopping"></a>Shopping
 
