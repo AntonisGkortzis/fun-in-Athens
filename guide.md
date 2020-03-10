@@ -1262,7 +1262,7 @@ All those questions can be answered through this amazing day trip to Peloponnese
 
 ## <a name="beach"></a>Beach
 
-Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you ca visit!
+Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
 
 **Karavi Schinias**
 
