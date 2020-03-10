@@ -173,6 +173,17 @@ and waiting for you to finish them at one of the 5 Butcher's Burger & Steak Hous
 
 *Information and photo retrieved from:* [Butcher's Burger](http://www.butchersburger-steak.gr)
 
+
+**Feyrouz**
+
+<img src="media/feyrouz.jpg" alt="drawing" width="500"/>
+
+"Feyrouz" is a corner in the historic center of Athens overlooking Aeolos, aiming to introduce its guests to the family's small gastronomic history, originating in Antioch and Lebanon, Cyprus and Constantinople.
+A corner that hopes to accommodate its guests for the scarce time they spend in the city's daily life, the warmth of the place, the hospitality of the family atmosphere, the coziness of quality music, and above all, the enjoyment of eating nobody fresh, handmade and full of family delicacies, like at home, a little deeper, somewhere in the East.
+
+*Information retrieved from:* [Feyrouz](https://feyrouz.gr/) |
+*Image retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d6784810-Reviews-Feyrouz-Athens_Attica.html)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
@@ -302,7 +313,7 @@ Romantso is the former office building of the homonymous brochure and is located
 *Information retrieved from* [Romatso](http://www.romantso.gr/) |
 *Photo retrieved from* [Google](https://www.google.com/search?q=%CF%81%CE%BF%CE%BC%CE%B1%CE%BD%CF%84%CF%83%CE%BF&sxsrf=ALeKk01auHXnsajePHv3ClDG0fnFGJqpjw:1583845072683&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLzr7X-o_oAhVEzqYKHaUKBZQQ_AUoAnoECA4QBA&biw=1536&bih=754#imgrc=fIDG1nB8C9bA_M)
 
->>>>>>> c9a36c53904ea46478828656a5f16c918ea9906a
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
@@ -695,6 +706,16 @@ Voukourestiou Street is the most high-end street of Athens. You can find luxury 
 
 *Information retrieved from:* [Think Athens](https://www.thinkathens.com/blog/top-places-shopping-in-athens/) |
 *Photo retrieved from:* [Athens Voice](https://www.athensvoice.gr/life/urban-culture/athens/437284_odos-voykoyrestioy)
+
+
+**McArthur Glen**
+
+<img src= "media/mcarthur-glen.jpg" alt="drawing" width="500"/>
+
+With more than 100 shops, cafes and restaurants, McArthurGlen Discount Village is the first and leading discount village in Greece, with favorite designer brands renewing your style and mood, up to 70% cheaper. Discover our services and enjoy a great day in the discount village.
+
+*Information retrieved from:* [McArthurGlen](https://www.mcarthurglen.com/el/outlets/gr/designer-outlet-athens/%CE%A0%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82/) |
+*Image retrieved from:* [Naftemporiki](https://m.naftemporiki.gr/story/1551583/mcarthur-glen-kai-smart-park-anoixta-tis-kuriakes)
 
 ## <a name="fun"></a>Fun and Games
 
