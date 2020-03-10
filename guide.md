@@ -227,6 +227,13 @@ If you’re planning on visiting, don’t forget to try the great pancakes that 
 *Information retrieved from:* [etable.gr](https://www.e-table.gr/restaurant/riza-riza) |
 *Photo retrieved from:* [Riza Riza's facebook page](https://www.facebook.com/RizaRiza.Athens/)
 
+**Mama Roux**
+
+<img src="media/mamaRoux.jpg" alt="Mama Roux" width="500"/>
+
+Located on Aiolou Street in the heart of historic Athens' commercial district, Mama Roux is a multi-ethnic restaurant offering dishes from many cultures in a relaxed, urban atmosphere. By using techniques derived from different cultures, this restaurant offers a wide-ranging menu, moving continuously towards new directions while also retaining its classical dishes.
+
+*Information and photo retrieved from:* [Mama Roux](http://www.mamaroux.gr/)
 
 
 ## <a name="nightlife"></a>Night Life
@@ -356,7 +363,7 @@ Grab your favourite cocktail and start exploring Athens by night.
 
 **Couleur Locale**
 
-<img src="media/couleurLocale.jpg" alt="TYCO" width="500"/>
+<img src="media/couleurLocale.jpg" alt="" width="500"/>
 
 The hidden bar on Normanou Street, near the Monastiraki’s square, is one of the most beautiful terraces. From the third floor, facing the sacred rock of the Acropolis, you can enjoy both the view and the variety of food and drinks in affordable prices it provides.
 
