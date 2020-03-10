@@ -947,3 +947,11 @@ Arachova is a traditional village close to Delphi, mostly known as a winter dest
 
 *Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/)
 
+**Mycenae, Epidaurus, and Nafplio**
+
+<img src="media/lionGate.jpg" alt="Lion Gate" width="500"/>
+
+Do you know which is the city of mythical Agamemnon, the hero of Trojan war? Which was one of the most important healing places in ancient times? Which is considered to be the most perfect ancient Greek theatre with regard to acoustics and aesthetic?
+All those questions can be answered through this amazing day trip to Peloponnese which will offer the visitor the chance to discover some of the most important archaelogical sites of Greece, like Mycenae and Epidaurus.
+
+*Information and photo retrieved from:* [travelpassionate](https://travelpassionate.com/top-day-trips-from-athens-greece/)
