@@ -388,6 +388,14 @@ Organizing a trip to the Temple of Poseidon is worth your time but making the mo
 *Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio) |
 *Photo retrieved from:* [GreekTravelPages](https://www.gtp.gr/TDirectoryDetails.asp?ID=14990)
 
+**National Observatory of Athens**
+
+<img src="media/observatory.jpg" alt="drawing" width="500"/>
+
+The National Observatory of Athens in Thissio is located on the Hill of the Nymphs, it is housed in the Sina building and it is situated accross the Parthenon. The goal of this place is to inform the general public on a wide number of Astronomy related topics and at the same time to present the nearly two century long history of Greek Astronomy. As you may already know Thissio is in the city center so you are not going to have any trouble getting there by public transportations. Please make sure to check the program of the tours before going there, in order for you not waste any time waiting. And remember that the English tour takes place one hour after the first tour, which is in Greek. It is a really great attraction and experience even if you are not a fan of astronomy.
+
+*All information retrieved from:* [National Observatory of Athens](http://www.noa.gr/index.php?lang=el)
+
 ## <a name="activities"></a>Activities
 
 Athens has many things to do for athletics individuals too! From walking to our famous mountains to skydiving!
