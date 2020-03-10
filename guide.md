@@ -90,7 +90,7 @@ Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried 
 
 <img src="media/choux.jpg" alt="chouxs" width="500"/>
 
-CHOUREAL is a unique and awarded concept, specialized in one beloved desert: the Profiterole. The Profiteroles are made to order, in an ‘a la minute’ fashion. This means that the desert is always fresh and tailor-made, according to the visitor’s desire. The fragrant choux are always freshly-baked, since they are produced every hour.On order, they are filled with either silk cream with Madagascar vanilla or hand-made ice cream.
+Ever wanted a nice desert? CHOUREAL is a perfect place to eat a beloved desert , a homemade profiterole. The difference of course is that these profiteroles are made in ‘a la minute’ fashion which means they are being made by the time you visit this place.They fragrant choux are always freshly baked.During your order you can fill it either with silk cream or hand-made ice cream and you can top it with your favorite things!
 
 *Information and photo retrieved from:* [Choureal](https://www.choureal.gr/)
 
@@ -219,7 +219,7 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 
 <img src="media/rizariza.jpg" alt="rizariza" width="500"/>
 
-Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) (19 Drakou Street, Athens) and it’s great choice for all day long.  
+Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) (19 Drakou Street, Athens) and it’s a great choice for all day long.  
 There you can enjoy your morning coffee and brunch and delicious food as well as special cocktails made from Greek distillates (raki, ouzo and tsipouro) later at night.  
 
 If you’re planning on visiting, don’t forget to try the great pancakes that they serve.
@@ -468,11 +468,23 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 *Information and photo retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
 
+**Pasalimani - Marina Zeas**
+
+<img src="media/pasalimani.jpg" alt="pasalimani" width="500"/>
+
+Looking for a place near the sea to spend your day? Pasalimani or Marina Zeas is your answer.  
+Pasalimani or Marina Zeas is the second biggest port of Pireaus.  In the ancient times, it was the biggest military harbour.  Nowadays, it is said that is the center of amusement of Pireaus. There you can enjoy the beauty of the sea while walking around the port or by visiting one of the plenty of restaurants, coffee shops and shops around the port and Kanari’s square.
+
+*Information retrieved from:* [Wikipedia](https://el.wikipedia.org/wiki/%CE%9B%CE%B9%CE%BC%CE%AD%CE%BD%CE%B1%CF%82_%CE%96%CE%AD%CE%B1%CF%82) |
+*Photo retrieved from:* [Pinterest](https://gr.pinterest.com/)
+
 **Psyri**
 
 <img src="media/psyri.jpeg" alt="psyri" width="500"/>
 
 Psyri or Psiri is a colorful neoclassical neighborhood known for its artisans, specialty stores, restaurants, bars, tavernas with or without live music, theaters, art galleries, antique shops, and a small number of hotels. Following the liberation of Greece from the Turkish occupation in 1833, several veteran freedom fighters and immigrants from the provinces settled here. They opened cottage industries and workshops, which have given the area a distinctive character. The central square of Psyri is called "Heroes Square" because the streets leading to it carry names of heroes of the Independence War. 
+
+*Information retrieved from:* [The Athens Key](https://www.athenskey.com/psyri.html) | *Photo retrieved from:* [Airbnb](https://www.airbnb.com/google_place_photo?photoreference=CmRaAAAAO8tx19UtVxjviOYx_M7Jc0FzyqjtLFkf56onDvfR8LkwHz67HY6N3gKHHWKLFa9Jf9Hfj1fedshOKNO97gSa-GC2p83cUZthl3Rk0GOmAzQRNUtI_AVpwo6jqKwTf8MUEhCfBHu79i9xw9FaXZ7-2gqFGhRGMpqWMT-2euuYZrCXNEmXt3hgUA&maxwidth=1200&maxheight=1200&place_id=84439)
 
 **The Acropolis Museum**
 
@@ -495,11 +507,25 @@ The collection is displayed along the museum’s two floors and is divided into 
 *Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
 *Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
 
+
+**Byzantine and Christian Museum**
+
+<img src="media/byzantinemuseum.jpg" alt="drawing" width="500"/>
+
+The Byzantine and Christian Museum, which is based in Athens, is one of Greece’s national museums. Its areas of competency are centred on – but not limited to – religious artefacts of the Early Christian, Byzantine, Medieval, post-Byzantine and later periods which it exhibits, but also acquires, receives, preserves, conserves, records, documents, researches, studies, publishes and raises awareness of.
+
+The museum has over 25,000 artefacts in its possession. The artefacts date from between the 3rd and 20th century AD, and their provenance encompasses the entire Greek world, as well as regions in which Hellenism flourished. The size and range of the collections and value of the exhibits makes the Museum a veritable treasury of Byzantine and post-Byzantine art and culture.
+
+
+*Address:*[Λεωφ. Βασιλίσσης Σοφίας 22, Αθήνα 106 75](https://www.google.com/maps/place/%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CF%8C+%CE%BA%CE%B1%CE%B9+%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C+%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF/@37.9754096,23.7423982,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd4139122d11:0xcfd5b8307a32933c!8m2!3d37.9754096!4d23.7445869?hl=el) |
+*Information retrieved from:* [Byzantinemuseum](https://www.byzantinemuseum.gr/en/museum/) |
+*Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4349)
+
 **Benaki Museum**
 
 <img src="media/benaki.jpg" alt="benaki" width="500"/>
 
-The Benaki Museum is among the most extensive and innovative cultural organizations in Europa. Diverse cultures from all historical periods and geographical areas meet contemporary art across a network of venues all over Athens – and beyond. The Benaki Museum of Greek Culture presents the history and art of the Greek world from prehistory to the 20th century, through 6.000 objects arranged over four floors.
+Benaki's museum is one of the top museum in Athens.What you will see inside of the museum is a presentation of Greek Culture of history in art of the Greek world from the prehistory to the 20th century ,up to 6.000 object.Apart from Greek Culture what will you see is also  culture from Asians world and in the end you will be seeing ancient sculptures from Byzantium
 
 *Information retrieved from:*[Tripadvisor](https://tripadvisor.com.gr) |
 *Photo retrived from:*[Liberal](https://liberal.gr)
@@ -681,6 +707,16 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 
 *Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/) |
 *Image retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
+
+
+**Skydive Athens**
+
+<img src="media/skydive.jpg" alt="skydive" width="500"/>
+
+Are you a extreme person? Then Skydive Athens is the perfect place to fall from 14.000 ft ,but fear not because you will be receiving plenty of informations from the instructors! Is it by far the most memorable thing to do! There are also other options to do such as jumping from 8.000 ft. And at last,what Skydive athens offers is a package to teach you to make your own skydive without any instructors attached to you! To get there you will have to take a bus from KTEL Liosion to Kastro Viotias,but everything will be set,because a special bus will pick you immediatly after your arrival
+
+*Information and photo retrieved from:* [Skydive Athens](https://skydive-athens.gr)
+
 
 **Paintball Park Malakasa**
 
@@ -1005,11 +1041,24 @@ If you are staying in Athens for a couple of days, it's worth making a day tripa
 
 **Arachova**
 
+<img src="media/arachova.jpg" alt="drawing" width="500"/>
+
 Arachova is a traditional village close to Delphi, mostly known as a winter destination.
 
 It gets very popular due to the [Ski Centre of Parnassos](https://parnassos-ski.gr/) that is found in close distance from the town. It is also a town with a rich historical background and beautiful nature surrounding it. Not only the town itself has nice architecture, but the surrounding region is also nice for sightseeing. Apart from the close site of Ancient Delphi, other interesting sights in short drive from Arachova are the Byzantine Monastery of Osios Loukas and the seaside towns of Itea and Galaxidi.
 
-*Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/)
+*Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/) | *Photo retrieved form:* [Visit Greece](http://www.visitgreece.gr/el/mainland/arachova)
+
+**Ski Centre of Parnassos**
+
+<img src="media/ski.jpg" alt="drawing" width="500"/>
+
+Speaking of the exotic place of Arachova and, specifically, for Mountain Parnassos, it is a hell of a must-do trip if you are on to an amazing experience. Parnassos is one of the most beautiful mountains in Greece and comes with an amazing sport, skiing. The ski center has 23 tracks, 7 ski runs and 7 trails, totaling approximately 34 kilometers. The slopes are from 50m up to 4 km for beginners, intermediate and advanced skiers. For adventure lovers, there are 12 off-track "black" tracks with really deep snow and a lot of adrenaline.
+
+Be careful though, skiing is an amazing sport giving you the feeling of freedom but requires attention and proper equipment.
+
+*Information retrieved form:* [Parnassos Ski Centre](https://parnassos-ski.gr/%CF%84%CE%BF-%CF%87-%CE%BA-%CF%80%CE%B1%CF%81%CE%BD%CE%B1%CF%83%CF%83%CE%BF%CF%8D/) | *Photo retrieved form:* [Google](https://www.google.com/search?q=ski+centre+parnassos&sxsrf=ALeKk00PRj33B1E_ExNuItBmZAXj-ZTIVw:1583865690639&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie5PK-x5DoAhWhsKQKHct8DfwQ_AUoAnoECBoQBA&biw=1366&bih=657#imgrc=ceEMpv45b-ztkM)
+
 
 **Mycenae, Epidaurus, and Nafplio**
 
