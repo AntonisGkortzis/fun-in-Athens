@@ -252,6 +252,14 @@ Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enj
 
 *Information and photo retrieved from:* [Cookoovaya] (https://cookoovaya.gr/en/)
 
+**Koi Sushi Bar**
+
+<img src="media/koi.jpg" alt="Cookoovaya" width="500"/>
+
+If you are a fan of sushi, you must visit it while you are staying in Athens. It is located in the city Center, really close to the Syntagma Square. The service is really nice. People are really polite and your order gets ready really quickly. One more attribute of this place is that the sushi tastes nice, there are a lot of options you can choose from and they are considerably cheap. If you have never tried sushi in your life before I suggest you do it in this place, since people are helping you to find out what you will like the most.
+
+*Information and photo retrieved from:* [Trip Advisor] (https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d5121936-Reviews-Koi_Sushi_Bar-Athens_Attica.html)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
