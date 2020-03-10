@@ -779,9 +779,9 @@ It is located in the heart of Athens, just a few minutes away from the National 
 
 OPENING HOURS
 
-Monday to Friday	10:00 – 14:00
-Saturday	11:00 – 18:00
-Sunday	11:00 – 18:00
+* Monday to Friday	10:00 – 14:00
+* Saturday	11:00 – 18:00
+* Sunday	11:00 – 18:00
 
 *Information retrieved from:* [Hellenic Motor Museum](https://www.hellenicmotormuseum.gr/en/) |
 *Photo retrieved from:* [the fashionable traveler](http://thefashionabletraveller.blogspot.com/2012/12/i-drove-all-day-night.html)
