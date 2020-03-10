@@ -181,7 +181,7 @@ A For Athens is an ideal place to enjoy your house special cocktails at night! O
 
 <img src="media/telescope-bar.jpg" alt="drawing" width="500"/>
 
-It’s a marvelous quiet place up on a hill at Chaidari, Athens. It's like love at first sight! You most definately won't need more than a moment to fall in love with this place. Inside the store you will find 21 telescopes which you can use to look at the magnificent view from the Piraeus port to the Olympic Stadium! The ideal spot for a relaxing drink or a dinner!
+It’s a marvelous quiet place up on a hill at [Chaidari, Athens](https://www.google.com/maps/place/%CE%A4%CE%97%CE%9B%CE%95%CE%A3%CE%9A%CE%9F%CE%A0%CE%99%CE%9F/@38.006967,23.6540462,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bb5282459acb:0xbcb04e251a50a81a!8m2!3d38.006967!4d23.6562349). It's like love at first sight! You most definately won't need more than a moment to fall in love with this place. Inside the store you will find 21 telescopes which you can use to look at the magnificent view from the Piraeus port to the Olympic Stadium! The ideal spot for a relaxing drink or a dinner!
 
 *Information retrieved from:* [XPAT ATHENS]( https://www.xpatathens.com/)
 
@@ -750,4 +750,14 @@ After twenty-one years in Kolonaki, the commercial center of Athens, the gallery
 During these years, Greek public has been introduced to numerous artistic currents, such as Arte Povera, Minimalism, Land and Conceptual Art and the younger generation of American and European artists.
 
 *Information and photo retrieved from:* [Bernier Eliades](https://bernier-eliades.com/)
+
+**Onassis Cultural Centre**
+
+<img src="media/onassis.jpg" alt="Onassis Cultural Centre" width="500"/>
+
+[Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/) is a contemporary arts space with two high-spec performance halls, an open-air theatre, rooftop restaurant and a performance space. Numerous arts festivals are held here, which explore controversial issues and bold ideas. Theatre, dance, music, cinema, fine arts and literature are only some of the fields that this foundation explores.
+Its internal space consists of 7 floors and 9 underground levels. During the summer, the building's terasse offers an amazing view to the Acropolis, the Lycabettus Hill and the Saronic Gulf.
+
+*Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/)
+*Photo retrieved form:* [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/)
 
