@@ -15,6 +15,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Shopping](#shopping) 🎁
 * [Fun and Games](#fun) 😁
 * [Art and Culture](#artAndCulture) :art:
+* [Accomodation](#accomodation) 🏨
 
 
 ## <a name="food"></a>Food
@@ -919,4 +920,6 @@ OPENING HOURS
 *Photo retrieved form:* [EMST](https://www.emst.gr/en/)
 
 [MORE INFORMATION](https://www.emst.gr/en/contact)
+
+## <a name="Accomodation"></a>Accomodation
 
