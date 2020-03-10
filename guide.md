@@ -302,6 +302,16 @@ The collection is displayed along the museum’s two floors and is divided into 
 *Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
 *Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
 
+**Benaki Museum**
+
+<img src="media/benaki.jpg" alt="benaki" width="500"/>
+
+The Benaki Museum is among the most extensive and innovative cultural organizations in Europa. Diverse cultures from all historical periods and geographical areas meet contemporary art across a network of venues all over Athens – and beyond. The Benaki Museum of Greek Culture presents the history and art of the Greek world from prehistory to the 20th century, through 6.000 objects arranged over four floors.
+
+*Information retrieved from:*[Tripadvisor](https://tripadvisor.com.gr) |
+*Photo retrived from:*[Liberal](https://liberal.gr)
+
+
 **National Observatory**
 
 <img src="media/observatory.jpg" alt="drawing" width="500"/>
