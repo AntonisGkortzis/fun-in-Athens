@@ -10,6 +10,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Food](#food) 🍕
 * [Night Life](#nightlife) 💃
 * [Tours](#tours) 🚶
+* [Museums](#museums) :mortar_board:
 * [Monuments](#monuments) 🗼
 * [Activities](#activities) 🚴
 * [Shopping](#shopping) 🎁
@@ -17,6 +18,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Art and Culture](#artAndCulture) :art:
 * [Accomodation](#accomodation) 🏨
 * [Full day trips](#fullDayTrips) :car:
+* [Beach](#beach) 🏄
 
 
 
@@ -26,7 +28,7 @@ Here are the best places where you can enjoy the Greek food.
 
 **The Yard**
 
-<img src="media/theYard.jpg" alt="chouxs" width="500"/>
+<img src="media/theYard.jpg" alt="The Yard" width="500"/>
 
 Even though this place beauty is hidden in its simplicity and secrecy, more people should know about it. The Yard ("Αυλή" in Greek) is a hidden paradise in the area of Psiri at he center of Athens. This difficult to find place is a traditional Greek restaurant that is bound to remind you of the 60s.
 
@@ -35,7 +37,7 @@ Even though this place beauty is hidden in its simplicity and secrecy, more peop
 
 **Fairytale**
 
-<img src="media/fairytale.jpg" alt="chouxs" width="500"/>
+<img src="media/fairytale.jpg" alt="Fairytail" width="500"/>
 
 If you love fairytales and sweets, then you must visit this "sweet" magical place in Nea Filadelfeia. Fairytale is the ideal place where sweets and tales are mixed in a unique way. Its owners love the heroes of Disney and they have visited all of Disneys parks. Drawing their inspiration from their visits Fairytale was created, but its not only looks. The sweets served are a work of are both in appearance and taste, just be careful since you wont be the first to eat too much
 
@@ -44,7 +46,7 @@ If you love fairytales and sweets, then you must visit this "sweet" magical plac
 
 **Brooklyn the taste factory**
 
-<img src="media/brooklynTheTasteFactory.jpg" alt="drawing" width="500"/>
+<img src="media/brooklynTheTasteFactory.jpg" alt="Brooklyn The Taste Factory" width="500"/>
 
 Even though most restaurants in Athens are located in or near the center, this particular one is not. Brooklyn the taste factory is an American-like burger house with a wide variety of burgers and similar choices. Since its in Greece though, be careful because the portioning is really generous. The stuff is really polite and the restaurants environment fits the needs of the modern college student and its also family friendly. If you actually decide to visit, keep in mind that you might wait a bit for the order to arrive since most things are made in the spot.
 
@@ -53,7 +55,7 @@ Even though most restaurants in Athens are located in or near the center, this p
 
 **LIVADIA**
 
-<img src="media/leivadeia.jpg" alt="drawing" width="500"/>
+<img src="media/leivadeia.jpg" alt="Leivadia" width="500"/>
 
 You are hungry. You are near Omonoia and in 30 minutes you have a presentation with your team at AUEB. You need a classic OG souvlaki-kalamaki, and suddenly... BOOM. "Livadia" or "ΣΟΥΒΛΑΚΙ Η ΛΕΙΒΑΔΕΙΑ" is right next to you. Just the Holy lemon, bread/pita, fried potatoes and  kalamaki-Pork. Functioning since 1965, serves traditional tastes made with joy and meraki. The ingredients are handmade with no extra flavors & add-ons. Just the clean tasteful meat. Of course you can order a cold drink if you are thirsty or a colorful salad to accompany your appetite.   
 
@@ -61,7 +63,7 @@ You are hungry. You are near Omonoia and in 30 minutes you have a presentation w
 
 **The Doctors Wheelchair**
 
-<img src="media/theDoctorsWheelchair.jpg" alt="drawing" width="500"/>
+<img src="media/theDoctorsWheelchair.jpg" alt="The Doctor's Wheelchair" width="500"/>
 
 Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in Greek "Το Καροτσάκι του Γιατρού") is one of the best Greek fast food restaurants you can find in the city center. Located in the area of Psiri, this little unique restaurant offers all the delicacies a normal fast food restaurant would offer but with the generous portioning of the Greeks. If you decide to visit, I suggest trying the "Loua Loua" sandwich. This magnificent gastronomical creation will probably keep you satisfied for the rest of the day, that is if you manage to eat it whole.
 
@@ -70,7 +72,7 @@ Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in Greek
 
 **TELI'S CHOPS**
 
-<img src="media/tbtt.jpg" alt="drawing" width="500"/>
+<img src="media/tbtt.jpg" alt="Teli's Chops" width="500"/>
 
 "TELI'S CHOPS", or in Greek, "ΤΑ ΜΠΡΙΖΟΛΑΚΙΑ ΤΟΥ ΤΕΛΗ", is a very good hidden tavern, with only one main dish. Chops. You get in, and they just ask you how many portions to bring on table. They also serve a legendary dish as an appetizer with tomato, peppers (spicy and not) & feta cheese, all grilled, just for free. Of course fried potatoes are served with the chops. Telis's tavern started its functioning since 1977 and is still the best of its kind. A portion costs almost 10 euros but it's totally worth its money (you satiate for good). But be careful not to be confused with the real tavern, because some unfair competitors have opened a chop-shop right next to the original, with the name "Telis"! The real one is the one on your right, as you see both taverns. Anyway, words are not enough to describe the taste. We suggest you going at least one time, and you won't lose. And just a tip of advice. If you go, when the order comes in table, do not post a picture of it on any social media or something like that. You will ruin it's magicness.
 
@@ -79,7 +81,7 @@ Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in Greek
 
 **LUKUΜΑΔΕΣ**
 
-<img src="media/loukoumades.png" alt="drawing" width="500"/>
+<img src="media/loukoumades.png" alt="Loukoumades" width="500"/>
 
 Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection. They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry!
 
@@ -88,7 +90,7 @@ Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried 
 
 **Choureal**
 
-<img src="media/choux.jpg" alt="chouxs" width="500"/>
+<img src="media/choux.jpg" alt="Choureal" width="500"/>
 
 Ever wanted a nice desert? CHOUREAL is a perfect place to eat a beloved desert , a homemade profiterole. The difference of course is that these profiteroles are made in ‘a la minute’ fashion which means they are being made by the time you visit this place.They fragrant choux are always freshly baked.During your order you can fill it either with silk cream or hand-made ice cream and you can top it with your favorite things!
 
@@ -97,7 +99,7 @@ Ever wanted a nice desert? CHOUREAL is a perfect place to eat a beloved desert ,
 
 **Nancy's Sweet Home**
 
-<img src="media/nancy.jpg" alt="drawing" width="500"/>
+<img src="media/nancy.jpg" alt="Nancy's Sweet Home" width="500"/>
 
 If you are a fan of sweets, that's the place for you! So many different options, but all so delicious! Being such a huge fan of chocolate, I strongly recommend it, but even if you are not so into chocolate you can find all kinds of sweets there! Juicy chocolate pies, hellish strawberry pies, southern kazan dip and many more are waiting for you. The most relaxing and sweet Candy Store in Athens is located at Psyri, really close to the Monastiraki Square.
 
@@ -106,7 +108,7 @@ If you are a fan of sweets, that's the place for you! So many different options,
 
 **Mparmpeekiou**
 
-<img src="media/mparmpeekiou.jpg" alt="drawing" width="500"/>
+<img src="media/mparmpeekiou.jpg" alt="Mparmpeekiou" width="500"/>
 
 For meat lovers, Mparmpeekiou is heaven on earth. It started as a traditional-original stake house and later became an awarded burger house known for its huge portions, the wide variety of burgers and amazing flavors. Mparmpeekiou is located at Piraeus, Nea Smyrni and Chalandri. Don't forget to try out the most popular burger in the menu called *the brave one*, however you might win a special prize if you manage to eat the burger called *grandpa of the brave* which is equal to eating 8 entire burgers.
 
@@ -115,7 +117,7 @@ For meat lovers, Mparmpeekiou is heaven on earth. It started as a traditional-or
 
 **Falafellas**
 
-<img src="media/falafel.jpg" alt="drawing" width="500"/>
+<img src="media/falafel.jpg" alt="Falafellas" width="500"/>
 
 If you are in the mood for a good falafel, look no more! "Falafellas" is a small shop right in the heart of Athens(on the central street called "Aiolou").No matter the time you decide to visit, you will probably have to wait for a while, since there are always people waiting in line to have a taste of the delicious falafel. Don't worry though, the line moves on quickly and it is totally worth the wait. You can order the classic falafel, as much spicy as you want it, or you can go for the meatball one. Both of them are amazing!
 
@@ -124,7 +126,7 @@ If you are in the mood for a good falafel, look no more! "Falafellas" is a small
 
 **Vlachika**
 
-<img src="media/Vlachika.jpg" alt="drawing" width="500"/>
+<img src="media/Vlachika.jpg" alt="Vlachika" width="500"/>
 
 If you are a meat lover, then Vlachika is the perfect place to taste quality and delicious greek bbq. There they offer a large variety of meat based dishes, so you can choose and eat any delicacies such us beef grilled steak, grilled lamb chops, pork on a spit (in Greek γουρνοπούλα) and many other grilled dishes. In Vlachica you can also taste traditional Greek dishes such as Mousakas, Pastitsio, Gemista etc. One the best dishes that you can taste in Vlachika is the lamb on a spit and Kokoretsi. Lamb on a spit and Kokoretsi are the most traditional, popular and delicious meals in Greece, so I strongly recommend them! Vlachika are located at the southern suburbs of Athens on a region called Vari.
 
@@ -133,7 +135,7 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 
 **Kostas Souvlaki Shop**
 
-<img src= "media/kwstas.jpg" alt= "drawing" width="500"/>
+<img src= "media/kwstas.jpg" alt= "Kostas Souvlaki Shop" width="500"/>
 
 It may be hidden in a small passage of Mitropoleos street which does not grab your attention at first sight, but judging from the large queue of people waiting outside for a souvlaki you can understand that something unique is located there. There is the small shop of Kostas, whose traditional souvlaki is worshipped not only by Athenians but also from a lot of tourists, since its fame has reached a lot of tourist guides about Athens.
 
@@ -154,13 +156,13 @@ Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's 
 <img src="media/yiasemi.jpg" alt="Yiasemi" width="500"/>
 
 Yiasemi is a funky cafe and bistro, located in the historic city center of Athens, at Mnisikleous street. It is quite well know for its
-picturesque setting, as it offers sitting options on the famous stairs of Mnisikleous street, that go all the way to the hill of the Acropolis and took the name of the ancient architect Mnisikli. 
+picturesque setting, as it offers sitting options on the famous stairs of Mnisikleous street, that go all the way to the hill of the Acropolis and took the name of the ancient architect Mnisikli.
 
-*Photo retrieved from: *[Travel to Athens](https://www.traveltoathens.eu/item/cafe-yiasemi/)
+*Photo retrieved from:* [Travel to Athens](https://www.traveltoathens.eu/item/cafe-yiasemi/)
 
 **Hoocut**
 
-<img src="media/hoocut.jpg" alt="drawing" width="500"/>
+<img src="media/hoocut.jpg" alt="Hoocut" width="500"/>
 
 "Seeking a true dining experience will bring you to Hoocut. Here we make the real souvlaki right from the start, wanting to offer you a product with top quality raw materials, simple techniques and culinary thinking."
 
@@ -171,7 +173,7 @@ Someone would probably think that you can't fit another souvlaki in the center o
 
 **Karaflas Original**
 
-<img src="media/karaflas.jpg" alt="drawing" width="500"/>
+<img src="media/karaflas.jpg" alt="Karaflas Original" width="500"/>
 
 You don't want to miss out the best creperie in town! Karaflas Original is placed in Zografou and you can get there by bus. I strongly suggest you go there and totally recommend you take a sweet crepe. My favourite with chocolate and biscuit but you can have everything you want even if its not a sweet crepe. The place offers you a lot of ingredients you can choose from, so feel free to get there and choose after you have seen all possible choices. The best part about this place and the one thing that makes it so unique is that whatever you choose to have, the ingredients will not only be inside the crepe but also above it. So make sure when you get there that you are starving in order to eat the whole thing. If you are not ,  you can share it with someone else and still be too much for both of you.
 
@@ -179,7 +181,7 @@ You don't want to miss out the best creperie in town! Karaflas Original is place
 
 **Kiveli**
 
-<img src="media/kiveli.jpg" alt="drawing" width="500"/>
+<img src="media/kiveli.jpg" alt="Kiveli" width="500"/>
 
 Located on Saint George square near Kipseli and Patission street, Kiveli is a traditional Greek restaurant with amazing food at decent prices. Just a 7-minute walk from Athens University of Economics and business, this restaurant is the perfect gathering place for students right after their Software Engineering in Practice lectures.
 
@@ -189,7 +191,7 @@ For a reservation or openning hours, please visit the following link: https://ww
 
 **Rock n Roll**
 
-<img src="media/rocknroll.jpg" alt="RockNRoll" width="500"/>
+<img src="media/rocknroll.jpg" alt="Rock N Roll" width="500"/>
 
 "The Rock n Roll Restaurant in Kolonaki is one of the most successful places in Athens for nightlife, American-style cuisine and burgers. It has been operating since 1987 as the city's most timeless club restaurant and has loyal personalities. The space is modern, tasteful and mainstream following the rhythm of the night and the city. At the Athens Rock n Roll menu you will find a delectable burger with onions, rice with vegetables and broccoli right, veal steak with red wine, fresh crushed pizza, fresh and vegetarian pasta and New York cheesecake with jam." In Rock n Roll it's more than tasting great food. The atmosphere is amazing and the place embraces something classy. Visit it for your breakfast, lunch or dinner and get a great food experience in Athens.
 
@@ -198,7 +200,7 @@ For a reservation or openning hours, please visit the following link: https://ww
 
 **Butcher's Burger**
 
-<img src="media/burger.jpg" alt="Butchers burger" width="500"/>
+<img src="media/burger.jpg" alt="Butcher's Burger" width="500"/>
 
 The most delicious and great burgers with the most delicious handmade juicy burger & most delicious steaks are here
 and waiting for you to finish them at one of the 5 Butcher's Burger & Steak House shops!
@@ -208,7 +210,7 @@ and waiting for you to finish them at one of the 5 Butcher's Burger & Steak Hous
 
 **Feyrouz**
 
-<img src="media/feyrouz.jpg" alt="drawing" width="500"/>
+<img src="media/feyrouz.jpg" alt="Feyrouz" width="500"/>
 
 "Feyrouz" is a corner in the historic center of Athens overlooking Aeolos, aiming to introduce its guests to the family's small gastronomic history, originating in Antioch and Lebanon, Cyprus and Constantinople.
 A corner that hopes to accommodate its guests for the scarce time they spend in the city's daily life, the warmth of the place, the hospitality of the family atmosphere, the coziness of quality music, and above all, the enjoyment of eating nobody fresh, handmade and full of family delicacies, like at home, a little deeper, somewhere in the East.
@@ -218,7 +220,7 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 
 **Telescope**
 
-<img src="media/telescope.jpg" alt="drawing" width="500"/>
+<img src="media/telescope.jpg" alt="Telescope" width="500"/>
 
 “Telescope” is a Cafeteria-Bar-Restaurant located in the top of a hill in Chaidari,Athens . This place has a breathtaking view and you will definitely get the best view of Athens from there . Also , this place offers a wide variety of drinks and delicious meals. Definitely worth a visit .
 
@@ -226,7 +228,7 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 
 **Riza Riza**
 
-<img src="media/rizariza.jpg" alt="rizariza" width="500"/>
+<img src="media/rizariza.jpg" alt="Riza Riza" width="500"/>
 
 Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) (19 Drakou Street, Athens) and it’s a great choice for all day long.  
 There you can enjoy your morning coffee and brunch and delicious food as well as special cocktails made from Greek distillates (raki, ouzo and tsipouro) later at night.  
@@ -265,7 +267,7 @@ Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enj
 
 **Koi Sushi Bar**
 
-<img src="media/koi.jpg" width="500"/>
+<img src="media/koi.jpg" alt="Koi Sushi Bar" width="500"/>
 
 If you are a fan of sushi, you must visit it while you are staying in Athens. It is located in the city Center, really close to the Syntagma Square. The service is really nice. People are really polite and your order gets ready really quickly. One more attribute of this place is that the sushi tastes nice, there are a lot of options you can choose from and they are considerably cheap. If you have never tried sushi in your life before I suggest you do it in this place, since people are helping you to find out what you will like the most.
 
@@ -273,7 +275,7 @@ If you are a fan of sushi, you must visit it while you are staying in Athens. It
 
 **Hot Hot Burger Bar**
 
-<img src="media/hothot.jpg" width="500"/>
+<img src="media/hothot.jpg" alt="Hot Hot Burger Bar" width="500"/>
 
 You are in downtown Athens and you want something delicious and quick at the same time? Hot Hot Burger Bar is there for you! There are a lot of burgers you can choose from and 10 different types of sauces, all made by them! Of course I haven't tasted them all, but I guarantee you that every single one of them is so tasty. Get there(it is very easily accessible) and you won't miss out. A really important note would be that there are a lot of vegan burgers, for every vegan out there wanting to eat a delicious burger.
 
@@ -281,7 +283,7 @@ You are in downtown Athens and you want something delicious and quick at the sam
 
 **Etnico**
 
-<img src="media/etnico.jpg" width="500"/>
+<img src="media/etnico.jpg" alt="Etnico" width="500"/>
 
 Etnico is all about ethnic street food right in the center of Athens. In this place, you can taste the world, so you can choose different plates from different countries and even different continents. Some examples would be Mexican Chimichanga και Burrito, Arabic Falafel, Indian Samosas and Korean salads. As I mentioned earlier it is located between the two metro stations, Syntagma and Monastiraki. So from wherever you choose to go, just have in ming that it is about 10 minutes on foot. Don't get intimated by that, it is a really nice place to visit and eat since the food is really tasty. Let alone that you are going to enjoy walking till there, as the Ermou street is really close to it. My personal recomendation would be, to strall around Ermou street, maybe even go shopping there and afterwards grab something to eat from Etnico.
 
@@ -289,7 +291,7 @@ Etnico is all about ethnic street food right in the center of Athens. In this pl
 
 **The Big Bad Wolf**
 
-<img src="media/bigbadwolf.png" width="500"/>
+<img src="media/bigbadwolf.png" alt="The Big Bad Wolf" width="500"/>
 
 The Big Bad Wolf is a place where you can enjoy delicious and quality food. It can be a burger, a souvlaki or even a salad. You can choose whatever your preferations are, from a double bacon burger to a vegan one. So every customer will be satisfied after going to this place. The Big Bad Wolf is located in a variety of locations so if it happens you are close to one of those don't hesitate. You are going to leave the place with a sense of fulfillment, as you are going to enjoy the food. Another really import advantage of this place is that the people who work there are really polite and your order is ready really quickly.
 
@@ -310,7 +312,7 @@ Of course, when you visit Athens, you cannot skip its night life. Below, we have
 
 **Istioploikos**
 
-<img src="media/istioploikos.jpg" alt="drawing" width="500"/>
+<img src="media/istioploikos.jpg" alt="Istioploikos" width="500"/>
 
 A magnificent place right along the seaside! It is placed in Piraeus and it is really nice to visit all day long. You can enjoy your coffee, drinks of even food, which is so delicious! Istioploikos although was added in the night life section, since in the night the place becomes even more better. it turns into a bar, where people drink their cocktails and listen to good music. The really known party of Istioploikos takes place every Sunday evening from 9 pm. The most easy way to go there is by car.
 
@@ -318,7 +320,7 @@ A magnificent place right along the seaside! It is placed in Piraeus and it is r
 
 **Terra Petra**
 
-<img src="media/terrapetra.jpg" alt="drawing" width="500"/>
+<img src="media/terrapetra.jpg" alt="Terra Petra" width="500"/>
 
 What a nice way to enjoy your evening whilst glazing the whole beauty of Athens. Terra Petra has a breathtaking view across Athens and it is really nice play to get your cocktail and drink. Don't missunderstand me, this place is really nice to visit all day. Of course, on the daylight you don't want to drink a cocktail, or do you? Either way, you can also enjoy there your brunch along side with a cup of coffee or fresh juice. It is placed in Petroupoli, so you can get there by bus or by car. Don't worry, there is a huge parking lot waiting for you!
 
@@ -326,7 +328,7 @@ What a nice way to enjoy your evening whilst glazing the whole beauty of Athens.
 
 **Apolis**
 
-<img src="media/apolis.jpg" alt="drawing" width="500"/>
+<img src="media/apolis.jpg" alt="Apolis" width="500"/>
 
 Another magnificent place in Petroupoli, just like Terra Petra is Apolis. There are really close to each other and they offer pretty much the same thing. A breathtaking view while enjoying your beverage, cocktail or food. Apolis is a little bit more cozy than Terra Petra, so if you don't want loud music, this is the place for you. You can talk and chill with your friends and family there. I promise you that you are going to enjoy every second while sitting there and enjoying the view.
 
@@ -334,7 +336,7 @@ Another magnificent place in Petroupoli, just like Terra Petra is Apolis. There 
 
 **A For Athens Cocktail Bar**
 
-<img src="media/aForAthens.jpg" alt="drawing" width="500"/>
+<img src="media/aForAthens.jpg" alt="A For Athens" width="500"/>
 
 A For Athens is an ideal place to enjoy your house special cocktails at night! On the top floor, there is an urban terrace which creates a beautiful and fun atmosphere with a stunning view over the Acropolis and Monastiraki Square. It is placed right in the city center and is easily accessible, as the metro station is 2 minutes away on foot.
 
@@ -343,7 +345,7 @@ A For Athens is an ideal place to enjoy your house special cocktails at night! O
 
 **Telescope**
 
-<img src="media/telescope-bar.jpg" alt="drawing" width="500"/>
+<img src="media/telescope-bar.jpg" alt="Telescope" width="500"/>
 
 It’s a marvelous quiet place up on a hill at [Chaidari, Athens](https://www.google.com/maps/place/%CE%A4%CE%97%CE%9B%CE%95%CE%A3%CE%9A%CE%9F%CE%A0%CE%99%CE%9F/@38.006967,23.6540462,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bb5282459acb:0xbcb04e251a50a81a!8m2!3d38.006967!4d23.6562349). It's like love at first sight! You most definately won't need more than a moment to fall in love with this place. Inside the store you will find 21 telescopes which you can use to look at the magnificent view from the Piraeus port to the Olympic Stadium! The ideal spot for a relaxing drink or a dinner!
 
@@ -351,7 +353,7 @@ It’s a marvelous quiet place up on a hill at [Chaidari, Athens](https://www.go
 
 **Lohan Nightclub**
 
-<img src="media/lohan-nightclub.jpg" alt="drawing" width="500"/>
+<img src="media/lohan-nightclub.jpg" alt="Lohan Nightclub" width="500"/>
 
 If you like pop and trap music, this club is definitely a must for you. The huge space and the beautiful design will give you an unforgettable experience. In this club, you can have your favorite drinks, dance till the morning and enjoy the performance of the best DJ's in the world. It is near the city center, just a five-minute walk from the metro station "Keramikos"!
 
@@ -359,7 +361,7 @@ If you like pop and trap music, this club is definitely a must for you. The huge
 
 **Nalu**
 
-<img src="media/nalu.jpg" alt="drawing" width="500"/>
+<img src="media/nalu.jpg" alt="Nalu" width="500"/>
 
 Nalu is an all day venue, next to the sea and open all year! It is located in Alimos and you can go there by bus or tram, but I would recommend by car since the place offers a free parking lot! A cozy environment offers its customers to enjoy themselves all day long. In the morning, you can enjoy your beverage and brunch with the unique sea view. In the afternoon, you can enjoy the breathtaking sunset next to the sea while drinking a glass of wine. And in the night, you can enjoy unique cocktails and drinks, while listening to your favorite music.
 
@@ -368,7 +370,7 @@ Nalu is an all day venue, next to the sea and open all year! It is located in Al
 
 **Holy Spirit Cocktail Bar-Holy Spirit Beach Bar**
 
-<img src="media/HolySpirit.jpg" alt="drawing" width="500"/>
+<img src="media/HolySpirit.jpg" alt="Holy Spirit" width="500"/>
 
 If you like cocktails and fancy drinks, then Holy Spirit is an ideal place for you. It is located at Laodikis 42 street in Glyfada, about 100 meters far from Nymfon Square. Holy Spirit offers a large variety of cocktails and drinks such as sour cocktails like Gimlet, bitter cocktails like Negroni, sweet cocktails like Mai Tai and salty cocktails like Margarita.
 
@@ -379,7 +381,7 @@ If you prefer cocktails only in summer, then Holy Spirit Beach Bar is a very bea
 
 **Beauty Killed the Beast**
 
-<img src="media/beautykilledthebeast.jpg" alt="BeutyKilledTheBeast" width="500"/>
+<img src="media/beautykilledthebeast.jpg" alt="Beuty Killed The Beast" width="500"/>
 
 Inspired by the last lines of the first King Kong movie in 1933 _"It was beauty. As always, beauty killed the beast"_, this fantastic *cocktail bar* offers high quality cocktails, but that's not just it. It is located inside a house that was built at the '30s and its decor is a funky mix of vintage and industrial, including an underground urban jungle, which create a chill, cinematic scene.
 You can visit Beauty Killed the Beast for its amazing _cocktails_, as well as its wonderful _brunch_ that also has a lot of vegan options.
@@ -393,7 +395,7 @@ _Photo retrieved from [Athens Voice](https://www.athensvoice.gr/)_
 
 **Bouzoukia**
 
-<img src="media/bouzoukia.jpg" alt="drawing" width="500"/>
+<img src="media/bouzoukia.jpg" alt="Bouzoukia" width="500"/>
 
 There are two types of bouzoukia, or pistes, which literally means ‘stages’. First there are the big ones. Think of them as a cross between an indoor concert and a club. You’ll find these venues around Iera Odos in the Gazi neighbourhood and Syngrou Avenue during the winter, and on Posidonos Avenue, which runs along the city’s southern coastline, in the summer. This is where the biggest stars of the Greek popular music scene, such as Sakis Rouvas, Anna Vissi, Antonis Remos, Despina Vandi, Giorgos Mazonakis, Paola, and so on, sing.
 
@@ -403,7 +405,7 @@ Then there are the smaller, borderline cult stages, that we call skyladika, whic
 
 **The Clumsies**
 
-<img src="media/clumsies.jpg" alt="drawing" width="500"/>
+<img src="media/clumsies.jpg" alt="The Clumsies" width="500"/>
 
 Nestled in an unassuming street in the vibrant centre of Athens, The Clumsies is an all-day cocktail bar that has steadily climbed its way up the World’s Best list since its inception in 2012. Don’t let the name fool you, there is nothing clumsy about the quality of cocktails, food or service offered at this slick Athens hip-spot. The Clumsies' philosophy is not only centred around creating a unique cocktail and food experience, but also promoting interaction between the customer and bartender to encourage the exploration new tastes and flavours.
 
@@ -412,7 +414,7 @@ Nestled in an unassuming street in the vibrant centre of Athens, The Clumsies is
 
 **Jazz in Jazz**
 
-<img src="media/JazzInJazz.jpg" alt="JazzInJazz" width="500"/>
+<img src="media/JazzInJazz.jpg" alt="Jazz In Jazz" width="500"/>
 
 Jazz In Jazz is, well, ..a Jazz bar! But not any kind of Jazz bar. Jazz In Jazz is kind of like a small Jazz museum. There you can find a collection of 12.000 records and various rare recordings. You will spend the night listening from '20s to '60s Jazz and sometimes modern Jazz if you are lucky. Along with good old Jazz you can enjoy some good hard liquor from their huge variety. Just for reference, there are 120 makes of whisky! There might be no Wifi, but this warm and atmospheric place will still keep you pretty entertained through the night!
 
@@ -464,7 +466,7 @@ Grab your favourite cocktail and start exploring Athens by night.
 
 **Couleur Locale**
 
-<img src="media/couleurLocale.jpg" alt="" width="500"/>
+<img src="media/couleurLocale.jpg" alt="Couleur Locale" width="500"/>
 
 The hidden bar on Normanou Street, near the Monastiraki’s square, is one of the most beautiful terraces. From the third floor, facing the sacred rock of the Acropolis, you can enjoy both the view and the variety of food and drinks in affordable prices it provides.
 
@@ -474,7 +476,7 @@ When the sun sets, you'll also enjoy selected lounge and house music by well-kno
 
 **Plintirio Bar**
 
-<img src="media/plintirio.jpg" alt="plintirio bar" width="500"/>
+<img src="media/plintirio.jpg" alt="Plintirio Bar" width="500"/>
 
 Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintirio bar takes you to a laundry room styled bar where you can drink, dance and have fun!  
 
@@ -482,7 +484,7 @@ Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintiri
 
 **Six Dogs**                                                                                                                                                                                                                                   
 
-<img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       
+<img src= "media/sixdogs.jpg" alt="Six Dogs" width="500"/>                                                                                                                                                                                       
 
 Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    
 
@@ -490,7 +492,7 @@ Six d.o.g.s is an all day/all night cultural center in the historical triangle o
 
 **Cabezon**
 
-<img src= "media/barrr-thumb-large.jpg" alt= "drawing" width="500"/>
+<img src= "media/barrr-thumb-large.jpg" alt= "Cabezon" width="500"/>
 In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. With cobblestones, small tables and some tires instead of seats, Reggae music and calmness. That kind of calmness that reminds you of your summer vacation. At Cabezon you can sit there and talk, enjoy your night, have some meze and chill with your group of friends with some beer or wine.
 
 *Information retrieved from:* [Nou-Pou](https://www.nou-pou.gr/ektos-synorwn/pame-kentro/oi-6-pio-omorfes-ayles-sto-meta3oyrgeio/) |
@@ -498,7 +500,7 @@ In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. 
 
 **Romantso**
 
-<img src="media/romantso.jpg" alt="romatso" width="500"/>
+<img src="media/romantso.jpg" alt="Romatso" width="500"/>
 
 Romantso is the former office building of the homonymous brochure and is located in the historic shopping center of Athens. It is both an office space for creative start-ups and a cultural center, open to public, with a daily event schedule.The cultural center offers a wide range of events, related to the interests of urban life, music, performance, art, food and conversation. You can check the upcoming events at http://www.romantso.gr/
 
@@ -507,7 +509,7 @@ Romantso is the former office building of the homonymous brochure and is located
 
 **Drunk Sinatra**
 
-<img src="media/drunkSinatra.jpg" alt="drunkSinatra" width="500"/>
+<img src="media/drunkSinatra.jpg" alt="Drunk Sinatra" width="500"/>
 
 This hidden all day bar with its vintage theme is located close to the popular night spots of Kolokotroni Street and has been a hit with the locals from the day it opened. Paying homage to old “blue eyes”, this long narrow bar sees patrons spilling out onto the pavement, where additional tables and chairs are set up and are well serviced. Its décor and cocktail list are inspired by the ‘50s and ‘60s and has a fun relaxed atmosphere. Many start the night here before moving on to the next hotspot.
 
@@ -516,7 +518,7 @@ This hidden all day bar with its vintage theme is located close to the popular n
 
 **360 Cocktail Bar**
 
-<img src="media/360_cocktail_bar.jpg" alt="360_rooftop" width="500"/>
+<img src="media/360_cocktail_bar.jpg" alt="360 Cocktail Bar" width="500"/>
 
 The name of this place says it all. 360 Degrees is a lush rooftop garden and cocktail bar with a unique industrial design that gives guests panoramic views of the entire city and the Acropolis. Right on Monastiraki Square, just steps away from the Monastiraki Flea Market, 360 Degrees is the place to go to for some dining and drinks with the best view of Athens, hands down!
 
@@ -528,7 +530,7 @@ In order to enjoy the beauty of the city, you have to walk. So here are some tou
 
 **Stavros Niarchos Foundation SNF**
 
-<img src="media/snf.jpg" alt="drawing" width="500"/>
+<img src="media/snf.jpg" alt="SNF" width="500"/>
 
 Named after the founder of the construction the Stavros Niarchos Foundation was established in May of 2019 and so it offers some of the most modern facilities. The foundation is famous for
 its enormous halls and spectacular events. Due to its advanced amenities, the national library transported all their books there and now you can enjoy a good book while being there. Setting
@@ -545,7 +547,7 @@ all these cool features apart, the foundation offers a great place for long walk
 
 **Monastiraki**
 
-<img src="media/downtown.jpg" alt="drawing" width="500"/>
+<img src="media/downtown.jpg" alt="Monastiraki" width="500"/>
 
 Photo by Adrian Dascal on Unsplash
 
@@ -556,7 +558,7 @@ Plaka is full of people, colours and music! With the “tavernas” (typical Gre
 
 **Kifissia**
 
-<img src="media/kifissia.jpg" alt="drawing" width="500"/>
+<img src="media/kifissia.jpg" alt="Kifissia" width="500"/>
 
 Just 14km from downtown Athens – or a short, 35-minute ride from Monastiraki on the electric railway (HSAP), Kifissia is a great choice for an action-packed day. Enjoy glamorous shopping, admire wonderful art, dine at a restaurant and study a fascinating mix of centuries-old mansions. Here you can relish cool air, abundant greenery and a sense of nonchalant affluence that is light years away from the sometimes overwhelming chaos of the city center. While Kifissia’s boutiques may be the exclusive domain of the elite, there is an abundance of things to discover and explore beyond shopping.
 
@@ -564,7 +566,7 @@ Just 14km from downtown Athens – or a short, 35-minute ride from Monastiraki o
 
 #### <a name="koukaki"></a>**Koukaki**
 
-<img src="media/koukaki.jpg" alt="drawing" width="500"/>
+<img src="media/koukaki.jpg" alt="Koukaki" width="500"/>
 
 This residential neighborhood, located at the foot of the Acropolis and the Filopappou Hill, is a combination of authenticity, convenience and entertainment. One of Koukaki’s highlights is the blend of architectural styles it contains. With its mismatch of neoclassical houses, low-rise buildings dating from the 1930s and post-1970s apartment blocks, Koukaki includes small shops, traditional restaurants, art galleries, museums and colorful bars and cafes. After a leisurely stroll around the streets, you can be sure to always find a café with a couple of tables and chairs set up outside where we suspect your coffee break will quickly turn into an impromptu lunch. Whether you are on your own or with friends, looking to celebrate a special occasion or simply want to hang, Koukaki has it all.
 
@@ -572,7 +574,7 @@ This residential neighborhood, located at the foot of the Acropolis and the Filo
 
 **Thisseio**
 
-<img src="media/thisseio.jpg" alt="drawing" width="500"/>
+<img src="media/thisseio.jpg" alt="Thisseio" width="500"/>
 
 Picture-perfect Thisseio is an ideal district for relaxing strolls and evening walks with views over century-old monuments. In addition to Filopappou Hill, the pedestrian street of Dyonisus Areopagitou and the lines of street vendors selling crafts and jewelry are just some of the highlights. Green, quiet and charming, Thisseio has also its fair share of cafés, bars and restaurants, where during the warm days, you can find a quiet corner on a terrace to enjoy a great book or an intense conversation with your friends. And just when you thought you knew everything about Thisseio, it surprises you with its small collection of museums, such as the Herakleidon Museum of Visual Arts, housed in a neoclassical mansion, or the "Stoa of Attalos Museum", located in the Ancient Agora.
 
@@ -580,7 +582,7 @@ Picture-perfect Thisseio is an ideal district for relaxing strolls and evening w
 
 **Flisvos Marina**
 
-<img src="media/flisvosMarina.jpg" alt="drawing" width="500"/>
+<img src="media/flisvosMarina.jpg" alt="Flisvos Marina" width="500"/>
 
 Around Flisvos Marina area, just a few miles away from Syntagma square, you can enjoy at the same time the seaview, high quality food and your walk along the beach. Moreover, one could immerse themselves in plenty more activities, such as riding a bicycle, jogging and walking. The historic battleship “Georgios Averof”, which operates as floating naval museum, is located right next to it. Not too far from it, Water Plaza (Plateia Nerou) is situated, in which – mainly during the summer months – festivals and concerts take place.
 
@@ -588,7 +590,7 @@ Around Flisvos Marina area, just a few miles away from Syntagma square, you can 
 
 **Filopappou Hill**
 
-<img src="media/filopappou.jpg" alt="drawing" width="500"/>
+<img src="media/filopappou.jpg" alt="Filopappou Hill" width="500"/>
 
 Filopappou hill, also called the Hill of the Muses, is the perfect spot for a stroll especially at sunset! The hill offers a breathtaking view to the Saronic Gulf and of course and a really advantaging point to take a photo of the Acropolis. Of course there is a lot of history hidden in this hill. The monument of Filopappos, which identifies the hill, was built between AD 114 and 116 in honour of Julius Antiochus Filopappos, a prominent Roman consul and administrator.
 
@@ -596,7 +598,7 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 **Pasalimani - Marina Zeas**
 
-<img src="media/pasalimani.jpg" alt="pasalimani" width="500"/>
+<img src="media/pasalimani.jpg" alt="Pasalimani" width="500"/>
 
 Looking for a place near the sea to spend your day? Pasalimani or Marina Zeas is your answer.  
 Pasalimani or Marina Zeas is the second biggest port of Pireaus.  In the ancient times, it was the biggest military harbour.  Nowadays, it is said that is the center of amusement of Pireaus. There you can enjoy the beauty of the sea while walking around the port or by visiting one of the plenty of restaurants, coffee shops and shops around the port and Kanari’s square.
@@ -606,7 +608,7 @@ Pasalimani or Marina Zeas is the second biggest port of Pireaus.  In the ancient
 
 **Psyri**
 
-<img src="media/psyri.jpeg" alt="psyri" width="500"/>
+<img src="media/psyri.jpeg" alt="Psyri" width="500"/>
 
 Psyri or Psiri is a colorful neoclassical neighborhood known for its artisans, specialty stores, restaurants, bars, tavernas with or without live music, theaters, art galleries, antique shops, and a small number of hotels. Following the liberation of Greece from the Turkish occupation in 1833, several veteran freedom fighters and immigrants from the provinces settled here. They opened cottage industries and workshops, which have given the area a distinctive character. The central square of Psyri is called "Heroes Square" because the streets leading to it carry names of heroes of the Independence War.
 
@@ -615,7 +617,7 @@ Psyri or Psiri is a colorful neoclassical neighborhood known for its artisans, s
 
 **The Acropolis Museum**
 
-<img src="media/acropolisMuseum.jpg" alt="drawing" width="500"/>
+<img src="media/acropolisMuseum.jpg" alt="The Acropolis Museum" width="500"/>
 
 The Acropolis Museum is consistently rated as one of the best museums in the world. Devoted to the Parthenon and its surrounding temples, it is cleverly perched above Athens like a luminous box. The large glass panes beautifully draw in the ancient and modern parts of the city, making it a must-see building and a wonderful place to visit. It wasdesigned by New York’s, Bernard Tschumi, with local Greek architect Michael Photiadis, it is focused on the findings of the archaeological site of the Acropolis of Athens and successfully deconstructs how the Parthenon sculptures once looked to the citizens of ancient Athens.
 
@@ -624,7 +626,7 @@ The Acropolis Museum is consistently rated as one of the best museums in the wor
 
 **National Archaeological Museum**
 
-<img src="media/nationalMuseum.jpg" alt="drawing" width="500"/>
+<img src="media/nationalMuseum.jpg" alt="National Archaeological Museum" width="500"/>
 
 The National Archaeological Museum of Athens, built between 1866 and 1889, was initially named the Central Museum. It was first established to display the numerous findings dating from the beginning of Prehistory to Late Antiquity excavated in Athens and its surroundings. In later years, it housed objects from all over the country. During World War II, the imposing neoclassical building was closed, and its pieces were placed in wooden boxes and buried to avoid the German troops from looting them. Once the war was over, the museum was reopened in 1945.
 
@@ -636,7 +638,7 @@ The collection is displayed along the museum’s two floors and is divided into 
 
 **Byzantine and Christian Museum**
 
-<img src="media/byzantinemuseum.jpg" alt="drawing" width="500"/>
+<img src="media/byzantinemuseum.jpg" alt="Byzantine and Christian Museum" width="500"/>
 
 The Byzantine and Christian Museum, which is based in Athens, is one of Greece’s national museums. Its areas of competency are centred on – but not limited to – religious artefacts of the Early Christian, Byzantine, Medieval, post-Byzantine and later periods which it exhibits, but also acquires, receives, preserves, conserves, records, documents, researches, studies, publishes and raises awareness of.
 
@@ -649,7 +651,7 @@ The museum has over 25,000 artefacts in its possession. The artefacts date from 
 
 **Benaki Museum**
 
-<img src="media/benaki.jpg" alt="benaki" width="500"/>
+<img src="media/benaki.jpg" alt="Benaki Museum" width="500"/>
 
 Benaki's museum is one of the top museum in Athens.What you will see inside of the museum is a presentation of Greek Culture of history in art of the Greek world from the prehistory to the 20th century ,up to 6.000 object.Apart from Greek Culture what will you see is also  culture from Asians world and in the end you will be seeing ancient sculptures from Byzantium
 
@@ -659,7 +661,7 @@ Benaki's museum is one of the top museum in Athens.What you will see inside of t
 
 **National Observatory**
 
-<img src="media/observatory.jpg" alt="drawing" width="500"/>
+<img src="media/observatory.jpg" alt="National Observatory" width="500"/>
 
 About 18km outside the center of Athens, is the National Observatory of Athens. It is operation since 1995 and has been hosting visitors for years. The main goal of the Observatory is to spread the astrophysics knowledge we have, to the visitors, in the simplest way possible.
 
@@ -669,24 +671,24 @@ The location of the Observatory offers a panoramic view of Athens which is breat
 
 Apart from all the tours you can do on your own, you can also join some organized walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
 
-[!(<img src="media/freetour.jpg" alt="drawing" width="500"/>)](https://www.youtube.com/watch?v=KphBnQum_4w)
+[!(<img src="media/freetour.jpg" alt="Free Tour" width="500"/>)](https://www.youtube.com/watch?v=KphBnQum_4w)
 
 **Athens Street Art Free tour**
 
-<img src="media/athens-street-art-tour-of-exarchia.jpg" alt="Street art in athens" width="500"/>
+<img src="media/athens-street-art-tour-of-exarchia.jpg" alt="Athens Street Art Free Tour" width="500"/>
 This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist will let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
 
 
 **Athens free Food tour**
 
-<img src="media/street-food-tour.jpg" alt="Food tour in athens" width="500"/>
+<img src="media/street-food-tour.jpg" alt="Athens Free Food Tour" width="500"/>
 
 Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
 
 
 **Walk in Beautiful and Secret Athens**
 
-<img src="media/morning-walk-in-beautiful-and-secret-athens.jpg" alt="Secret athens" width="500"/>
+<img src="media/morning-walk-in-beautiful-and-secret-athens.jpg" alt="Secret Athens" width="500"/>
 
 Discover the beauty of the city through a small hidden in the heart of Athens.It will make you travel in the cyclades for a few minutes,  then live the beauty of ancient Greece and discover a district very loved by the locals day and night.You will also have many tips for the continuation of your stay in the city or on some islands, this tour is not a tour on the history of Athens but on modern Athens with of course anecdotes on the history of the city.
 
@@ -696,7 +698,7 @@ Discover the beauty of the city through a small hidden in the heart of Athens.It
 
 **Saint George Square**
 
-<img src="media/aggeorgiou.jpg" alt="Secret athens" width="500"/>
+<img src="media/aggeorgiou.jpg" alt="Saint George Square" width="500"/>
 
 The perfect escape from the cities crazy lifestyle, car fumes and noisy streets Saint George square or "Plateia Agiou Georgiou" is the perfect representation of a greek county village. There is a cool cafe, a barbershop, a mini market, a restaurant and probably the most important part, a souvlaki place all located around the circle square. Every weekend the square is more alive than ever, with kids playing in front of the church and every cafe and restaurant is filled with people escaping from everyday life.
 
@@ -726,7 +728,7 @@ Athens is famous for its history and its numerous monuments and museums, you don
 
 >The most famous historical monument in Greece
 
-<img src="media/acropolis.jpg" alt="drawing" width="500"/>
+<img src="media/acropolis.jpg" alt="Acropolis" width="500"/>
 
 The Acropolis of Athens is the most famous historical monument in Greece. It was constructed in the mid 5th century BC, also known as the Golden Century of Athens. Although the most famous building on the Acropolis is the Parthenon, there are many other buildings, like the Propylaea, the Erechtheion and the Temple of Athena Nike. The Acropolis was entirely made of the finest Pentelic marble and by the best craftsmen of the era. Along the centuries that followed, it was largely destroyed by wars. The greatest destructions were in 1687 by a Venetian gun, and in 1816 when Lord Elgin removed many parts of the Parthenon frieze.
 
@@ -734,7 +736,7 @@ The Acropolis of Athens is the most famous historical monument in Greece. It was
 
 **Parthenon**
 
-<img src="media/parthenon.jpg" alt="drawing" width="500"/>
+<img src="media/parthenon.jpg" alt="Parthenon" width="500"/>
 
 This magnificent temple on the Acropolis of Athens was built between 447 and 432 BCE in the Age of Pericles, and was dedicated to goddess Athena, the city's patron. It was designed by architects Iktinos and Kallikrates, while the sculptor Pheidias supervised the entire building process and conceived the temple's sculptural decoration and [chryselephantine statue of Athena](https://en.wikipedia.org/wiki/Athena_Parthenos). The temple is considered to be the epitome of Classical Greece.
 
@@ -743,7 +745,7 @@ This magnificent temple on the Acropolis of Athens was built between 447 and 432
 
 **Erechtheion**
 
-<img src="media/erechtheion.jpg" alt="drawing" width="500"/>
+<img src="media/erechtheion.jpg" alt="Erechtheion" width="500"/>
 
 The Erechtheion is an ancient Greek temple located on the north side of the Acropolis. The temple was erected in 421-406 BC and was dedicated to both Athena and Poseidon. In particular, the eastern part of the building was dedicated to Athena Polias, while the western part served the cult of Poseidon-Erechtheus and held the altars of Hephaestus and Voutos, brother of Erechtheus.
 
@@ -754,7 +756,7 @@ On the north side of the temple, there is the famous "Porch of the Maidens", wit
 
 **Temple of Poseidon**
 
-<img src="media/templeofposeidon.jpg" alt="drawing" width="500"/>
+<img src="media/templeofposeidon.jpg" alt="Temple of Poseidon" width="500"/>
 
 One of the most stunning views all over Greece as well as a monument difficult to forget. Located at the southernmost tip of Attica the Temple of Poseidon is build to impress and educate us about history. Stories around this temple involve King Menelaus who stopped there on his way back from Troy and King Aegeus who had the unfortunate fate of drowning on that spot, thus giving his name to the Aegean Sea.
 
@@ -765,7 +767,7 @@ Organizing a trip to the Temple of Poseidon is worth your time but making the mo
 
 **Panathenaic Stadium**
 
-<img src="media/panathenaic-stadium.jpg" alt="drawing" width="500"/>
+<img src="media/panathenaic-stadium.jpg" alt="Panathenaic Stadium" width="500"/>
 
 The Panathenaic Stadium, or Kallimarmaro is another famous attraction in Athens. It’s located in front of Zappeion Park’s Southern entrance. It was built around 330 BC and it was where ancient Athens’ Panathenaic Games were celebrated. After being left abandoned for centuries, it was refurbished in late 19th century using Penteli marble, the same as the one used on the Acropolis. The name Kallimarmaro literally translates to “beautiful marble”, which is aptly named as it is famous for being the world’s only stadium made entirely out of marble. Its rich history is directly connected to the Modern Olympic Games as from their revival in 1896 until the Athens Olympic Games in 2004. It is also the place from where the Olympic flame sets up its journey to the cities of the Olympic Games, both Winter, Summer and Youth. From its highest tiers you can see the Acropolis and the National Garden.
 
@@ -774,7 +776,7 @@ The Panathenaic Stadium, or Kallimarmaro is another famous attraction in Athens.
 
 **Changing of the Guard at Syntagma Square**
 
-<img src="media/tsoliades.jpg" alt="drawing" width="500"/>
+<img src="media/tsoliades.jpg" alt="Syntagma" width="500"/>
 
 For many tourists, watching the Changing of the Guard at Syntagma Square is an exciting and memorable experience. The Soldiers of the Presidential Guard stand in front of the Hellenic Parliament on Syntagma Square 24 hours a day, year-round. The guards wear traditional costumes complete with pleated skirts, leg tassels, and pompom shoes.
 
@@ -789,7 +791,7 @@ Athens has many things to do for athletics individuals too! From walking to our 
 
 **Kartland**
 
-<img src="media/kartland.jpg" alt="drawing" width="500"/>
+<img src="media/kartland.jpg" alt="Kartland" width="500"/>
 
 One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!! It is the 1st track in Greece to implement a self-timer system and light board in every kart! Please note that all drivers are required to wear a helmet and a disposable cap through the helmet for hygiene reasons. Kartland is located in Pallini, Athens and is easily accessible by car or by public transportations, using the metro and the bus.
 
@@ -801,7 +803,7 @@ Going hiking is a great way to explore and get to know Athens! There are a lot o
 
 Sounion National Park
 
-<img src="media/sounionpark.jpg" alt="drawing" width="500"/>
+<img src="media/sounionpark.jpg" alt="Sounion National Park" width="500"/>
 
 Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. Lying about 50km south-east of Athens, the  Sounion National Park hosts relics of ancient silver, lead and zinc mines, as well as cave fossils unique to the whole of Greece. Inside the park you will find a magnificent and easy trail which starts near the Agios Konstantinos village(you will usually find a parking spot there), it surrounds the dramatic Chaos gulch (a collapsed ancient cave), it continues briefly on tarmac and then the view opens and you can see the city of Lavrion as well as the islands of Makronisos and Kea. The path arrives at the church of Agia Triada, where you will find natural spring water. From there, a dirty old road will lead you to the ancient mines' washing plants and tanks and then you will come across Kitsios cave. Finally, north of Poseidon's temple you will fing the rocky outcrops of Mavro Lithari and Vasilopoula.
 
@@ -820,7 +822,7 @@ If interested in finding specific trails in the mountain [Click here!](https://w
 
 **Marathon Lake**
 
-<img src="media/marathon.jpg" alt="marathonas" width="500"/>
+<img src="media/marathon.jpg" alt="Marathonas Lake" width="500"/>
 
 Wanna spend a peaceful day out of the center? Marathon is the perfect place to visit! Almost 25km out of Athens , and easily being transpoted with the bus,you will get your time of your life in these calming watters of Marathon. Make sure you visit also Marathon Tomb , where the great battle of Marathon happened!
 
@@ -829,7 +831,7 @@ Wanna spend a peaceful day out of the center? Marathon is the perfect place to v
 
 **Lycabettus hill**
 
-<img src="media/lycabettus.jpg" alt="drawing" width="500"/>
+<img src="media/lycabettus.jpg" alt="Lycabettus Hill" width="500"/>
 
 Lycabettus hill is the highest point in the center of Athens. At the top of the hill, you can dine in the restaurant and visit the church of Agios Georgios. There are 3 ways to reach the top:
 
@@ -845,7 +847,7 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 
 **Skydive Athens**
 
-<img src="media/skydive.jpg" alt="skydive" width="500"/>
+<img src="media/skydive.jpg" alt="Skydive" width="500"/>
 
 Are you a extreme person? Then Skydive Athens is the perfect place to fall from 14.000 ft ,but fear not because you will be receiving plenty of informations from the instructors! Is it by far the most memorable thing to do! There are also other options to do such as jumping from 8.000 ft. And at last,what Skydive athens offers is a package to teach you to make your own skydive without any instructors attached to you! To get there you will have to take a bus from KTEL Liosion to Kastro Viotias,but everything will be set,because a special bus will pick you immediatly after your arrival
 
@@ -854,7 +856,7 @@ Are you a extreme person? Then Skydive Athens is the perfect place to fall from 
 
 **Paintball Park Malakasa**
 
-<img src="media/paintball.jpg" alt="drawing" width="500"/>
+<img src="media/paintball.jpg" alt="Paintball Park" width="500"/>
 
 If you are in Athens and you are searching for an alternative way of fun, this is the best place for you! Paintball Park Malakasa is an area of 150 acres and it constitutes the biggest Paintball Park of Greece and one of the biggest if not the biggest in Europe. There are two independent areas, Paintball NEST, for friends and teams, and Paintball Park EVENT, for kid's parties and events. Both areas promise to offer moments of action, decompression and joy to any type of groups. The park is ready to serve every paintball scenario needed in order to fulfill its customers to the fullest! You will find formed forest fields, with army jeep, bulwarks, bridges, wooden homes, small rivers, fortresses, minefields, sniper position, observatories, stone village etc. It is only 25 minutes far from Athens and you can access the area by car, bus or train. More details on how to get there in the link below!
 
@@ -862,7 +864,7 @@ If you are in Athens and you are searching for an alternative way of fun, this i
 
 **The National Garden and Zappeion**
 
-<img src="media/garden.jpg" alt="nationalgarden" width="500"/>
+<img src="media/garden.jpg" alt="National Garden" width="500"/>
 
 Nothing is better than a wonderful walk through National Garden and Zappeion near Syntagma! The National Garden of Athens is a large green-space of over 160.000 square meters adorned with over 500 types of plants and trees from all over the world.The park is a picturesque green lung filled with flowers, shrubs, ancient trees and green meadows where to relax during the warm summer days. The National Garden’s most famous sights include a small pond, which is home to numerous water birds, a botanical garden, the remains of historical monuments and even a small zoo.
 Easily access due to the location which is near the Syntagma Metro station and behind the Greek Parliament!
@@ -873,7 +875,7 @@ Address: Leoforos Amalias 1, Athens 10557 Greece
 
 **Allou Fun Park**
 
-<img src="media/alloufunpark.jpg" alt="drawing" width="500"/>
+<img src="media/alloufunpark.jpg" alt="Allou Fun Park" width="500"/>
 
 Allou Fun Park is the most famous entertainment park in Athens. There you can experience plenty of action activities that will boost your adrenaline and make you have the time of your life. Allou Fun Park covers a wide range of ages where kids and adults can go and try a large variety of action and horror games such us star flyer, sock tower and the famous house of fear. Allou Fun Park is located at Petrou Ralli avenue at Rentis region.
 
@@ -882,7 +884,7 @@ Allou Fun Park is the most famous entertainment park in Athens. There you can ex
 
 **Attica Zoological Park**
 
-<img src="media/AtticaZoologicalParkGallery.png" alt="drawing" width="500"/>
+<img src="media/AtticaZoologicalParkGallery.png" alt="Attica Zoological Park" width="500"/>
 
 Attica Zoo Park is open the whole year from 9 am until sunset. With around 400 different varieties of animals, it also offers a great variety and there is something for everyone to see whichever animal they like. Do you want to check out the animals before? Then just have a look [here](https://www.atticapark.com/en/animals). Before each visit it is recommended to check [here](https://www.atticapark.com/en/visitus/opening-hours-activities.297.html) the current feeding schedule, as it changes depending on the season and day of the week. But getting hungry yourself? The zoo also offers a small café where you can sit down and enjoy a drink or snack.
 
@@ -900,7 +902,7 @@ Address: At Yalou Spata, Αθήνα 190 04 - Otherwise the zoo can also be reach
 
 **Sounio**
 
-<img src="media/sounio.jpg" alt="drawing" width="500"/>
+<img src="media/sounio.jpg" alt="Sounio" width="500"/>
 
 Cape Sounion is best known as the site of the ruins of the ancient Greek temple of Poseidon, the god of the sea. The remains are perched on the headland, surrounded on three sides by the sea. The site is a popular day-excursion for tourists from Athens, with sunset over the Aegean Sea, as viewed from the ruins, a sought-after spectacle.
 
@@ -930,7 +932,7 @@ the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD
 
 **Rocks of Acropolis**
 
-<img src="media/vrahakia.jpg" alt="drawing" width="500"/>
+<img src="media/vrahakia.jpg" alt="Rocks of Acropolis" width="500"/>
 
 The rocks of Acropolis, otherwise called "Vrahakia" are a really popular spot for millions of tourists that the capital of Greece welcomes on a yearly basis. Everybody takes the chance to take a photo of the city view, feauting numerous buildings and also the Acropolis on the other side, or to even take a photo of themselves with the scenery. Also, this area is well known for dates and couples in general, who prefer to hang out in a quieter place than the hectic coffee shops of the center. Everyone, including families and children love to observe the view there along with a can of beer and afterwards enjoy a budget-friendly stroll around the city.
 
@@ -951,6 +953,14 @@ Super Sprint for children
 *Location:*[Olympic Rowing Schinias](https://goo.gl/maps/u9u1oMHeKrxLH7iZ6) |
 *Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/diathlo_sprint_standard)
 
+**Kyma Surf School**
+
+<img src="media/kymasurf.jpg" alt="kyma" width="500"/>
+
+Kyma surf school based in Athens is a mobile surf school and open all year round for all ages.From the beginner who looking for a fun and an easy way to experience surfing to the intermediate surfer to improve their technique and ability, the friendly KYMA surf school are ready to help.Let us show you that surfing is all about fun. We teach you in small, easy waves, over a sandy bottom with proper equipment, and guaranteed smiles.
+
+*Information retrieved from:* [kymasurfschool](https://www.kymasurfschool.gr/surf-lessons)|
+*Photo retrieved from:* [Google](https://www.google.com/search?q=kyma+surf&sxsrf=ALeKk01RSKCGxl7Obv2Oj2Osr21biXZdgw:1583882709952&source=lnms&tbm=isch&sa=X&ved=2ahUKEwirmKvyhpHoAhWdxcQBHa7qAZ8Q_AUoAnoECAsQBA&cshid=1583882727586378&biw=1536&bih=754#imgrc=FDZnjouuuRNABM)
 
 ## <a name="shopping"></a>Shopping
 
@@ -958,7 +968,7 @@ There are a lot of places where you can go shopping in Athens! Below you can fin
 
 **The Mall Athens**
 
-<img src="media/mallAthens.jpg" alt="drawing" width="500"/>
+<img src="media/mallAthens.jpg" alt="The Mall Athens" width="500"/>
 
 Of course, if you want to go shopping in Athens you can't miss the largest shopping mall in the city! This mall brings together over 200 different shopping, entertainment and dining options. In its 4 floors you can find many famous brands, restaurants, cafés, cinemas and entertainment spaces for the whole family. It is easily accessible, since you can go there by car with a huge parking lot or public transportations using the train at the Stop Neratziotissa you just climb up the stairs.
 
@@ -966,7 +976,7 @@ Of course, if you want to go shopping in Athens you can't miss the largest shopp
 
 **Ermou street**
 
-<img src="media/ermou.jpg" alt="drawing" width="500"/>
+<img src="media/ermou.jpg" alt="Ermou" width="500"/>
 
 Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos with Syntagma Square through Monastiraki. The east side of the street is a pedestrian road and a very busy shopping street. Walking down Ermou street you cannot only shop from famous brands that are located there but you can also find a lot of places to rest, such as restaurants and cafés. Since it is located in the city center it is easily accessible through public transportations(bus, metro, train). You can also visit Ermou street before or after sightseeing in the city center, like Acropolis or Parthenon, and you can dine in the Monastiraki or Syntagma Square, that are really close to the street.
 
@@ -975,7 +985,7 @@ Ermou street is 1,5 km long road in the center of Athens, connecting Kerameikos 
 
 **Golden Hall**
 
-<img src="media/golden-hall2.jpg" alt="drawing" width="500"/>
+<img src="media/golden-hall2.jpg" alt="Golden Hall" width="500"/>
 
 Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful building of three tiers which houses more than 140 fashion stores, making it perfect for anyone looking for a shopping experience. What makes it unique is that at Golden Hall, one can find the most expensive brands (Ralph Lauren, Carolina Herrera etc.) and visit fast fashion stores (Zara, American Eagle etc.) at the same place. Aside from the fashion stores, you will come across various cafeterias and restaurants that can satisfy all tastes, such as Wagamama, Ben & Jerry's, TGI Friday's and many more. There is also a huge underground car park with more than 1500 spaces, so you won't have to wonder around looking for a parking spot. However you can also get there using public transportation.
 
@@ -984,7 +994,7 @@ Right on Kifissias Avenue (Maroussi),Golden Hall is an extraordinarily beautiful
 
 **Athens Metro Mall**
 
-<img src="media/metromall.jpg" alt="drawing" width="500"/>
+<img src="media/metromall.jpg" alt="Athens Metro Mall" width="500"/>
 
 Athens Metro Mall is one of the most popular shopping mall in Athens. With more than 90 fashion stores, Athens Metro Mall becomes an ideal place for anyone who is seeking an amazing and unique experience of shopping therapy. In Athens Metro you will come across a large variety of cafeterias and restaurants where you can go and enjoy your coffee and your meal after a long and an exhausting day of shopping therapy. If you are a movie lover, then on the 3rd flor of Athens Metro Mall you will find Village Cinemas where you can go and watch the latest releases of Hollywood movies and many more. Athens Metro Mall is located near the subway station of Agios Dimitrios in Athens.
 
@@ -993,7 +1003,7 @@ Athens Metro Mall is one of the most popular shopping mall in Athens. With more 
 
 **Antiques in Monastiraki**
 
-<img src="media/shop-antiques.jpg" alt="antiques" width="500"/>
+<img src="media/shop-antiques.jpg" alt="Antiques" width="500"/>
 
 Are you a lover of old things and want to get the best antiques at the best prices? In Abysinia Square (in Monastiraki) you will find everything from beautiful expensive 19th Century furniture to totally worthless 20th century junk all displayed in a wonderfully disorganized fashion.
 
@@ -1013,7 +1023,7 @@ Voukourestiou Street is the most high-end street of Athens. You can find luxury 
 
 **McArthur Glen**
 
-<img src= "media/mcarthur-glen.jpg" alt="drawing" width="500"/>
+<img src= "media/mcarthur-glen.jpg" alt="McArthur Glen" width="500"/>
 
 With more than 100 shops, cafes and restaurants, McArthurGlen Discount Village is the first and leading discount village in Greece, with favorite designer brands renewing your style and mood, up to 70% cheaper. Discover our services and enjoy a great day in the discount village.
 
@@ -1026,7 +1036,7 @@ While you are in Athens you can have fun and enjoy your time there, doing a lot 
 
 **Great Escape Rooms**
 
-<img src="media/greatescape.jpg" alt="drawing" width="500"/>
+<img src="media/greatescape.jpg" alt="Great Escape Rooms" width="500"/>
 
 If you don't know already what escape rooms are about, I can personally guarantee you that you are going to have a lot of fun while you are "locked" inside a theme room(approximately 1 to 2 hours). Great Escape Rooms is the biggest real life escape room game in Athens. The whole idea behind these rooms is that teams consisting of 2-8 people focus on completing a certain task within the given timeframe by overcoming obstacles and solving puzzles. In some challenges there is an actor or many actors inside this room with you, helping you out or the exact opposite. Of course, some of these challenges are scaring, but if you are too afraid to get locked inside a "haunted" room, don't worry there are also rooms that are not scaring at all. These rooms will expand your imagination and exercise your perceptual skills as well. Thus, you will not activate only your mind but all of your 5 senses. In extreme cases, you may need to be athletic in order to enter a certain type of room. Great Escape Rooms are located in Psirri, really close to the Monastiraki square, so it is very easily accessible through by the metro or by train.
 
@@ -1035,7 +1045,7 @@ If you don't know already what escape rooms are about, I can personally guarante
 
 **Ice Skating in Megaron**
 
-<img src="media/iceskating.jpg" width="500"/>
+<img src="media/iceskating.jpg" alt="Ice Skating in Megaron" width="500"/>
 
 If it happens to visit Athens in the winter, Ice Skating is one thing you must do! I know that in Athens is not snowing and is mostly known for the sun and the good weather, but it would be really fun for you to go there. Even if you haven't tried it before, don't worry there are people there willing to help you learn the basics and have the best time ever. At first, it will be difficult but once you understand how you can move and become better at this, you will not want to leave the place! And you can actually do that, since you pay 10 euros for unlimited time, so you can move around the ice skating area until you are too tired. It is a really fun place, you will laugh a lot and spend a great time with your friends and family. And remember if they hesitate show them this article!
 
@@ -1043,7 +1053,7 @@ If it happens to visit Athens in the winter, Ice Skating is one thing you must d
 
 **The VR Project**
 
-<img src="media/vr.jpg" alt="drawing" width="500"/>
+<img src="media/vr.jpg" alt="VR Project" width="500"/>
 
 Virtual Reality is a simulated experience that can be similar to the real world. It can be applied for entertaining or educational purposes. While you are on a trip you want to have fun so let's focus on the entertainment part. The VR Project is the first virtual reality center in Greece. It is placed in the city center, and specifically at Monastiraki. The VR Project is available with individual or multiplayer adventures. The suggested duration for this experience is 1 to 2 hours and we guarantee you that this is the best place to get a first try or re-discover the potential of this new technology. You can choose from different categories what you want to do, for example you can visit a place really far from here if you are a fan of travelling. From a personal experience, if you are fan of video games that is the best place for you. You will discover a whole different perspective of your favourite video games. My suggestion for you is to pick a scary video game: your heartbeat is going to raise, your palms are going to get sweaty and get frightened by the plot of the video game that you have chosen, since the experience is too real and you will think that you are a part of this video game. But even if you don't want that, whatever video game you choose it is a experience worth living!
 
@@ -1051,7 +1061,7 @@ Virtual Reality is a simulated experience that can be similar to the real world.
 
 **Museum of Illusions**
 
-<img src="media/museumIllusions.jpg" alt="drawing" width="500"/>
+<img src="media/museumIllusions.jpg" alt="Museum of Illusions" width="500"/>
 
 Museum of Illusions is the perfect place for fun and new experiences for friends and family. Illusion have delighted all generations, from children to parents and grandparents, so the whole family can enjoy their time there. The museum brings you a space suitable both for social and entertaining tours into the world of illusions. Museum of Illusion is placed in the city center, really close to the Monastiraki metro and train station so it is very easily accessible using the public transportations. If you walk by it or you have a free time while you are walking in the center of Athens and enjoying the  sun please make sure you visit this place.
 
@@ -1060,7 +1070,7 @@ Museum of Illusions is the perfect place for fun and new experiences for friends
 
 **Cine Paris**
 
-<img src="media/cineparis.jpg" alt="drawing" width="500"/>
+<img src="media/cineparis.jpg" alt="Cine Paris" width="500"/>
 
 What a better way to enjoy your evening than watching a movie in a rooftop garden Cinema. If you are visiting Athens from May to October then I highly recommend you go there. It is a beautiful place in Plaka, where you can watch a movie under the stars, with the Acropolis lit on your left. Plaka is a beautiful and very interesting area in Athens and you can get there using the train station that it is located in the heart of Plaka. You can choose to watch the movie either tables in the stalls, or small private balconies. There are a lot of different kinds of movies playing and they change every now and then, so choose your favourite one and come watch it. Most of the movies are in English with Greek subtitles, so you don't have a problem keeping up with the movie and its plot. If you are a fan of movies and cinemas don't miss this place, it is totally worth it! And don't forget, there is a snack bar waiting for you to get your drinks and snacks.
 
@@ -1069,7 +1079,7 @@ What a better way to enjoy your evening than watching a movie in a rooftop garde
 
 **Playhouse**
 
-<img src="media/playhouse.jpg" alt="drawing" width="500"/>
+<img src="media/playhouse.jpg" alt="Playhouse" width="500"/>
 
 You are downtown in Athens and you want to have fun with your friends or family; I have the best place for you! Playhouse is really close to the Monastiraki train and metro station(4 minutes on foot), so it should be really easy for you to access the place. Polite and friendly people are ready to welcome you to the store and make sure you have a great time there. You can play a whole lot of different kind of games, from speed and puzzle to strategy and memory. It is a big place so whatever category you choose from there are a lot of games for you. If you don't know how a game works don't panic there are people there for you to explain all the rules of the game simply and quickly. While you are there don't forget that you can enjoy your drink or food, which is really good. MY personal favourite waffle with chocolate and biscuit, but there are not only sweets there. So if you don't want something sweet I would suggest that you get a club sandwich.
 
@@ -1080,7 +1090,7 @@ You are downtown in Athens and you want to have fun with your friends or family;
 
 **Megaron - The Athens Concert Hall**
 
-<img src="media/megaronConcertHall.jpeg" alt="drawing" width="500"/>
+<img src="media/megaronConcertHall.jpeg" alt="Megaron" width="500"/>
 
 The Athens Concert Hall offers a comprehensive range of facilities for all sorts of cultural activities, designed to the very highest specifications and one of the most impressive venues of its kind anywhere in the world. It offers a forum for all sorts of cultural activities – both artistic and educational.
 
@@ -1090,7 +1100,7 @@ The Athens Concert Hall offers a comprehensive range of facilities for all sorts
 
 **To Treno sto Rouf railway carriage theater**
 
-<img src="media/totreno.jpg" alt="drawing" width="500"/>
+<img src="media/totreno.jpg" alt="Treno Sto Rouf" width="500"/>
 
 The Railway Carriage Theater to Treno sto Rouf is  an innovative and integrated cultural venue. You can find to Treno sto Rouf at the platform of Rouf Railway Station. It consists of nine lovingly-restored old carriages, which are home to a theater stage, a music stage, a restaurant, a foyer, a bar, dressing rooms and utility rooms. The place plays host to theatrical, dance and music performances for children and adults, educational programmes, events, original entertainment, festivals, projects by young artists, exhibitions, screenings, lectures and romantic dinners and theme parties. The suggested duration is 2 to 3 hours.
 
@@ -1176,7 +1186,7 @@ OPENING HOURS
 
 **ADD 2020**
 
-<img src="media/add.jpg" alt="add" width="500"/>
+<img src="media/add.jpg" alt="Add 2020" width="500"/>
 
 *29 May 2020 - 30 May 2020*
 
@@ -1222,16 +1232,16 @@ If you are staying in Athens for a couple of days, it's worth making a day tripa
 
 **Port of Piraeus**
 
-<img src="media/PortofPiraeus.png" alt="drawing" width="500"/>
+<img src="media/PortofPiraeus.png" alt="Port of Piraeus" width="500"/>
 
-From the port of Piraeus you can take the ferries to the surrounding islands. A day trip to the surrounding islands is possible, because of the high number of ferries. The harbour is also close to the metro station Piraeus. 
+From the port of Piraeus you can take the ferries to the surrounding islands. A day trip to the surrounding islands is possible, because of the high number of ferries. The harbour is also close to the metro station Piraeus.
 And as a student you also get some discounts.
 
 *Information and photo are retrieved from:* [TripAdvisor](https://www.tripadvisor.de/Attraction_Review-g189403-d7974687-Reviews-Port_of_Piraeus-Piraeus_Piraeus_Region_Attica.html)
 
 **Arachova**
 
-<img src="media/arachova.jpg" alt="drawing" width="500"/>
+<img src="media/arachova.jpg" alt="Arachova" width="500"/>
 
 Arachova is a traditional village close to Delphi, mostly known as a winter destination.
 
@@ -1241,7 +1251,7 @@ It gets very popular due to the [Ski Centre of Parnassos](https://parnassos-ski.
 
 **Ski Centre of Parnassos**
 
-<img src="media/ski.jpg" alt="drawing" width="500"/>
+<img src="media/ski.jpg" alt="Parnassos" width="500"/>
 
 Speaking of the exotic place of Arachova and, specifically, for Mountain Parnassos, it is a hell of a must-do trip if you are on to an amazing experience. Parnassos is one of the most beautiful mountains in Greece and comes with an amazing sport, skiing. The ski center has 23 tracks, 7 ski runs and 7 trails, totaling approximately 34 kilometers. The slopes are from 50m up to 4 km for beginners, intermediate and advanced skiers. For adventure lovers, there are 12 off-track "black" tracks with really deep snow and a lot of adrenaline.
 
@@ -1267,3 +1277,14 @@ Spetses is one of the most cosmopolitan and picturesque islands in Greece. Locat
 *Information retrieved from:* [Greeka](https://www.greeka.com/attica/athens/tours/t07b-one-day-tour-to-spetses-island/) |
 *Photo retrieved from:* [Greece-is](https://www.greece-is.com/wp-content/uploads/2016/08/SPETSES_YannisLarios_Spetses_IMG_1008.jpg)
 
+## <a name="beach"></a>Beach
+
+Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
+
+**Karavi Schinias**
+
+<img src="media/karavi.jpg" width="500"/>
+
+One of the best and famous beaches in Athens is Schinias. It is a really beautiful place and the waters are crystal clear. Karavi is a beach bar in Schinias beach that elevates the customers' experience! It offers plenty of things to the customer. First of all, you can enjoy your beverage or food in your sunbed. Then, there are a lot of beach volley courts  and if you are lucky enough you can watch professional tournaments that take place there. Last but not least, there are a lot of water sports that one can do there. So as you can see there are lot of ways to enjoy your time there. The only disadvantage of this place is that it is only accessible by car, since it is far enough from metro stations, bus stops etc. But don't let that prevent from enjoying a beautiful sunny day in summer gets wasted.
+
+*Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Attraction_Review-g669631-d6586221-Reviews-Karavi_Schinias_Water_Sports-Marathon_East_Attica_Region_Attica.html)
