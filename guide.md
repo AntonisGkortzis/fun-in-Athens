@@ -155,6 +155,15 @@ Recommended dishes by frequent visitors are the Drunken Chicken Fillets, the fre
 
 For a reservation or openning hours, please visit the following link: https://www.facebook.com/kivelirest
 
+**Rock n Roll**
+
+<img src="media/rocknroll.jpg" alt="RockNRoll" width="500"/>
+
+"The Rock n Roll Restaurant in Kolonaki is one of the most successful places in Athens for nightlife, American-style cuisine and burgers. It has been operating since 1987 as the city's most timeless club restaurant and has loyal personalities. The space is modern, tasteful and mainstream following the rhythm of the night and the city. At the Athens Rock n Roll menu you will find a delectable burger with onions, rice with vegetables and broccoli right, veal steak with red wine, fresh crushed pizza, fresh and vegetarian pasta and New York cheesecake with jam." In Rock n Roll it's more than tasting great food. The atmosphere is amazing and the place embraces something classy. Visit it for your breakfast, lunch or dinner and get a great food experience in Athens.
+
+*Information retrieved from:* [e-table](https://www.e-table.gr/restaurant/rock-n-roll-athens) |
+*Photo retrieved from:* [Lifo](https://www.lifo.gr/articles/athens_articles/171381)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
@@ -172,7 +181,7 @@ A For Athens is an ideal place to enjoy your house special cocktails at night! O
 
 <img src="media/telescope-bar.jpg" alt="drawing" width="500"/>
 
-It’s a marvelous quiet place up on a hill at Chaidari, Athens. It's like love at first sight! You most definately won't need more than a moment to fall in love with this place. Inside the store you will find 21 telescopes which you can use to look at the magnificent view from the Piraeus port to the Olympic Stadium! The ideal spot for a relaxing drink or a dinner!
+It’s a marvelous quiet place up on a hill at [Chaidari, Athens](https://www.google.com/maps/place/%CE%A4%CE%97%CE%9B%CE%95%CE%A3%CE%9A%CE%9F%CE%A0%CE%99%CE%9F/@38.006967,23.6540462,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bb5282459acb:0xbcb04e251a50a81a!8m2!3d38.006967!4d23.6562349). It's like love at first sight! You most definately won't need more than a moment to fall in love with this place. Inside the store you will find 21 telescopes which you can use to look at the magnificent view from the Piraeus port to the Olympic Stadium! The ideal spot for a relaxing drink or a dinner!
 
 *Information retrieved from:* [XPAT ATHENS]( https://www.xpatathens.com/)
 
@@ -265,6 +274,7 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
+<<<<<<< HEAD
 **Six Dogs**                                                                                                                                                                                                                                    <img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    *Information retrieved from:* [SixDogs]  (http://www.sixdogs.gr) |                                                      *Image retrieved from:* [Popaganda] (https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
 
 
@@ -275,6 +285,17 @@ In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. 
 
 *Information retrieved from:* [Nou-Pou] (https://www.nou-pou.gr/ektos-synorwn/pame-kentro/oi-6-pio-omorfes-ayles-sto-meta3oyrgeio/) |
 *Image retrieved from:* [Kathimerini] (https://www.kathimerini.gr/829044/article/epikairothta/ellada/ayles-all-day)
+=======
+**Romantso**
+
+<img src="media/romatso.jpg" alt="romatso" width="500"/>
+
+Romantso is the former office building of the homonymous brochure and is located in the historic shopping center of Athens. It is both an office space for creative start-ups and a cultural center, open to public, with a daily event schedule.The cultural center offers a wide range of events, related to the interests of urban life, music, performance, art, food and conversation. You can check the upcoming events at http://www.romantso.gr/
+
+*Information retrieved from* [Romatso](http://www.romantso.gr/) |
+*Photo retrieved from* [Google](https://www.google.com/search?q=%CF%81%CE%BF%CE%BC%CE%B1%CE%BD%CF%84%CF%83%CE%BF&sxsrf=ALeKk01auHXnsajePHv3ClDG0fnFGJqpjw:1583845072683&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLzr7X-o_oAhVEzqYKHaUKBZQQ_AUoAnoECA4QBA&biw=1536&bih=754#imgrc=fIDG1nB8C9bA_M)
+
+>>>>>>> c9a36c53904ea46478828656a5f16c918ea9906a
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
@@ -760,3 +781,28 @@ During these years, Greek public has been introduced to numerous artistic curren
 
 *Information and photo retrieved from:* [Bernier Eliades](https://bernier-eliades.com/)
 
+**Onassis Cultural Centre**
+
+<img src="media/onassis.jpg" alt="Onassis Cultural Centre" width="500"/>
+
+[Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/) is a contemporary arts space with two high-spec performance halls, an open-air theatre, rooftop restaurant and a performance space. Numerous arts festivals are held here, which explore controversial issues and bold ideas. Theatre, dance, music, cinema, fine arts and literature are only some of the fields that this foundation explores.
+Its internal space consists of 7 floors and 9 underground levels. During the summer, the building's terasse offers an amazing view to the Acropolis, the Lycabettus Hill and the Saronic Gulf.
+
+*Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/)
+*Photo retrieved form:* [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/)
+
+**Hellenic Motor Museum**
+
+<img src="media/hellenic-motor-museum.jpg" alt="Motor Museum" width="500"/>
+
+Hellenic Motor Museum occupies 5.000 sqm. in a unique building in terms of architecture and design. Its exhibitions are dedicated to the evolution of the car and display more than 110 cars from the 19th and the 20th century.
+It is located in the heart of Athens, just a few minutes away from the National Archaeological Museum.
+
+OPENING HOURS
+
+* Monday to Friday	10:00 – 14:00
+* Saturday	11:00 – 18:00
+* Sunday	11:00 – 18:00
+
+*Information retrieved from:* [Hellenic Motor Museum](https://www.hellenicmotormuseum.gr/en/) |
+*Photo retrieved from:* [the fashionable traveler](http://thefashionabletraveller.blogspot.com/2012/12/i-drove-all-day-night.html)
