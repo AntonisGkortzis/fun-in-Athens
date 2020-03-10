@@ -290,6 +290,14 @@ The Big Bad Wolf is a place where you can enjoy delicious and quality food. It c
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
 
+**Istioploikos**
+
+<img src="media/istioploikos.jpg" alt="drawing" width="500"/>
+
+A magnificent place right along the seaside! It is placed in Piraeus and it is really nice to visit all day long. You can enjoy your coffee, drinks of even food, which is so delicious! Istioploikos although was added in the night life section, since in the night the place becomes even more better. it turns into a bar, where people drink their cocktails and listen to good music. The really known party of Istioploikos takes place every Sunday evening from 9 pm. The most easy way to go there is by car.
+
+*All information retrieved from:* [Istioploikos](http://www.istioploikos.gr/el/)
+
 **Terra Petra**
 
 <img src="media/terrapetra.jpg" alt="drawing" width="500"/>
@@ -485,8 +493,8 @@ Romantso is the former office building of the homonymous brochure and is located
 
 This hidden all day bar with its vintage theme is located close to the popular night spots of Kolokotroni Street and has been a hit with the locals from the day it opened. Paying homage to old “blue eyes”, this long narrow bar sees patrons spilling out onto the pavement, where additional tables and chairs are set up and are well serviced. Its décor and cocktail list are inspired by the ‘50s and ‘60s and has a fun relaxed atmosphere. Many start the night here before moving on to the next hotspot.
 
-*Information retrieved from:* [WhyAthens] (https://whyathens.com/athens-nightlife/) |
-*Photo retrieved from:* [TripAdvisor] (https://www.tripadvisor.com/LocationPhotoDirectLink-g189400-d6029269-i209959965-Drunk_Sinatra-Athens_Attica.html)
+*Information retrieved from:* [WhyAthens](https://whyathens.com/athens-nightlife/) |
+*Photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com/LocationPhotoDirectLink-g189400-d6029269-i209959965-Drunk_Sinatra-Athens_Attica.html)
 
 **360 Cocktail Bar**
 
@@ -494,8 +502,7 @@ This hidden all day bar with its vintage theme is located close to the popular n
 
 The name of this place says it all. 360 Degrees is a lush rooftop garden and cocktail bar with a unique industrial design that gives guests panoramic views of the entire city and the Acropolis. Right on Monastiraki Square, just steps away from the Monastiraki Flea Market, 360 Degrees is the place to go to for some dining and drinks with the best view of Athens, hands down!
 
-*Information retrieved from:*[Greek City Times](https://greekcitytimes.com/2018/07/03/athens-immaculate-360-degrees-rooftop-bar/?amp) |
-*Photo retrieved from:*[Greek City Times](https://greekcitytimes.com/wp-content/uploads/2018/07/1401708_507105286113060_1708010825381392217_o.jpg)
+*Information and photo retrieved from:* [Greek City Times](https://greekcitytimes.com/2018/07/03/athens-immaculate-360-degrees-rooftop-bar/?amp)
 
 ## <a name="tours"></a>Tours
 
@@ -1179,6 +1186,15 @@ On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four S
 ## <a name="fullDayTrips"></a>Full Day Trips
 
 If you are staying in Athens for a couple of days, it's worth making a day tripand discover a different part of Greece
+
+**Port of Piraeus**
+
+<img src="media/PortofPiraeus.png" alt="drawing" width="500"/>
+
+From the port of Piraeus you can take the ferries to the surrounding islands. A day trip to the surrounding islands is possible, because of the high number of ferries. The harbour is also close to the metro station Piraeus. 
+And as a student you also get some discounts.
+
+*Information and photo are retrieved from:* [TripAdvisor](https://www.tripadvisor.de/Attraction_Review-g189403-d7974687-Reviews-Port_of_Piraeus-Piraeus_Piraeus_Region_Attica.html)
 
 **Arachova**
 
