@@ -468,7 +468,7 @@ If you're interested into coming closer with the wildlife of the mountain, you c
 
 Some meters away from the Syntagma station metro and next to the Greek Parliament is where the National Garden is located. It covers 284 acres full of green, rare species of plants, small bush trees and birds. The numbers talk on their own. In the garden, there are 7000 trees, 40000 bushes and other plants which belong to 519 kinds and varieties. You can go there to relax from the hectic city, feed the ducks or go for a run. In one of the entrances there is also a small vendor with the traditional bagel-like treat called "Koulouri".
 
-*Information retrieved from:* [DiscoverGreece(https://www.discovergreece.com/el/travel-ideas/cover-story/athens-national-garden) |
+*Information retrieved from:* [DiscoverGreece](https://www.discovergreece.com/el/travel-ideas/cover-story/athens-national-garden) |
 *Image retrieved from:* [Runster](http://www.runster.gr/ethinkos-kipos-all-time-classic-diadromi-sto-kentro-tis-athinas/) 
 ## <a name="monuments"></a>Monuments
 
@@ -648,6 +648,15 @@ the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD
  as well as bike riding at [Parnitha](https://trekking.gr/product/podilasia-stin-parnitha/) and [Tatoi](https://trekking.gr/product/podilasia-sto-tatoi/). 
 
 *Information and photo retrieved from:* [Mpafi shelter's site](https://www.mpafi.gr/)
+
+**Rocks of Acropolis**
+
+<img src="media/vrahakia.jpg" alt="drawing" width="500"/>
+
+The rocks of Acropolis, otherwise called "Vrahakia" are a really popular spot for millions of tourist that the capital of Greece welcomes on a yearly basis. Everybody takes the chance to take a photo of the view in front of the or to even take a photo of themselves with the scenery. Also, this area is well known for dates and couples in general, which prefer to hang out is a quieter place than the hectic coffee shops of the center. Everyone, including families and children love to see the view there along with a can of beer and enjoy a budget-friendly stroll around the city.
+
+*Information retrieved from:* [SimplyLife](https://simplylife.gr/pages/protaseis/article/id/201) |
+*Image retrieved from:* [Tumblr](https://www.tumblr.com/privacy/consent?redirect=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2F%25CE%25B1%25CE%25BA%25CF%2581%25CE%25BF%25CF%2580%25CE%25BF%25CE%25BB%25CE%25B7%25CF%2582)
 
 ## <a name="shopping"></a>Shopping
 
