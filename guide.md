@@ -975,6 +975,14 @@ If you don't know already what escape rooms are about, I can personally guarante
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/) |
 *Photo retrieved form:* [Great Escape Rooms](https://greatescape.gr/)
 
+**Ice Skating in Megaron**
+
+<img src="media/iceskating.jpg" width="500"/>
+
+If it happens to visit Athens in the winter, Ice Skating is one thing you must do! I know that in Athens is not snowing and is mostly known for the sun and the good weather, but it would be really fun for you to go there. Even if you haven't tried it before, don't worry there are people there willing to help you learn the basics and have the best time ever. At first, it will be difficult but once you understand how you can move and become better at this, you will not want to leave the place! And you can actually do that, since you pay 10 euros for unlimited time, so you can move around the ice skating area until you are too tired. It is a really fun place, you will laugh a lot and spend a great time with your friends and family. And remember if they hesitate show them this article!
+
+*All information retrieved from:* [Megaron](http://www.megaron.gr/default.asp?pid=255&la=1)
+
 **The VR Project**
 
 <img src="media/vr.jpg" alt="drawing" width="500"/>
