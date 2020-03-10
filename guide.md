@@ -413,6 +413,15 @@ Romantso is the former office building of the homonymous brochure and is located
 *Information retrieved from* [Romatso](http://www.romantso.gr/) |
 *Photo retrieved from* [Google](https://www.google.com/search?q=%CF%81%CE%BF%CE%BC%CE%B1%CE%BD%CF%84%CF%83%CE%BF&sxsrf=ALeKk01auHXnsajePHv3ClDG0fnFGJqpjw:1583845072683&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLzr7X-o_oAhVEzqYKHaUKBZQQ_AUoAnoECA4QBA&biw=1536&bih=754#imgrc=fIDG1nB8C9bA_M)
 
+**Drunk Sinatra**
+
+<img src="media/drunkSinatra.jpg" alt="drunkSinatra" width="500"/>
+
+This hidden all day bar with its vintage theme is located close to the popular night spots of Kolokotroni Street and has been a hit with the locals from the day it opened. Paying homage to old “blue eyes”, this long narrow bar sees patrons spilling out onto the pavement, where additional tables and chairs are set up and are well serviced. Its décor and cocktail list are inspired by the ‘50s and ‘60s and has a fun relaxed atmosphere. Many start the night here before moving on to the next hotspot.
+
+*Information retrieved from:* [WhyAthens] (https://whyathens.com/athens-nightlife/) |
+*Photo retrieved from* [TripAdvisor] (https://www.tripadvisor.com/LocationPhotoDirectLink-g189400-d6029269-i209959965-Drunk_Sinatra-Athens_Attica.html)
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
