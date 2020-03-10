@@ -653,7 +653,7 @@ the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD
 
 <img src="media/vrahakia.jpg" alt="drawing" width="500"/>
 
-The rocks of Acropolis, otherwise called "Vrahakia" are a really popular spot for millions of tourist that the capital of Greece welcomes on a yearly basis. Everybody takes the chance to take a photo of the view in front of the or to even take a photo of themselves with the scenery. Also, this area is well known for dates and couples in general, which prefer to hang out is a quieter place than the hectic coffee shops of the center. Everyone, including families and children love to see the view there along with a can of beer and enjoy a budget-friendly stroll around the city.
+The rocks of Acropolis, otherwise called "Vrahakia" are a really popular spot for millions of tourists that the capital of Greece welcomes on a yearly basis. Everybody takes the chance to take a photo of the city view, feauting numerous buildings and also the Acropolis on the other side, or to even take a photo of themselves with the scenery. Also, this area is well known for dates and couples in general, who prefer to hang out in a quieter place than the hectic coffee shops of the center. Everyone, including families and children love to observe the view there along with a can of beer and afterwards enjoy a budget-friendly stroll around the city.
 
 *Information retrieved from:* [SimplyLife](https://simplylife.gr/pages/protaseis/article/id/201) |
 *Image retrieved from:* [Tumblr](https://www.tumblr.com/privacy/consent?redirect=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2F%25CE%25B1%25CE%25BA%25CF%2581%25CE%25BF%25CF%2580%25CE%25BF%25CE%25BB%25CE%25B7%25CF%2582)
