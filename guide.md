@@ -513,7 +513,7 @@ Athens Metro Mall is one of the most popular shopping mall in Athens. With more 
 
 Attica Zoo Park is open the whole year from 9 am until sunset. With around 400 different varieties of animals, it also offers a great variety and there is something for everyone to see whichever animal they like. Do you want to check out the animals before? Then just have a look [here](https://www.atticapark.com/en/animals). Before each visit it is recommended to check [here](https://www.atticapark.com/en/visitus/opening-hours-activities.297.html) the current feeding schedule, as it changes depending on the season and day of the week. But getting hungry yourself? The zoo also offers a small café where you can sit down and enjoy a drink or snack.
 
-| Ticket price            |
+| Ticket price    |       |
 | --------------- |:-----:|
 | Adults          |  18€  |
 | Children (3-12y)|  14€  |
