@@ -160,6 +160,8 @@ A For Athens is an ideal place to enjoy your house special cocktails at night! O
 
 **Telescope**
 
+<img src="media/telescope-bar.jpg" alt="drawing" width="500"/>
+
 It’s a marvelous quiet place up on a hill at Chaidari, Athens. It's like love at first sight! You most definately won't need more than a moment to fall in love with this place. Inside the store you will find 21 telescopes which you can use to look at the magnificent view from the Piraeus port to the Olympic Stadium! The ideal spot for a relaxing drink or a dinner!
 
 *Information retrieved from:* [XPAT ATHENS]( https://www.xpatathens.com/)
