@@ -677,6 +677,8 @@ Opening: Thursday 12 March 2020, 19.30
 
 **Bernier Eliades**
 
+<img src="media/bernier gallery.jpeg" alt="Bernier Eliades gallery" width="500"/>
+
 A gallery right in the center of Athens. It was founded in 1977 in Athens and has since continued working in the field of contemporary art in Greece. 
 After twenty-one years in Kolonaki, the commercial center of Athens, the gallery moved to a Neoclassical building in Thission, the historic center of Athens.
 
