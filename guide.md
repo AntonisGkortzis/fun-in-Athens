@@ -356,6 +356,8 @@ Grab your favourite cocktail and start exploring Athens by night.
 
 **Couleur Locale**
 
+<img src="media/couleurLocale.jpg" alt="TYCO" width="500"/>
+
 The hidden bar on Normanou Street, near the Monastiraki’s square, is one of the most beautiful terraces. From the third floor, facing the sacred rock of the Acropolis, you can enjoy both the view and the variety of food and drinks in affordable prices it provides.
 
 When the sun sets, you'll also enjoy selected lounge and house music by well-known Greek and world DJ's!
