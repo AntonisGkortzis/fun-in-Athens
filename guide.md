@@ -227,6 +227,13 @@ If you’re planning on visiting, don’t forget to try the great pancakes that 
 *Information retrieved from:* [etable.gr](https://www.e-table.gr/restaurant/riza-riza) |
 *Photo retrieved from:* [Riza Riza's facebook page](https://www.facebook.com/RizaRiza.Athens/)
 
+**Mama Roux**
+
+<img src="media/mamaRoux.jpg" alt="Mama Roux" width="500"/>
+
+Located on Aiolou Street in the heart of historic Athens' commercial district, Mama Roux is a multi-ethnic restaurant offering dishes from many cultures in a relaxed, urban atmosphere. By using techniques derived from different cultures, this restaurant offers a wide-ranging menu, moving continuously towards new directions while also retaining its classical dishes.
+
+*Information and photo retrieved from:* [Mama Roux](http://www.mamaroux.gr/)
 
 
 ## <a name="nightlife"></a>Night Life
