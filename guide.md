@@ -253,6 +253,14 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
+**Plintirio Bar**
+
+<img src="media/plintirio.jpg" alt="plintirio bar" width="500"/>
+
+Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintirio bar takes you to a laundry room styled bar where you can drink, dance and have fun!  
+
+*Photo retrieved from:* [Plintirio bar facebook page](https://www.facebook.com/%CE%A0%CE%BB%CF%85%CE%BD%CF%84%CE%AE%CF%81%CE%B9%CE%BF-Bar-1413208995564217/)
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
