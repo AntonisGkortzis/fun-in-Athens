@@ -170,6 +170,8 @@ A For Athens is an ideal place to enjoy your house special cocktails at night! O
 
 **Telescope**
 
+<img src="media/telescope-bar.jpg" alt="drawing" width="500"/>
+
 It’s a marvelous quiet place up on a hill at Chaidari, Athens. It's like love at first sight! You most definately won't need more than a moment to fall in love with this place. Inside the store you will find 21 telescopes which you can use to look at the magnificent view from the Piraeus port to the Olympic Stadium! The ideal spot for a relaxing drink or a dinner!
 
 *Information retrieved from:* [XPAT ATHENS]( https://www.xpatathens.com/)
@@ -641,10 +643,12 @@ Tip! Try to go on Sunday when gypsies and villagers pour into town with piles of
 
 **Voukourestiou Street**
 
+<img src="media/voukou.jpg" alt="Voukourestiou" width="500"/> 
+
 Voukourestiou Street is the most high-end street of Athens. You can find luxury brands such as Louis Vuitton, Prada, Dior, Chanel, Rolex, and buy the perfect gift for yourself! Enjoy the atmosphere and look for the latest diamonds launched by the leaders of the fashion industry.
 
 *Information retrieved from:* [Think Athens](https://www.thinkathens.com/blog/top-places-shopping-in-athens/) |
-*Photo retrieved from:* []()
+*Photo retrieved from:* [Athens Voice](https://www.athensvoice.gr/life/urban-culture/athens/437284_odos-voykoyrestioy)
 
 ## <a name="fun"></a>Fun and Games
 
