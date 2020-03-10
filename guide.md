@@ -385,6 +385,15 @@ Organizing a trip to the Temple of Poseidon is worth your time but making the mo
 *Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio) |
 *Photo retrieved from:* [GreekTravelPages](https://www.gtp.gr/TDirectoryDetails.asp?ID=14990)
 
+**Panathenaic Stadium**
+
+<img src="media/panathenaic-stadium.jpg" alt="drawing" width="500"/>
+
+The Panathenaic Stadium, or Kallimarmaro is another famous attraction in Athens. It’s located in front of Zappeion Park’s Southern entrance. It was built around 330 BC and it was where ancient Athens’ Panathenaic Games were celebrated. After being left abandoned for centuries, it was refurbished in late 19th century using Penteli marble, the same as the one used on the Acropolis. The name Kallimarmaro literally translates to “beautiful marble”, which is aptly named as it is famous for being the world’s only stadium made entirely out of marble. Its rich history is directly connected to the Modern Olympic Games as from their revival in 1896 until the Athens Olympic Games in 2004. It is also the place from where the Olympic flame sets up its journey to the cities of the Olympic Games, both Winter, Summer and Youth. From its highest tiers you can see the Acropolis and the National Garden.
+
+*Information retrieved from:* [PANATHENAICSTADIUM](http://www.panathenaicstadium.gr/Default.aspx?tabid=84&language=en-US) |
+*Photo retrieved from:* [shutterstock](https://www.shutterstock.com/image-photo/panathenaic-stadium-known-kallimarmaro-multi-purpose-713885446)
+
 ## <a name="activities"></a>Activities
 
 Athens has many things to do for athletics individuals too! From walking to our famous mountains to skydiving!
