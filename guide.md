@@ -237,6 +237,8 @@ Located on Aiolou Street in the heart of historic Athens' commercial district, M
 
 **Seychelles**
 
+<img src="media/seychelles.jpg" alt="Seychelles" width="500"/>
+
 Seychelles is located on Metaxourgeio and serves value for money greek food. Reservations are suggested.
 
 | Opening Hours: Daily 10:00 to 2:00
