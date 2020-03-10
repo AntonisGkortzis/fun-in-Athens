@@ -53,7 +53,6 @@ Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried 
 
 *Information and photo retrieved from :* [Lukumades](https://www.lukumades.com/about)
 
-
 **Choureal**
 
 <img src="media/choux.jpg" alt="chouxs" width="500"/>
@@ -196,7 +195,6 @@ Jazz In Jazz is, well, ..a Jazz bar! But not any kind of Jazz bar. Jazz In Jazz 
 
 Useful info:
 
-
 | Schedule      | Everyday: 20:00 - 03:00|
 | ------------- |:----------------------:|
 | Address       | [Dinokratous 4 Athens 106 75](https://www.google.com/maps/place/Jazz+In+Jazz/@37.9790924,23.7426759,15z/data=!4m5!3m4!1s0x0:0xcb743ab1d8a0c96d!8m2!3d37.9790924!4d23.7426759) |
@@ -226,7 +224,6 @@ Lot 51 gives a lot of value to the quality of the coffee and wants to make it a 
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
 
-
 **Stavros Niarchos Foundation SNF**
 
 <img src="media/snf.jpg" alt="drawing" width="500"/>
@@ -242,9 +239,7 @@ all these cool features apart, the foundation offers a great place for long walk
 | Opening Hours | [More...](https://www.snfcc.org/visit-snfcc) |
 | Contact       | (+30) 216 8091000 |
 
-
 *Info retrieved from:* [SNF](https://www.snf.org/en/) | *Photo retrieved from:* [AthensVoice](https://www.athensvoice.gr/places/99674_kentro-politismoy-idryma-stayros-niarhos-snf)
-
 
 **Monastiraki**
 
@@ -458,7 +453,6 @@ Easily access due to the location which is near the Syntagma Metro station and b
 *Information retrieved from:*[IntroducingAthens](https://www.introducingathens.com/) |
 *Photo retrieved from:*[AthensTransport](https://www.athenstransport.com/)
 
-
 **Allou Fun Park**
 
 <img src="media/alloufunpark.jpg" alt="drawing" width="500"/>
@@ -467,6 +461,24 @@ Allou Fun Park is the most famous entertainment park in Athens. There you can ex
 
 *Information retrieved from:* [Allou Fun Park](https://www.allou.gr/) |
 *Photo retrieved from:* [Allou Fun Park](https://www.infokids.gr/wp-content/uploads/2015/07/670754.jpg)
+
+**Attica Zoological Park**
+
+<img src="media/AtticaZoologicalParkGallery.png" alt="drawing" width="500"/>
+
+Attica Zoo Park is open the whole year from 9 am until sunset. With around 400 different varieties of animals, it also offers a great variety and there is something for everyone to see whichever animal they like. Do you want to check out the animals before? Then just have a look [here](https://www.atticapark.com/en/animals). Before each visit it is recommended to check [here](https://www.atticapark.com/en/visitus/opening-hours-activities.297.html) the current feeding schedule, as it changes depending on the season and day of the week. But getting hungry yourself? The zoo also offers a small café where you can sit down and enjoy a drink or snack.
+
+| Ticket price    |       |
+| --------------- |:-----:|
+| Adults          |  18€  |
+| Children (3-12y)|  14€  |
+| Children (<3y)  |   0€  |
+
+Additionally there are also some discounts. For more information click [here](https://www.atticapark.com/en/visitus/tickets.273.html).
+
+Address: At Yalou Spata, Αθήνα 190 04 - Otherwise the zoo can also be reached by bus line 319 from Doukissis Plakentias and it shuttles every 35 minutes.
+
+*Information retrieved from:* [Attica Zoological Park](https://www.atticapark.com/)
 
 ## <a name="shopping"></a>Shopping
 
@@ -506,24 +518,6 @@ Athens Metro Mall is one of the most popular shopping mall in Athens. With more 
 
 *Information retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/) |
 *Photo retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/photos/c_574px_558px/pages/201911/athensmetromall_stores.jpg)
-
-**Attica Zoological Park**
-
-<img src="media/AtticaZoologicalParkGallery.png" alt="drawing" width="500"/>
-
-Attica Zoo Park is open the whole year from 9 am until sunset. With around 400 different varieties of animals, it also offers a great variety and there is something for everyone to see whichever animal they like. Do you want to check out the animals before? Then just have a look [here](https://www.atticapark.com/en/animals). Before each visit it is recommended to check [here](https://www.atticapark.com/en/visitus/opening-hours-activities.297.html) the current feeding schedule, as it changes depending on the season and day of the week. But getting hungry yourself? The zoo also offers a small café where you can sit down and enjoy a drink or snack.
-
-| Ticket price    |       |
-| --------------- |:-----:|
-| Adults          |  18€  |
-| Children (3-12y)|  14€  |
-| Children (<3y)  |   0€  |
-
-Additionally there are also some discounts. For more information click [here](https://www.atticapark.com/en/visitus/tickets.273.html).
-
-Address: At Yalou Spata, Αθήνα 190 04 - Otherwise the zoo can also be reached by bus line 319 from Doukissis Plakentias and it shuttles every 35 minutes.
-
-*Information retrieved from:* [Attica Zoological Park](https://www.atticapark.com/)
 
 ## <a name="fun"></a>Fun and Games
 
