@@ -742,3 +742,13 @@ During these years, Greek public has been introduced to numerous artistic curren
 
 *Information and photo retrieved from:* [Bernier Eliades](https://bernier-eliades.com/)
 
+**Onassis Cultural Centre**
+
+<img src="media/onassis.jpg" alt="Onassis Cultural Centre" width="500"/>
+
+[Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/) is a contemporary arts space with two high-spec performance halls, an open-air theatre, rooftop restaurant and a performance space. Numerous arts festivals are held here, which explore controversial issues and bold ideas. Theatre, dance, music, cinema, fine arts and literature are only some of the fields that this foundation explores.
+Its internal space consists of 7 floors and 9 underground levels. During the summer, the building's terasse offers an amazing view to the Acropolis, the Lycabettus Hill and the Saronic Gulf.
+
+*Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/)
+*Photo retrieved form:* [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/)
+
