@@ -499,14 +499,14 @@ Address: At Yalou Spata, Αθήνα 190 04 - Otherwise the zoo can also be reach
 
 *Information and photo retrieved from:* [Attica Zoological Park](https://www.atticapark.com/)
 
-**Naional Garden**
+**National Garden**
 
 <img src="media/NationalGarden.png" alt="drawing" width="500"/>
 
 Need a little distance to the big city? The National Garden is one of the many parks in Athens. The park is only 3 minutes away from the Syntagma Metro Station. 
 Address: Leoforos Amalias 1, Athens 10557 Greece
 
-*Information and photo retrieved  from:* [TripAdvisor](https://www.tripadvisor.at/Attraction_Review-g189400-d246658-Reviews-National_Garden-Athens_Attica.html)
+*Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.at/Attraction_Review-g189400-d246658-Reviews-National_Garden-Athens_Attica.html)
 
 ## <a name="shopping"></a>Shopping
 
