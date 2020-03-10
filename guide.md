@@ -448,6 +448,17 @@ If you are in Athens and you are searching for an alternative way of fun, this i
 
 *Information and photo extracted from:* [Paintball Park](https://www.paintball-park.gr/)
 
+**The National Garden and Zappeion**
+
+<img src="media/garden.jpg" alt="nationalgarden" width="500"/>
+
+Nothing is better than a wonderful walk through National Garden and Zappeion near Syntagma! The National Garden of Athens is a large green-space of over 160.000 square meters adorned with over 500 types of plants and trees from all over the world.The park is a picturesque green lung filled with flowers, shrubs, ancient trees and green meadows where to relax during the warm summer days. The National Garden’s most famous sights include a small pond, which is home to numerous water birds, a botanical garden, the remains of historical monuments and even a small zoo.
+Easily access due to the location which is near the Syntagma Metro station and behind the Greek Parliament!
+
+*Information retrieved from:*[IntroducingAthens](https://www.introducingathens.com/) |
+*Photo retrieved from:*[AthensTransport](https://www.athenstransport.com/)
+
+
 **Allou Fun Park**
 
 <img src="media/alloufunpark.jpg" alt="drawing" width="500"/>
