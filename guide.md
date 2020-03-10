@@ -1280,3 +1280,13 @@ Athens is well known for its beatiful sun and weather, so if you are visiting At
 One of the best and famous beaches in Athens is Schinias. It is a really beautiful place and the waters are crystal clear. Karavi is a beach bar in Schinias beach that elevates the customers' experience! It offers plenty of things to the customer. First of all, you can enjoy your beverage or food in your sunbed. Then, there are a lot of beach volley courts  and if you are lucky enough you can watch professional tournaments that take place there. Last but not least, there are a lot of water sports that one can do there. So as you can see there are lot of ways to enjoy your time there. The only disadvantage of this place is that it is only accessible by car, since it is far enough from metro stations, bus stops etc. But don't let that prevent from enjoying a beautiful sunny day in summer gets wasted.
 
 *Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Attraction_Review-g669631-d6586221-Reviews-Karavi_Schinias_Water_Sports-Marathon_East_Attica_Region_Attica.html)
+
+**Limanakia Vouliagmenis**
+
+<img src="media/limanaki-beach.jpg" alt="limanakia" width="500"/>
+
+A series of many small beaches in small natural bays with rocks that impress with their natural beauty and wild charm of the landscape spreads in Vouliagmeni, on the way to Varkiza. The turquoise cool waters are accessible by descending paths between the rocks.
+
+*Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
+
