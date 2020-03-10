@@ -238,6 +238,15 @@ Lot 51 gives a lot of value to the quality of the coffee and wants to make it a 
 
 *Information & photo retrieved from:* [Esquire](https://esquire.com.gr/poto/bars/5852/giati-oloi-pigainoun-sto-lot-51)
 
+**TYCO**
+
+<img src="media/tyco.jpg" alt="TYCO" width="500"/>
+
+Are you interested on spending a chill night walking around Athens with your favourite cocktail at hand? Then Tyco is the best place  for you to visit.  
+It is located at 11 Romvis street, 10560 Athens, Greece and offers you various tasty and cheap cocktails from the classic ones to more exotic and different. Grab your favourite cocktail and start exploring Athens by night.
+
+*Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
@@ -543,7 +552,7 @@ Address: Leoforos Amalias 1, Athens 10557 Greece
 
 *Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.at/Attraction_Review-g189400-d246658-Reviews-National_Garden-Athens_Attica.html)
 
-### <a name="mpafi"></a>**Mpafi shelter**
+#### <a name="mpafi"></a>**Mpafi shelter**
 
 <img src="media/mpafi.jpg" alt="Mpafi" width="500"/>
 
