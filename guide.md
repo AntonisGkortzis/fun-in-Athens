@@ -686,6 +686,16 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 *Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/) |
 *Image retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
 
+
+**Skydive Athens**
+
+<img src="media/skydive.jpg" alt="skydive" width="500"/>
+
+Are you a extreme person? Then Skydive Athens is the perfect place to fall from 14.000 ft ,but fear not because you will be receiving plenty of informations from the instructors! Is it by far the most memorable thing to do! There are also other options to do such as jumping from 8.000 ft. And at last,what Skydive athens offers is a package to teach you to make your own skydive without any instructors attached to you! To get there you will have to take a bus from KTEL Liosion to Kastro Viotias,but everything will be set,because a special bus will pick you immediatly after your arrival
+
+*Information and photo retrieved from:* [Skydive Athens] (https://skydive-athens.gr)
+
+
 **Paintball Park Malakasa**
 
 <img src="media/paintball.jpg" alt="drawing" width="500"/>
@@ -1026,6 +1036,7 @@ Speaking of the exotic place of Arachova and, specifically, for Mountain Parnass
 Be careful though, skiing is an amazing sport giving you the feeling of freedom but requires attention and proper equipment.
 
 *Information retrieved form:* [Parnassos Ski Centre](https://parnassos-ski.gr/%CF%84%CE%BF-%CF%87-%CE%BA-%CF%80%CE%B1%CF%81%CE%BD%CE%B1%CF%83%CF%83%CE%BF%CF%8D/) | *Photo retrieved form:* [Google](https://www.google.com/search?q=ski+centre+parnassos&sxsrf=ALeKk00PRj33B1E_ExNuItBmZAXj-ZTIVw:1583865690639&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie5PK-x5DoAhWhsKQKHct8DfwQ_AUoAnoECBoQBA&biw=1366&bih=657#imgrc=ceEMpv45b-ztkM)
+
 
 **Mycenae, Epidaurus, and Nafplio**
 
