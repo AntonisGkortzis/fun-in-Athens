@@ -869,3 +869,31 @@ OPENING HOURS
 
 *Information retrieved from:* [Hellenic Motor Museum](https://www.hellenicmotormuseum.gr/en/) |
 *Photo retrieved from:* [the fashionable traveler](http://thefashionabletraveller.blogspot.com/2012/12/i-drove-all-day-night.html)
+
+**National Museum of Contemporary Arts (EMST)**
+
+<img src="media/emst.jpg" alt="EMST Museum" width="500"/>
+
+The National Museum of Contemporary Art, Athens (EMST) began its operation in 2000. It is located where the former Fix Brewery premises were, on Syngrou Ave. and the building occupies a total of 18.142 sqm. on a 3.123 sqm surface.
+
+The Museum’s has a constantly growing collection, which consists of works by Greek and international artists, such as Jannis Kounellis, Stephen Antonakos, Gary Hill, Vlassis Caniaris, Chryssa, Mona Hatoun, Emily Jacir, Ilya and Emilia Kabakov, Kim Sooja, Nikos Kessanlis, Shirin Neshat, Lucas Samaras, Costas Tsoclis, Bill Viola, Joseph Kosuth, Pedro Cabrita Reiss, Costas Varotsos, George Lappas, Oliver Ressler, Gulsun Karamustafa a.o.
+
+From 2003 until 2008 it presented exhibitions and events at the Athens Concert Hall, the Athens School of Fine Arts and in the public space. From September 30th, 2008, it was hosted in sections of the building of the Athens Conservatoire.
+
+In May 2015 EMST moved to its permanent premises. From October 2016 to this day, it makes use of the building’s contemporary exhibition spaces, educational facilities, screening room, the museum shop and other facilities, producing or supporting a large number of exhibitions and other activities including conferences, talks, book presentations, film screenings, and dance and musical performances and connecting people from all over the world throught culture and art.
+
+OPENING HOURS
+
+*Monday	CLOSED
+*Tuesday	11.00 am – 7.00 pm <br>
+*Wednesday	11.00 am – 7.00 pm <br>
+*Thursday	11.00 am – 10.00 pm <br>
+*Friday	11.00 am – 7.00 pm <br>
+*Saturday	11.00 am – 7.00 pm <br>
+*Sunday	11.00 am – 7.00 pm <br>
+
+*Information retrieved from:* [EMST](https://www.emst.gr/en/museum) <br>
+*Photo retrieved form:* [EMST](https://www.emst.gr/en/)
+
+[MORE INFORMATION](https://www.emst.gr/en/contact)
+
