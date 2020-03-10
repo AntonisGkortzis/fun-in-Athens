@@ -90,7 +90,7 @@ Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried 
 
 <img src="media/choux.jpg" alt="chouxs" width="500"/>
 
-CHOUREAL is a unique and awarded concept, specialized in one beloved desert: the Profiterole. The Profiteroles are made to order, in an ‘a la minute’ fashion. This means that the desert is always fresh and tailor-made, according to the visitor’s desire. The fragrant choux are always freshly-baked, since they are produced every hour.On order, they are filled with either silk cream with Madagascar vanilla or hand-made ice cream.
+Ever wanted a nice desert? CHOUREAL is a perfect place to eat a beloved desert , a homemade profiterole. The difference of course is that these profiteroles are made in ‘a la minute’ fashion which means they are being made by the time you visit this place.They fragrant choux are always freshly baked.During your order you can fill it either with silk cream or hand-made ice cream and you can top it with your favorite things!
 
 *Information and photo retrieved from:* [Choureal](https://www.choureal.gr/)
 
@@ -219,7 +219,7 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 
 <img src="media/rizariza.jpg" alt="rizariza" width="500"/>
 
-Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) (19 Drakou Street, Athens) and it’s great choice for all day long.  
+Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) (19 Drakou Street, Athens) and it’s a great choice for all day long.  
 There you can enjoy your morning coffee and brunch and delicious food as well as special cocktails made from Greek distillates (raki, ouzo and tsipouro) later at night.  
 
 If you’re planning on visiting, don’t forget to try the great pancakes that they serve.
@@ -227,6 +227,13 @@ If you’re planning on visiting, don’t forget to try the great pancakes that 
 *Information retrieved from:* [etable.gr](https://www.e-table.gr/restaurant/riza-riza) |
 *Photo retrieved from:* [Riza Riza's facebook page](https://www.facebook.com/RizaRiza.Athens/)
 
+**Mama Roux**
+
+<img src="media/mamaRoux.jpg" alt="Mama Roux" width="500"/>
+
+Located on Aiolou Street in the heart of historic Athens' commercial district, Mama Roux is a multi-ethnic restaurant offering dishes from many cultures in a relaxed, urban atmosphere. By using techniques derived from different cultures, this restaurant offers a wide-ranging menu, moving continuously towards new directions while also retaining its classical dishes.
+
+*Information and photo retrieved from:* [Mama Roux](http://www.mamaroux.gr/)
 
 
 ## <a name="nightlife"></a>Night Life
@@ -356,7 +363,7 @@ Grab your favourite cocktail and start exploring Athens by night.
 
 **Couleur Locale**
 
-<img src="media/couleurLocale.jpg" alt="TYCO" width="500"/>
+<img src="media/couleurLocale.jpg" alt="" width="500"/>
 
 The hidden bar on Normanou Street, near the Monastiraki’s square, is one of the most beautiful terraces. From the third floor, facing the sacred rock of the Acropolis, you can enjoy both the view and the variety of food and drinks in affordable prices it provides.
 
@@ -461,6 +468,16 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 *Information and photo retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
 
+**Pasalimani - Marina Zeas**
+
+<img src="media/pasalimani.jpg" alt="pasalimani" width="500"/>
+
+Looking for a place near the sea to spend your day? Pasalimani or Marina Zeas is your answer.  
+Pasalimani or Marina Zeas is the second biggest port of Pireaus.  In the ancient times, it was the biggest military harbour.  Nowadays, it is said that is the center of amusement of Pireaus. There you can enjoy the beauty of the sea while walking around the port or by visiting one of the plenty of restaurants, coffee shops and shops around the port and Kanari’s square.
+
+*Information retrieved from:* [Wikipedia](https://el.wikipedia.org/wiki/%CE%9B%CE%B9%CE%BC%CE%AD%CE%BD%CE%B1%CF%82_%CE%96%CE%AD%CE%B1%CF%82) |
+*Photo retrieved from:* [Pinterest](https://gr.pinterest.com/)
+
 **The Acropolis Museum**
 
 <img src="media/acropolisMuseum.jpg" alt="drawing" width="500"/>
@@ -500,7 +517,7 @@ The museum has over 25,000 artefacts in its possession. The artefacts date from 
 
 <img src="media/benaki.jpg" alt="benaki" width="500"/>
 
-The Benaki Museum is among the most extensive and innovative cultural organizations in Europa. Diverse cultures from all historical periods and geographical areas meet contemporary art across a network of venues all over Athens – and beyond. The Benaki Museum of Greek Culture presents the history and art of the Greek world from prehistory to the 20th century, through 6.000 objects arranged over four floors.
+Benaki's museum is one of the top museum in Athens.What you will see inside of the museum is a presentation of Greek Culture of history in art of the Greek world from the prehistory to the 20th century ,up to 6.000 object.Apart from Greek Culture what will you see is also  culture from Asians world and in the end you will be seeing ancient sculptures from Byzantium
 
 *Information retrieved from:*[Tripadvisor](https://tripadvisor.com.gr) |
 *Photo retrived from:*[Liberal](https://liberal.gr)
@@ -850,11 +867,12 @@ Virtual Reality is a simulated experience that can be similar to the real world.
 
 **Museum of Illusions**
 
-<img src="media/illusions.jpg" alt="drawing" width="500"/>
+<img src="media/museumIllusions.jpg" alt="drawing" width="500"/>
 
 Museum of Illusions is the perfect place for fun and new experiences for friends and family. Illusion have delighted all generations, from children to parents and grandparents, so the whole family can enjoy their time there. The museum brings you a space suitable both for social and entertaining tours into the world of illusions. Museum of Illusion is placed in the city center, really close to the Monastiraki metro and train station so it is very easily accessible using the public transportations. If you walk by it or you have a free time while you are walking in the center of Athens and enjoying the  sun please make sure you visit this place.
 
-*Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com/)
+*Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=museum+of+illusions+athens&sxsrf=ALeKk03DIqVhxtw5mY9rMvJWw1egHSFsqg:1583864088930&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi7lJLDwZDoAhVQZMAKHX8QDWgQ_AUoAXoECBMQAw&biw=1366&bih=657#imgrc=phxpkZwffnIs4M)
 
 **Cine Paris**
 
@@ -921,13 +939,13 @@ During these years, Greek public has been introduced to numerous artistic curren
 
 **Onassis Cultural Centre**
 
-<img src="media/onassis.jpg" alt="Onassis Cultural Centre" width="500"/>
+<img src="media/onassisCultural.jpg" alt="Onassis Cultural Centre" width="500"/>
 
 [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/) is a contemporary arts space with two high-spec performance halls, an open-air theatre, rooftop restaurant and a performance space. Numerous arts festivals are held here, which explore controversial issues and bold ideas. Theatre, dance, music, cinema, fine arts and literature are only some of the fields that this foundation explores.
 Its internal space consists of 7 floors and 9 underground levels. During the summer, the building's terasse offers an amazing view to the Acropolis, the Lycabettus Hill and the Saronic Gulf.
 
 *Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/) |
-*Photo retrieved form:* [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/)
+*Photo retrieved form:* [Google](https://www.google.com/search?q=onassis+cultural+center&sxsrf=ALeKk000HTD7ue1WpZh5sUSgwyT4k6zXGw:1583864295430&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjo-82lwpDoAhWSN8AKHdXTCesQ_AUoAnoECCEQBA&biw=1366&bih=657#imgrc=5jC5E-VAR9H8sM/)
 
 **Hellenic Motor Museum**
 
@@ -1005,11 +1023,23 @@ If you are staying in Athens for a couple of days, it's worth making a day tripa
 
 **Arachova**
 
+<img src="media/arachova.jpg" alt="drawing" width="500"/>
+
 Arachova is a traditional village close to Delphi, mostly known as a winter destination.
 
 It gets very popular due to the [Ski Centre of Parnassos](https://parnassos-ski.gr/) that is found in close distance from the town. It is also a town with a rich historical background and beautiful nature surrounding it. Not only the town itself has nice architecture, but the surrounding region is also nice for sightseeing. Apart from the close site of Ancient Delphi, other interesting sights in short drive from Arachova are the Byzantine Monastery of Osios Loukas and the seaside towns of Itea and Galaxidi.
 
-*Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/)
+*Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/) | *Photo retrieved form:* [Visit Greece](http://www.visitgreece.gr/el/mainland/arachova)
+
+**Ski Centre of Parnassos**
+
+<img src="media/ski.jpg" alt="drawing" width="500"/>
+
+Speaking of the exotic place of Arachova and, specifically, for Mountain Parnassos, it is a hell of a must-do trip if you are on to an amazing experience. Parnassos is one of the most beautiful mountains in Greece and comes with an amazing sport, skiing. The ski center has 23 tracks, 7 ski runs and 7 trails, totaling approximately 34 kilometers. The slopes are from 50m up to 4 km for beginners, intermediate and advanced skiers. For adventure lovers, there are 12 off-track "black" tracks with really deep snow and a lot of adrenaline.
+
+Be careful though, skiing is an amazing sport giving you the feeling of freedom but requires attention and proper equipment.
+
+*Information retrieved form:* [Parnassos Ski Centre](https://parnassos-ski.gr/%CF%84%CE%BF-%CF%87-%CE%BA-%CF%80%CE%B1%CF%81%CE%BD%CE%B1%CF%83%CF%83%CE%BF%CF%8D/) | *Photo retrieved form:* [Google](https://www.google.com/search?q=ski+centre+parnassos&sxsrf=ALeKk00PRj33B1E_ExNuItBmZAXj-ZTIVw:1583865690639&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie5PK-x5DoAhWhsKQKHct8DfwQ_AUoAnoECBoQBA&biw=1366&bih=657#imgrc=ceEMpv45b-ztkM)
 
 **Mycenae, Epidaurus, and Nafplio**
 
