@@ -214,6 +214,13 @@ the most popular squares of Athens, day and night.
 
 *Photo retrieved from:* [New Habits](http://newhabits.gr/gallery/the-place/#prettyPhoto)
 
+**Lot 51**
+
+<img src="media/lot51.jpg" alt="Lot 51" width="500"/>
+
+Lot 51 gives a lot of value to the quality of the coffee and wants to make it a better as possible. Apart from that, you can find there very interesting labels of whiskey and a lot of tasty cocktails. Last but not least, there are many choices there if you want to have a meal, for example brunch, salat, burger or even pasta.
+
+*Information & photo retrieved from:* [Esquire](https://esquire.com.gr/poto/bars/5852/giati-oloi-pigainoun-sto-lot-51)
 
 ## <a name="tours"></a>Tours
 
