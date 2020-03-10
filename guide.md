@@ -21,6 +21,15 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 
 Here are the best places where you can enjoy the Greek food.
 
+**Fairytale**
+
+<img src="media/fairytale.jpg" alt="chouxs" width="500"/>
+
+If you love fairytales and sweets, then you must visit this "sweet" magical place in Nea Filadelfeia. Fairytale is the ideal place where sweets and tales are mixed in a unique way. Its owners love the heroes of Disney and they have visited all of Disneys parks. Drawing their inspiration from their visits Fairytale was created, but its not only looks. The sweets served are a work of are both in appearance and taste, just be careful since you wont be the first to eat too much
+
+*Address:*[Tripia 33, Nea Filadelfia](https://www.google.com/maps/dir//38.0354,23.736193/@38.035337,23.666058,12z)
+*Photo retrieved from:* [Bovary](https://www.bovary.gr/city/9159/sto-fairytale-sti-nea-filadelfeia-goneis-kai-paidia-kanoyn-oyra-gia-na-mpoyn-se-ena)
+
 **Brooklyn the taste factory**
 
 <img src="media/brooklynTheTasteFactory.jpg" alt="drawing" width="500"/>
@@ -151,7 +160,7 @@ You don't want to miss out the best creperie in town! Karaflas Original is place
 
 Located on Saint George square near Kipseli and Patission street, Kiveli is a traditional Greek restaurant with amazing food at decent prices. Just a 7-minute walk from Athens University of Economics and business, this restaurant is the perfect gathering place for students right after their Software Engineering in Practice lectures.
 
-Recommended dishes by frequent visitors are the Drunken Chicken Fillets, the french fries and of course, Dakos Salad. 
+Recommended dishes by frequent visitors are the Drunken Chicken Fillets, the french fries and of course, Dakos Salad.
 
 For a reservation or openning hours, please visit the following link: https://www.facebook.com/kivelirest
 
@@ -322,7 +331,7 @@ Six d.o.g.s is an all day/all night cultural center in the historical triangle o
 **Cabezon**
 
 <img src= "media/barrr-thumb-large.jpg" alt= "drawing" width="500"/>
-In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. With cobblestones, small tables and some tires instead of seats, Reggae music and calmness. That kind of calmness that reminds you of your summer vacation. At Cabezon you can sit there and talk, enjoy your night, have some meze and chill with your group of friends with some beer or wine. 
+In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. With cobblestones, small tables and some tires instead of seats, Reggae music and calmness. That kind of calmness that reminds you of your summer vacation. At Cabezon you can sit there and talk, enjoy your night, have some meze and chill with your group of friends with some beer or wine.
 
 *Information retrieved from:* [Nou-Pou](https://www.nou-pou.gr/ektos-synorwn/pame-kentro/oi-6-pio-omorfes-ayles-sto-meta3oyrgeio/) |
 *Image retrieved from:* [Kathimerini](https://www.kathimerini.gr/829044/article/epikairothta/ellada/ayles-all-day)
@@ -667,11 +676,11 @@ Cape Sounion is best known as the site of the ruins of the ancient Greek temple 
 
 <img src="media/mpafi.jpg" alt="Mpafi" width="500"/>
 
-Mpafi shelter, located at Mount Parnitha, is just an hour away from Athens. 
+Mpafi shelter, located at Mount Parnitha, is just an hour away from Athens.
 It gives you the chance to spend the day and night at the highest part of the city and enjoy the great view and the hospitality that they provide.
-You can take part at various activities like [hiking](https://trekking.gr/product/pezoporia-stin-parnitha/) during the day and 
-the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AD%CF%82/%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1/%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%BD%CE%AE-%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1) 
- as well as bike riding at [Parnitha](https://trekking.gr/product/podilasia-stin-parnitha/) and [Tatoi](https://trekking.gr/product/podilasia-sto-tatoi/). 
+You can take part at various activities like [hiking](https://trekking.gr/product/pezoporia-stin-parnitha/) during the day and
+the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AD%CF%82/%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1/%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%BD%CE%AE-%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1)
+ as well as bike riding at [Parnitha](https://trekking.gr/product/podilasia-stin-parnitha/) and [Tatoi](https://trekking.gr/product/podilasia-sto-tatoi/).
 
 *Information and photo retrieved from:* [Mpafi shelter's site](https://www.mpafi.gr/)
 
@@ -725,7 +734,7 @@ Athens Metro Mall is one of the most popular shopping mall in Athens. With more 
 
 **Antiques in Monastiraki**
 
-<img src="media/shop-antiques.jpg" alt="antiques" width="500"/> 
+<img src="media/shop-antiques.jpg" alt="antiques" width="500"/>
 
 Are you a lover of old things and want to get the best antiques at the best prices? In Abysinia Square (in Monastiraki) you will find everything from beautiful expensive 19th Century furniture to totally worthless 20th century junk all displayed in a wonderfully disorganized fashion.
 
@@ -735,7 +744,7 @@ Tip! Try to go on Sunday when gypsies and villagers pour into town with piles of
 
 **Voukourestiou Street**
 
-<img src="media/voukou.jpg" alt="Voukourestiou" width="500"/> 
+<img src="media/voukou.jpg" alt="Voukourestiou" width="500"/>
 
 Voukourestiou Street is the most high-end street of Athens. You can find luxury brands such as Louis Vuitton, Prada, Dior, Chanel, Rolex, and buy the perfect gift for yourself! Enjoy the atmosphere and look for the latest diamonds launched by the leaders of the fashion industry.
 
@@ -837,7 +846,7 @@ Opening: Thursday 12 March 2020, 19.30
 
 <img src="media/bernier gallery.jpeg" alt="Bernier Eliades gallery" width="500"/>
 
-A gallery right in the center of Athens. It was founded in 1977 in Athens and has since continued working in the field of contemporary art in Greece. 
+A gallery right in the center of Athens. It was founded in 1977 in Athens and has since continued working in the field of contemporary art in Greece.
 After twenty-one years in Kolonaki, the commercial center of Athens, the gallery moved to a Neoclassical building in Thission, the historic center of Athens.
 
 During these years, Greek public has been introduced to numerous artistic currents, such as Arte Povera, Minimalism, Land and Conceptual Art and the younger generation of American and European artists.
@@ -896,4 +905,3 @@ OPENING HOURS
 *Photo retrieved form:* [EMST](https://www.emst.gr/en/)
 
 [MORE INFORMATION](https://www.emst.gr/en/contact)
-
