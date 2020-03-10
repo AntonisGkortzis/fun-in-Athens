@@ -21,6 +21,14 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 
 Here are the best places where you can enjoy the Greek food.
 
+**Brooklyn the taste factory**
+
+<img src="media/brooklynTheTasteFactory.jpg" alt="drawing" width="500"/>
+
+Even though most restaurants in Athens are located in or near the center, this particular one is not. Brooklyn the taste factory is an American-like burger house with a wide variety of burgers and similar choices. Since its in Greece though, be careful because the portioning is really generous. The stuff is really polite and the restaurants environment fits the needs of the modern college student and its also family friendly. If you actually decide to visit, keep in mind that you might wait a bit for the order to arrive since most things are made in the spot.
+
+*Photo retrieved from:* [Brooklyn the taste factory](https://brooklyn-the-taste-factory.business.site)
+
 **LIVADIA**
 
 <img src="media/leivadeia.jpg" alt="drawing" width="500"/>
@@ -576,3 +584,11 @@ What a better way to enjoy your evening than watching a movie in a rooftop garde
 
 *Information retrieved from:* [Cine Paris](https://www.cineparis.gr) |
 *Photo retrieved form:* [Trip Advisor](https://www.tripadvisor.com/)
+
+**Playhouse**
+
+<img src="media/playhouse.jpg" alt="drawing" width="500"/>
+
+You are downtown in Athens and you want to have fun with your friends or family; I have the best place for you! Playhouse is really close to the Monastiraki train and metro station(4 minutes on foot), so it should be really easy for you to access the place. Polite and friendly people are ready to welcome you to the store and make sure you have a great time there. You can play a whole lot of different kind of games, from speed and puzzle to strategy and memory. It is a big place so whatever category you choose from there are a lot of games for you. If you don't know how a game works don't panic there are people there for you to explain all the rules of the game simply and quickly. While you are there don't forget that you can enjoy your drink or food, which is really good. MY personal favourite waffle with chocolate and biscuit, but there are not only sweets there. So if you don't want something sweet I would suggest that you get a club sandwich.
+
+*All information retrieved from:* [Playhouse](http://www.playhouse.gr/)
