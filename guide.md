@@ -916,3 +916,17 @@ OPENING HOURS
 
 [MORE INFORMATION](https://www.emst.gr/en/contact)
 
+## <a name="Accomodation"></a>Accomodation
+
+Explore Athens'most magical hotels and spas
+
+**The Margi Hotel**
+
+<img src="media/margi.jpg" alt="The Margi Hotel" width="500"/>
+
+The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels of the World (SLH)</strong> and located in the heart of  most exclusive area of Athens Riviera, Vouliagmeni. It is located just a few minutes away from Vouiliagmeni's sandy beaches, but also close enough to some historical sites, like Cape Sounion. Its haute cuisine and organic food from its farm combined with its friendly and attentive staff, its spa premises and its exquisite design make The Margi Hotel a heaven away from home.
+
+[You can discover more about The Margi Hotel and its amenities here:](https://www.emst.gr/en/contact)<br>
+
+*Information retrieved from:* [The Margi Hotel](https://www.themargi.gr/) <br>
+*Photo retrieved form:* [The Margi Hotel](https://www.themargi.gr/gallery/the-pool/)
