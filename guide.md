@@ -369,6 +369,8 @@ Discover the beauty of the city through a small hidden in the heart of Athens.It
 
 **Parnitha Mountain**
 
+<img src="media/parnitha" alt="Parnitha" width="500"/>
+
 Parnitha  is the highest forested mountain on the peninsula of Attica located in the north of Athens. It's mostly known for its casino, Casino Mont Parness, that is loacted at the top of the mountain and you can visit using the cable cars. If you're interested into the historical monuments of the mountain, Phili Fortress and the Monastery of Kleiston as well as the Tatoi Palace at the southeast of Parnitha are great choices.
 If you're interested into coming closer with the wildlife of the mountain, you can visit one of the two shelters that are located in the mountain and take part at the various activties that they provide.
 
@@ -543,7 +545,7 @@ Address: Leoforos Amalias 1, Athens 10557 Greece
 
 **Mpafi shelter**
 
-<img src="media/mpafi.jpg" alt="drawing" width="500"/>
+<img src="media/mpafi.jpg" alt="Mpafi" width="500"/>
 
 Mpafi shelter, located at Mount Parnitha, is just an hour away from Athens. 
 It gives you the chance to spend the day and night at the highest part of the city and enjoy the great view and the hospitality that they provide.
