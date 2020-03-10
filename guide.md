@@ -457,7 +457,7 @@ If you're interested into coming closer with the wildlife of the mountain, you c
 
 <img src="media/ethnikos-kipos.jpg" alt="drawing" width="500"/>
 
-Some meters away from the Syntagma station metro and next to the Greek Parliament is where the National Garden is located along with the garden of the "Zappeio Megaro". It covers 284 acres full of green, rare species of plants, small bush trees and birds. The numbers talk on their own. In the garden, there are 7000 trees, 40000 bushes and other plants which belong to 519 kinds and varieties. You can go there to relax from the hectic city, feed the ducks or go for a run. In one of the entrances there is also a small vendor with the traditional bagel-like treat called "Koulouri".
+Some meters away from the Syntagma station metro and next to the Greek Parliament is where the National Garden is located. It covers 284 acres full of green, rare species of plants, small bush trees and birds. The numbers talk on their own. In the garden, there are 7000 trees, 40000 bushes and other plants which belong to 519 kinds and varieties. You can go there to relax from the hectic city, feed the ducks or go for a run. In one of the entrances there is also a small vendor with the traditional bagel-like treat called "Koulouri".
 
 *Information retrieved from:* [DiscoverGreece] (https://www.discovergreece.com/el/travel-ideas/cover-story/athens-national-garden) |
 *Image retrieved from:* [Runster] (http://www.runster.gr/ethinkos-kipos-all-time-classic-diadromi-sto-kentro-tis-athinas/) 
