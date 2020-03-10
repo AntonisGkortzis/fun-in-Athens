@@ -884,7 +884,7 @@ In May 2015 EMST moved to its permanent premises. From October 2016 to this day,
 
 OPENING HOURS
 
-*Monday	CLOSED
+*Monday	CLOSED <br>
 *Tuesday	11.00 am – 7.00 pm <br>
 *Wednesday	11.00 am – 7.00 pm <br>
 *Thursday	11.00 am – 10.00 pm <br>
