@@ -17,6 +17,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Art and Culture](#artAndCulture) :art:
 * [Accomodation](#accomodation) 🏨
 * [Full day trips](#fullDayTrips) :car:
+* [Beach](#beach) 🏄
 
 
 
@@ -148,6 +149,15 @@ Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's 
 
 *Information retrieved from:* [Lifo](http://www.lifo.gr"/) |
 *Photo retrieved from:* [Google](https://i2.wp.com/www.madameginger.com/wp-content/uploads/2019/03/Cookoomela-Exarcheia-1.jpg?quality=92&fit=1310%2C900)
+
+**Yiasemi**
+
+<img src="media/yiasemi.jpg" alt="Yiasemi" width="500"/>
+
+Yiasemi is a funky cafe and bistro, located in the historic city center of Athens, at Mnisikleous street. It is quite well know for its
+picturesque setting, as it offers sitting options on the famous stairs of Mnisikleous street, that go all the way to the hill of the Acropolis and took the name of the ancient architect Mnisikli.
+
+*Photo retrieved from:* [Travel to Athens](https://www.traveltoathens.eu/item/cafe-yiasemi/)
 
 **Hoocut**
 
@@ -285,6 +295,15 @@ Etnico is all about ethnic street food right in the center of Athens. In this pl
 The Big Bad Wolf is a place where you can enjoy delicious and quality food. It can be a burger, a souvlaki or even a salad. You can choose whatever your preferations are, from a double bacon burger to a vegan one. So every customer will be satisfied after going to this place. The Big Bad Wolf is located in a variety of locations so if it happens you are close to one of those don't hesitate. You are going to leave the place with a sense of fulfillment, as you are going to enjoy the food. Another really import advantage of this place is that the people who work there are really polite and your order is ready really quickly.
 
 *Information and photo retrieved from:* [The Big Bad Wolf] (https://www.tbbw.gr/)
+
+**Bel Rey**
+
+<img src="media/mpel-rey-1280x720.jpg" alt="bel-rey" width="500"/>
+
+Bel Rey is a former car lubricant turned into an all day snack bar. With vintage furniture, glazed posters with current theatrical performances and a large wooden bar, Bel Rey is sure to become a favorite hangout for both yound and old. There is a wide range of tasty brunch and cocktails.
+
+*Information retrieved from:* [maxmag](https://www.maxmag.gr/city-guide/athina-koukaki-bel-rey/)|
+*Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BC%CF%80%CE%B5%CE%BB+%CF%81%CE%B5%CF%85+%CE%BA%CE%BF%CF%85%CE%BA%CE%B1%CE%BA%CE%B9&tbm=isch&ved=2ahUKEwix1-mJhpHoAhWIhxQKHbdmBtYQ2-cCegQIABAA&oq=%CE%BC%CF%80%CE%B5%CE%BB+%CF%81&gs_l=img.1.0.35i39j0j0i8i30j0i24l7.1329.3350..4335...1.0..4.180.1479.0j11......0....1..gws-wiz-img.....10..0i67j35i362i39j0i131.pQF0tnEByWw&ei=-iBoXrHyLoiPUrfNmbAN&bih=754&biw=1536#imgrc=G-r2KpU02Cih3M)
 
 ## <a name="nightlife"></a>Night Life
 
@@ -919,6 +938,21 @@ The rocks of Acropolis, otherwise called "Vrahakia" are a really popular spot fo
 *Information retrieved from:* [SimplyLife](https://simplylife.gr/pages/protaseis/article/id/201) |
 *Photo retrieved from:* [Tumblr](https://www.tumblr.com/privacy/consent?redirect=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2F%25CE%25B1%25CE%25BA%25CF%2581%25CE%25BF%25CF%2580%25CE%25BF%25CE%25BB%25CE%25B7%25CF%2582)
 
+**Sprint & Standard**
+*Biathlon*
+
+<img src="media/biathlon.jpg" alt="biathlon" width="500"/>
+
+Sprint route: 5km running- 20km cycling- 2.5km running
+
+Standard route: 10km running- 40km cycling- 5km running
+
+Super Sprint for children
+
+*Location:*[Olympic Rowing Schinias](https://goo.gl/maps/u9u1oMHeKrxLH7iZ6) |
+*Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/diathlo_sprint_standard)
+
+
 ## <a name="shopping"></a>Shopping
 
 There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
@@ -1191,7 +1225,7 @@ If you are staying in Athens for a couple of days, it's worth making a day tripa
 
 <img src="media/PortofPiraeus.png" alt="Port of Piraeus" width="500"/>
 
-From the port of Piraeus you can take the ferries to the surrounding islands. A day trip to the surrounding islands is possible, because of the high number of ferries. The harbour is also close to the metro station Piraeus. 
+From the port of Piraeus you can take the ferries to the surrounding islands. A day trip to the surrounding islands is possible, because of the high number of ferries. The harbour is also close to the metro station Piraeus.
 And as a student you also get some discounts.
 
 *Information and photo are retrieved from:* [TripAdvisor](https://www.tripadvisor.de/Attraction_Review-g189403-d7974687-Reviews-Port_of_Piraeus-Piraeus_Piraeus_Region_Attica.html)
@@ -1225,3 +1259,15 @@ Do you know which is the city of mythical Agamemnon, the hero of Trojan war? Whi
 All those questions can be answered through this amazing day trip to Peloponnese which will offer the visitor the chance to discover some of the most important archaelogical sites of Greece, like Mycenae and Epidaurus.
 
 *Information and photo retrieved from:* [travelpassionate](https://travelpassionate.com/top-day-trips-from-athens-greece/)
+
+## <a name="beach"></a>Beach
+
+Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
+
+**Karavi Schinias**
+
+<img src="media/karavi.jpg" width="500"/>
+
+One of the best and famous beaches in Athens is Schinias. It is a really beautiful place and the waters are crystal clear. Karavi is a beach bar in Schinias beach that elevates the customers' experience! It offers plenty of things to the customer. First of all, you can enjoy your beverage or food in your sunbed. Then, there are a lot of beach volley courts  and if you are lucky enough you can watch professional tournaments that take place there. Last but not least, there are a lot of water sports that one can do there. So as you can see there are lot of ways to enjoy your time there. The only disadvantage of this place is that it is only accessible by car, since it is far enough from metro stations, bus stops etc. But don't let that prevent from enjoying a beautiful sunny day in summer gets wasted.
+
+*Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Attraction_Review-g669631-d6586221-Reviews-Karavi_Schinias_Water_Sports-Marathon_East_Attica_Region_Attica.html)
