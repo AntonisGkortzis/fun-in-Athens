@@ -16,6 +16,8 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Fun and Games](#fun) 😁
 * [Art and Culture](#artAndCulture) :art:
 * [Accomodation](#accomodation) 🏨
+* [Full day trips](#fullDayTrips) :car:
+
 
 
 ## <a name="food"></a>Food
@@ -46,6 +48,7 @@ If you love fairytales and sweets, then you must visit this "sweet" magical plac
 
 Even though most restaurants in Athens are located in or near the center, this particular one is not. Brooklyn the taste factory is an American-like burger house with a wide variety of burgers and similar choices. Since its in Greece though, be careful because the portioning is really generous. The stuff is really polite and the restaurants environment fits the needs of the modern college student and its also family friendly. If you actually decide to visit, keep in mind that you might wait a bit for the order to arrive since most things are made in the spot.
 
+*Address:*[Parnithos 183, Acharnes](https://www.google.com/maps/dir//Brooklyn+the+taste+factory/@38.0956957,23.6684965,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x14a1a1bf5027c02b:0xfed9f2dd897b3bd9!2m2!1d23.7385365!2d38.0957165) |
 *Photo retrieved from:* [Brooklyn the taste factory](https://brooklyn-the-taste-factory.business.site)
 
 **LIVADIA**
@@ -61,8 +64,8 @@ You are hungry. You are near Omonoia and in 30 minutes you have a presentation w
 <img src="media/theDoctorsWheelchair.jpg" alt="drawing" width="500"/>
 
 Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in Greek "Το Καροτσάκι του Γιατρού") is one of the best Greek fast food restaurants you can find in the city center. Located in the area of Psiri, this little unique restaurant offers all the delicacies a normal fast food restaurant would offer but with the generous portioning of the Greeks. If you decide to visit, I suggest trying the "Loua Loua" sandwich. This magnificent gastronomical creation will probably keep you satisfied for the rest of the day, that is if you manage to eat it whole.
-Address:[Μιαούλη 5, Αθήνα](https://www.google.gr/maps/place/Miaouli+5,+Athina+105+54/@37.97708,23.7233708,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd23053dac0b:0xb0155bec7836bf32!8m2!3d37.97708!4d23.7255595)
 
+*Address:*[Μιαούλη 5, Αθήνα](https://www.google.gr/maps/place/Miaouli+5,+Athina+105+54/@37.97708,23.7233708,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd23053dac0b:0xb0155bec7836bf32!8m2!3d37.97708!4d23.7255595)|
 *Photo retrieved from:* [Maxmag](https://www.maxmag.gr/city-guide/karotsi-toy-giatroy-docs-burger-bar/)
 
 **TELI'S CHOPS**
@@ -80,6 +83,7 @@ Address:[Μιαούλη 5, Αθήνα](https://www.google.gr/maps/place/Miaouli+
 
 Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection. They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry!
 
+*Address:*[21, EOLOU & AGHIAS IRINIS STR.](https://www.google.gr/maps/place/LUKUMAΔΕΣ/@37.9769125,23.7254017,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3cd2b5c53f:0xeadb95bb43cf5947!8m2!3d37.9769125!4d23.7275904)|
 *Information and photo retrieved from :* [Lukumades](https://www.lukumades.com/about)
 
 **Choureal**
@@ -870,7 +874,7 @@ During these years, Greek public has been introduced to numerous artistic curren
 [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/) is a contemporary arts space with two high-spec performance halls, an open-air theatre, rooftop restaurant and a performance space. Numerous arts festivals are held here, which explore controversial issues and bold ideas. Theatre, dance, music, cinema, fine arts and literature are only some of the fields that this foundation explores.
 Its internal space consists of 7 floors and 9 underground levels. During the summer, the building's terasse offers an amazing view to the Acropolis, the Lycabettus Hill and the Saronic Gulf.
 
-*Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/)
+*Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/) |
 *Photo retrieved form:* [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/)
 
 **Hellenic Motor Museum**
@@ -916,6 +920,7 @@ OPENING HOURS
 
 [MORE INFORMATION](https://www.emst.gr/en/contact)
 
+
 ## <a name="Accomodation"></a>Accomodation
 
 Explore Athens'most magical hotels and spas
@@ -930,3 +935,15 @@ The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels 
 
 *Information retrieved from:* [The Margi Hotel](https://www.themargi.gr/) <br>
 *Photo retrieved form:* [The Margi Hotel](https://www.themargi.gr/gallery/the-pool/)
+
+
+## <a name="fullDayTrips"></a>Full Day Trips
+
+If you are staying in Athens for a couple of days, it's worth making a day tripand discover a different part of Greece
+
+**Arachova**
+
+Arachova is a traditional village close to Delphi, mostly known as a winter destination. It gets very popular due to the Ski Centre of Parnassos that is found in close distance from the town. It is also a town with a rich historical background and beautiful nature surrounding it. Not only the town itself has nice architecture, but the surrounding region is also nice for sightseeing. Apart from the close site of Ancient Delphi, other interesting sights in short drive from Arachova are the Byzantine Monastery of Osios Loukas and the seaside towns of Itea and Galaxidi.
+
+*Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/)
+
