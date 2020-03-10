@@ -650,3 +650,17 @@ The Railway Carriage Theater to Treno sto Rouf is  an innovative and integrated 
 
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/) |
 *Photo retrieved form:* [To Treno sto Rouf](https://totrenostorouf.gr/en/)
+
+
+**Labrini Boviatsu - Exhibition "Ocean"**
+
+<img src="media/Labrini_Boviatsu.jpg" alt="Labrini Boviatsu Exhibition" width="500"/>
+
+The Skoufa Gallery presents the solo exhibition of Labrini Boviatsu entitled "Ocean" on Thursday, March 12 at 7:30 pm.
+The starting point of the new Labrini Boviatsu solo exhibition is the examination of the emotion that first French writer Romen Rolland called "ocean emotion". It is a feeling of infinity and fullness that human existence feels for the purpose of embracing individuality and collective subjectivity. The ocean emotion, this transcendent experience and awareness of all, has been the source of studies by researchers in philosophy, psychoanalysis and anthropology.
+Opening: Thursday 12 March 2020, 19.30
+:ticket: Price: Free entry
+:calendar: Date: 12 March 2020 - 4 April 2020
+
+*Information and photo retrieved from:* [Art and Life](https://www.artandlife.gr/athens)
+
