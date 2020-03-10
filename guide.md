@@ -675,3 +675,11 @@ Opening: Thursday 12 March 2020, 19.30
 
 *Information and photo retrieved from:* [Art and Life](https://www.artandlife.gr/athens)
 
+**Bernier Eliades**
+A gallery right in the center of Athens. It was founded in 1977 in Athens and has since continued working in the field of contemporary art in Greece. 
+After twenty-one years in Kolonaki, the commercial center of Athens, the gallery moved to a Neoclassical building in Thission, the historic center of Athens.
+
+During the gallery’s function, Jean Bernier and Marina Eliades have introduced to the Greek public numerous artistic currents, such as Arte Povera, Minimalism, Land and Conceptual Art and the younger generation of American and European artists.
+
+*Information retrieved from:* [Bernier Eliades](https://bernier-eliades.com/)
+
