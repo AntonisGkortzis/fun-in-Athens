@@ -156,7 +156,7 @@ Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's 
 Yiasemi is a funky cafe and bistro, located in the historic city center of Athens, at Mnisikleous street. It is quite well know for its
 picturesque setting, as it offers sitting options on the famous stairs of Mnisikleous street, that go all the way to the hill of the Acropolis and took the name of the ancient architect Mnisikli. 
 
-*Photo retrieved from: *[Travel to Athens](https://www.traveltoathens.eu/item/cafe-yiasemi/)
+*Photo retrieved from:* [Travel to Athens](https://www.traveltoathens.eu/item/cafe-yiasemi/)
 
 **Hoocut**
 
