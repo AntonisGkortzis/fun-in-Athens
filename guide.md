@@ -409,6 +409,15 @@ the most popular squares of Athens, day and night.
 
 *Photo retrieved from:* [New Habits](http://newhabits.gr/gallery/the-place/#prettyPhoto)
 
+**Baba Au Rum**
+
+<img src="media/babaaurum.png" alt="Baba Au Rum" width="500"/>
+
+Baba Au Rum has won multiple awards over the last few years and have been listed as one of the best rum bars in the world. It has become renowned for its premium selection of rum and other spirits, while also having exotic drinks mixed with organic herbs and unexpected spices. You will find it a few twists and turns away from Syntagma Square at [Klitiou 6](https://www.google.com/maps/place/Baba+au+rum/@37.9773968,23.7276655,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3c8e015b15:0xde9376e3acda79ed!8m2!3d37.9773968!4d23.7298542).
+
+*Information retrieved from:* [Why Athens](http://newhabits.gr/gallery/the-place/#prettyPhoto) |
+*Photo retrieved from:* [Baba Au Rum](http://babaaurum.com/)
+
 **Lot 51**
 
 <img src="media/lot51.jpg" alt="Lot 51" width="500"/>
