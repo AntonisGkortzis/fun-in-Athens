@@ -713,7 +713,7 @@ If interested in finding specific trails in the mountain [Click here!](https://w
 
 Wanna spend a peaceful day out of the center? Marathon is the perfect place to visit! Almost 25km out of Athens , and easily being transpoted with the bus,you will get your time of your life in these calming watters of Marathon. Make sure you visit also Marathon Tomb , where the great battle of Marathon happened!
 
-*Photo retrieved from:* [trekearth.com](https://www.trekearth.com/)
+*Photo retrieved from:* [trekearth.com](https://www.trekearth.com/) |
 *Information retrieved from:* [Tripadvisor](https://www.tripadvisor.com.gr/)
 
 **Lycabettus hill**
@@ -747,7 +747,7 @@ Are you a extreme person? Then Skydive Athens is the perfect place to fall from 
 
 If you are in Athens and you are searching for an alternative way of fun, this is the best place for you! Paintball Park Malakasa is an area of 150 acres and it constitutes the biggest Paintball Park of Greece and one of the biggest if not the biggest in Europe. There are two independent areas, Paintball NEST, for friends and teams, and Paintball Park EVENT, for kid's parties and events. Both areas promise to offer moments of action, decompression and joy to any type of groups. The park is ready to serve every paintball scenario needed in order to fulfill its customers to the fullest! You will find formed forest fields, with army jeep, bulwarks, bridges, wooden homes, small rivers, fortresses, minefields, sniper position, observatories, stone village etc. It is only 25 minutes far from Athens and you can access the area by car, bus or train. More details on how to get there in the link below!
 
-*Information and photo extracted from:* [Paintball Park](https://www.paintball-park.gr/)
+*Information and photo retrieved from:* [Paintball Park](https://www.paintball-park.gr/)
 
 **The National Garden and Zappeion**
 
@@ -757,7 +757,7 @@ Nothing is better than a wonderful walk through National Garden and Zappeion nea
 Easily access due to the location which is near the Syntagma Metro station and behind the Greek Parliament!
 Address: Leoforos Amalias 1, Athens 10557 Greece
 
-*Information retrieved from:*[IntroducingAthens](https://www.introducingathens.com/) |
+*Information retrieved from: *[IntroducingAthens](https://www.introducingathens.com/) |
 *Photo retrieved from:*[AthensTransport](https://www.athenstransport.com/)
 
 **Allou Fun Park**
@@ -939,7 +939,7 @@ What a better way to enjoy your evening than watching a movie in a rooftop garde
 
 You are downtown in Athens and you want to have fun with your friends or family; I have the best place for you! Playhouse is really close to the Monastiraki train and metro station(4 minutes on foot), so it should be really easy for you to access the place. Polite and friendly people are ready to welcome you to the store and make sure you have a great time there. You can play a whole lot of different kind of games, from speed and puzzle to strategy and memory. It is a big place so whatever category you choose from there are a lot of games for you. If you don't know how a game works don't panic there are people there for you to explain all the rules of the game simply and quickly. While you are there don't forget that you can enjoy your drink or food, which is really good. MY personal favourite waffle with chocolate and biscuit, but there are not only sweets there. So if you don't want something sweet I would suggest that you get a club sandwich.
 
-*All information retrieved from:* [Playhouse](http://www.playhouse.gr/)
+*Information retrieved from:* [Playhouse](http://www.playhouse.gr/)
 
 
 ## <a name="artAndCulture"></a>Art and Culture
@@ -1035,7 +1035,7 @@ OPENING HOURS
 * Saturday	11.00 am – 7.00 pm <br>
 * Sunday	11.00 am – 7.00 pm <br>
 
-*Information retrieved from:* [EMST](https://www.emst.gr/en/museum) <br>
+*Information retrieved from:* [EMST](https://www.emst.gr/en/museum)  |
 *Photo retrieved form:* [EMST](https://www.emst.gr/en/)
 
 [MORE INFORMATION](https://www.emst.gr/en/contact)
@@ -1068,7 +1068,7 @@ The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels 
 
 [You can discover more about The Margi Hotel and its amenities here](https://www.emst.gr/en/contact)<br>
 
-*Information retrieved from:* [The Margi Hotel](https://www.themargi.gr/) <br>
+*Information retrieved from:* [The Margi Hotel](https://www.themargi.gr/) |
 *Photo retrieved form:* [The Margi Hotel](https://www.themargi.gr/gallery/the-pool/)
 
 **Four Seasons Astir Palace Hotel Athens**
@@ -1079,7 +1079,7 @@ On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four S
 
 [You can discover more about The Four Seasons Astir Palace Hotel Athens and its amenities here](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens)<br>
 
-*Information retrieved from:* [Four Seasons Astir Palace Hotel Athens](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens) <br>
+*Information retrieved from:* [Four Seasons Astir Palace Hotel Athens](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens) |
 *Photo retrieved form:* [Four Seasons Astir Palace Hotel Athens](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens)
 
 ## <a name="fullDayTrips"></a>Full Day Trips
