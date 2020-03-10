@@ -593,6 +593,14 @@ If you want come closer to the wildlife of the mountain, you can visit one of th
 
 *Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parnitha)
 
+**Aegina**
+
+<img src="media/aegina.jpg" alt="Aegina" width="500"/>
+
+Situated just 40 minutes via Flying Dolphin (a sort of boat-insect hybrid that looks alarming but whizzes along) from the port of Piraeus, Aegina is one of the closest islands to Athens yet remains mainly un-touristy in spite of its popularity with Athenians.
+
+*Information and photo are retrieved from:* [culture trip](https://theculturetrip.com/europe/greece/articles/aegina-island-perfect-day-trip-athens/)
+
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
