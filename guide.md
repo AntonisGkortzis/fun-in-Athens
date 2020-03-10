@@ -1003,13 +1003,17 @@ Arachova is a traditional village close to Delphi, mostly known as a winter dest
 
 It gets very popular due to the [Ski Centre of Parnassos](https://parnassos-ski.gr/) that is found in close distance from the town. It is also a town with a rich historical background and beautiful nature surrounding it. Not only the town itself has nice architecture, but the surrounding region is also nice for sightseeing. Apart from the close site of Ancient Delphi, other interesting sights in short drive from Arachova are the Byzantine Monastery of Osios Loukas and the seaside towns of Itea and Galaxidi.
 
+*Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/)
+
 **Ski Centre of Parnassos**
+
+<img src="media/ski.jpg" alt="drawing" width="500"/>
 
 Speaking of the exotic place of Arachova and, specifically, for Mountain Parnassos, it is a hell of a must-do trip if you are on to an amazing experience. Parnassos is one of the most beautiful mountains in Greece and comes with an amazing sport, skiing. The ski center has 23 tracks, 7 ski runs and 7 trails, totaling approximately 34 kilometers. The slopes are from 50m up to 4 km for beginners, intermediate and advanced skiers. For adventure lovers, there are 12 off-track "black" tracks with really deep snow and a lot of adrenaline.
 
 Be careful though, skiing is an amazing sport giving you the feeling of freedom but requires attention and proper equipment.
 
-*Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/)
+*Information retrieved form:* [Parnassos Ski Centre](https://parnassos-ski.gr/%CF%84%CE%BF-%CF%87-%CE%BA-%CF%80%CE%B1%CF%81%CE%BD%CE%B1%CF%83%CF%83%CE%BF%CF%8D/) | *Photo retrieved form:* [Google](https://www.google.com/search?q=ski+centre+parnassos&sxsrf=ALeKk00PRj33B1E_ExNuItBmZAXj-ZTIVw:1583865690639&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie5PK-x5DoAhWhsKQKHct8DfwQ_AUoAnoECBoQBA&biw=1366&bih=657#imgrc=ceEMpv45b-ztkM)
 
 **Mycenae, Epidaurus, and Nafplio**
 
