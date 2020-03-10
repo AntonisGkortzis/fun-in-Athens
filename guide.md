@@ -290,6 +290,14 @@ The Big Bad Wolf is a place where you can enjoy delicious and quality food. It c
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
 
+**Istioploikos**
+
+<img src="media/istioploikos.jpg" alt="drawing" width="500"/>
+
+A magnificent place right along the seaside! It is placed in Piraeus and it is really nice to visit all day long. You can enjoy your coffee, drinks of even food, which is so delicious! Istioploikos although was added in the night life section, since in the night the place becomes even more better. it turns into a bar, where people drink their cocktails and listen to good music. The really known party of Istioploikos takes place every Sunday evening from 9 pm. The most easy way to go there is by car.
+
+*All information retrieved from:* [Istioploikos](http://www.istioploikos.gr/el/)
+
 **Terra Petra**
 
 <img src="media/terrapetra.jpg" alt="drawing" width="500"/>
@@ -485,7 +493,7 @@ This hidden all day bar with its vintage theme is located close to the popular n
 
 The name of this place says it all. 360 Degrees is a lush rooftop garden and cocktail bar with a unique industrial design that gives guests panoramic views of the entire city and the Acropolis. Right on Monastiraki Square, just steps away from the Monastiraki Flea Market, 360 Degrees is the place to go to for some dining and drinks with the best view of Athens, hands down!
 
-*Information and photo retrieved from:* [Greek City Times](https://greekcitytimes.com/2018/07/03/athens-immaculate-360-degrees-rooftop-bar/?amp) 
+*Information and photo retrieved from:* [Greek City Times](https://greekcitytimes.com/2018/07/03/athens-immaculate-360-degrees-rooftop-bar/?amp)
 
 ## <a name="tours"></a>Tours
 
