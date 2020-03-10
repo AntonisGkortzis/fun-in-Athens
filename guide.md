@@ -919,6 +919,21 @@ The rocks of Acropolis, otherwise called "Vrahakia" are a really popular spot fo
 *Information retrieved from:* [SimplyLife](https://simplylife.gr/pages/protaseis/article/id/201) |
 *Photo retrieved from:* [Tumblr](https://www.tumblr.com/privacy/consent?redirect=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2F%25CE%25B1%25CE%25BA%25CF%2581%25CE%25BF%25CF%2580%25CE%25BF%25CE%25BB%25CE%25B7%25CF%2582)
 
+**Sprint & Standard**
+*Biathlon*
+
+<img src="media/biathlon.jpg" alt="biathlon" width="500"/>
+
+Sprint route: 5km running- 20km cycling- 2.5km running
+
+Standard route: 10km running- 40km cycling- 5km running
+
+Super Sprint for children
+
+*Location:*[Olympic Rowing Schinias](https://goo.gl/maps/u9u1oMHeKrxLH7iZ6) |
+*Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/diathlo_sprint_standard)
+
+
 ## <a name="shopping"></a>Shopping
 
 There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
