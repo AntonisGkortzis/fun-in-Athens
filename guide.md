@@ -533,6 +533,18 @@ Address: Leoforos Amalias 1, Athens 10557 Greece
 
 There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
 
+**Mpafi shelter**
+
+<img src="media/mpafi.jpg" alt="drawing" width="500"/>
+
+Mpafi shelter, located at Mount Parnitha, is just an hour away from Athens. 
+It gives you the chance to spend the day and night at the highest part of the city and enjoy the great view and the hospitality that they provide.
+You can take part at various activities like [hiking](https://trekking.gr/product/pezoporia-stin-parnitha/) during the day and 
+the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AD%CF%82/%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1/%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%BD%CE%AE-%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1) 
+ as well as bike riding at [Parnitha](https://trekking.gr/product/podilasia-stin-parnitha/) and [Tatoi](https://trekking.gr/product/podilasia-sto-tatoi/). 
+
+*Information retrieved from:* [Mpafi shelter's site](https://www.mpafi.gr/)
+
 **The Mall Athens**
 
 <img src="media/mallAthens.jpg" alt="drawing" width="500"/>
