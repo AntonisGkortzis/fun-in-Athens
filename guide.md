@@ -1249,7 +1249,6 @@ Be careful though, skiing is an amazing sport giving you the feeling of freedom 
 
 *Information retrieved form:* [Parnassos Ski Centre](https://parnassos-ski.gr/%CF%84%CE%BF-%CF%87-%CE%BA-%CF%80%CE%B1%CF%81%CE%BD%CE%B1%CF%83%CF%83%CE%BF%CF%8D/) | *Photo retrieved form:* [Google](https://www.google.com/search?q=ski+centre+parnassos&sxsrf=ALeKk00PRj33B1E_ExNuItBmZAXj-ZTIVw:1583865690639&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie5PK-x5DoAhWhsKQKHct8DfwQ_AUoAnoECBoQBA&biw=1366&bih=657#imgrc=ceEMpv45b-ztkM)
 
-
 **Mycenae, Epidaurus, and Nafplio**
 
 <img src="media/lionGate.jpg" alt="Lion Gate" width="500"/>
@@ -1258,3 +1257,13 @@ Do you know which is the city of mythical Agamemnon, the hero of Trojan war? Whi
 All those questions can be answered through this amazing day trip to Peloponnese which will offer the visitor the chance to discover some of the most important archaelogical sites of Greece, like Mycenae and Epidaurus.
 
 *Information and photo retrieved from:* [travelpassionate](https://travelpassionate.com/top-day-trips-from-athens-greece/)
+
+**Spetses**
+
+<img src="media/spetses.jpg" alt="Spetses" width="500"/>
+
+Spetses is one of the most cosmopolitan and picturesque islands in Greece. Located in the Saronic Gulf, just two hours away from Athens, Spetses is far enough to escape the crowds of the capital and close enough for a relaxing trip. The charming atmosphere of this island has inspired many artists and writers. As the hydrofoil approaches the port, the first thing you’ll see is the tall Venetian mansions that surround the port and some cannons. These cannons used to protect the island in times of war and pirate attacks. Spetses played an important role during the Greek War of Independence, as it helped the Greeks with ships and guns. The most famous war hero from Spetses is a woman, Lascarina Bouboulina, who played a leading part in sea battles and sieges of castles. Activities on Spetses are mostly concentrated around Dapia, the new port. The old port is located on the other side of the town. As this is the only village on the island, Spetses Town has all the facilities needed for a comfortable stay. Vehicles are prohibited in the town, except for bicycles and motorbikes. Transportation is done by boat, bus or bicycle.  
+
+*Information retrieved from:* [Greeka](https://www.greeka.com/attica/athens/tours/t07b-one-day-tour-to-spetses-island/) |
+*Photo retrieved from:* [Greece-is](https://www.greece-is.com/wp-content/uploads/2016/08/SPETSES_YannisLarios_Spetses_IMG_1008.jpg)
+
