@@ -676,7 +676,7 @@ Athens has many things to do for athletics individuals too! From walking to our 
 
 One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!! It is the 1st track in Greece to implement a self-timer system and light board in every kart! Please note that all drivers are required to wear a helmet and a disposable cap through the helmet for hygiene reasons. Kartland is located in Pallini, Athens and is easily accessible by car or by public transportations, using the metro and the bus.
 
-*Information extracted from:* [Kartland](https://kartland.gr/)
+*Information retrieved from:* [Kartland](https://kartland.gr/)
 
 **Hiking**
 
