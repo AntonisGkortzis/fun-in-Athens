@@ -594,6 +594,13 @@ Athens Metro Mall is one of the most popular shopping mall in Athens. With more 
 *Information retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/) |
 *Photo retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/photos/c_574px_558px/pages/201911/athensmetromall_stores.jpg)
 
+**Antiques in Monastiraki**
+Are you a lover of old things and want to get the best antiques at the best prices? In Abysinia Square (in Monastiraki) you will find everything from beautiful expensive 19th Century furniture to totally worthless 20th century junk all displayed in a wonderfully disorganized fashion.
+
+Tip! Try to go on Sunday when gypsies and villagers pour into town with piles of stuff they have found from all over Greece. It's the best place for stamp collectors, coin collectors, card collectors or anyone who loves antiques!
+
+*Information retrieved from:* [Athensguide](https://www.athensguide.com/shopping/) |
+
 ## <a name="fun"></a>Fun and Games
 
 While you are in Athens you can have fun and enjoy your time there, doing a lot of different things.
