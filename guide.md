@@ -14,7 +14,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Activities](#activities) 🚴
 * [Shopping](#shopping) 🎁
 * [Fun and Games](#fun) 😁
-* [Art and Culture](#art and culture)
+* [Art and Culture](#artAndCulture)
 
 
 ## <a name="food"></a>Food
@@ -592,3 +592,13 @@ What a better way to enjoy your evening than watching a movie in a rooftop garde
 You are downtown in Athens and you want to have fun with your friends or family; I have the best place for you! Playhouse is really close to the Monastiraki train and metro station(4 minutes on foot), so it should be really easy for you to access the place. Polite and friendly people are ready to welcome you to the store and make sure you have a great time there. You can play a whole lot of different kind of games, from speed and puzzle to strategy and memory. It is a big place so whatever category you choose from there are a lot of games for you. If you don't know how a game works don't panic there are people there for you to explain all the rules of the game simply and quickly. While you are there don't forget that you can enjoy your drink or food, which is really good. MY personal favourite waffle with chocolate and biscuit, but there are not only sweets there. So if you don't want something sweet I would suggest that you get a club sandwich.
 
 *All information retrieved from:* [Playhouse](http://www.playhouse.gr/)
+
+
+## <a name="artAndCulture"></a>Art and Culture
+
+**Megaron - The Athens Concert Hall**
+
+The Athens Concert Hall offers a comprehensive range of facilities for all sorts of cultural activities, designed to the very highest specifications and one of the most impressive venues of its kind anywhere in the world. It offers a forum for all sorts of cultural activities – both artistic and educational.
+
+*Information retrieved from:* [Megaron](http://www.megaron.gr/default.asp?la=2)
+
