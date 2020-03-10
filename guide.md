@@ -184,6 +184,15 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 *Information retrieved from:* [Feyrouz](https://feyrouz.gr/) |
 *Image retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d6784810-Reviews-Feyrouz-Athens_Attica.html)
 
+**Telescope**
+
+<img src="media/telescope.jpg" alt="drawing" width="500"/>
+
+“Telescope” is a Cafeteria-Bar-Restaurant located in the top of a hill in Chaidari,Athens . This place has a breathtaking view and you will definitely get the best view of Athens from there . Also , this place offers a wide variety of drinks and delicious meals. Definitely worth a visit .
+
+*Information and photo retrieved Petros Siachos*
+
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
