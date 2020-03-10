@@ -764,6 +764,15 @@ Cape Sounion is best known as the site of the ruins of the ancient Greek temple 
 
 *Photo retrieved from:* [VisitGreece](http://www.visitgreece.gr/deployedFiles/StaticFiles/Photos/Generic%20Contents/Arxaiologikoi_xwroi/sounion_450.jpg)
 
+**Scuba Diving in the Blue Hole**
+
+<img src="media/blueHole.jpg" alt="Blue Hole" width="500"/>
+
+If you want a change from the historic attractions of Athens, an adventurous trip to the Blue Hole cave might be the thing for you!
+Located south of Athens, the Blue Hole is a sea cave that burrows vertically down 30m (98ft) into the ocean floor. It resembles a man-made well and at the very bottom there is another dark opening: the beginnings of an uncharted and unexplored network of caves thought to be connected to the nearby Lake Vouliagmeni on the mainland. Your diving trip is recorded by the diving instructors, and the recording is available to take home, free of charge.
+
+*Information and photo retrieved from:* [culture trip](https://theculturetrip.com/europe/greece/articles/the-best-day-trips-from-athens/) 
+
 
 #### <a name="mpafi"></a>**Mpafi shelter**
 
