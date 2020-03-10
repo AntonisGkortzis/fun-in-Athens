@@ -16,6 +16,8 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Fun and Games](#fun) 😁
 * [Art and Culture](#artAndCulture) :art:
 * [Accomodation](#accomodation) 🏨
+* [Full day trips](#fullDayTrips) :car:
+
 
 
 ## <a name="food"></a>Food
@@ -916,3 +918,12 @@ OPENING HOURS
 *Photo retrieved form:* [EMST](https://www.emst.gr/en/)
 
 [MORE INFORMATION](https://www.emst.gr/en/contact)
+<<<<<<< HEAD
+=======
+
+
+## <a name="fullDayTrips"></a>Full Day Trips
+
+If you are staying in Athens for a couple of days, it's worth making a _day trip_ and discover a different part of Greece
+
+>>>>>>> 597d272780a3ab5ab00c4c60df4b5005ff0a8ef0
