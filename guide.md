@@ -83,6 +83,7 @@ Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in Greek
 
 Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection. They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry!
 
+*Address:*[21, EOLOU & AGHIAS IRINIS STR.](https://www.google.gr/maps/place/LUKUMAΔΕΣ/@37.9769125,23.7254017,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3cd2b5c53f:0xeadb95bb43cf5947!8m2!3d37.9769125!4d23.7275904)|
 *Information and photo retrieved from :* [Lukumades](https://www.lukumades.com/about)
 
 **Choureal**
@@ -906,18 +907,34 @@ In May 2015 EMST moved to its permanent premises. From October 2016 to this day,
 
 OPENING HOURS
 
-*Monday	CLOSED <br>
-*Tuesday	11.00 am – 7.00 pm <br>
-*Wednesday	11.00 am – 7.00 pm <br>
-*Thursday	11.00 am – 10.00 pm <br>
-*Friday	11.00 am – 7.00 pm <br>
-*Saturday	11.00 am – 7.00 pm <br>
-*Sunday	11.00 am – 7.00 pm <br>
+* Monday	CLOSED <br>
+* Tuesday	11.00 am – 7.00 pm <br>
+* Wednesday	11.00 am – 7.00 pm <br>
+* Thursday	11.00 am – 10.00 pm <br>
+* Friday	11.00 am – 7.00 pm <br>
+* Saturday	11.00 am – 7.00 pm <br>
+* Sunday	11.00 am – 7.00 pm <br>
 
 *Information retrieved from:* [EMST](https://www.emst.gr/en/museum) <br>
 *Photo retrieved form:* [EMST](https://www.emst.gr/en/)
 
 [MORE INFORMATION](https://www.emst.gr/en/contact)
+
+
+## <a name="Accomodation"></a>Accomodation
+
+Explore Athens'most magical hotels and spas
+
+**The Margi Hotel**
+
+<img src="media/margi.jpg" alt="The Margi Hotel" width="500"/>
+
+The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels of the World (SLH)</strong> and located in the heart of  most exclusive area of Athens Riviera, Vouliagmeni. It is located just a few minutes away from Vouiliagmeni's sandy beaches, but also close enough to some historical sites, like Cape Sounion. Its haute cuisine and organic food from its farm combined with its friendly and attentive staff, its spa premises and its exquisite design make The Margi Hotel a heaven away from home.
+
+[You can discover more about The Margi Hotel and its amenities here:](https://www.emst.gr/en/contact)<br>
+
+*Information retrieved from:* [The Margi Hotel](https://www.themargi.gr/) <br>
+*Photo retrieved form:* [The Margi Hotel](https://www.themargi.gr/gallery/the-pool/)
 
 
 ## <a name="fullDayTrips"></a>Full Day Trips
@@ -932,3 +949,11 @@ It gets very popular due to the [Ski Centre of Parnassos](https://parnassos-ski.
 
 *Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/)
 
+**Mycenae, Epidaurus, and Nafplio**
+
+<img src="media/lionGate.jpg" alt="Lion Gate" width="500"/>
+
+Do you know which is the city of mythical Agamemnon, the hero of Trojan war? Which was one of the most important healing places in ancient times? Which is considered to be the most perfect ancient Greek theatre with regard to acoustics and aesthetic?
+All those questions can be answered through this amazing day trip to Peloponnese which will offer the visitor the chance to discover some of the most important archaelogical sites of Greece, like Mycenae and Epidaurus.
+
+*Information and photo retrieved from:* [travelpassionate](https://travelpassionate.com/top-day-trips-from-athens-greece/)
