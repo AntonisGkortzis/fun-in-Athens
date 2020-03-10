@@ -478,6 +478,12 @@ Picture-perfect Thisseio is an ideal district for relaxing strolls and evening w
 
 *Information and photo retrieved from:* [Culture Trip](https://theculturetrip.com/europe/greece/articles/a-walking-guide-to-thisseio-neighbourhood-athens/)
 
+**Flisvos Marina**
+
+Around Flisvos Marina area, just a few miles away from Syntagma square, you can enjoy at the same time the seaview, high quality food and your walk along the beach. Moreover, one could immerse themselves in plenty more activities, such as riding a bicycle, jogging and walking. The historic battleship “Georgios Averof”, which operates as floating naval museum, is located right next to it. Not too far from it, Water Plaza (Plateia Nerou) is situated, in which – mainly during the summer months – festivals and concerts take place.
+
+*Information retrieved from:* [Battleship "Georgios Averof"](http://averof.mil.gr/en/)
+
 **Filopappou Hill**
 
 <img src="media/filopappou.jpg" alt="drawing" width="500"/>
@@ -685,13 +691,13 @@ Athens has many things to do for athletics individuals too! From walking to our 
 
 One of the most exciting things that you can to do in Athens is Kart, the small cars like you drive at F1!! It is the 1st track in Greece to implement a self-timer system and light board in every kart! Please note that all drivers are required to wear a helmet and a disposable cap through the helmet for hygiene reasons. Kartland is located in Pallini, Athens and is easily accessible by car or by public transportations, using the metro and the bus.
 
-*Information extracted from:* [Kartland](https://kartland.gr/)
+*Information retrieved from:* [Kartland](https://kartland.gr/)
 
 **Hiking**
 
 Going hiking is a great way to explore and get to know Athens! There are a lot of places ideal for a hiking adventure!
 
-1. Sounion National Park
+Sounion National Park
 
 <img src="media/sounionpark.jpg" alt="drawing" width="500"/>
 
@@ -700,7 +706,7 @@ Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. 
 *Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/) |
 *Photo of Sounion National Park retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
 
-2. Ymittos Mountain
+Ymittos Mountain
 
 <img src="media/ymittos.jpg" alt="Ymittos Trails" width="500"/>
 
