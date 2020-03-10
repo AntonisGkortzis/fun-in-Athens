@@ -244,6 +244,13 @@ Seychelles is located on Metaxourgeio and serves value for money greek food. Res
 
 *Information retrieved from:* [Seychelles](http://www.seycheles.gr/en)
 
+**Cookoovaya**
+
+<img src="media/cookoovaya.jpg" alt="Cookoovaya" width="500"/>
+
+Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enjoying. The menu changes with the season, and the kitchen is continually evolving. The menu features: salads, cold dishes and raw, wooden oven, charcoal, casserole and fritters, and desserts.
+
+*Information and photo retrieved from:* [Cookoovaya] (https://cookoovaya.gr/en/)
 
 ## <a name="nightlife"></a>Night Life
 
