@@ -283,8 +283,7 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
-**Six Dogs**                                                                                                                                                                                                                                   <img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    *Information retrieved from:* [SixDogs]  (http://www.sixdogs.gr) |                                                      *Image retrieved from:* [Popaganda] (https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
-
+**Six Dogs**                                                                                                                                                                                                                                   <img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    *Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |                                                      *Image retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
 
 **Cabezon**
 
@@ -293,6 +292,7 @@ In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. 
 
 *Information retrieved from:* [Nou-Pou](https://www.nou-pou.gr/ektos-synorwn/pame-kentro/oi-6-pio-omorfes-ayles-sto-meta3oyrgeio/) |
 *Image retrieved from:* [Kathimerini](https://www.kathimerini.gr/829044/article/epikairothta/ellada/ayles-all-day)
+
 **Romantso**
 
 <img src="media/romantso.jpg" alt="romatso" width="500"/>
@@ -457,8 +457,8 @@ If you're interested into coming closer with the wildlife of the mountain, you c
 
 Some meters away from the Syntagma station metro and next to the Greek Parliament is where the National Garden is located. It covers 284 acres full of green, rare species of plants, small bush trees and birds. The numbers talk on their own. In the garden, there are 7000 trees, 40000 bushes and other plants which belong to 519 kinds and varieties. You can go there to relax from the hectic city, feed the ducks or go for a run. In one of the entrances there is also a small vendor with the traditional bagel-like treat called "Koulouri".
 
-*Information retrieved from:* [DiscoverGreece] (https://www.discovergreece.com/el/travel-ideas/cover-story/athens-national-garden) |
-*Image retrieved from:* [Runster] (http://www.runster.gr/ethinkos-kipos-all-time-classic-diadromi-sto-kentro-tis-athinas/) 
+*Information retrieved from:* [DiscoverGreece(https://www.discovergreece.com/el/travel-ideas/cover-story/athens-national-garden) |
+*Image retrieved from:* [Runster](http://www.runster.gr/ethinkos-kipos-all-time-classic-diadromi-sto-kentro-tis-athinas/) 
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
