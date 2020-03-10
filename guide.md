@@ -331,7 +331,7 @@ The location of the Observatory offers a panoramic view of Athens which is breat
 
 Apart from all the tours you can do on your own, you can also join some organized walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
 
-[!()](https://www.youtube.com/watch?v=KphBnQum_4w)
+[!(<img src="media/freetour.jpg" alt="drawing" width="500"/>)](https://www.youtube.com/watch?v=KphBnQum_4w)
 
 **Athens Street Art Free tour**
 
