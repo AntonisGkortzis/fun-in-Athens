@@ -380,7 +380,7 @@ Discover the beauty of the city through a small hidden in the heart of Athens.It
 
 *Note that these free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour. Walk and have fun!*
 
-*Information retrieved from:* [Freetour.com app](https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
+*Information and photos retrieved from:* [Freetour.com app](https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
 
 **Parnitha Mountain**
 
