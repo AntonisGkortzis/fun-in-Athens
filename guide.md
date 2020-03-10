@@ -484,7 +484,8 @@ Pasalimani or Marina Zeas is the second biggest port of Pireaus.  In the ancient
 
 Psyri or Psiri is a colorful neoclassical neighborhood known for its artisans, specialty stores, restaurants, bars, tavernas with or without live music, theaters, art galleries, antique shops, and a small number of hotels. Following the liberation of Greece from the Turkish occupation in 1833, several veteran freedom fighters and immigrants from the provinces settled here. They opened cottage industries and workshops, which have given the area a distinctive character. The central square of Psyri is called "Heroes Square" because the streets leading to it carry names of heroes of the Independence War. 
 
-*Information retrieved from:* [The Athens Key](https://www.athenskey.com/psyri.html) | *Photo retrieved from:* [Airbnb](https://www.airbnb.com/google_place_photo?photoreference=CmRaAAAAO8tx19UtVxjviOYx_M7Jc0FzyqjtLFkf56onDvfR8LkwHz67HY6N3gKHHWKLFa9Jf9Hfj1fedshOKNO97gSa-GC2p83cUZthl3Rk0GOmAzQRNUtI_AVpwo6jqKwTf8MUEhCfBHu79i9xw9FaXZ7-2gqFGhRGMpqWMT-2euuYZrCXNEmXt3hgUA&maxwidth=1200&maxheight=1200&place_id=84439)
+*Information retrieved from:* [The Athens Key](https://www.athenskey.com/psyri.html) | 
+*Photo retrieved from:* [Airbnb](https://www.airbnb.com/google_place_photo?photoreference=CmRaAAAAO8tx19UtVxjviOYx_M7Jc0FzyqjtLFkf56onDvfR8LkwHz67HY6N3gKHHWKLFa9Jf9Hfj1fedshOKNO97gSa-GC2p83cUZthl3Rk0GOmAzQRNUtI_AVpwo6jqKwTf8MUEhCfBHu79i9xw9FaXZ7-2gqFGhRGMpqWMT-2euuYZrCXNEmXt3hgUA&maxwidth=1200&maxheight=1200&place_id=84439)
 
 **The Acropolis Museum**
 
@@ -494,7 +495,6 @@ The Acropolis Museum is consistently rated as one of the best museums in the wor
 
 *Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) |
 *Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
-
 
 **National Archaeological Museum**
 
