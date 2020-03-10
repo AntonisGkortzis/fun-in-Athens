@@ -254,11 +254,19 @@ Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enj
 
 **Koi Sushi Bar**
 
-<img src="media/koi.jpg" alt="Cookoovaya" width="500"/>
+<img src="media/koi.jpg" width="500"/>
 
 If you are a fan of sushi, you must visit it while you are staying in Athens. It is located in the city Center, really close to the Syntagma Square. The service is really nice. People are really polite and your order gets ready really quickly. One more attribute of this place is that the sushi tastes nice, there are a lot of options you can choose from and they are considerably cheap. If you have never tried sushi in your life before I suggest you do it in this place, since people are helping you to find out what you will like the most.
 
 *Information and photo retrieved from:* [Trip Advisor] (https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d5121936-Reviews-Koi_Sushi_Bar-Athens_Attica.html)
+
+**Hot Hot Burger Bar**
+
+<img src="media/hothot.jpg" width="500"/>
+
+You are in downtown Athens and you want something delicious and quick at the same time? Hot Hot Burger Bar is there for you! There are a lot of burgers you can choose from and 10 different types of sauces, all made by them! Of course I haven't tasted them all, but I guarantee you that every single one of them is so tasty. Get there(it is very easily accessible) and you won't miss out. A really important note would be that there are a lot of vegan burgers, for every vegan out there wanting to eat a delicious burger.
+
+*Information and photo retrieved from:* [Hot Hot Burger Bar] (http://www.hothot.gr/)
 
 ## <a name="nightlife"></a>Night Life
 
