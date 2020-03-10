@@ -617,7 +617,14 @@ Are you a lover of old things and want to get the best antiques at the best pric
 
 Tip! Try to go on Sunday when gypsies and villagers pour into town with piles of stuff they have found from all over Greece. It's the best place for stamp collectors, coin collectors, card collectors or anyone who loves antiques!
 
-*Information and photo retrieved from:* [Athensguide](https://www.athensguide.com/shopping/) |
+*Information and photo retrieved from:* [Athensguide](https://www.athensguide.com/shopping/)
+
+**Voukourestiou Street**
+
+Voukourestiou Street is the most high-end street of Athens. You can find luxury brands such as Louis Vuitton, Prada, Dior, Chanel, Rolex, and buy the perfect gift for yourself! Enjoy the atmosphere and look for the latest diamonds launched by the leaders of the fashion industry.
+
+*Information retrieved from:* [Think Athens](https://www.thinkathens.com/blog/top-places-shopping-in-athens/) |
+*Photo retrieved from:* []()
 
 ## <a name="fun"></a>Fun and Games
 
