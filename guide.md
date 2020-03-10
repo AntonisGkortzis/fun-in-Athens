@@ -303,8 +303,6 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 **Plintirio Bar**
 
 <img src="media/plintirio.jpg" alt="plintirio bar" width="500"/>
@@ -312,9 +310,7 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintirio bar takes you to a laundry room styled bar where you can drink, dance and have fun!  
 
 *Photo retrieved from:* [Plintirio bar facebook page](https://www.facebook.com/%CE%A0%CE%BB%CF%85%CE%BD%CF%84%CE%AE%CF%81%CE%B9%CE%BF-Bar-1413208995564217/)
-=======
-**Six Dogs**                                                                                                                                                                                                                                   <img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    *Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |                                                      *Image retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
-=======
+                                                                                                                                                                                                                  
 **Six Dogs**                                                                                                                                                                                                                                   
 
 <img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       
@@ -322,7 +318,7 @@ Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintiri
 Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    
 
 *Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |*Image retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
->>>>>>> 9efcfb61641077ae01d0093bbefaca006b8c1bc7
+
 
 **Cabezon**
 
