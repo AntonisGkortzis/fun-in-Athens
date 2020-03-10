@@ -656,6 +656,7 @@ Apart from all the tours you can do on your own, you can also join some organize
 **Athens Street Art Free tour**
 
 <img src="media/athens-street-art-tour-of-exarchia.jpg" alt="Street art in athens" width="500"/>
+
 This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist will let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
 
 
