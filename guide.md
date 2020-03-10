@@ -524,6 +524,17 @@ The Panathenaic Stadium, or Kallimarmaro is another famous attraction in Athens.
 *Information retrieved from:* [PANATHENAICSTADIUM](http://www.panathenaicstadium.gr/Default.aspx?tabid=84&language=en-US) |
 *Photo retrieved from:* [shutterstock](https://www.shutterstock.com/image-photo/panathenaic-stadium-known-kallimarmaro-multi-purpose-713885446)
 
+**Changing of the Guard at Syntagma Square**
+
+<img src="media/tsoliades.jpg" alt="drawing" width="500"/>
+
+For many tourists, watching the Changing of the Guard at Syntagma Square is an exciting and memorable experience. The Soldiers of the Presidential Guard stand in front of the Hellenic Parliament on Syntagma Square 24 hours a day, year-round. The guards wear traditional costumes complete with pleated skirts, leg tassels, and pompom shoes.
+
+The Changing of the Guards takes place in front of the Tomb of the Unknown Soldier monument at 11am daily. This monument honors anonymous soldiers who died fighting for the country. The monument features a marble relief that imitates a warrior grave stele of ancient times.
+
+*Information retrieved from:* [Planetware](https://www.planetware.com) |
+*Photo retrieved from:* [Planetware](https://www.planetware.com/photos-large/GR/greece-athens-changing-of-the-guard.jpg)
+
 ## <a name="activities"></a>Activities
 
 Athens has many things to do for athletics individuals too! From walking to our famous mountains to skydiving!
