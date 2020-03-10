@@ -2,7 +2,7 @@
 
 **Disclaimer:** These guidelines are created by the students, **not** by the professor. The purpose is to help new contributors to involve in the project and to have some rules in order to achieve a more beautiful result.
 
-For the time being, there are 8 categories that you can write about: Food, Night life, Tours, Monuments, Activities, Shopping, Fun and Games, Art and Culture. Feel free to add a new category if you want.
+For the time being, there are 10 categories that you can write about: Food, Night life, Tours, Monuments, Activities, Shopping, Fun and Games, Art and Culture, Accommodation and Full Day Trips. Feel free to add a new category if you want.
 
 ### Installation of fun-in-Athens
   1. Open Git - Bash ,make sure you are logged in.

@@ -215,6 +215,19 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 
 *Information and photo retrieved Petros Siachos*
 
+**Riza Riza**
+
+<img src="media/rizariza.jpg" alt="rizariza" width="500"/>
+
+Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) (19 Drakou Street, Athens) and it’s great choice for all day long.  
+There you can enjoy your morning coffee and brunch and delicious food as well as special cocktails made from Greek distillates (raki, ouzo and tsipouro) later at night.  
+
+If you’re planning on visiting, don’t forget to try the great pancakes that they serve.
+
+*Information retrieved from:* [etable.gr](https://www.e-table.gr/restaurant/riza-riza) |
+*Photo retrieved from:* [Riza Riza's facebook page](https://www.facebook.com/RizaRiza.Athens/)
+
+
 
 ## <a name="nightlife"></a>Night Life
 
@@ -322,7 +335,8 @@ Lot 51 gives a lot of value to the quality of the coffee and wants to make it a 
 <img src="media/tyco.jpg" alt="TYCO" width="500"/>
 
 Are you interested on spending a chill night walking around Athens with your favourite cocktail at hand? Then Tyco is the best place  for you to visit.  
-It is located at 11 Romvis street, 10560 Athens, Greece and offers you various tasty and cheap cocktails from the classic ones to more exotic and different. Grab your favourite cocktail and start exploring Athens by night.
+It is located at 11 Romvis street, 10560 Athens, Greece and offers you various tasty and cheap cocktails from the classic ones to more exotic and different.   
+Grab your favourite cocktail and start exploring Athens by night.
 
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
@@ -399,7 +413,7 @@ Just 14km from downtown Athens – or a short, 35-minute ride from Monastiraki o
 
 *Information retrieved from:* [Kifissia](https://www.greece-is.com/kifissia-the-northern-aristocrat/)
 
-**Koukaki**
+#### <a name="koukaki"></a>**Koukaki**
 
 <img src="media/koukaki.jpg" alt="drawing" width="500"/>
 
@@ -501,9 +515,9 @@ The perfect escape from the cities crazy lifestyle, car fumes and noisy streets 
 
 <img src="media/parnitha.jpg" alt="Parnitha" width="500"/>
 
-Parnitha  is the highest forested mountain on the peninsula of Attica located in the north of Athens. It's mostly known for its casino, Casino Mont Parness, that is loacted at the top of the mountain and you can visit using the cable cars. If you're interested into the historical monuments of the mountain, Phili Fortress and the Monastery of Kleiston as well as the Tatoi Palace at the southeast of Parnitha are great choices.
+Parnitha  is the highest forested mountain on the peninsula of Attica located in the north of Athens. It's mostly known for its casino, Casino Mont Parnes, that is loacted at the top of the mountain and you can visit using the cable cars. If you're interested into the historical monuments of the mountain, Phili Fortress and the Monastery of Kleiston as well as the Tatoi Palace at the southeast of Parnitha are great choices.
 
-If you're interested into coming closer with the wildlife of the mountain, you can visit one of the two [shelters](#mpafi) that are located in the mountain and take part at the various activties that they provide.
+If you want come closer to the wildlife of the mountain, you can visit one of the two [shelters](#mpafi) that are located in the mountain and take part at the various activties that it provides.
 
 *Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parnitha)
 
@@ -691,7 +705,7 @@ Cape Sounion is best known as the site of the ruins of the ancient Greek temple 
 <img src="media/mpafi.jpg" alt="Mpafi" width="500"/>
 
 Mpafi shelter, located at Mount Parnitha, is just an hour away from Athens.
-It gives you the chance to spend the day and night at the highest part of the city and enjoy the great view and the hospitality that they provide.
+It gives you the chance to spend your day and your night at the highest part of the city and enjoy the great view and the hospitality that it provides.
 You can take part at various activities like [hiking](https://trekking.gr/product/pezoporia-stin-parnitha/) during the day and
 the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AD%CF%82/%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1/%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%BD%CE%AE-%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1)
  as well as bike riding at [Parnitha](https://trekking.gr/product/podilasia-stin-parnitha/) and [Tatoi](https://trekking.gr/product/podilasia-sto-tatoi/).
@@ -938,9 +952,14 @@ The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels 
 
 **Four Seasons Astir Palace Hotel Athens**
 
-<img src="media/fsastir.jpg" alt="Four Seasons Astir Palace Hotel Athens" width="500"/>
+<img src="media/fsapha.jpg" alt="Four Seasons Astir Palace Hotel Athens" width="500"/>
 
 On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four Seasons offers the best of both worlds: a laid-back seaside escape just 30 minutes from the historical city centre. So, go on, discover the greek ancient civilization at the Acropolis, downtown, then return to Four Seasons to unwind, relax, enjoy a relaxing spa and an extraordinary gastronomical experience.
+
+[You can discover more about The Four Seasons Astir Palace Hotel Athens and its amenities here](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens)<br>
+
+*Information retrieved from:* [Four Seasons Astir Palace Hotel Athens](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens) <br>
+*Photo retrieved form:* [Four Seasons Astir Palace Hotel Athens](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens)
 
 ## <a name="fullDayTrips"></a>Full Day Trips
 
