@@ -269,9 +269,9 @@ If you prefer cocktails only in summer, then Holy Spirit Beach Bar is a very bea
 
 <img src="media/bouzoukia.jpg" alt="drawing" width="500"/>
 
-There are two types of bouzoukia, or pistes, which literally means ‘stages’. First there are the big ones. Think of them as a cross between an indoor concert and a club. You’ll find these venues around Iera Odos in the Gazi neighbourhood and Syngrou Avenue during the winter, and on Posidonos Avenue, which runs along the city’s southern coastline, in the summer. This is where you get to see the biggest stars of the Greek popular music scene: Sakis Rouvas, Anna Vissi, Antonis Remos, Despina Vandi, Giorgos Mazonakis, Paola, and so on.
+There are two types of bouzoukia, or pistes, which literally means ‘stages’. First there are the big ones. Think of them as a cross between an indoor concert and a club. You’ll find these venues around Iera Odos in the Gazi neighbourhood and Syngrou Avenue during the winter, and on Posidonos Avenue, which runs along the city’s southern coastline, in the summer. This is where the biggest stars of the Greek popular music scene, such as Sakis Rouvas, Anna Vissi, Antonis Remos, Despina Vandi, Giorgos Mazonakis, Paola, and so on, sing.
 
-Then there are the smaller, borderline cult stages, that we call skyladika, which literally means “where the dogs hang out.” There’s an interesting backstory here. Think of these as the B-list versions of the glamourous bouzoukia, where the singers, musicians and booze are second-class, where the flowers could have been stolen from a nearby cemetery, and where many of the customers are dodgy characters of the night.
+Then there are the smaller, borderline cult stages, that we call skyladika, which literally means “where the dogs hang out.” Think of these as the B-list versions of the glamourous bouzoukia, where the singers, musicians and booze are second-class, where the flowers could have been stolen from a nearby cemetery, and where many of the customers are dodgy characters of the night. But don't worry, these are still great places to spend your night and see what night life mean to Greek.
 
 *Information retrieved from:* [This is Athens](https://www.thisisathens.org/nightlife/live-music/night-out-bouzoukia)
 
