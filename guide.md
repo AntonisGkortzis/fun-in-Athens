@@ -1170,6 +1170,15 @@ On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four S
 
 If you are staying in Athens for a couple of days, it's worth making a day tripand discover a different part of Greece
 
+**Port of Piraeus**
+
+<img src="media/PortofPiraeus.png" alt="drawing" width="500"/>
+
+From the port of Piraeus you can take the ferries to the surrounding islands. A day trip to the surrounding islands is possible, because of the high number of ferries. The harbour is also close to the metro station Piraeus. 
+And as a student you also get some discounts.
+
+*Information and photo are retrieved from:* [TripAdvisor](https://www.tripadvisor.de/Attraction_Review-g189403-d7974687-Reviews-Port_of_Piraeus-Piraeus_Piraeus_Region_Attica.html)
+
 **Arachova**
 
 <img src="media/arachova.jpg" alt="drawing" width="500"/>
