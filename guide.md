@@ -14,7 +14,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Activities](#activities) 🚴
 * [Shopping](#shopping) 🎁
 * [Fun and Games](#fun) 😁
-* [Art and Culture](#artAndCulture)
+* [Art and Culture](#artAndCulture) :art:
 
 
 ## <a name="food"></a>Food
@@ -627,6 +627,19 @@ You are downtown in Athens and you want to have fun with your friends or family;
 
 **Megaron - The Athens Concert Hall**
 
+<img src="media/megaronConcertHall.jpeg" alt="drawing" width="500"/>
+
 The Athens Concert Hall offers a comprehensive range of facilities for all sorts of cultural activities, designed to the very highest specifications and one of the most impressive venues of its kind anywhere in the world. It offers a forum for all sorts of cultural activities – both artistic and educational.
 
-*Information retrieved from:* [Megaron](http://www.megaron.gr/default.asp?la=2)
+*Information retrieved from:* [Megaron](http://www.megaron.gr/default.asp?la=2) |
+*Photo retrieved form:* [EuGMS](https://www.eugms.org/2020/congress-venue.html)
+
+
+**To Treno sto Rouf railway carriage theater**
+
+<img src="media/totreno.jpg" alt="drawing" width="500"/>
+
+The Railway Carriage Theater to Treno sto Rouf is  an innovative and integrated cultural venue. You can find to Treno sto Rouf at the platform of Rouf Railway Station. It consists of nine lovingly-restored old carriages, which are home to a theater stage, a music stage, a restaurant, a foyer, a bar, dressing rooms and utility rooms. The place plays host to theatrical, dance and music performances for children and adults, educational programmes, events, original entertainment, festivals, projects by young artists, exhibitions, screenings, lectures and romantic dinners and theme parties. The suggested duration is 2 to 3 hours.
+
+*Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/) |
+*Photo retrieved form:* [To Treno sto Rouf](https://totrenostorouf.gr/en/)
