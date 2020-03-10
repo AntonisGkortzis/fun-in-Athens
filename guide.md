@@ -30,9 +30,8 @@ Here are the best places where you can enjoy the Greek food.
 
 <img src="media/theYard.jpg" alt="The Yard" width="500"/>
 
-Even though this place beauty is hidden in its simplicity and secrecy, more people should know about it. The Yard ("Αυλή" in Greek) is a hidden paradise in the area of Psiri at he center of Athens. This difficult to find place is a traditional Greek restaurant that is bound to remind you of the 60s.
+Even though this place beauty is hidden in its simplicity and secrecy, more people should know about it. The Yard ("Αυλή" in Greek) is a hidden paradise in the area of Psiri at he center of Athens. This difficult to find place is a traditional Greek restaurant that is bound to remind you of the 60s and is located at [Agiou Dimitriou 12](https://www.google.gr/maps/place/Agiou+Dimitriou+12,+Athina+105+54/@37.9796252,23.7237424,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd249853df6d:0x84aa56a003836200!8m2!3d37.9796252!4d23.7259311) in Athens.
 
-*Address:*[Αγίου Δημητρίου 12, Αθήνα](https://www.google.gr/maps/place/Agiou+Dimitriou+12,+Athina+105+54/@37.9796252,23.7237424,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd249853df6d:0x84aa56a003836200!8m2!3d37.9796252!4d23.7259311) |
 *Photo retrieved from:* [Olive Magazine](https://www.olivemagazine.gr/εστιατόρια-bars/η-ελένη-ψυχούλη-βγαίνει-τσάρκα-στου-αν/)
 
 **Fairytale**
@@ -1189,6 +1188,64 @@ Its internal space consists of 7 floors and 9 underground levels. During the sum
 *Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/) |
 *Photo retrieved form:* [Google](https://www.google.com/search?q=onassis+cultural+center&sxsrf=ALeKk000HTD7ue1WpZh5sUSgwyT4k6zXGw:1583864295430&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjo-82lwpDoAhWSN8AKHdXTCesQ_AUoAnoECCEQBA&biw=1366&bih=657#imgrc=5jC5E-VAR9H8sM/)
 
+**Hellenic Motor Museum**
+
+<img src="media/hellenic-motor-museum.jpg" alt="Motor Museum" width="500"/>
+
+Hellenic Motor Museum occupies 5.000 sqm. in a unique building in terms of architecture and design. Its exhibitions are dedicated to the evolution of the car and display more than 110 cars from the 19th and the 20th century.
+It is located in the heart of Athens, just a few minutes away from the National Archaeological Museum.
+
+OPENING HOURS
+
+* Monday to Friday	10:00 – 14:00
+* Saturday	11:00 – 18:00
+* Sunday	11:00 – 18:00
+
+*Information retrieved from:* [Hellenic Motor Museum](https://www.hellenicmotormuseum.gr/en/) |
+*Photo retrieved from:* [the fashionable traveler](http://thefashionabletraveller.blogspot.com/2012/12/i-drove-all-day-night.html)
+
+**Instar**
+
+<img src="media/instar.jpg" alt="instar" width="500"/>
+
+*12 March 2020 - 22 March 2020*
+
+The new choreographic work of the dance group Proschima is presented in March for 8 performances. Maria Koliopoulou creates a duet for women's identity, interpreted by Ioanna Apostolou and Christina Ryanhart.
+
+*Choreographer:* Maria Koliopoulou
+*Artists:* Ioanna Apostolou, Christina Ryanhart
+
+Tickets: 10€
+Reservations - Info: 6909471254, from 11:00 - 14:00 & 17:00 - 20:00
+
+*Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/instar_apo_tin_omada_sygxronoy_xoroy_prosxima)
+
+**National Museum of Contemporary Arts (EMST)**
+
+<img src="media/emst.jpg" alt="EMST Museum" width="500"/>
+
+The National Museum of Contemporary Art, Athens (EMST) began its operation in 2000. It is located where the former Fix Brewery premises were, on Syngrou Ave. and the building occupies a total of 18.142 sqm. on a 3.123 sqm surface.
+
+The Museum’s has a constantly growing collection, which consists of works by Greek and international artists, such as Jannis Kounellis, Stephen Antonakos, Gary Hill, Vlassis Caniaris, Chryssa, Mona Hatoun, Emily Jacir, Ilya and Emilia Kabakov, Kim Sooja, Nikos Kessanlis, Shirin Neshat, Lucas Samaras, Costas Tsoclis, Bill Viola, Joseph Kosuth, Pedro Cabrita Reiss, Costas Varotsos, George Lappas, Oliver Ressler, Gulsun Karamustafa a.o.
+
+From 2003 until 2008 it presented exhibitions and events at the Athens Concert Hall, the Athens School of Fine Arts and in the public space. From September 30th, 2008, it was hosted in sections of the building of the Athens Conservatoire.
+
+In May 2015 EMST moved to its permanent premises. From October 2016 to this day, it makes use of the building’s contemporary exhibition spaces, educational facilities, screening room, the museum shop and other facilities, producing or supporting a large number of exhibitions and other activities including conferences, talks, book presentations, film screenings, and dance and musical performances and connecting people from all over the world throught culture and art.
+
+OPENING HOURS
+
+* Monday	CLOSED <br>
+* Tuesday	11.00 am – 7.00 pm <br>
+* Wednesday	11.00 am – 7.00 pm <br>
+* Thursday	11.00 am – 10.00 pm <br>
+* Friday	11.00 am – 7.00 pm <br>
+* Saturday	11.00 am – 7.00 pm <br>
+* Sunday	11.00 am – 7.00 pm <br>
+
+*Information retrieved from:* [EMST](https://www.emst.gr/en/museum)  |
+*Photo retrieved form:* [EMST](https://www.emst.gr/en/)
+
+[MORE INFORMATION](https://www.emst.gr/en/contact)
 
 **ADD 2020**
 
@@ -1294,3 +1351,13 @@ Athens is well known for its beatiful sun and weather, so if you are visiting At
 One of the best and famous beaches in Athens is Schinias. It is a really beautiful place and the waters are crystal clear. Karavi is a beach bar in Schinias beach that elevates the customers' experience! It offers plenty of things to the customer. First of all, you can enjoy your beverage or food in your sunbed. Then, there are a lot of beach volley courts  and if you are lucky enough you can watch professional tournaments that take place there. Last but not least, there are a lot of water sports that one can do there. So as you can see there are lot of ways to enjoy your time there. The only disadvantage of this place is that it is only accessible by car, since it is far enough from metro stations, bus stops etc. But don't let that prevent from enjoying a beautiful sunny day in summer gets wasted.
 
 *Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Attraction_Review-g669631-d6586221-Reviews-Karavi_Schinias_Water_Sports-Marathon_East_Attica_Region_Attica.html)
+
+**Limanakia Vouliagmenis**
+
+<img src="media/limanaki-beach.jpg" alt="limanakia" width="500"/>
+
+A series of many small beaches in small natural bays with rocks that impress with their natural beauty and wild charm of the landscape spreads in Vouliagmeni, on the way to Varkiza. The turquoise cool waters are accessible by descending paths between the rocks.
+
+*Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
+
