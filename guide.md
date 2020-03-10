@@ -264,6 +264,14 @@ What a nice way to enjoy your evening whilst glazing the whole beauty of Athens.
 
 *All information retrieved from:* [Terra Petra](https://www.terrapetra.gr/)
 
+**Apolis**
+
+<img src="media/apolis.jpg" alt="drawing" width="500"/>
+
+Another magnificent place in Petroupoli, just like Terra Petra is Apolis. There are really close to each other and they offer pretty much the same thing. A breathtaking view while enjoying your beverage, cocktail or food. Apolis is a little bit more cozy than Terra Petra, so if you don't want loud music, this is the place for you. You can talk and chill with your friends and family there. I promise you that you are going to enjoy every second while sitting there and enjoying the view.
+
+*Image retrieved from:* [Apolis](http://www.apolis.gr/)
+
 **A For Athens Cocktail Bar**
 
 <img src="media/aForAthens.jpg" alt="drawing" width="500"/>
