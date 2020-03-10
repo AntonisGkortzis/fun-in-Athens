@@ -215,6 +215,19 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 
 *Information and photo retrieved Petros Siachos*
 
+**Riza Riza**
+
+<img src="media/rizariza.jpg" alt="rizariza" width="500"/>
+
+Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) (19 Drakou Street, Athens) and it’s great choice for all day long.  
+There you can enjoy your morning coffee and brunch and delicious food as well as special cocktails made from Greek distillates (raki, ouzo and tsipouro) later at night.  
+
+If you’re planning on visiting, don’t forget to try the great pancakes that they serve.
+
+*Information retrieved from:* [etable.gr](https://www.e-table.gr/restaurant/riza-riza) |
+*Photo retrieved from:* [Riza Riza's facebook page](https://www.facebook.com/RizaRiza.Athens/)
+
+
 
 ## <a name="nightlife"></a>Night Life
 
@@ -322,7 +335,8 @@ Lot 51 gives a lot of value to the quality of the coffee and wants to make it a 
 <img src="media/tyco.jpg" alt="TYCO" width="500"/>
 
 Are you interested on spending a chill night walking around Athens with your favourite cocktail at hand? Then Tyco is the best place  for you to visit.  
-It is located at 11 Romvis street, 10560 Athens, Greece and offers you various tasty and cheap cocktails from the classic ones to more exotic and different. Grab your favourite cocktail and start exploring Athens by night.
+It is located at 11 Romvis street, 10560 Athens, Greece and offers you various tasty and cheap cocktails from the classic ones to more exotic and different.   
+Grab your favourite cocktail and start exploring Athens by night.
 
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
@@ -399,7 +413,7 @@ Just 14km from downtown Athens – or a short, 35-minute ride from Monastiraki o
 
 *Information retrieved from:* [Kifissia](https://www.greece-is.com/kifissia-the-northern-aristocrat/)
 
-**Koukaki**
+#### <a name="koukaki></a>**Koukaki**
 
 <img src="media/koukaki.jpg" alt="drawing" width="500"/>
 
