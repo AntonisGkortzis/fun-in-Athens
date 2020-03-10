@@ -30,9 +30,8 @@ Here are the best places where you can enjoy the Greek food.
 
 <img src="media/theYard.jpg" alt="The Yard" width="500"/>
 
-Even though this place beauty is hidden in its simplicity and secrecy, more people should know about it. The Yard ("Αυλή" in Greek) is a hidden paradise in the area of Psiri at he center of Athens. This difficult to find place is a traditional Greek restaurant that is bound to remind you of the 60s.
+Even though this place beauty is hidden in its simplicity and secrecy, more people should know about it. The Yard ("Αυλή" in Greek) is a hidden paradise in the area of Psiri at he center of Athens. This difficult to find place is a traditional Greek restaurant that is bound to remind you of the 60s and is located at [Agiou Dimitriou 12](https://www.google.gr/maps/place/Agiou+Dimitriou+12,+Athina+105+54/@37.9796252,23.7237424,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd249853df6d:0x84aa56a003836200!8m2!3d37.9796252!4d23.7259311) in Athens.
 
-*Address:*[Αγίου Δημητρίου 12, Αθήνα](https://www.google.gr/maps/place/Agiou+Dimitriou+12,+Athina+105+54/@37.9796252,23.7237424,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd249853df6d:0x84aa56a003836200!8m2!3d37.9796252!4d23.7259311) |
 *Photo retrieved from:* [Olive Magazine](https://www.olivemagazine.gr/εστιατόρια-bars/η-ελένη-ψυχούλη-βγαίνει-τσάρκα-στου-αν/)
 
 **Fairytale**
