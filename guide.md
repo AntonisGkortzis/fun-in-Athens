@@ -347,16 +347,19 @@ Apart from all the tours you can do on your own, you can also join some organize
 [!(<img src="media/freetour.jpg" alt="drawing" width="500"/>)](https://www.youtube.com/watch?v=KphBnQum_4w)
 
 **Athens Street Art Free tour**
+
 <img src="media/athens-street-art-tour-of-exarchia" alt="Street art in athens" width="500"/>
 This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist will let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
 
 
 **Athens free Food tour**
+
 <img src="media/street-food-tour.jpg" alt="Food tour in athens" width="500"/>
 Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
 
 
 **Walk in Beautiful and Secret Athens**
+
 <img src="media/morning-walk-in-beautiful-and-secret-athens.jpg" alt="Secret athens" width="500"/>
 Discover the beauty of the city through a small hidden in the heart of Athens.It will make you travel in the cyclades for a few minutes,  then live the beauty of ancient Greece and discover a district very loved by the locals day and night.You will also have many tips for the continuation of your stay in the city or on some islands, this tour is not a tour on the history of Athens but on modern Athens with of course anecdotes on the history of the city.
 
@@ -529,10 +532,6 @@ Address: Leoforos Amalias 1, Athens 10557 Greece
 
 *Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.at/Attraction_Review-g189400-d246658-Reviews-National_Garden-Athens_Attica.html)
 
-## <a name="shopping"></a>Shopping
-
-There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
-
 **Mpafi shelter**
 
 <img src="media/mpafi.jpg" alt="drawing" width="500"/>
@@ -543,7 +542,11 @@ You can take part at various activities like [hiking](https://trekking.gr/produc
 the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AD%CF%82/%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1/%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%BD%CE%AE-%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1) 
  as well as bike riding at [Parnitha](https://trekking.gr/product/podilasia-stin-parnitha/) and [Tatoi](https://trekking.gr/product/podilasia-sto-tatoi/). 
 
-*Information retrieved from:* [Mpafi shelter's site](https://www.mpafi.gr/)
+*Information and photo retrieved from:* [Mpafi shelter's site](https://www.mpafi.gr/)
+
+## <a name="shopping"></a>Shopping
+
+There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
 
 **The Mall Athens**
 
