@@ -244,6 +244,13 @@ Seychelles is located on Metaxourgeio and serves value for money greek food. Res
 
 *Information retrieved from:* [Seychelles](http://www.seycheles.gr/en)
 
+**Cookoovaya**
+
+<img src="media/cookoovaya.jpg" alt="Cookoovaya" width="500"/>
+
+Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enjoying. The menu changes with the season, and the kitchen is continually evolving. The menu features: salads, cold dishes and raw, wooden oven, charcoal, casserole and fritters, and desserts.
+
+*Information and photo retrieved from:* [Cookoovaya] (https://cookoovaya.gr/en/)
 
 ## <a name="nightlife"></a>Night Life
 
@@ -1050,6 +1057,21 @@ OPENING HOURS
 *Photo retrieved form:* [EMST](https://www.emst.gr/en/)
 
 [MORE INFORMATION](https://www.emst.gr/en/contact)
+
+**ADD 2020**
+
+<img src="media/add.jpg" alt="add" width="500"/>
+
+*29 May 2020 - 30 May 2020*
+
+*Artists:* Alva Noto Live | Anetha | Apollonia | Charlotte de Witte | Cirkle | DISCOSODOMA Soundsystem | DJ Shadow Live | Eris Drew | FJAAK Live | Figkott | Floorplan | Honey Dijon | Jan Blomqvist Live | Kas:st Live | Kobosil | Massimiliano Pagliara |
+Pantha Du Prince Live | Paula Temple | Rebekah | Volvox 
+
+ADD is the biggest tecnho music festival in Athens.
+
+Tickets available at: www.addfestival.gr
+
+*Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/add_2020)
 
 
 ## <a name="Accomodation"></a>Accomodation
