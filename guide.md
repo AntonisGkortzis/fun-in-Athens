@@ -347,12 +347,18 @@ Apart from all the tours you can do on your own, you can also join some organize
 [!(<img src="media/freetour.jpg" alt="drawing" width="500"/>)](https://www.youtube.com/watch?v=KphBnQum_4w)
 
 **Athens Street Art Free tour**
-
+<img src="media/athens-street-art-tour-of-exarchia" alt="Street art in athens" width="500"/>
 This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist will let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
 
-**Athens free Food tour**
 
+**Athens free Food tour**
+<img src="media/street-food-tour.jpg" alt="Food tour in athens" width="500"/>
 Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
+
+
+**Walk in Beautiful and Secret Athens**
+<img src="media/morning-walk-in-beautiful-and-secret-athens.jpg" alt="Secret athens" width="500"/>
+Discover the beauty of the city through a small hidden in the heart of Athens.It will make you travel in the cyclades for a few minutes,  then live the beauty of ancient Greece and discover a district very loved by the locals day and night.You will also have many tips for the continuation of your stay in the city or on some islands, this tour is not a tour on the history of Athens but on modern Athens with of course anecdotes on the history of the city.
 
 *Note that these free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour. Walk and have fun!*
 
