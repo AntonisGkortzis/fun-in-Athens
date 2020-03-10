@@ -613,9 +613,13 @@ You are downtown in Athens and you want to have fun with your friends or family;
 
 **Megaron - The Athens Concert Hall**
 
+<img src="media/megaronConcertHall.jpg" alt="drawing" width="500"/>
+
 The Athens Concert Hall offers a comprehensive range of facilities for all sorts of cultural activities, designed to the very highest specifications and one of the most impressive venues of its kind anywhere in the world. It offers a forum for all sorts of cultural activities – both artistic and educational.
 
-*Information retrieved from:* [Megaron](http://www.megaron.gr/default.asp?la=2)
+*Information retrieved from:* [Megaron](http://www.megaron.gr/default.asp?la=2) |
+*Photo retrieved form:* [EuGMS](https://www.eugms.org/2020/congress-venue.html)
+
 
 **To Treno sto Rouf railway carriage theater**
 
