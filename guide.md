@@ -129,7 +129,7 @@ If you are in the mood for a good falafel, look no more! "Falafellas" is a small
 If you are a meat lover, then Vlachika is the perfect place to taste quality and delicious greek bbq. There they offer a large variety of meat based dishes, so you can choose and eat any delicacies such us beef grilled steak, grilled lamb chops, pork on a spit (in Greek γουρνοπούλα) and many other grilled dishes. In Vlachica you can also taste traditional Greek dishes such as Mousakas, Pastitsio, Gemista etc. One the best dishes that you can taste in Vlachika is the lamb on a spit and Kokoretsi. Lamb on a spit and Kokoretsi are the most traditional, popular and delicious meals in Greece, so I strongly recommend them! Vlachika are located at the southern suburbs of Athens on a region called Vari.
 
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
-*Image retrieved from:* [Google](http://www.vlachika.gr/wp-content/uploads/2010/07/11149389_1582772561974345_6388572603203465498_n.jpg)
+*Photo retrieved from:* [Google](http://www.vlachika.gr/wp-content/uploads/2010/07/11149389_1582772561974345_6388572603203465498_n.jpg)
 
 **Kostas Souvlaki Shop**
 
@@ -138,7 +138,7 @@ If you are a meat lover, then Vlachika is the perfect place to taste quality and
 It may be hidden in a small passage of Mitropoleos street which does not grab your attention at first sight, but judging from the large queue of people waiting outside for a souvlaki you can understand that something unique is located there. There is the small shop of Kostas, whose traditional souvlaki is worshipped not only by Athenians but also from a lot of tourists, since its fame has reached a lot of tourist guides about Athens.
 
 *Information retrieved from:* [Efimerida](http://www.iefimerida.gr/) |
-*Image retrieved from:* [Taxi and Driver](https://taxianddriver.gr/pou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta/)
+*Photo retrieved from:* [Taxi and Driver](https://taxianddriver.gr/pou-tha-fame-to-kalutero-soublaki-tis-athinas-ston-kwsta/)
 
 **Cookoomela**
 
@@ -147,7 +147,7 @@ It may be hidden in a small passage of Mitropoleos street which does not grab yo
 Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's menu remains small and at the same time complete. Five wrapped skewers, potatoes and a salad. Skewers' main ingredients are mushrooms or lentil meatballs, which are enriched with a variety of healthy, fresh and handmade ingredients such as authentic Sicilian recipe tomato sauce, avocado, vegan mayo, mustard, organic vegan yogurt sauce, vegan cheese, salad and bbq sauce.
 
 *Information retrieved from:* [Lifo](http://www.lifo.gr"/) |
-*Image retrieved from:* [Google](https://i2.wp.com/www.madameginger.com/wp-content/uploads/2019/03/Cookoomela-Exarcheia-1.jpg?quality=92&fit=1310%2C900)
+*Photo retrieved from:* [Google](https://i2.wp.com/www.madameginger.com/wp-content/uploads/2019/03/Cookoomela-Exarcheia-1.jpg?quality=92&fit=1310%2C900)
 
 **Hoocut**
 
@@ -205,7 +205,7 @@ and waiting for you to finish them at one of the 5 Butcher's Burger & Steak Hous
 A corner that hopes to accommodate its guests for the scarce time they spend in the city's daily life, the warmth of the place, the hospitality of the family atmosphere, the coziness of quality music, and above all, the enjoyment of eating nobody fresh, handmade and full of family delicacies, like at home, a little deeper, somewhere in the East.
 
 *Information retrieved from:* [Feyrouz](https://feyrouz.gr/) |
-*Image retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d6784810-Reviews-Feyrouz-Athens_Attica.html)
+*Photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d6784810-Reviews-Feyrouz-Athens_Attica.html)
 
 **Telescope**
 
@@ -305,7 +305,7 @@ _📍 : Paramithias 14, Kerameikos_
 
 _📞: +30 21 0524 0117_
 
-_Image retrieved from [Athens Voice](https://www.athensvoice.gr/)_
+_Photo retrieved from [Athens Voice](https://www.athensvoice.gr/)_
 
 
 **Bouzoukia**
@@ -394,7 +394,7 @@ Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintiri
 
 Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    
 
-*Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |*Image retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
+*Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |*Photo retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
 
 **Cabezon**
 
@@ -402,7 +402,7 @@ Six d.o.g.s is an all day/all night cultural center in the historical triangle o
 In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. With cobblestones, small tables and some tires instead of seats, Reggae music and calmness. That kind of calmness that reminds you of your summer vacation. At Cabezon you can sit there and talk, enjoy your night, have some meze and chill with your group of friends with some beer or wine.
 
 *Information retrieved from:* [Nou-Pou](https://www.nou-pou.gr/ektos-synorwn/pame-kentro/oi-6-pio-omorfes-ayles-sto-meta3oyrgeio/) |
-*Image retrieved from:* [Kathimerini](https://www.kathimerini.gr/829044/article/epikairothta/ellada/ayles-all-day)
+*Photo retrieved from:* [Kathimerini](https://www.kathimerini.gr/829044/article/epikairothta/ellada/ayles-all-day)
 
 **Romantso**
 
@@ -740,7 +740,7 @@ Lycabettus hill is the highest point in the center of Athens. At the top of the 
 No matter what you choose, you must be sure for one thing. You will enjoy the breathtaking panoramic view of Athens.
 
 *Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/) |
-*Image retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
+*Photo retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
 
 
 **Skydive Athens**
@@ -835,7 +835,7 @@ the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD
 The rocks of Acropolis, otherwise called "Vrahakia" are a really popular spot for millions of tourists that the capital of Greece welcomes on a yearly basis. Everybody takes the chance to take a photo of the city view, feauting numerous buildings and also the Acropolis on the other side, or to even take a photo of themselves with the scenery. Also, this area is well known for dates and couples in general, who prefer to hang out in a quieter place than the hectic coffee shops of the center. Everyone, including families and children love to observe the view there along with a can of beer and afterwards enjoy a budget-friendly stroll around the city.
 
 *Information retrieved from:* [SimplyLife](https://simplylife.gr/pages/protaseis/article/id/201) |
-*Image retrieved from:* [Tumblr](https://www.tumblr.com/privacy/consent?redirect=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2F%25CE%25B1%25CE%25BA%25CF%2581%25CE%25BF%25CF%2580%25CE%25BF%25CE%25BB%25CE%25B7%25CF%2582)
+*Photo retrieved from:* [Tumblr](https://www.tumblr.com/privacy/consent?redirect=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2F%25CE%25B1%25CE%25BA%25CF%2581%25CE%25BF%25CF%2580%25CE%25BF%25CE%25BB%25CE%25B7%25CF%2582)
 
 ## <a name="shopping"></a>Shopping
 
@@ -903,7 +903,7 @@ Voukourestiou Street is the most high-end street of Athens. You can find luxury 
 With more than 100 shops, cafes and restaurants, McArthurGlen Discount Village is the first and leading discount village in Greece, with favorite designer brands renewing your style and mood, up to 70% cheaper. Discover our services and enjoy a great day in the discount village.
 
 *Information retrieved from:* [McArthurGlen](https://www.mcarthurglen.com/el/outlets/gr/designer-outlet-athens/%CE%A0%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82/) |
-*Image retrieved from:* [Naftemporiki](https://m.naftemporiki.gr/story/1551583/mcarthur-glen-kai-smart-park-anoixta-tis-kuriakes)
+*Photo retrieved from:* [Naftemporiki](https://m.naftemporiki.gr/story/1551583/mcarthur-glen-kai-smart-park-anoixta-tis-kuriakes)
 
 ## <a name="fun"></a>Fun and Games
 
