@@ -285,7 +285,7 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 
 **Romantso**
 
-<img src="media/romatso.jpg" alt="romatso" width="500"/>
+<img src="media/romantso.jpg" alt="romatso" width="500"/>
 
 Romantso is the former office building of the homonymous brochure and is located in the historic shopping center of Athens. It is both an office space for creative start-ups and a cultural center, open to public, with a daily event schedule.The cultural center offers a wide range of events, related to the interests of urban life, music, performance, art, food and conversation. You can check the upcoming events at http://www.romantso.gr/
 
