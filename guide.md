@@ -938,14 +938,14 @@ The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels 
 
 **Four Seasons Astir Palace Hotel Athens**
 
-<img src="media/fsastir.jpg" alt="Four Seasons Astir Palace Hotel Athens" width="500"/>
+<img src="media/fsaph.jpg" alt="Four Seasons Astir Palace Hotel Athens" width="500"/>
 
 On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four Seasons offers the best of both worlds: a laid-back seaside escape just 30 minutes from the historical city centre. So, go on, discover the greek ancient civilization at the Acropolis, downtown, then return to Four Seasons to unwind, relax, enjoy a relaxing spa and an extraordinary gastronomical experience.
 
 [You can discover more about The Four Seasons Astir Palace Hotel Athens and its amenities here](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens)<br>
 
 *Information retrieved from:* [Four Seasons Astir Palace Hotel Athens](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens) <br>
-*Photo retrieved form:* [The Margi Hotel](https://www.themargi.gr/gallery/the-pool/)
+*Photo retrieved form:* [Four Seasons Astir Palace Hotel Athens](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens)
 
 ## <a name="fullDayTrips"></a>Full Day Trips
 
