@@ -137,6 +137,14 @@ Someone would probably think that you can't fit another souvlaki in the center o
 *Information retrieved from:* [Hoocut](https://hoocut.com/hoocut) |
 *Photo retrieved from:* [Facebook](https://www.facebook.com/hoocut/photos/p.352925158604743/352925158604743/?type=1&theater)
 
+**Karaflas Original**
+
+<img src="media/karaflas.jpg" alt="drawing" width="500"/>
+
+You don't want to miss out the best creperie in town! Karaflas Original is placed in Zografou and you can get there by bus. I strongly suggest you go there and totally recommend you take a sweet crepe. My favourite with chocolate and biscuit but you can have everything you want even if its not a sweet crepe. The place offers you a lot of ingredients you can choose from, so feel free to get there and choose after you have seen all possible choices. The best part about this place and the one thing that makes it so unique is that whatever you choose to have, the ingredients will not only be inside the crepe but also above it. So make sure when you get there that you are starving in order to eat the whole thing. If you are not ,  you can share it with someone else and still be too much for both of you.
+
+*Photo retrieved from:* [Facebook](https://www.facebook.com/%CE%9A%CF%81%CE%B5%CF%80%CE%B5%CF%81%CE%B9-%CE%9A%CE%B1%CF%81%CE%B1%CF%86%CE%BB%CE%B1%CF%82-%CE%BF%CF%81%CE%B9%CF%84%CE%B6%CE%B9%CE%BD%CE%B1%CE%BB-1633501440053949/)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
@@ -350,9 +358,9 @@ Enjoy the best local on-the-go snacks on your way to visiting the most popular f
 
 *Information retrieved from:* [Freetour.com app](https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
 
-**Parnitha Mountain** 
+**Parnitha Mountain**
 
-Parnitha  is the highest forested mountain on the peninsula of Attica located in the north of Athens. It's mostly known for its casino, Casino Mont Parness, that is loacted at the top of the mountain and you can visit using the cable cars. If you're interested into the historical monuments of the mountain, Phili Fortress and the Monastery of Kleiston as well as the Tatoi Palace at the southeast of Parnitha are great choices. 
+Parnitha  is the highest forested mountain on the peninsula of Attica located in the north of Athens. It's mostly known for its casino, Casino Mont Parness, that is loacted at the top of the mountain and you can visit using the cable cars. If you're interested into the historical monuments of the mountain, Phili Fortress and the Monastery of Kleiston as well as the Tatoi Palace at the southeast of Parnitha are great choices.
 If you're interested into coming closer with the wildlife of the mountain, you can visit one of the two shelters that are located in the mountain and take part at the various activties thet they provide.
 
 *Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parnitha)
@@ -510,7 +518,7 @@ Address: At Yalou Spata, Αθήνα 190 04 - Otherwise the zoo can also be reach
 
 <img src="media/NationalGarden.png" alt="drawing" width="500"/>
 
-Need a little distance to the big city? The National Garden is one of the many parks in Athens. The park is only 3 minutes away from the Syntagma Metro Station. 
+Need a little distance to the big city? The National Garden is one of the many parks in Athens. The park is only 3 minutes away from the Syntagma Metro Station.
 Address: Leoforos Amalias 1, Athens 10557 Greece
 
 *Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.at/Attraction_Review-g189400-d246658-Reviews-National_Garden-Athens_Attica.html)
@@ -608,4 +616,3 @@ You are downtown in Athens and you want to have fun with your friends or family;
 The Athens Concert Hall offers a comprehensive range of facilities for all sorts of cultural activities, designed to the very highest specifications and one of the most impressive venues of its kind anywhere in the world. It offers a forum for all sorts of cultural activities – both artistic and educational.
 
 *Information retrieved from:* [Megaron](http://www.megaron.gr/default.asp?la=2)
-
