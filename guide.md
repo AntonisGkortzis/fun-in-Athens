@@ -27,7 +27,7 @@ Here are the best places where you can enjoy the Greek food.
 
 Even though this place beauty is hidden in its simplicity and secrecy, more people should know about it. The Yard ("Αυλή" in Greek) is a hidden paradise in the area of Psiri at he center of Athens. This difficult to find place is a traditional Greek restaurant that is bound to remind you of the 60s.
 
-*Address:*[Αγίου Δημητρίου 12, Αθήνα](https://www.google.gr/maps/place/Agiou+Dimitriou+12,+Athina+105+54/@37.9796252,23.7237424,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd249853df6d:0x84aa56a003836200!8m2!3d37.9796252!4d23.7259311)
+*Address:*[Αγίου Δημητρίου 12, Αθήνα](https://www.google.gr/maps/place/Agiou+Dimitriou+12,+Athina+105+54/@37.9796252,23.7237424,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd249853df6d:0x84aa56a003836200!8m2!3d37.9796252!4d23.7259311) |
 *Photo retrieved from:* [Olive Magazine](https://www.olivemagazine.gr/εστιατόρια-bars/η-ελένη-ψυχούλη-βγαίνει-τσάρκα-στου-αν/)
 
 **Fairytale**
@@ -36,7 +36,7 @@ Even though this place beauty is hidden in its simplicity and secrecy, more peop
 
 If you love fairytales and sweets, then you must visit this "sweet" magical place in Nea Filadelfeia. Fairytale is the ideal place where sweets and tales are mixed in a unique way. Its owners love the heroes of Disney and they have visited all of Disneys parks. Drawing their inspiration from their visits Fairytale was created, but its not only looks. The sweets served are a work of are both in appearance and taste, just be careful since you wont be the first to eat too much
 
-*Address:*[Tripia 33, Nea Filadelfia](https://www.google.com/maps/dir//38.0354,23.736193/@38.035337,23.666058,12z)
+*Address:*[Tripia 33, Nea Filadelfia](https://www.google.com/maps/dir//38.0354,23.736193/@38.035337,23.666058,12z) |
 *Photo retrieved from:* [Bovary](https://www.bovary.gr/city/9159/sto-fairytale-sti-nea-filadelfeia-goneis-kai-paidia-kanoyn-oyra-gia-na-mpoyn-se-ena)
 
 **Brooklyn the taste factory**
