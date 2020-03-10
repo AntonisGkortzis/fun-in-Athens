@@ -892,3 +892,33 @@ OPENING HOURS
 
 *Information retrieved from:* [Hellenic Motor Museum](https://www.hellenicmotormuseum.gr/en/) |
 *Photo retrieved from:* [the fashionable traveler](http://thefashionabletraveller.blogspot.com/2012/12/i-drove-all-day-night.html)
+
+**National Museum of Contemporary Arts (EMST)**
+
+<img src="media/emst.jpg" alt="EMST Museum" width="500"/>
+
+The National Museum of Contemporary Art, Athens (EMST) began its operation in 2000. It is located where the former Fix Brewery premises were, on Syngrou Ave. and the building occupies a total of 18.142 sqm. on a 3.123 sqm surface.
+
+The Museum’s has a constantly growing collection, which consists of works by Greek and international artists, such as Jannis Kounellis, Stephen Antonakos, Gary Hill, Vlassis Caniaris, Chryssa, Mona Hatoun, Emily Jacir, Ilya and Emilia Kabakov, Kim Sooja, Nikos Kessanlis, Shirin Neshat, Lucas Samaras, Costas Tsoclis, Bill Viola, Joseph Kosuth, Pedro Cabrita Reiss, Costas Varotsos, George Lappas, Oliver Ressler, Gulsun Karamustafa a.o.
+
+From 2003 until 2008 it presented exhibitions and events at the Athens Concert Hall, the Athens School of Fine Arts and in the public space. From September 30th, 2008, it was hosted in sections of the building of the Athens Conservatoire.
+
+In May 2015 EMST moved to its permanent premises. From October 2016 to this day, it makes use of the building’s contemporary exhibition spaces, educational facilities, screening room, the museum shop and other facilities, producing or supporting a large number of exhibitions and other activities including conferences, talks, book presentations, film screenings, and dance and musical performances and connecting people from all over the world throught culture and art.
+
+OPENING HOURS
+
+*Monday	CLOSED
+*Tuesday	11.00 am – 7.00 pm
+*Wednesday	11.00 am – 7.00 pm
+*Thursday	11.00 am – 10.00 pm
+*Friday	11.00 am – 7.00 pm
+*Saturday	11.00 am – 7.00 pm
+*Sunday	11.00 am – 7.00 pm
+
+The EMST is closed on MONDAYS and 1st of January, 6th of January, 25th of March, 1st of May, Orthodox Easter Sunday, 15th of August, 28th of October, 25th – 26th of December.
+
+[MORE INFORMATION](https://www.emst.gr/en/contact)
+
+*Information retrieved from:* [EMST](https://www.emst.gr/en/museum)
+*Photo retrieved form:* [GOOGLE](https://www.google.com/search?q=National+Museum+of+Contemporary+Art+Athens&rlz=1C1GCEA_enGR864GR864&sxsrf=ALeKk02xed6W2s8Q-oH4qIuFxSQ60PJ7Qw:1583855847726&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGgLfpopDoAhUI4aQKHRvhBYMQ_AUoAnoECBgQBA&biw=1536&bih=754#imgrc=io1gL1tCQhTy9M/)
+
