@@ -158,6 +158,12 @@ A For Athens is an ideal place to enjoy your house special cocktails at night! O
 *Information retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d2665318-Reviews-A_for_Athens_Cocktail_Bar-Athens_Attica.html) |
 *Photo retrieved from:* [A For Athens](https://aforathens.com/photos/)
 
+**Telescope**
+
+It’s a marvelous quiet place up on a hill at Chaidari, Athens. It's like love at first sight! You most definately won't need more than a moment to fall in love with this place. Inside the store you will find 21 telescopes which you can use to look at the magnificent view from the Piraeus port to the Olympic Stadium! The ideal spot for a relaxing drink or a dinner!
+
+*Information retrieved from:* [XPAT ATHENS]( https://www.xpatathens.com/)
+
 **Lohan Nightclub**
 
 <img src="media/lohan-nightclub.jpg" alt="drawing" width="500"/>
@@ -237,6 +243,15 @@ the most popular squares of Athens, day and night.
 Lot 51 gives a lot of value to the quality of the coffee and wants to make it a better as possible. Apart from that, you can find there very interesting labels of whiskey and a lot of tasty cocktails. Last but not least, there are many choices there if you want to have a meal, for example brunch, salat, burger or even pasta.
 
 *Information & photo retrieved from:* [Esquire](https://esquire.com.gr/poto/bars/5852/giati-oloi-pigainoun-sto-lot-51)
+
+**TYCO**
+
+<img src="media/tyco.jpg" alt="TYCO" width="500"/>
+
+Are you interested on spending a chill night walking around Athens with your favourite cocktail at hand? Then Tyco is the best place  for you to visit.  
+It is located at 11 Romvis street, 10560 Athens, Greece and offers you various tasty and cheap cocktails from the classic ones to more exotic and different. Grab your favourite cocktail and start exploring Athens by night.
+
+*Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
 ## <a name="tours"></a>Tours
 
@@ -543,7 +558,7 @@ Address: Leoforos Amalias 1, Athens 10557 Greece
 
 *Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.at/Attraction_Review-g189400-d246658-Reviews-National_Garden-Athens_Attica.html)
 
-### <a name="mpafi"></a>**Mpafi shelter**
+#### <a name="mpafi"></a>**Mpafi shelter**
 
 <img src="media/mpafi.jpg" alt="Mpafi" width="500"/>
 
