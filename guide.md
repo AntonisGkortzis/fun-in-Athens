@@ -908,14 +908,12 @@ In May 2015 EMST moved to its permanent premises. From October 2016 to this day,
 OPENING HOURS
 
 *Monday	CLOSED
-*Tuesday	11.00 am – 7.00 pm
-*Wednesday	11.00 am – 7.00 pm
-*Thursday	11.00 am – 10.00 pm
-*Friday	11.00 am – 7.00 pm
-*Saturday	11.00 am – 7.00 pm
-*Sunday	11.00 am – 7.00 pm
-
-The EMST is closed on MONDAYS and 1st of January, 6th of January, 25th of March, 1st of May, Orthodox Easter Sunday, 15th of August, 28th of October, 25th – 26th of December.
+*Tuesday	11.00 am – 7.00 pm <br>
+*Wednesday	11.00 am – 7.00 pm <br>
+*Thursday	11.00 am – 10.00 pm <br>
+*Friday	11.00 am – 7.00 pm <br>
+*Saturday	11.00 am – 7.00 pm <br>
+*Sunday	11.00 am – 7.00 pm <br>
 
 *Information retrieved from:* [EMST](https://www.emst.gr/en/museum) <br>
 *Photo retrieved form:* [EMST](https://www.emst.gr/en/)
