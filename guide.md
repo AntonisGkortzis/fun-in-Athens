@@ -684,5 +684,5 @@ After twenty-one years in Kolonaki, the commercial center of Athens, the gallery
 
 During the gallery’s function, Jean Bernier and Marina Eliades have introduced to the Greek public numerous artistic currents, such as Arte Povera, Minimalism, Land and Conceptual Art and the younger generation of American and European artists.
 
-*Information retrieved from:* [Bernier Eliades](https://bernier-eliades.com/)
+*Information and photo retrieved from:* [Bernier Eliades](https://bernier-eliades.com/)
 
