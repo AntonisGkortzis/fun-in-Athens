@@ -219,7 +219,7 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 
 <img src="media/rizariza.jpg" alt="rizariza" width="500"/>
 
-Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) (19 Drakou Street, Athens) and it’s great choice for all day long.  
+Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) (19 Drakou Street, Athens) and it’s a great choice for all day long.  
 There you can enjoy your morning coffee and brunch and delicious food as well as special cocktails made from Greek distillates (raki, ouzo and tsipouro) later at night.  
 
 If you’re planning on visiting, don’t forget to try the great pancakes that they serve.
@@ -467,6 +467,16 @@ Picture-perfect Thisseio is an ideal district for relaxing strolls and evening w
 Filopappou hill, also called the Hill of the Muses, is the perfect spot for a stroll especially at sunset! The hill offers a breathtaking view to the Saronic Gulf and of course and a really advantaging point to take a photo of the Acropolis. Of course there is a lot of history hidden in this hill. The monument of Filopappos, which identifies the hill, was built between AD 114 and 116 in honour of Julius Antiochus Filopappos, a prominent Roman consul and administrator.
 
 *Information and photo retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
+
+**Pasalimani - Marina Zeas**
+
+<img src="media/pasalimani.jpg" alt="pasalimani" width="500"/>
+
+Looking for a place near the sea to spend your day? Pasalimani or Marina Zeas is your answer.  
+Pasalimani or Marina Zeas is the second biggest port of Pireaus.  In the ancient times, it was the biggest military harbour.  Nowadays, it is said that is the center of amusement of Pireaus. There you can enjoy the beauty of the sea while walking around the port or by visiting one of the plenty of restaurants, coffee shops and shops around the port and Kanari’s square.
+
+*Information retrieved from:* [Wikipedia](https://el.wikipedia.org/wiki/%CE%9B%CE%B9%CE%BC%CE%AD%CE%BD%CE%B1%CF%82_%CE%96%CE%AD%CE%B1%CF%82) |
+*Photo retrieved from:* [Pinterest](https://gr.pinterest.com/)
 
 **The Acropolis Museum**
 
