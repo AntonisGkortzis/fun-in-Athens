@@ -468,6 +468,12 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 *Information and photo retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
 
+**Psyri**
+
+<img src="media/psyri.jpeg" alt="psyri" width="500"/>
+
+Psyri or Psiri is a colorful neoclassical neighborhood known for its artisans, specialty stores, restaurants, bars, tavernas with or without live music, theaters, art galleries, antique shops, and a small number of hotels. Following the liberation of Greece from the Turkish occupation in 1833, several veteran freedom fighters and immigrants from the provinces settled here. They opened cottage industries and workshops, which have given the area a distinctive character. The central square of Psyri is called "Heroes Square" because the streets leading to it carry names of heroes of the Independence War. 
+
 **The Acropolis Museum**
 
 <img src="media/acropolisMuseum.jpg" alt="drawing" width="500"/>
