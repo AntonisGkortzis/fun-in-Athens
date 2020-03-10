@@ -493,7 +493,7 @@ The collection is displayed along the museum’s two floors and is divided into 
 
 <img src="media/benaki.jpg" alt="benaki" width="500"/>
 
-The Benaki Museum is among the most extensive and innovative cultural organizations in Europa. Diverse cultures from all historical periods and geographical areas meet contemporary art across a network of venues all over Athens – and beyond. The Benaki Museum of Greek Culture presents the history and art of the Greek world from prehistory to the 20th century, through 6.000 objects arranged over four floors.
+Benaki's museum is one of the top museum in Athens.What you will see inside of the museum is a presentation of Greek Culture of history in art of the Greek world from the prehistory to the 20th century ,up to 6.000 object.Apart from Greek Culture what will you see is also  culture from Asians world and in the end you will be seeing ancient sculptures from Byzantium
 
 *Information retrieved from:*[Tripadvisor](https://tripadvisor.com.gr) |
 *Photo retrived from:*[Liberal](https://liberal.gr)
