@@ -954,7 +954,7 @@ Super Sprint for children
 
 **Kyma Surf School**
 
-<img src="kymasurf.jpg" alt="kyma" width="500"/>
+<img src="media/kymasurf.jpg" alt="kyma" width="500"/>
 
 Kyma surf school based in Athens is a mobile surf school and open all year round for all ages.From the beginner who looking for a fun and an easy way to experience surfing to the intermediate surfer to improve their technique and ability, the friendly KYMA surf school are ready to help.Let us show you that surfing is all about fun. We teach you in small, easy waves, over a sandy bottom with proper equipment, and guaranteed smiles.
 
