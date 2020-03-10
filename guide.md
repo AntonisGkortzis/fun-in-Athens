@@ -926,7 +926,9 @@ If you are staying in Athens for a couple of days, it's worth making a day tripa
 
 **Arachova**
 
-Arachova is a traditional village close to Delphi, mostly known as a winter destination. It gets very popular due to the Ski Centre of Parnassos that is found in close distance from the town. It is also a town with a rich historical background and beautiful nature surrounding it. Not only the town itself has nice architecture, but the surrounding region is also nice for sightseeing. Apart from the close site of Ancient Delphi, other interesting sights in short drive from Arachova are the Byzantine Monastery of Osios Loukas and the seaside towns of Itea and Galaxidi.
+Arachova is a traditional village close to Delphi, mostly known as a winter destination.
+
+It gets very popular due to the [Ski Centre of Parnassos](https://parnassos-ski.gr/) that is found in close distance from the town. It is also a town with a rich historical background and beautiful nature surrounding it. Not only the town itself has nice architecture, but the surrounding region is also nice for sightseeing. Apart from the close site of Ancient Delphi, other interesting sights in short drive from Arachova are the Byzantine Monastery of Osios Loukas and the seaside towns of Itea and Galaxidi.
 
 *Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/)
 
