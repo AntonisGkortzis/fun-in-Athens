@@ -639,7 +639,7 @@ Address: Leoforos Amalias 1, Athens 10557 Greece
 
 **Sounio**
 
-<img src="media/sounio.png" alt="drawing" width="500"/>
+<img src="media/sounio.jpg" alt="drawing" width="500"/>
 
 Cape Sounion is best known as the site of the ruins of the ancient Greek temple of Poseidon, the god of the sea. The remains are perched on the headland, surrounded on three sides by the sea. The site is a popular day-excursion for tourists from Athens, with sunset over the Aegean Sea, as viewed from the ruins, a sought-after spectacle.
 
