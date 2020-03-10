@@ -299,6 +299,14 @@ Bel Rey is a former car lubricant turned into an all day snack bar. With vintage
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
 
+**Istioploikos**
+
+<img src="media/istioploikos.jpg" alt="drawing" width="500"/>
+
+A magnificent place right along the seaside! It is placed in Piraeus and it is really nice to visit all day long. You can enjoy your coffee, drinks of even food, which is so delicious! Istioploikos although was added in the night life section, since in the night the place becomes even more better. it turns into a bar, where people drink their cocktails and listen to good music. The really known party of Istioploikos takes place every Sunday evening from 9 pm. The most easy way to go there is by car.
+
+*All information retrieved from:* [Istioploikos](http://www.istioploikos.gr/el/)
+
 **Terra Petra**
 
 <img src="media/terrapetra.jpg" alt="drawing" width="500"/>
@@ -418,6 +426,15 @@ the most popular squares of Athens, day and night.
 
 *Photo retrieved from:* [New Habits](http://newhabits.gr/gallery/the-place/#prettyPhoto)
 
+**Baba Au Rum**
+
+<img src="media/babaaurum.png" alt="Baba Au Rum" width="500"/>
+
+Baba Au Rum has won multiple awards over the last few years and have been listed as one of the best rum bars in the world. It has become renowned for its premium selection of rum and other spirits, while also having exotic drinks mixed with organic herbs and unexpected spices. You will find it a few twists and turns away from Syntagma Square at [Klitiou 6](https://www.google.com/maps/place/Baba+au+rum/@37.9773968,23.7276655,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3c8e015b15:0xde9376e3acda79ed!8m2!3d37.9773968!4d23.7298542).
+
+*Information retrieved from:* [Why Athens](http://newhabits.gr/gallery/the-place/#prettyPhoto) |
+*Photo retrieved from:* [Baba Au Rum](http://babaaurum.com/)
+
 **Lot 51**
 
 <img src="media/lot51.jpg" alt="Lot 51" width="500"/>
@@ -485,8 +502,16 @@ Romantso is the former office building of the homonymous brochure and is located
 
 This hidden all day bar with its vintage theme is located close to the popular night spots of Kolokotroni Street and has been a hit with the locals from the day it opened. Paying homage to old “blue eyes”, this long narrow bar sees patrons spilling out onto the pavement, where additional tables and chairs are set up and are well serviced. Its décor and cocktail list are inspired by the ‘50s and ‘60s and has a fun relaxed atmosphere. Many start the night here before moving on to the next hotspot.
 
-*Information retrieved from:* [WhyAthens] (https://whyathens.com/athens-nightlife/) |
-*Photo retrieved from* [TripAdvisor] (https://www.tripadvisor.com/LocationPhotoDirectLink-g189400-d6029269-i209959965-Drunk_Sinatra-Athens_Attica.html)
+*Information retrieved from:* [WhyAthens](https://whyathens.com/athens-nightlife/) |
+*Photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com/LocationPhotoDirectLink-g189400-d6029269-i209959965-Drunk_Sinatra-Athens_Attica.html)
+
+**360 Cocktail Bar**
+
+<img src="media/360_cocktail_bar.jpg" alt="360_rooftop" width="500"/>
+
+The name of this place says it all. 360 Degrees is a lush rooftop garden and cocktail bar with a unique industrial design that gives guests panoramic views of the entire city and the Acropolis. Right on Monastiraki Square, just steps away from the Monastiraki Flea Market, 360 Degrees is the place to go to for some dining and drinks with the best view of Athens, hands down!
+
+*Information and photo retrieved from:* [Greek City Times](https://greekcitytimes.com/2018/07/03/athens-immaculate-360-degrees-rooftop-bar/?amp)
 
 ## <a name="tours"></a>Tours
 
@@ -903,6 +928,21 @@ The rocks of Acropolis, otherwise called "Vrahakia" are a really popular spot fo
 *Information retrieved from:* [SimplyLife](https://simplylife.gr/pages/protaseis/article/id/201) |
 *Photo retrieved from:* [Tumblr](https://www.tumblr.com/privacy/consent?redirect=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2F%25CE%25B1%25CE%25BA%25CF%2581%25CE%25BF%25CF%2580%25CE%25BF%25CE%25BB%25CE%25B7%25CF%2582)
 
+**Sprint & Standard**
+*Biathlon*
+
+<img src="media/biathlon.jpg" alt="biathlon" width="500"/>
+
+Sprint route: 5km running- 20km cycling- 2.5km running
+
+Standard route: 10km running- 40km cycling- 5km running
+
+Super Sprint for children
+
+*Location:*[Olympic Rowing Schinias](https://goo.gl/maps/u9u1oMHeKrxLH7iZ6) |
+*Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/diathlo_sprint_standard)
+
+
 ## <a name="shopping"></a>Shopping
 
 There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
@@ -983,6 +1023,14 @@ If you don't know already what escape rooms are about, I can personally guarante
 
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/) |
 *Photo retrieved form:* [Great Escape Rooms](https://greatescape.gr/)
+
+**Ice Skating in Megaron**
+
+<img src="media/iceskating.jpg" width="500"/>
+
+If it happens to visit Athens in the winter, Ice Skating is one thing you must do! I know that in Athens is not snowing and is mostly known for the sun and the good weather, but it would be really fun for you to go there. Even if you haven't tried it before, don't worry there are people there willing to help you learn the basics and have the best time ever. At first, it will be difficult but once you understand how you can move and become better at this, you will not want to leave the place! And you can actually do that, since you pay 10 euros for unlimited time, so you can move around the ice skating area until you are too tired. It is a really fun place, you will laugh a lot and spend a great time with your friends and family. And remember if they hesitate show them this article!
+
+*All information retrieved from:* [Megaron](http://www.megaron.gr/default.asp?pid=255&la=1)
 
 **The VR Project**
 
@@ -1162,6 +1210,15 @@ On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four S
 ## <a name="fullDayTrips"></a>Full Day Trips
 
 If you are staying in Athens for a couple of days, it's worth making a day tripand discover a different part of Greece
+
+**Port of Piraeus**
+
+<img src="media/PortofPiraeus.png" alt="drawing" width="500"/>
+
+From the port of Piraeus you can take the ferries to the surrounding islands. A day trip to the surrounding islands is possible, because of the high number of ferries. The harbour is also close to the metro station Piraeus. 
+And as a student you also get some discounts.
+
+*Information and photo are retrieved from:* [TripAdvisor](https://www.tripadvisor.de/Attraction_Review-g189403-d7974687-Reviews-Port_of_Piraeus-Piraeus_Piraeus_Region_Attica.html)
 
 **Arachova**
 
