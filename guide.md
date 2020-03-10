@@ -164,6 +164,15 @@ For a reservation or openning hours, please visit the following link: https://ww
 *Information retrieved from:* [e-table](https://www.e-table.gr/restaurant/rock-n-roll-athens) |
 *Photo retrieved from:* [Lifo](https://www.lifo.gr/articles/athens_articles/171381)
 
+**Butcher's Burger**
+
+<img src="media/burger.jpg" alt="Butchers burger" width="500"/>
+
+The most delicious and great burgers with the most delicious handmade juicy burger & most delicious steaks are here
+and waiting for you to finish them at one of the 5 Butcher's Burger & Steak House shops!
+
+*Information and photo retrieved from:* [Butcher's Burger](http://www.butchersburger-steak.gr)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
@@ -288,7 +297,7 @@ In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. 
 =======
 **Romantso**
 
-<img src="media/romatso.jpg" alt="romatso" width="500"/>
+<img src="media/romantso.jpg" alt="romatso" width="500"/>
 
 Romantso is the former office building of the homonymous brochure and is located in the historic shopping center of Athens. It is both an office space for creative start-ups and a cultural center, open to public, with a daily event schedule.The cultural center offers a wide range of events, related to the interests of urban life, music, performance, art, food and conversation. You can check the upcoming events at http://www.romantso.gr/
 
