@@ -917,8 +917,8 @@ OPENING HOURS
 
 The EMST is closed on MONDAYS and 1st of January, 6th of January, 25th of March, 1st of May, Orthodox Easter Sunday, 15th of August, 28th of October, 25th – 26th of December.
 
-[MORE INFORMATION](https://www.emst.gr/en/contact)
+*Information retrieved from:* [EMST](https://www.emst.gr/en/museum)|
+*Photo retrieved form:* [EMST](https://www.google.com/search?q=National+Museum+of+Contemporary+Art+Athens&rlz=1C1GCEA_enGR864GR864&sxsrf=ALeKk02xed6W2s8Q-oH4qIuFxSQ60PJ7Qw:1583855847726&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGgLfpopDoAhUI4aQKHRvhBYMQ_AUoAnoECBgQBA&biw=1536&bih=754#imgrc=io1gL1tCQhTy9M/)
 
-*Information retrieved from:* [EMST](https://www.emst.gr/en/museum)
-*Photo retrieved form:* [GOOGLE](https://www.google.com/search?q=National+Museum+of+Contemporary+Art+Athens&rlz=1C1GCEA_enGR864GR864&sxsrf=ALeKk02xed6W2s8Q-oH4qIuFxSQ60PJ7Qw:1583855847726&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGgLfpopDoAhUI4aQKHRvhBYMQ_AUoAnoECBgQBA&biw=1536&bih=754#imgrc=io1gL1tCQhTy9M/)
+[MORE INFORMATION](https://www.emst.gr/en/contact)
 
