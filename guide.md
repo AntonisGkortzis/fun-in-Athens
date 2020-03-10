@@ -239,8 +239,8 @@ Located on Aiolou Street in the heart of historic Athens' commercial district, M
 
 Seychelles is located on Metaxourgeio and serves value for money greek food. Reservations are suggested.
 
-| Opening Hours      | Daily 10:00 to 2:00|
-| Contact       	 | +302111834789	  |
+| Opening Hours: Daily 10:00 to 2:00
+| Contact: +302111834789
 
 *Information retrieved from:* [Seychelles](http://www.seycheles.gr/en)
 
