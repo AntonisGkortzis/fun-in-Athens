@@ -515,9 +515,9 @@ The perfect escape from the cities crazy lifestyle, car fumes and noisy streets 
 
 <img src="media/parnitha.jpg" alt="Parnitha" width="500"/>
 
-Parnitha  is the highest forested mountain on the peninsula of Attica located in the north of Athens. It's mostly known for its casino, Casino Mont Parness, that is loacted at the top of the mountain and you can visit using the cable cars. If you're interested into the historical monuments of the mountain, Phili Fortress and the Monastery of Kleiston as well as the Tatoi Palace at the southeast of Parnitha are great choices.
+Parnitha  is the highest forested mountain on the peninsula of Attica located in the north of Athens. It's mostly known for its casino, Casino Mont Parnes, that is loacted at the top of the mountain and you can visit using the cable cars. If you're interested into the historical monuments of the mountain, Phili Fortress and the Monastery of Kleiston as well as the Tatoi Palace at the southeast of Parnitha are great choices.
 
-If you're interested into coming closer with the wildlife of the mountain, you can visit one of the two [shelters](#mpafi) that are located in the mountain and take part at the various activties that they provide.
+If you want come closer to the wildlife of the mountain, you can visit one of the two [shelters](#mpafi) that are located in the mountain and take part at the various activties that it provides.
 
 *Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parnitha)
 
@@ -705,7 +705,7 @@ Cape Sounion is best known as the site of the ruins of the ancient Greek temple 
 <img src="media/mpafi.jpg" alt="Mpafi" width="500"/>
 
 Mpafi shelter, located at Mount Parnitha, is just an hour away from Athens.
-It gives you the chance to spend the day and night at the highest part of the city and enjoy the great view and the hospitality that they provide.
+It gives you the chance to spend your day and your night at the highest part of the city and enjoy the great view and the hospitality that it provides.
 You can take part at various activities like [hiking](https://trekking.gr/product/pezoporia-stin-parnitha/) during the day and
 the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AD%CF%82/%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1/%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%BD%CE%AE-%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1)
  as well as bike riding at [Parnitha](https://trekking.gr/product/podilasia-stin-parnitha/) and [Tatoi](https://trekking.gr/product/podilasia-sto-tatoi/).
