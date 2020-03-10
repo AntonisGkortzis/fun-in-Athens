@@ -10,6 +10,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Food](#food) 🍕
 * [Night Life](#nightlife) 💃
 * [Tours](#tours) 🚶
+* [Museums](#museums) :mortar_board:
 * [Monuments](#monuments) 🗼
 * [Activities](#activities) 🚴
 * [Shopping](#shopping) 🎁
