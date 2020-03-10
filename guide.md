@@ -621,10 +621,12 @@ Tip! Try to go on Sunday when gypsies and villagers pour into town with piles of
 
 **Voukourestiou Street**
 
+<img src="media/voukou.jpg" alt="Voukourestiou" width="500"/> 
+
 Voukourestiou Street is the most high-end street of Athens. You can find luxury brands such as Louis Vuitton, Prada, Dior, Chanel, Rolex, and buy the perfect gift for yourself! Enjoy the atmosphere and look for the latest diamonds launched by the leaders of the fashion industry.
 
 *Information retrieved from:* [Think Athens](https://www.thinkathens.com/blog/top-places-shopping-in-athens/) |
-*Photo retrieved from:* []()
+*Photo retrieved from:* [Athens Voice](https://www.athensvoice.gr/life/urban-culture/athens/437284_odos-voykoyrestioy)
 
 ## <a name="fun"></a>Fun and Games
 
