@@ -280,12 +280,13 @@ If you prefer cocktails only in summer, then Holy Spirit Beach Bar is a very bea
 
 **Beauty Killed the Beast**
 
-<img src="media/beautykilledthebeast.jpg alt="BeutyKilledTheBeast" width="500"/>
+<img src="media/beautykilledthebeast.jpg" alt="BeutyKilledTheBeast" width="500"/>
 
 Inspired by the last lines of the first King Kong movie in 1933 _"It was beauty. As always, beauty killed the beast"_, this fantastic *cocktail bar* offers high quality cocktails, but that's not just it. It is located inside a house that was built at the '30s and its decor is a funky mix of vintage and industrial, including an underground urban jungle, which create a chill, cinematic scene. 
 You can visit Beauty Killed the Beast for its amazing _cocktails_, as well as its wonderful _brunch_ that also has a lot of vegan options.
 
 _📍 : Paramithias 14, Kerameikos_
+
 _📞: +30 21 0524 0117_
 
 _Image retrieved from [Athens Voice](https://www.athensvoice.gr/)_
