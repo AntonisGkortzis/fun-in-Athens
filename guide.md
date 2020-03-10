@@ -268,6 +268,14 @@ You are in downtown Athens and you want something delicious and quick at the sam
 
 *Information and photo retrieved from:* [Hot Hot Burger Bar] (http://www.hothot.gr/)
 
+**Etnico**
+
+<img src="media/etnico.jpg" width="500"/>
+
+Etnico is all about ethnic street food right in the center of Athens. In this place, you can taste the world, so you can choose different plates from different countries and even different continents. Some examples would be Mexican Chimichanga και Burrito, Arabic Falafel, Indian Samosas and Korean salads. As I mentioned earlier it is located between the two metro stations, Syntagma and Monastiraki. So from wherever you choose to go, just have in ming that it is about 10 minutes on foot. Don't get intimated by that, it is a really nice place to visit and eat since the food is really tasty. Let alone that you are going to enjoy walking till there, as the Ermou street is really close to it. My personal recomendation would be, to strall around Ermou street, maybe even go shopping there and afterwards grab something to eat from Etnico.
+
+*Information and photo retrieved from:* [Etnico] (https://www.etnico.gr/)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
