@@ -476,8 +476,8 @@ Romantso is the former office building of the homonymous brochure and is located
 
 This hidden all day bar with its vintage theme is located close to the popular night spots of Kolokotroni Street and has been a hit with the locals from the day it opened. Paying homage to old “blue eyes”, this long narrow bar sees patrons spilling out onto the pavement, where additional tables and chairs are set up and are well serviced. Its décor and cocktail list are inspired by the ‘50s and ‘60s and has a fun relaxed atmosphere. Many start the night here before moving on to the next hotspot.
 
-*Information retrieved from:* [WhyAthens] (https://whyathens.com/athens-nightlife/) |
-*Photo retrieved from:* [TripAdvisor] (https://www.tripadvisor.com/LocationPhotoDirectLink-g189400-d6029269-i209959965-Drunk_Sinatra-Athens_Attica.html)
+*Information retrieved from:* [WhyAthens](https://whyathens.com/athens-nightlife/) |
+*Photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com/LocationPhotoDirectLink-g189400-d6029269-i209959965-Drunk_Sinatra-Athens_Attica.html)
 
 **360 Cocktail Bar**
 
@@ -485,8 +485,7 @@ This hidden all day bar with its vintage theme is located close to the popular n
 
 The name of this place says it all. 360 Degrees is a lush rooftop garden and cocktail bar with a unique industrial design that gives guests panoramic views of the entire city and the Acropolis. Right on Monastiraki Square, just steps away from the Monastiraki Flea Market, 360 Degrees is the place to go to for some dining and drinks with the best view of Athens, hands down!
 
-*Information retrieved from:*[Greek City Times](https://greekcitytimes.com/2018/07/03/athens-immaculate-360-degrees-rooftop-bar/?amp) |
-*Photo retrieved from:*[Greek City Times](https://greekcitytimes.com/wp-content/uploads/2018/07/1401708_507105286113060_1708010825381392217_o.jpg)
+*Information and photo retrieved from:* [Greek City Times](https://greekcitytimes.com/2018/07/03/athens-immaculate-360-degrees-rooftop-bar/?amp) |
 
 ## <a name="tours"></a>Tours
 
