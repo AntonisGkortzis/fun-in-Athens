@@ -615,50 +615,6 @@ Psyri or Psiri is a colorful neoclassical neighborhood known for its artisans, s
 *Information retrieved from:* [The Athens Key](https://www.athenskey.com/psyri.html) |
 *Photo retrieved from:* [Airbnb](https://www.airbnb.com/google_place_photo?photoreference=CmRaAAAAO8tx19UtVxjviOYx_M7Jc0FzyqjtLFkf56onDvfR8LkwHz67HY6N3gKHHWKLFa9Jf9Hfj1fedshOKNO97gSa-GC2p83cUZthl3Rk0GOmAzQRNUtI_AVpwo6jqKwTf8MUEhCfBHu79i9xw9FaXZ7-2gqFGhRGMpqWMT-2euuYZrCXNEmXt3hgUA&maxwidth=1200&maxheight=1200&place_id=84439)
 
-**The Acropolis Museum**
-
-<img src="media/acropolisMuseum.jpg" alt="The Acropolis Museum" width="500"/>
-
-The Acropolis Museum is consistently rated as one of the best museums in the world. Devoted to the Parthenon and its surrounding temples, it is cleverly perched above Athens like a luminous box. The large glass panes beautifully draw in the ancient and modern parts of the city, making it a must-see building and a wonderful place to visit. It wasdesigned by New York’s, Bernard Tschumi, with local Greek architect Michael Photiadis, it is focused on the findings of the archaeological site of the Acropolis of Athens and successfully deconstructs how the Parthenon sculptures once looked to the citizens of ancient Athens.
-
-*Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) |
-*Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
-
-**National Archaeological Museum**
-
-<img src="media/nationalMuseum.jpg" alt="National Archaeological Museum" width="500"/>
-
-The National Archaeological Museum of Athens, built between 1866 and 1889, was initially named the Central Museum. It was first established to display the numerous findings dating from the beginning of Prehistory to Late Antiquity excavated in Athens and its surroundings. In later years, it housed objects from all over the country. During World War II, the imposing neoclassical building was closed, and its pieces were placed in wooden boxes and buried to avoid the German troops from looting them. Once the war was over, the museum was reopened in 1945.
-
-The collection is displayed along the museum’s two floors and is divided into various exhibitions, including the Prehistory Collection, the Sculpture Collection, the Vase and Minor Objects Collection and the Metallurgy Collection. It also houses a varied art collection from Ancient Egypt.
-
-*Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
-*Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
-
-
-**Byzantine and Christian Museum**
-
-<img src="media/byzantinemuseum.jpg" alt="Byzantine and Christian Museum" width="500"/>
-
-The Byzantine and Christian Museum, which is based in Athens, is one of Greece’s national museums. Its areas of competency are centred on – but not limited to – religious artefacts of the Early Christian, Byzantine, Medieval, post-Byzantine and later periods which it exhibits, but also acquires, receives, preserves, conserves, records, documents, researches, studies, publishes and raises awareness of.
-
-The museum has over 25,000 artefacts in its possession. The artefacts date from between the 3rd and 20th century AD, and their provenance encompasses the entire Greek world, as well as regions in which Hellenism flourished. The size and range of the collections and value of the exhibits makes the Museum a veritable treasury of Byzantine and post-Byzantine art and culture.
-
-
-*Address:*[Λεωφ. Βασιλίσσης Σοφίας 22, Αθήνα 106 75](https://www.google.com/maps/place/%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CF%8C+%CE%BA%CE%B1%CE%B9+%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C+%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF/@37.9754096,23.7423982,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd4139122d11:0xcfd5b8307a32933c!8m2!3d37.9754096!4d23.7445869?hl=el) |
-*Information retrieved from:* [Byzantinemuseum](https://www.byzantinemuseum.gr/en/museum/) |
-*Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4349)
-
-**Benaki Museum**
-
-<img src="media/benaki.jpg" alt="Benaki Museum" width="500"/>
-
-Benaki's museum is one of the top museum in Athens.What you will see inside of the museum is a presentation of Greek Culture of history in art of the Greek world from the prehistory to the 20th century ,up to 6.000 object.Apart from Greek Culture what will you see is also  culture from Asians world and in the end you will be seeing ancient sculptures from Byzantium
-
-*Information retrieved from:*[Tripadvisor](https://tripadvisor.com.gr) |
-*Photo retrived from:*[Liberal](https://liberal.gr)
-
-
 **National Observatory**
 
 <img src="media/observatory.jpg" alt="National Observatory" width="500"/>
@@ -719,6 +675,96 @@ If you want come closer to the wildlife of the mountain, you can visit one of th
 Situated just 40 minutes via Flying Dolphin (a sort of boat-insect hybrid that looks alarming but whizzes along) from the port of Piraeus, Aegina is one of the closest islands to Athens yet remains mainly un-touristy in spite of its popularity with Athenians.
 
 *Information and photo are retrieved from:* [culture trip](https://theculturetrip.com/europe/greece/articles/aegina-island-perfect-day-trip-athens/)
+
+## <a name="museums"></a>Museums
+
+Here you will find the most visit-worthy museums in Athens.
+
+**The Acropolis Museum**
+
+<img src="media/acropolisMuseum.jpg" alt="The Acropolis Museum" width="500"/>
+
+The Acropolis Museum is consistently rated as one of the best museums in the world. Devoted to the Parthenon and its surrounding temples, it is cleverly perched above Athens like a luminous box. The large glass panes beautifully draw in the ancient and modern parts of the city, making it a must-see building and a wonderful place to visit. It wasdesigned by New York’s, Bernard Tschumi, with local Greek architect Michael Photiadis, it is focused on the findings of the archaeological site of the Acropolis of Athens and successfully deconstructs how the Parthenon sculptures once looked to the citizens of ancient Athens.
+
+*Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) |
+*Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
+
+**Hellenic Motor Museum**
+
+<img src="media/hellenic-motor-museum.jpg" alt="Motor Museum" width="500"/>
+
+Hellenic Motor Museum occupies 5.000 sqm. in a unique building in terms of architecture and design. Its exhibitions are dedicated to the evolution of the car and display more than 110 cars from the 19th and the 20th century.
+It is located in the heart of Athens, just a few minutes away from the National Archaeological Museum.
+
+OPENING HOURS
+
+* Monday to Friday	10:00 – 14:00
+* Saturday	11:00 – 18:00
+* Sunday	11:00 – 18:00
+
+*Information retrieved from:* [Hellenic Motor Museum](https://www.hellenicmotormuseum.gr/en/) |
+*Photo retrieved from:* [the fashionable traveler](http://thefashionabletraveller.blogspot.com/2012/12/i-drove-all-day-night.html)
+
+**National Museum of Contemporary Arts (EMST)**
+
+<img src="media/emst.jpg" alt="EMST Museum" width="500"/>
+
+The National Museum of Contemporary Art, Athens (EMST) began its operation in 2000. It is located where the former Fix Brewery premises were, on Syngrou Ave. and the building occupies a total of 18.142 sqm. on a 3.123 sqm surface.
+
+The Museum’s has a constantly growing collection, which consists of works by Greek and international artists, such as Jannis Kounellis, Stephen Antonakos, Gary Hill, Vlassis Caniaris, Chryssa, Mona Hatoun, Emily Jacir, Ilya and Emilia Kabakov, Kim Sooja, Nikos Kessanlis, Shirin Neshat, Lucas Samaras, Costas Tsoclis, Bill Viola, Joseph Kosuth, Pedro Cabrita Reiss, Costas Varotsos, George Lappas, Oliver Ressler, Gulsun Karamustafa a.o.
+
+From 2003 until 2008 it presented exhibitions and events at the Athens Concert Hall, the Athens School of Fine Arts and in the public space. From September 30th, 2008, it was hosted in sections of the building of the Athens Conservatoire.
+
+In May 2015 EMST moved to its permanent premises. From October 2016 to this day, it makes use of the building’s contemporary exhibition spaces, educational facilities, screening room, the museum shop and other facilities, producing or supporting a large number of exhibitions and other activities including conferences, talks, book presentations, film screenings, and dance and musical performances and connecting people from all over the world throught culture and art.
+
+OPENING HOURS
+
+* Monday	CLOSED <br>
+* Tuesday	11.00 am – 7.00 pm <br>
+* Wednesday	11.00 am – 7.00 pm <br>
+* Thursday	11.00 am – 10.00 pm <br>
+* Friday	11.00 am – 7.00 pm <br>
+* Saturday	11.00 am – 7.00 pm <br>
+* Sunday	11.00 am – 7.00 pm <br>
+
+*Information retrieved from:* [EMST](https://www.emst.gr/en/museum)  |
+*Photo retrieved form:* [EMST](https://www.emst.gr/en/)
+
+[MORE INFORMATION](https://www.emst.gr/en/contact)
+
+**National Archaeological Museum**
+
+<img src="media/nationalMuseum.jpg" alt="National Archaeological Museum" width="500"/>
+
+The National Archaeological Museum of Athens, built between 1866 and 1889, was initially named the Central Museum. It was first established to display the numerous findings dating from the beginning of Prehistory to Late Antiquity excavated in Athens and its surroundings. In later years, it housed objects from all over the country. During World War II, the imposing neoclassical building was closed, and its pieces were placed in wooden boxes and buried to avoid the German troops from looting them. Once the war was over, the museum was reopened in 1945.
+
+The collection is displayed along the museum’s two floors and is divided into various exhibitions, including the Prehistory Collection, the Sculpture Collection, the Vase and Minor Objects Collection and the Metallurgy Collection. It also houses a varied art collection from Ancient Egypt.
+
+*Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
+*Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
+
+
+**Byzantine and Christian Museum**
+
+<img src="media/byzantinemuseum.jpg" alt="Byzantine and Christian Museum" width="500"/>
+
+The Byzantine and Christian Museum, which is based in Athens, is one of Greece’s national museums. Its areas of competency are centred on – but not limited to – religious artefacts of the Early Christian, Byzantine, Medieval, post-Byzantine and later periods which it exhibits, but also acquires, receives, preserves, conserves, records, documents, researches, studies, publishes and raises awareness of.
+
+The museum has over 25,000 artefacts in its possession. The artefacts date from between the 3rd and 20th century AD, and their provenance encompasses the entire Greek world, as well as regions in which Hellenism flourished. The size and range of the collections and value of the exhibits makes the Museum a veritable treasury of Byzantine and post-Byzantine art and culture.
+
+
+*Address:*[Λεωφ. Βασιλίσσης Σοφίας 22, Αθήνα 106 75](https://www.google.com/maps/place/%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CF%8C+%CE%BA%CE%B1%CE%B9+%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C+%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF/@37.9754096,23.7423982,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd4139122d11:0xcfd5b8307a32933c!8m2!3d37.9754096!4d23.7445869?hl=el) |
+*Information retrieved from:* [Byzantinemuseum](https://www.byzantinemuseum.gr/en/museum/) |
+*Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4349)
+
+**Benaki Museum**
+
+<img src="media/benaki.jpg" alt="Benaki Museum" width="500"/>
+
+Benaki's museum is one of the top museum in Athens.What you will see inside of the museum is a presentation of Greek Culture of history in art of the Greek world from the prehistory to the 20th century ,up to 6.000 object.Apart from Greek Culture what will you see is also  culture from Asians world and in the end you will be seeing ancient sculptures from Byzantium
+
+*Information retrieved from:*[Tripadvisor](https://tripadvisor.com.gr) |
+*Photo retrived from:*[Liberal](https://liberal.gr)
 
 ## <a name="monuments"></a>Monuments
 
@@ -955,7 +1001,7 @@ Super Sprint for children
 
 **Kyma Surf School**
 
-<img src="media/kymasurf.jpg" alt="kyma" width="500"/>
+<img src="kymasurf.jpg" alt="kyma" width="500"/>
 
 Kyma surf school based in Athens is a mobile surf school and open all year round for all ages.From the beginner who looking for a fun and an easy way to experience surfing to the intermediate surfer to improve their technique and ability, the friendly KYMA surf school are ready to help.Let us show you that surfing is all about fun. We teach you in small, easy waves, over a sandy bottom with proper equipment, and guaranteed smiles.
 
@@ -1141,48 +1187,6 @@ Its internal space consists of 7 floors and 9 underground levels. During the sum
 *Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/) |
 *Photo retrieved form:* [Google](https://www.google.com/search?q=onassis+cultural+center&sxsrf=ALeKk000HTD7ue1WpZh5sUSgwyT4k6zXGw:1583864295430&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjo-82lwpDoAhWSN8AKHdXTCesQ_AUoAnoECCEQBA&biw=1366&bih=657#imgrc=5jC5E-VAR9H8sM/)
 
-**Hellenic Motor Museum**
-
-<img src="media/hellenic-motor-museum.jpg" alt="Motor Museum" width="500"/>
-
-Hellenic Motor Museum occupies 5.000 sqm. in a unique building in terms of architecture and design. Its exhibitions are dedicated to the evolution of the car and display more than 110 cars from the 19th and the 20th century.
-It is located in the heart of Athens, just a few minutes away from the National Archaeological Museum.
-
-OPENING HOURS
-
-* Monday to Friday	10:00 – 14:00
-* Saturday	11:00 – 18:00
-* Sunday	11:00 – 18:00
-
-*Information retrieved from:* [Hellenic Motor Museum](https://www.hellenicmotormuseum.gr/en/) |
-*Photo retrieved from:* [the fashionable traveler](http://thefashionabletraveller.blogspot.com/2012/12/i-drove-all-day-night.html)
-
-**National Museum of Contemporary Arts (EMST)**
-
-<img src="media/emst.jpg" alt="EMST Museum" width="500"/>
-
-The National Museum of Contemporary Art, Athens (EMST) began its operation in 2000. It is located where the former Fix Brewery premises were, on Syngrou Ave. and the building occupies a total of 18.142 sqm. on a 3.123 sqm surface.
-
-The Museum’s has a constantly growing collection, which consists of works by Greek and international artists, such as Jannis Kounellis, Stephen Antonakos, Gary Hill, Vlassis Caniaris, Chryssa, Mona Hatoun, Emily Jacir, Ilya and Emilia Kabakov, Kim Sooja, Nikos Kessanlis, Shirin Neshat, Lucas Samaras, Costas Tsoclis, Bill Viola, Joseph Kosuth, Pedro Cabrita Reiss, Costas Varotsos, George Lappas, Oliver Ressler, Gulsun Karamustafa a.o.
-
-From 2003 until 2008 it presented exhibitions and events at the Athens Concert Hall, the Athens School of Fine Arts and in the public space. From September 30th, 2008, it was hosted in sections of the building of the Athens Conservatoire.
-
-In May 2015 EMST moved to its permanent premises. From October 2016 to this day, it makes use of the building’s contemporary exhibition spaces, educational facilities, screening room, the museum shop and other facilities, producing or supporting a large number of exhibitions and other activities including conferences, talks, book presentations, film screenings, and dance and musical performances and connecting people from all over the world throught culture and art.
-
-OPENING HOURS
-
-* Monday	CLOSED <br>
-* Tuesday	11.00 am – 7.00 pm <br>
-* Wednesday	11.00 am – 7.00 pm <br>
-* Thursday	11.00 am – 10.00 pm <br>
-* Friday	11.00 am – 7.00 pm <br>
-* Saturday	11.00 am – 7.00 pm <br>
-* Sunday	11.00 am – 7.00 pm <br>
-
-*Information retrieved from:* [EMST](https://www.emst.gr/en/museum)  |
-*Photo retrieved form:* [EMST](https://www.emst.gr/en/)
-
-[MORE INFORMATION](https://www.emst.gr/en/contact)
 
 **ADD 2020**
 
@@ -1259,7 +1263,6 @@ Be careful though, skiing is an amazing sport giving you the feeling of freedom 
 
 *Information retrieved form:* [Parnassos Ski Centre](https://parnassos-ski.gr/%CF%84%CE%BF-%CF%87-%CE%BA-%CF%80%CE%B1%CF%81%CE%BD%CE%B1%CF%83%CF%83%CE%BF%CF%8D/) | *Photo retrieved form:* [Google](https://www.google.com/search?q=ski+centre+parnassos&sxsrf=ALeKk00PRj33B1E_ExNuItBmZAXj-ZTIVw:1583865690639&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie5PK-x5DoAhWhsKQKHct8DfwQ_AUoAnoECBoQBA&biw=1366&bih=657#imgrc=ceEMpv45b-ztkM)
 
-
 **Mycenae, Epidaurus, and Nafplio**
 
 <img src="media/lionGate.jpg" alt="Lion Gate" width="500"/>
@@ -1268,6 +1271,15 @@ Do you know which is the city of mythical Agamemnon, the hero of Trojan war? Whi
 All those questions can be answered through this amazing day trip to Peloponnese which will offer the visitor the chance to discover some of the most important archaelogical sites of Greece, like Mycenae and Epidaurus.
 
 *Information and photo retrieved from:* [travelpassionate](https://travelpassionate.com/top-day-trips-from-athens-greece/)
+
+**Spetses**
+
+<img src="media/spetses.jpg" alt="Spetses" width="500"/>
+
+Spetses is one of the most cosmopolitan and picturesque islands in Greece. Located in the Saronic Gulf, just two hours away from Athens, Spetses is far enough to escape the crowds of the capital and close enough for a relaxing trip. The charming atmosphere of this island has inspired many artists and writers. As the hydrofoil approaches the port, the first thing you’ll see is the tall Venetian mansions that surround the port and some cannons. These cannons used to protect the island in times of war and pirate attacks. Spetses played an important role during the Greek War of Independence, as it helped the Greeks with ships and guns. The most famous war hero from Spetses is a woman, Lascarina Bouboulina, who played a leading part in sea battles and sieges of castles. Activities on Spetses are mostly concentrated around Dapia, the new port. The old port is located on the other side of the town. As this is the only village on the island, Spetses Town has all the facilities needed for a comfortable stay. Vehicles are prohibited in the town, except for bicycles and motorbikes. Transportation is done by boat, bus or bicycle.  
+
+*Information retrieved from:* [Greeka](https://www.greeka.com/attica/athens/tours/t07b-one-day-tour-to-spetses-island/) |
+*Photo retrieved from:* [Greece-is](https://www.greece-is.com/wp-content/uploads/2016/08/SPETSES_YannisLarios_Spetses_IMG_1008.jpg)
 
 ## <a name="beach"></a>Beach
 
