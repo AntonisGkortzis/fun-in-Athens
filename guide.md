@@ -278,7 +278,7 @@ Etnico is all about ethnic street food right in the center of Athens. In this pl
 
 **The Big Bad Wolf**
 
-<img src="media/bigbadwolf.jpg" width="500"/>
+<img src="media/bigbadwolf.png" width="500"/>
 
 The Big Bad Wolf is a place where you can enjoy delicious and quality food. It can be a burger, a souvlaki or even a salad. You can choose whatever your preferations are, from a double bacon burger to a vegan one. So every customer will be satisfied after going to this place. The Big Bad Wolf is located in a variety of locations so if it happens you are close to one of those don't hesitate. You are going to leave the place with a sense of fulfillment, as you are going to enjoy the food. Another really import advantage of this place is that the people who work there are really polite and your order is ready really quickly.
 
