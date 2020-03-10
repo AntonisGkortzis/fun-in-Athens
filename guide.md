@@ -463,6 +463,15 @@ If interested in finding specific trails in the mountain [Click here!](https://w
 
 *Information retrieved from:* [Protothema](http://en.protothema.gr/hiking-in-ymittos/)
 
+**Marathon Lake**
+
+<img src="media/marathon.jpg" alt="marathonas" width="500"/>
+
+Wanna spend a peaceful day out of the center? Marathon is the perfect place to visit! Almost 25km out of Athens , and easily being transpoted with the bus,you will get your time of your life in these calming watters of Marathon. Make sure you visit also Marathon Tomb , where the great battle of Marathon happened!
+
+*Photo retrieved from:* [trekearth.com](https://www.trekearth.com/)
+*Information retrieved from:* [Tripadvisor](https://www.tripadvisor.com.gr/)
+
 **Lycabettus hill**
 
 <img src="media/lycabettus.jpg" alt="drawing" width="500"/>
