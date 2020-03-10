@@ -482,6 +482,20 @@ The collection is displayed along the museum’s two floors and is divided into 
 *Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
 *Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
 
+
+**Byzantine and Christian Museum**
+
+<img src="media/byzantinemuseum.jpg" alt="drawing" width="500"/>
+
+The Byzantine and Christian Museum, which is based in Athens, is one of Greece’s national museums. Its areas of competency are centred on – but not limited to – religious artefacts of the Early Christian, Byzantine, Medieval, post-Byzantine and later periods which it exhibits, but also acquires, receives, preserves, conserves, records, documents, researches, studies, publishes and raises awareness of.
+
+The museum has over 25,000 artefacts in its possession. The artefacts date from between the 3rd and 20th century AD, and their provenance encompasses the entire Greek world, as well as regions in which Hellenism flourished. The size and range of the collections and value of the exhibits makes the Museum a veritable treasury of Byzantine and post-Byzantine art and culture.
+
+
+*Address:*[Λεωφ. Βασιλίσσης Σοφίας 22, Αθήνα 106 75](https://www.google.com/maps/place/%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CF%8C+%CE%BA%CE%B1%CE%B9+%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C+%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF/@37.9754096,23.7423982,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd4139122d11:0xcfd5b8307a32933c!8m2!3d37.9754096!4d23.7445869?hl=el) |
+*Information retrieved from:* [Byzantinemuseum](https://www.byzantinemuseum.gr/en/museum/) |
+*Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4349)
+
 **Benaki Museum**
 
 <img src="media/benaki.jpg" alt="benaki" width="500"/>
