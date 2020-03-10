@@ -14,6 +14,8 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Activities](#activities) 🚴
 * [Shopping](#shopping) 🎁
 * [Fun and Games](#fun) 😁
+* [Art and Culture](#art and culture)
+
 
 ## <a name="food"></a>Food
 
