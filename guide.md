@@ -1034,6 +1034,21 @@ OPENING HOURS
 
 [MORE INFORMATION](https://www.emst.gr/en/contact)
 
+**ADD 2020**
+
+<img src="media/add.jpg" alt="add" width="500"/>
+
+*29 May 2020 - 30 May 2020*
+
+*Artists:* Alva Noto Live | Anetha | Apollonia | Charlotte de Witte | Cirkle | DISCOSODOMA Soundsystem | DJ Shadow Live | Eris Drew | FJAAK Live | Figkott | Floorplan | Honey Dijon | Jan Blomqvist Live | Kas:st Live | Kobosil | Massimiliano Pagliara |
+Pantha Du Prince Live | Paula Temple | Rebekah | Volvox 
+
+ADD is the biggest tecnho music festival in Athens.
+
+Tickets available at: www.addfestival.gr
+
+*Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/add_2020)
+
 
 ## <a name="Accomodation"></a>Accomodation
 
