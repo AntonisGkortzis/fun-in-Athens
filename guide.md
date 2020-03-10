@@ -145,6 +145,16 @@ You don't want to miss out the best creperie in town! Karaflas Original is place
 
 *Photo retrieved from:* [Facebook](https://www.facebook.com/%CE%9A%CF%81%CE%B5%CF%80%CE%B5%CF%81%CE%B9-%CE%9A%CE%B1%CF%81%CE%B1%CF%86%CE%BB%CE%B1%CF%82-%CE%BF%CF%81%CE%B9%CF%84%CE%B6%CE%B9%CE%BD%CE%B1%CE%BB-1633501440053949/)
 
+**Kiveli**
+
+<img src="media/kiveli.jpg" alt="drawing" width="500"/>
+
+Located on Saint George square near Kipseli and Patission street, Kiveli is a traditional Greek restaurant with amazing food at decent prices. Just a 7-minute walk from Athens University of Economics and business, this restaurant is the perfect gathering place for students right after their Software Engineering in Practice lectures.
+
+Recommended dishes by frequent visitors are the Drunken Chicken Fillets, the french fries and of course, Dakos Salad. 
+
+For a reservation or openning hours, please visit the following link: https://www.facebook.com/kivelirest
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
@@ -326,6 +336,7 @@ The Acropolis Museum is consistently rated as one of the best museums in the wor
 *Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) |
 *Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
 
+
 **National Archaeological Museum**
 
 <img src="media/nationalMuseum.jpg" alt="drawing" width="500"/>
@@ -370,23 +381,32 @@ This tour, offered in English, takes you to the Exarchia square, a neighborhood 
 **Athens free Food tour**
 
 <img src="media/street-food-tour.jpg" alt="Food tour in athens" width="500"/>
+
 Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
 
 
 **Walk in Beautiful and Secret Athens**
 
 <img src="media/morning-walk-in-beautiful-and-secret-athens.jpg" alt="Secret athens" width="500"/>
+
 Discover the beauty of the city through a small hidden in the heart of Athens.It will make you travel in the cyclades for a few minutes,  then live the beauty of ancient Greece and discover a district very loved by the locals day and night.You will also have many tips for the continuation of your stay in the city or on some islands, this tour is not a tour on the history of Athens but on modern Athens with of course anecdotes on the history of the city.
 
 *Note that these free guided tours are tip based, meaning that you can pay as much money you want, depending on how much you liked the tour. Walk and have fun!*
 
 *Information and photos retrieved from:* [Freetour.com app](https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp&hl=el)
 
+**Saint George Square**
+
+<img src="media/aggeorgiou.jpg" alt="Secret athens" width="500"/>
+
+The perfect escape from the cities crazy lifestyle, car fumes and noisy streets Saint George square or "Plateia Agiou Georgiou" is the perfect representation of a greek county village. There is a cool cafe, a barbershop, a mini market, a restaurant and probably the most important part, a souvlaki place all located around the circle square. Every weekend the square is more alive than ever, with kids playing in front of the church and every cafe and restaurant is filled with people escaping from everyday life.
+
 **Parnitha Mountain**
 
 <img src="media/parnitha.jpg" alt="Parnitha" width="500"/>
 
 Parnitha  is the highest forested mountain on the peninsula of Attica located in the north of Athens. It's mostly known for its casino, Casino Mont Parness, that is loacted at the top of the mountain and you can visit using the cable cars. If you're interested into the historical monuments of the mountain, Phili Fortress and the Monastery of Kleiston as well as the Tatoi Palace at the southeast of Parnitha are great choices.
+
 If you're interested into coming closer with the wildlife of the mountain, you can visit one of the two [shelters](#mpafi) that are located in the mountain and take part at the various activties that they provide.
 
 *Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parnitha)
