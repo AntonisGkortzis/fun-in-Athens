@@ -22,6 +22,24 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 
 Here are the best places where you can enjoy the Greek food.
 
+**The Yard**
+
+<img src="media/theYard.jpg" alt="chouxs" width="500"/>
+
+Even though this place beauty is hidden in its simplicity and secrecy, more people should know about it. The Yard ("Αυλή" in Greek) is a hidden paradise in the area of Psiri at he center of Athens. This difficult to find place is a traditional Greek restaurant that is bound to remind you of the 60s.
+
+*Address:*[Αγίου Δημητρίου 12, Αθήνα](https://www.google.gr/maps/place/Agiou+Dimitriou+12,+Athina+105+54/@37.9796252,23.7237424,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd249853df6d:0x84aa56a003836200!8m2!3d37.9796252!4d23.7259311) |
+*Photo retrieved from:* [Olive Magazine](https://www.olivemagazine.gr/εστιατόρια-bars/η-ελένη-ψυχούλη-βγαίνει-τσάρκα-στου-αν/)
+
+**Fairytale**
+
+<img src="media/fairytale.jpg" alt="chouxs" width="500"/>
+
+If you love fairytales and sweets, then you must visit this "sweet" magical place in Nea Filadelfeia. Fairytale is the ideal place where sweets and tales are mixed in a unique way. Its owners love the heroes of Disney and they have visited all of Disneys parks. Drawing their inspiration from their visits Fairytale was created, but its not only looks. The sweets served are a work of are both in appearance and taste, just be careful since you wont be the first to eat too much
+
+*Address:*[Tripia 33, Nea Filadelfia](https://www.google.com/maps/dir//38.0354,23.736193/@38.035337,23.666058,12z) |
+*Photo retrieved from:* [Bovary](https://www.bovary.gr/city/9159/sto-fairytale-sti-nea-filadelfeia-goneis-kai-paidia-kanoyn-oyra-gia-na-mpoyn-se-ena)
+
 **Brooklyn the taste factory**
 
 <img src="media/brooklynTheTasteFactory.jpg" alt="drawing" width="500"/>
@@ -152,7 +170,7 @@ You don't want to miss out the best creperie in town! Karaflas Original is place
 
 Located on Saint George square near Kipseli and Patission street, Kiveli is a traditional Greek restaurant with amazing food at decent prices. Just a 7-minute walk from Athens University of Economics and business, this restaurant is the perfect gathering place for students right after their Software Engineering in Practice lectures.
 
-Recommended dishes by frequent visitors are the Drunken Chicken Fillets, the french fries and of course, Dakos Salad. 
+Recommended dishes by frequent visitors are the Drunken Chicken Fillets, the french fries and of course, Dakos Salad.
 
 For a reservation or openning hours, please visit the following link: https://www.facebook.com/kivelirest
 
@@ -304,8 +322,6 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 **Plintirio Bar**
 
 <img src="media/plintirio.jpg" alt="plintirio bar" width="500"/>
@@ -313,9 +329,7 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintirio bar takes you to a laundry room styled bar where you can drink, dance and have fun!  
 
 *Photo retrieved from:* [Plintirio bar facebook page](https://www.facebook.com/%CE%A0%CE%BB%CF%85%CE%BD%CF%84%CE%AE%CF%81%CE%B9%CE%BF-Bar-1413208995564217/)
-=======
-**Six Dogs**                                                                                                                                                                                                                                   <img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    *Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |                                                      *Image retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
-=======
+
 **Six Dogs**                                                                                                                                                                                                                                   
 
 <img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       
@@ -323,12 +337,11 @@ Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintiri
 Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    
 
 *Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |*Image retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
->>>>>>> 9efcfb61641077ae01d0093bbefaca006b8c1bc7
 
 **Cabezon**
 
 <img src= "media/barrr-thumb-large.jpg" alt= "drawing" width="500"/>
-In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. With cobblestones, small tables and some tires instead of seats, Reggae music and calmness. That kind of calmness that reminds you of your summer vacation. At Cabezon you can sit there and talk, enjoy your night, have some meze and chill with your group of friends with some beer or wine. 
+In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. With cobblestones, small tables and some tires instead of seats, Reggae music and calmness. That kind of calmness that reminds you of your summer vacation. At Cabezon you can sit there and talk, enjoy your night, have some meze and chill with your group of friends with some beer or wine.
 
 *Information retrieved from:* [Nou-Pou](https://www.nou-pou.gr/ektos-synorwn/pame-kentro/oi-6-pio-omorfes-ayles-sto-meta3oyrgeio/) |
 *Image retrieved from:* [Kathimerini](https://www.kathimerini.gr/829044/article/epikairothta/ellada/ayles-all-day)
@@ -341,8 +354,6 @@ Romantso is the former office building of the homonymous brochure and is located
 
 *Information retrieved from* [Romatso](http://www.romantso.gr/) |
 *Photo retrieved from* [Google](https://www.google.com/search?q=%CF%81%CE%BF%CE%BC%CE%B1%CE%BD%CF%84%CF%83%CE%BF&sxsrf=ALeKk01auHXnsajePHv3ClDG0fnFGJqpjw:1583845072683&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLzr7X-o_oAhVEzqYKHaUKBZQQ_AUoAnoECA4QBA&biw=1536&bih=754#imgrc=fIDG1nB8C9bA_M)
-
->>>>>>> 0ecb338f542e16718b00d0688c1b8f94d4643821
 
 ## <a name="tours"></a>Tours
 
@@ -492,14 +503,6 @@ If you're interested into coming closer with the wildlife of the mountain, you c
 
 *Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parnitha)
 
-**The National Garden**
-
-<img src="media/ethnikos-kipos.jpg" alt="drawing" width="500"/>
-
-Some meters away from the Syntagma station metro and next to the Greek Parliament is where the National Garden is located. It covers 284 acres full of green, rare species of plants, small bush trees and birds. The numbers talk on their own. In the garden, there are 7000 trees, 40000 bushes and other plants which belong to 519 kinds and varieties. You can go there to relax from the hectic city, feed the ducks or go for a run. In one of the entrances there is also a small vendor with the traditional bagel-like treat called "Koulouri".
-
-*Information retrieved from:* [DiscoverGreece](https://www.discovergreece.com/el/travel-ideas/cover-story/athens-national-garden) |
-*Image retrieved from:* [Runster](http://www.runster.gr/ethinkos-kipos-all-time-classic-diadromi-sto-kentro-tis-athinas/) 
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
@@ -638,6 +641,7 @@ If you are in Athens and you are searching for an alternative way of fun, this i
 
 Nothing is better than a wonderful walk through National Garden and Zappeion near Syntagma! The National Garden of Athens is a large green-space of over 160.000 square meters adorned with over 500 types of plants and trees from all over the world.The park is a picturesque green lung filled with flowers, shrubs, ancient trees and green meadows where to relax during the warm summer days. The National Garden’s most famous sights include a small pond, which is home to numerous water birds, a botanical garden, the remains of historical monuments and even a small zoo.
 Easily access due to the location which is near the Syntagma Metro station and behind the Greek Parliament!
+Address: Leoforos Amalias 1, Athens 10557 Greece
 
 *Information retrieved from:*[IntroducingAthens](https://www.introducingathens.com/) |
 *Photo retrieved from:*[AthensTransport](https://www.athenstransport.com/)
@@ -669,15 +673,6 @@ Address: At Yalou Spata, Αθήνα 190 04 - Otherwise the zoo can also be reach
 
 *Information and photo retrieved from:* [Attica Zoological Park](https://www.atticapark.com/)
 
-**National Garden**
-
-<img src="media/NationalGarden.png" alt="drawing" width="500"/>
-
-Need a little distance to the big city? The National Garden is one of the many parks in Athens. The park is only 3 minutes away from the Syntagma Metro Station.
-Address: Leoforos Amalias 1, Athens 10557 Greece
-
-*Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.at/Attraction_Review-g189400-d246658-Reviews-National_Garden-Athens_Attica.html)
-
 **Sounio**
 
 <img src="media/sounio.jpg" alt="drawing" width="500"/>
@@ -691,11 +686,11 @@ Cape Sounion is best known as the site of the ruins of the ancient Greek temple 
 
 <img src="media/mpafi.jpg" alt="Mpafi" width="500"/>
 
-Mpafi shelter, located at Mount Parnitha, is just an hour away from Athens. 
+Mpafi shelter, located at Mount Parnitha, is just an hour away from Athens.
 It gives you the chance to spend the day and night at the highest part of the city and enjoy the great view and the hospitality that they provide.
-You can take part at various activities like [hiking](https://trekking.gr/product/pezoporia-stin-parnitha/) during the day and 
-the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AD%CF%82/%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1/%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%BD%CE%AE-%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1) 
- as well as bike riding at [Parnitha](https://trekking.gr/product/podilasia-stin-parnitha/) and [Tatoi](https://trekking.gr/product/podilasia-sto-tatoi/). 
+You can take part at various activities like [hiking](https://trekking.gr/product/pezoporia-stin-parnitha/) during the day and
+the [night](http://www.trekking.gr/el/%CE%B5%CE%BA%CE%B4%CF%81%CE%BF%CE%BC%CE%AD%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AD%CF%82/%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1/%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%BD%CE%AE-%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CF%80%CE%AC%CF%81%CE%BD%CE%B7%CE%B8%CE%B1)
+ as well as bike riding at [Parnitha](https://trekking.gr/product/podilasia-stin-parnitha/) and [Tatoi](https://trekking.gr/product/podilasia-sto-tatoi/).
 
 *Information and photo retrieved from:* [Mpafi shelter's site](https://www.mpafi.gr/)
 
@@ -749,7 +744,7 @@ Athens Metro Mall is one of the most popular shopping mall in Athens. With more 
 
 **Antiques in Monastiraki**
 
-<img src="media/shop-antiques.jpg" alt="antiques" width="500"/> 
+<img src="media/shop-antiques.jpg" alt="antiques" width="500"/>
 
 Are you a lover of old things and want to get the best antiques at the best prices? In Abysinia Square (in Monastiraki) you will find everything from beautiful expensive 19th Century furniture to totally worthless 20th century junk all displayed in a wonderfully disorganized fashion.
 
@@ -759,7 +754,7 @@ Tip! Try to go on Sunday when gypsies and villagers pour into town with piles of
 
 **Voukourestiou Street**
 
-<img src="media/voukou.jpg" alt="Voukourestiou" width="500"/> 
+<img src="media/voukou.jpg" alt="Voukourestiou" width="500"/>
 
 Voukourestiou Street is the most high-end street of Athens. You can find luxury brands such as Louis Vuitton, Prada, Dior, Chanel, Rolex, and buy the perfect gift for yourself! Enjoy the atmosphere and look for the latest diamonds launched by the leaders of the fashion industry.
 
@@ -861,7 +856,7 @@ Opening: Thursday 12 March 2020, 19.30
 
 <img src="media/bernier gallery.jpeg" alt="Bernier Eliades gallery" width="500"/>
 
-A gallery right in the center of Athens. It was founded in 1977 in Athens and has since continued working in the field of contemporary art in Greece. 
+A gallery right in the center of Athens. It was founded in 1977 in Athens and has since continued working in the field of contemporary art in Greece.
 After twenty-one years in Kolonaki, the commercial center of Athens, the gallery moved to a Neoclassical building in Thission, the historic center of Athens.
 
 During these years, Greek public has been introduced to numerous artistic currents, such as Arte Povera, Minimalism, Land and Conceptual Art and the younger generation of American and European artists.
@@ -908,7 +903,7 @@ In May 2015 EMST moved to its permanent premises. From October 2016 to this day,
 
 OPENING HOURS
 
-*Monday	CLOSED
+*Monday	CLOSED <br>
 *Tuesday	11.00 am – 7.00 pm <br>
 *Wednesday	11.00 am – 7.00 pm <br>
 *Thursday	11.00 am – 10.00 pm <br>
@@ -920,6 +915,4 @@ OPENING HOURS
 *Photo retrieved form:* [EMST](https://www.emst.gr/en/)
 
 [MORE INFORMATION](https://www.emst.gr/en/contact)
-
-## <a name="Accomodation"></a>Accomodation
 
