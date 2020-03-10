@@ -90,7 +90,7 @@ Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried 
 
 <img src="media/choux.jpg" alt="chouxs" width="500"/>
 
-CHOUREAL is a unique and awarded concept, specialized in one beloved desert: the Profiterole. The Profiteroles are made to order, in an ‘a la minute’ fashion. This means that the desert is always fresh and tailor-made, according to the visitor’s desire. The fragrant choux are always freshly-baked, since they are produced every hour.On order, they are filled with either silk cream with Madagascar vanilla or hand-made ice cream.
+Ever wanted a nice desert? CHOUREAL is a perfect place to eat a beloved desert , a homemade profiterole. The difference of course is that these profiteroles are made in ‘a la minute’ fashion which means they are being made by the time you visit this place.They fragrant choux are always freshly baked.During your order you can fill it either with silk cream or hand-made ice cream and you can top it with your favorite things!
 
 *Information and photo retrieved from:* [Choureal](https://www.choureal.gr/)
 
@@ -1009,11 +1009,13 @@ If you are staying in Athens for a couple of days, it's worth making a day tripa
 
 **Arachova**
 
+<img src="media/arachova.jpg" alt="drawing" width="500"/>
+
 Arachova is a traditional village close to Delphi, mostly known as a winter destination.
 
 It gets very popular due to the [Ski Centre of Parnassos](https://parnassos-ski.gr/) that is found in close distance from the town. It is also a town with a rich historical background and beautiful nature surrounding it. Not only the town itself has nice architecture, but the surrounding region is also nice for sightseeing. Apart from the close site of Ancient Delphi, other interesting sights in short drive from Arachova are the Byzantine Monastery of Osios Loukas and the seaside towns of Itea and Galaxidi.
 
-*Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/)
+*Information retrieved form:* [greeka](https://www.greeka.com/sterea/arachova/sightseeing/) | *Photo retrieved form:* [Visit Greece](http://www.visitgreece.gr/el/mainland/arachova)
 
 **Ski Centre of Parnassos**
 
