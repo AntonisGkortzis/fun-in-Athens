@@ -331,6 +331,8 @@ The location of the Observatory offers a panoramic view of Athens which is breat
 
 Apart from all the tours you can do on your own, you can also join some organized walking tours in Athens. Using the app Freetour.com (Available for both Android and iOS) you can join for free tours such as:
 
+[!()](https://www.youtube.com/watch?v=KphBnQum_4w)
+
 **Athens Street Art Free tour**
 
 This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist will let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
