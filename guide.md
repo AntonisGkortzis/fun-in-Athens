@@ -17,6 +17,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Art and Culture](#artAndCulture) :art:
 * [Accomodation](#accomodation) 🏨
 * [Full day trips](#fullDayTrips) :car:
+* [Beach](#beach) 🏄
 
 
 
@@ -154,7 +155,7 @@ Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's 
 <img src="media/yiasemi.jpg" alt="Yiasemi" width="500"/>
 
 Yiasemi is a funky cafe and bistro, located in the historic city center of Athens, at Mnisikleous street. It is quite well know for its
-picturesque setting, as it offers sitting options on the famous stairs of Mnisikleous street, that go all the way to the hill of the Acropolis and took the name of the ancient architect Mnisikli. 
+picturesque setting, as it offers sitting options on the famous stairs of Mnisikleous street, that go all the way to the hill of the Acropolis and took the name of the ancient architect Mnisikli.
 
 *Photo retrieved from: *[Travel to Athens](https://www.traveltoathens.eu/item/cafe-yiasemi/)
 
@@ -1224,7 +1225,7 @@ If you are staying in Athens for a couple of days, it's worth making a day tripa
 
 <img src="media/PortofPiraeus.png" alt="drawing" width="500"/>
 
-From the port of Piraeus you can take the ferries to the surrounding islands. A day trip to the surrounding islands is possible, because of the high number of ferries. The harbour is also close to the metro station Piraeus. 
+From the port of Piraeus you can take the ferries to the surrounding islands. A day trip to the surrounding islands is possible, because of the high number of ferries. The harbour is also close to the metro station Piraeus.
 And as a student you also get some discounts.
 
 *Information and photo are retrieved from:* [TripAdvisor](https://www.tripadvisor.de/Attraction_Review-g189403-d7974687-Reviews-Port_of_Piraeus-Piraeus_Piraeus_Region_Attica.html)
@@ -1258,3 +1259,15 @@ Do you know which is the city of mythical Agamemnon, the hero of Trojan war? Whi
 All those questions can be answered through this amazing day trip to Peloponnese which will offer the visitor the chance to discover some of the most important archaelogical sites of Greece, like Mycenae and Epidaurus.
 
 *Information and photo retrieved from:* [travelpassionate](https://travelpassionate.com/top-day-trips-from-athens-greece/)
+
+## <a name="beach"></a>Beach
+
+Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you ca visit!
+
+**Karavi Schinias**
+
+<img src="media/karavi.jpg" width="500"/>
+
+One of the best and famous beaches in Athens is Schinias. It is a really beautiful place and the waters are crystal clear. Karavi is a beach bar in Schinias beach that elevates the customers' experience! It offers plenty of things to the customer. First of all, you can enjoy your beverage or food in your sunbed. Then, there are a lot of beach volley courts  and if you are lucky enough you can watch professional tournaments that take place there. Last but not least, there are a lot of water sports that one can do there. So as you can see there are lot of ways to enjoy your time there. The only disadvantage of this place is that it is only accessible by car, since it is far enough from metro stations, bus stops etc. But don't let that prevent from enjoying a beautiful sunny day in summer gets wasted.
+
+*Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Attraction_Review-g669631-d6586221-Reviews-Karavi_Schinias_Water_Sports-Marathon_East_Attica_Region_Attica.html)
