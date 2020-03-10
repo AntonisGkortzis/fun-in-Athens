@@ -184,6 +184,15 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 *Information retrieved from:* [Feyrouz](https://feyrouz.gr/) |
 *Image retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d6784810-Reviews-Feyrouz-Athens_Attica.html)
 
+**Telescope**
+
+<img src="media/telescope.jpg" alt="drawing" width="500"/>
+
+“Telescope” is a Cafeteria-Bar-Restaurant located in the top of a hill in Chaidari,Athens . This place has a breathtaking view and you will definitely get the best view of Athens from there . Also , this place offers a wide variety of drinks and delicious meals. Definitely worth a visit .
+
+*Information and photo retrieved Petros Siachos*
+
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
@@ -295,6 +304,7 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Plintirio Bar**
 
 <img src="media/plintirio.jpg" alt="plintirio bar" width="500"/>
@@ -304,6 +314,15 @@ Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintiri
 *Photo retrieved from:* [Plintirio bar facebook page](https://www.facebook.com/%CE%A0%CE%BB%CF%85%CE%BD%CF%84%CE%AE%CF%81%CE%B9%CE%BF-Bar-1413208995564217/)
 =======
 **Six Dogs**                                                                                                                                                                                                                                   <img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    *Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |                                                      *Image retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
+=======
+**Six Dogs**                                                                                                                                                                                                                                   
+
+<img src= "media/sixdogs.jpg" alt="drawing" width="500"/>                                                                                                                                                                                       
+
+Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    
+
+*Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |*Image retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
+>>>>>>> 9efcfb61641077ae01d0093bbefaca006b8c1bc7
 
 **Cabezon**
 
@@ -533,6 +552,17 @@ The Panathenaic Stadium, or Kallimarmaro is another famous attraction in Athens.
 
 *Information retrieved from:* [PANATHENAICSTADIUM](http://www.panathenaicstadium.gr/Default.aspx?tabid=84&language=en-US) |
 *Photo retrieved from:* [shutterstock](https://www.shutterstock.com/image-photo/panathenaic-stadium-known-kallimarmaro-multi-purpose-713885446)
+
+**Changing of the Guard at Syntagma Square**
+
+<img src="media/tsoliades.jpg" alt="drawing" width="500"/>
+
+For many tourists, watching the Changing of the Guard at Syntagma Square is an exciting and memorable experience. The Soldiers of the Presidential Guard stand in front of the Hellenic Parliament on Syntagma Square 24 hours a day, year-round. The guards wear traditional costumes complete with pleated skirts, leg tassels, and pompom shoes.
+
+The Changing of the Guards takes place in front of the Tomb of the Unknown Soldier monument at 11am daily. This monument honors anonymous soldiers who died fighting for the country. The monument features a marble relief that imitates a warrior grave stele of ancient times.
+
+*Information retrieved from:* [Planetware](https://www.planetware.com) |
+*Photo retrieved from:* [Planetware](https://www.planetware.com/photos-large/GR/greece-athens-changing-of-the-guard.jpg)
 
 ## <a name="activities"></a>Activities
 
