@@ -256,6 +256,14 @@ Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enj
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
 
+**Terra Petra**
+
+<img src="media/terrapetra.jpg" alt="drawing" width="500"/>
+
+What a nice way to enjoy your evening whilst glazing the whole beauty of Athens. Terra Petra has a breathtaking view across Athens and it is really nice play to get your cocktail and drink. Don't missunderstand me, this place is really nice to visit all day. Of course, on the daylight you don't want to drink a cocktail, or do you? Either way, you can also enjoy there your brunch along side with a cup of coffee or fresh juice. It is placed in Petroupoli, so you can get there by bus or by car. Don't worry, there is a huge parking lot waiting for you!
+
+*All information retrieved from:* [Terra Petra](https://www.terrapetra.gr/)
+
 **A For Athens Cocktail Bar**
 
 <img src="media/aForAthens.jpg" alt="drawing" width="500"/>
@@ -515,9 +523,9 @@ Pasalimani or Marina Zeas is the second biggest port of Pireaus.  In the ancient
 
 <img src="media/psyri.jpeg" alt="psyri" width="500"/>
 
-Psyri or Psiri is a colorful neoclassical neighborhood known for its artisans, specialty stores, restaurants, bars, tavernas with or without live music, theaters, art galleries, antique shops, and a small number of hotels. Following the liberation of Greece from the Turkish occupation in 1833, several veteran freedom fighters and immigrants from the provinces settled here. They opened cottage industries and workshops, which have given the area a distinctive character. The central square of Psyri is called "Heroes Square" because the streets leading to it carry names of heroes of the Independence War. 
+Psyri or Psiri is a colorful neoclassical neighborhood known for its artisans, specialty stores, restaurants, bars, tavernas with or without live music, theaters, art galleries, antique shops, and a small number of hotels. Following the liberation of Greece from the Turkish occupation in 1833, several veteran freedom fighters and immigrants from the provinces settled here. They opened cottage industries and workshops, which have given the area a distinctive character. The central square of Psyri is called "Heroes Square" because the streets leading to it carry names of heroes of the Independence War.
 
-*Information retrieved from:* [The Athens Key](https://www.athenskey.com/psyri.html) | 
+*Information retrieved from:* [The Athens Key](https://www.athenskey.com/psyri.html) |
 *Photo retrieved from:* [Airbnb](https://www.airbnb.com/google_place_photo?photoreference=CmRaAAAAO8tx19UtVxjviOYx_M7Jc0FzyqjtLFkf56onDvfR8LkwHz67HY6N3gKHHWKLFa9Jf9Hfj1fedshOKNO97gSa-GC2p83cUZthl3Rk0GOmAzQRNUtI_AVpwo6jqKwTf8MUEhCfBHu79i9xw9FaXZ7-2gqFGhRGMpqWMT-2euuYZrCXNEmXt3hgUA&maxwidth=1200&maxheight=1200&place_id=84439)
 
 **The Acropolis Museum**
@@ -820,7 +828,7 @@ Cape Sounion is best known as the site of the ruins of the ancient Greek temple 
 If you want a change from the historic attractions of Athens, an adventurous trip to the Blue Hole cave might be the thing for you!
 Located south of Athens, the Blue Hole is a sea cave that burrows vertically down 30m (98ft) into the ocean floor. It resembles a man-made well and at the very bottom there is another dark opening: the beginnings of an uncharted and unexplored network of caves thought to be connected to the nearby Lake Vouliagmeni on the mainland. Your diving trip is recorded by the diving instructors, and the recording is available to take home, free of charge.
 
-*Information and photo retrieved from:* [culture trip](https://theculturetrip.com/europe/greece/articles/the-best-day-trips-from-athens/) 
+*Information and photo retrieved from:* [culture trip](https://theculturetrip.com/europe/greece/articles/the-best-day-trips-from-athens/)
 
 
 #### <a name="mpafi"></a>**Mpafi shelter**
@@ -1065,7 +1073,7 @@ OPENING HOURS
 *29 May 2020 - 30 May 2020*
 
 *Artists:* Alva Noto Live | Anetha | Apollonia | Charlotte de Witte | Cirkle | DISCOSODOMA Soundsystem | DJ Shadow Live | Eris Drew | FJAAK Live | Figkott | Floorplan | Honey Dijon | Jan Blomqvist Live | Kas:st Live | Kobosil | Massimiliano Pagliara |
-Pantha Du Prince Live | Paula Temple | Rebekah | Volvox 
+Pantha Du Prince Live | Paula Temple | Rebekah | Volvox
 
 ADD is the biggest tecnho music festival in Athens.
 
