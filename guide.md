@@ -282,7 +282,7 @@ If you prefer cocktails only in summer, then Holy Spirit Beach Bar is a very bea
 
 <img src="media/beautykilledthebeast.jpg" alt="BeutyKilledTheBeast" width="500"/>
 
-Inspired by the last lines of the first King Kong movie in 1933 _"It was beauty. As always, beauty killed the beast"_, this fantastic *cocktail bar* offers high quality cocktails, but that's not just it. It is located inside a house that was built at the '30s and its decor is a funky mix of vintage and industrial, including an underground urban jungle, which create a chill, cinematic scene. 
+Inspired by the last lines of the first King Kong movie in 1933 _"It was beauty. As always, beauty killed the beast"_, this fantastic *cocktail bar* offers high quality cocktails, but that's not just it. It is located inside a house that was built at the '30s and its decor is a funky mix of vintage and industrial, including an underground urban jungle, which create a chill, cinematic scene.
 You can visit Beauty Killed the Beast for its amazing _cocktails_, as well as its wonderful _brunch_ that also has a lot of vegan options.
 
 _📍 : Paramithias 14, Kerameikos_
@@ -455,7 +455,7 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 <img src="media/acropolisMuseum.jpg" alt="drawing" width="500"/>
 
-The Acropolis Museum is consistently rated as one of the best museums in the world. Devoted to the Parthenon and its surrounding temples, it is cleverly perched above Athens like a luminous box. The large glass panes beautifully draw in the ancient and modern parts of the city, making it a truly evocative experience. Designed by New York’s, Bernard Tschumi, with local Greek architect Michael Photiadis, it is the perfect sanctuary for the ancient artefacts that were found in and around the Acropolis and successfully deconstructs how the Parthenon sculptures once looked to the citizens of ancient Athens.
+The Acropolis Museum is consistently rated as one of the best museums in the world. Devoted to the Parthenon and its surrounding temples, it is cleverly perched above Athens like a luminous box. The large glass panes beautifully draw in the ancient and modern parts of the city, making it a must-see building and a wonderful place to visit. It wasdesigned by New York’s, Bernard Tschumi, with local Greek architect Michael Photiadis, it is focused on the findings of the archaeological site of the Acropolis of Athens and successfully deconstructs how the Parthenon sculptures once looked to the citizens of ancient Athens.
 
 *Information retrieved from:* [Why Athens](https://whyathens.com/the-acropolis-museum/) |
 *Photo retrieved from:* [Santorini Dave](https://santorinidave.com/best-things-to-do-athens)
