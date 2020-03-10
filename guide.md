@@ -48,6 +48,7 @@ If you love fairytales and sweets, then you must visit this "sweet" magical plac
 
 Even though most restaurants in Athens are located in or near the center, this particular one is not. Brooklyn the taste factory is an American-like burger house with a wide variety of burgers and similar choices. Since its in Greece though, be careful because the portioning is really generous. The stuff is really polite and the restaurants environment fits the needs of the modern college student and its also family friendly. If you actually decide to visit, keep in mind that you might wait a bit for the order to arrive since most things are made in the spot.
 
+*Address:*[Parnithos 183, Acharnes](https://www.google.com/maps/dir//Brooklyn+the+taste+factory/@38.0956957,23.6684965,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x14a1a1bf5027c02b:0xfed9f2dd897b3bd9!2m2!1d23.7385365!2d38.0957165) |
 *Photo retrieved from:* [Brooklyn the taste factory](https://brooklyn-the-taste-factory.business.site)
 
 **LIVADIA**
@@ -872,7 +873,7 @@ During these years, Greek public has been introduced to numerous artistic curren
 [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/) is a contemporary arts space with two high-spec performance halls, an open-air theatre, rooftop restaurant and a performance space. Numerous arts festivals are held here, which explore controversial issues and bold ideas. Theatre, dance, music, cinema, fine arts and literature are only some of the fields that this foundation explores.
 Its internal space consists of 7 floors and 9 underground levels. During the summer, the building's terasse offers an amazing view to the Acropolis, the Lycabettus Hill and the Saronic Gulf.
 
-*Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/)
+*Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/) |
 *Photo retrieved form:* [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/)
 
 **Hellenic Motor Museum**
