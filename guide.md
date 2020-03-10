@@ -836,11 +836,12 @@ Virtual Reality is a simulated experience that can be similar to the real world.
 
 **Museum of Illusions**
 
-<img src="media/illusions.jpg" alt="drawing" width="500"/>
+<img src="media/museumIllusions.jpg" alt="drawing" width="500"/>
 
 Museum of Illusions is the perfect place for fun and new experiences for friends and family. Illusion have delighted all generations, from children to parents and grandparents, so the whole family can enjoy their time there. The museum brings you a space suitable both for social and entertaining tours into the world of illusions. Museum of Illusion is placed in the city center, really close to the Monastiraki metro and train station so it is very easily accessible using the public transportations. If you walk by it or you have a free time while you are walking in the center of Athens and enjoying the  sun please make sure you visit this place.
 
-*Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com/)
+*Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=museum+of+illusions+athens&sxsrf=ALeKk03DIqVhxtw5mY9rMvJWw1egHSFsqg:1583864088930&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi7lJLDwZDoAhVQZMAKHX8QDWgQ_AUoAXoECBMQAw&biw=1366&bih=657#imgrc=phxpkZwffnIs4M)
 
 **Cine Paris**
 
@@ -907,13 +908,13 @@ During these years, Greek public has been introduced to numerous artistic curren
 
 **Onassis Cultural Centre**
 
-<img src="media/onassis.jpg" alt="Onassis Cultural Centre" width="500"/>
+<img src="media/onassisCultural.jpg" alt="Onassis Cultural Centre" width="500"/>
 
 [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/) is a contemporary arts space with two high-spec performance halls, an open-air theatre, rooftop restaurant and a performance space. Numerous arts festivals are held here, which explore controversial issues and bold ideas. Theatre, dance, music, cinema, fine arts and literature are only some of the fields that this foundation explores.
 Its internal space consists of 7 floors and 9 underground levels. During the summer, the building's terasse offers an amazing view to the Acropolis, the Lycabettus Hill and the Saronic Gulf.
 
 *Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/) |
-*Photo retrieved form:* [Onassis Cultural Centre](https://www.onassis.org/onassis-stegi/)
+*Photo retrieved form:* [Google](https://www.google.com/search?q=onassis+cultural+center&sxsrf=ALeKk000HTD7ue1WpZh5sUSgwyT4k6zXGw:1583864295430&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjo-82lwpDoAhWSN8AKHdXTCesQ_AUoAnoECCEQBA&biw=1366&bih=657#imgrc=5jC5E-VAR9H8sM/)
 
 **Hellenic Motor Museum**
 
