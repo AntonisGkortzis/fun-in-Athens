@@ -43,4 +43,4 @@ For the time being, there are 10 categories that you can write about: Food, Nigh
 
 Feel free to use emojis :sunglasses:
 ### Plagiarism
-**Don't forget that copy-paste is not allowed, even if you mention your source. You need to change the original text and write your own based on it**
+Don't forget that copy-paste is **not allowed**, even if you mention your source. You need to change the original text and write your own based on it
