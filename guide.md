@@ -612,11 +612,23 @@ Athens Metro Mall is one of the most popular shopping mall in Athens. With more 
 *Photo retrieved form:* [Athens Metro Mall](https://www.athensmetromall.gr/photos/c_574px_558px/pages/201911/athensmetromall_stores.jpg)
 
 **Antiques in Monastiraki**
+
+<img src="media/shop-antiques.jpg" alt="antiques" width="500"/> 
+
 Are you a lover of old things and want to get the best antiques at the best prices? In Abysinia Square (in Monastiraki) you will find everything from beautiful expensive 19th Century furniture to totally worthless 20th century junk all displayed in a wonderfully disorganized fashion.
 
 Tip! Try to go on Sunday when gypsies and villagers pour into town with piles of stuff they have found from all over Greece. It's the best place for stamp collectors, coin collectors, card collectors or anyone who loves antiques!
 
-*Information retrieved from:* [Athensguide](https://www.athensguide.com/shopping/) |
+*Information and photo retrieved from:* [Athensguide](https://www.athensguide.com/shopping/)
+
+**Voukourestiou Street**
+
+<img src="media/voukou.jpg" alt="Voukourestiou" width="500"/> 
+
+Voukourestiou Street is the most high-end street of Athens. You can find luxury brands such as Louis Vuitton, Prada, Dior, Chanel, Rolex, and buy the perfect gift for yourself! Enjoy the atmosphere and look for the latest diamonds launched by the leaders of the fashion industry.
+
+*Information retrieved from:* [Think Athens](https://www.thinkathens.com/blog/top-places-shopping-in-athens/) |
+*Photo retrieved from:* [Athens Voice](https://www.athensvoice.gr/life/urban-culture/athens/437284_odos-voykoyrestioy)
 
 ## <a name="fun"></a>Fun and Games
 
@@ -706,7 +718,7 @@ Opening: Thursday 12 March 2020, 19.30
 A gallery right in the center of Athens. It was founded in 1977 in Athens and has since continued working in the field of contemporary art in Greece. 
 After twenty-one years in Kolonaki, the commercial center of Athens, the gallery moved to a Neoclassical building in Thission, the historic center of Athens.
 
-During the gallery’s function, Jean Bernier and Marina Eliades have introduced to the Greek public numerous artistic currents, such as Arte Povera, Minimalism, Land and Conceptual Art and the younger generation of American and European artists.
+During these years, Greek public has been introduced to numerous artistic currents, such as Arte Povera, Minimalism, Land and Conceptual Art and the younger generation of American and European artists.
 
 *Information and photo retrieved from:* [Bernier Eliades](https://bernier-eliades.com/)
 
