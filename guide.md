@@ -309,7 +309,7 @@ It is located at 11 Romvis street, 10560 Athens, Greece and offers you various t
 
 Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    
 
-*Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |*Image retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
+*Information retrieved from:* [SixDogs](http://www.sixdogs.gr) | *Image retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
 
 **Cabezon**
 
@@ -477,14 +477,6 @@ If you're interested into coming closer with the wildlife of the mountain, you c
 
 *Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Parnitha)
 
-**The National Garden**
-
-<img src="media/ethnikos-kipos.jpg" alt="drawing" width="500"/>
-
-Some meters away from the Syntagma station metro and next to the Greek Parliament is where the National Garden is located. It covers 284 acres full of green, rare species of plants, small bush trees and birds. The numbers talk on their own. In the garden, there are 7000 trees, 40000 bushes and other plants which belong to 519 kinds and varieties. You can go there to relax from the hectic city, feed the ducks or go for a run. In one of the entrances there is also a small vendor with the traditional bagel-like treat called "Koulouri".
-
-*Information retrieved from:* [DiscoverGreece](https://www.discovergreece.com/el/travel-ideas/cover-story/athens-national-garden) |
-*Image retrieved from:* [Runster](http://www.runster.gr/ethinkos-kipos-all-time-classic-diadromi-sto-kentro-tis-athinas/) 
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
@@ -623,6 +615,7 @@ If you are in Athens and you are searching for an alternative way of fun, this i
 
 Nothing is better than a wonderful walk through National Garden and Zappeion near Syntagma! The National Garden of Athens is a large green-space of over 160.000 square meters adorned with over 500 types of plants and trees from all over the world.The park is a picturesque green lung filled with flowers, shrubs, ancient trees and green meadows where to relax during the warm summer days. The National Garden’s most famous sights include a small pond, which is home to numerous water birds, a botanical garden, the remains of historical monuments and even a small zoo.
 Easily access due to the location which is near the Syntagma Metro station and behind the Greek Parliament!
+Address: Leoforos Amalias 1, Athens 10557 Greece
 
 *Information retrieved from:*[IntroducingAthens](https://www.introducingathens.com/) |
 *Photo retrieved from:*[AthensTransport](https://www.athenstransport.com/)
@@ -653,15 +646,6 @@ Additionally there are also some discounts. For more information click [here](ht
 Address: At Yalou Spata, Αθήνα 190 04 - Otherwise the zoo can also be reached by bus line 319 from Doukissis Plakentias and it shuttles every 35 minutes.
 
 *Information and photo retrieved from:* [Attica Zoological Park](https://www.atticapark.com/)
-
-**National Garden**
-
-<img src="media/NationalGarden.png" alt="drawing" width="500"/>
-
-Need a little distance to the big city? The National Garden is one of the many parks in Athens. The park is only 3 minutes away from the Syntagma Metro Station.
-Address: Leoforos Amalias 1, Athens 10557 Greece
-
-*Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.at/Attraction_Review-g189400-d246658-Reviews-National_Garden-Athens_Attica.html)
 
 **Sounio**
 
