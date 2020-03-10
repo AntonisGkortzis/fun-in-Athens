@@ -354,6 +354,14 @@ Grab your favourite cocktail and start exploring Athens by night.
 
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
 
+**Couleur Locale**
+
+The hidden bar on Normanou Street, near the Monastiraki’s square, is one of the most beautiful terraces. From the third floor, facing the sacred rock of the Acropolis, you can enjoy both the view and the variety of food and drinks in affordable prices it provides.
+
+When the sun sets, you'll also enjoy selected lounge and house music by well-known Greek and world DJ's!
+
+*Information and photo retrieved from:* [αθηνόραμα bar awards](https://www.athinoramabarawards.gr/bar-vravevmeno.aspx?id=10005350&Year=2019)
+
 **Plintirio Bar**
 
 <img src="media/plintirio.jpg" alt="plintirio bar" width="500"/>
