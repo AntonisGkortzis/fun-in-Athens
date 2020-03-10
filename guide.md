@@ -19,6 +19,14 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 
 Here are the best places where you can enjoy the Greek food.
 
+**Brooklyn the taste factory**
+
+<img src="media/brooklynTheTasteFactory.jpg" alt="drawing" width="500"/>
+
+Even though most restaurants in Athens are located in or near the center, this particular one is not. Brooklyn the taste factory is an American-like burger house with a wide variety of burgers and similar choices. Since its in Greece though, be careful because the portioning is really generous. The stuff is really polite and the restaurants environment fits the needs of the modern college student and its also family friendly. If you actually decide to visit, keep in mind that you might wait a bit for the order to arrive since most things are made in the spot.
+
+*Photo retrieved from:* [Brooklyn the taste factory](https://brooklyn-the-taste-factory.business.site)
+
 **LIVADIA**
 
 <img src="media/leivadeia.jpg" alt="drawing" width="500"/>
