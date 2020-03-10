@@ -471,6 +471,8 @@ Picture-perfect Thisseio is an ideal district for relaxing strolls and evening w
 
 **Flisvos Marina**
 
+<img src="media/flisvosMarina.jpg" alt="drawing" width="500"/>
+
 Around Flisvos Marina area, just a few miles away from Syntagma square, you can enjoy at the same time the seaview, high quality food and your walk along the beach. Moreover, one could immerse themselves in plenty more activities, such as riding a bicycle, jogging and walking. The historic battleship “Georgios Averof”, which operates as floating naval museum, is located right next to it. Not too far from it, Water Plaza (Plateia Nerou) is situated, in which – mainly during the summer months – festivals and concerts take place.
 
 *Information retrieved from:* [Battleship "Georgios Averof"](http://averof.mil.gr/en/)
