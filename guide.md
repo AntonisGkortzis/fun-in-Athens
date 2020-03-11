@@ -51,6 +51,14 @@ A place where you can visit all day long and have a great time. It has a really 
 *Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3695477-d17520095-Reviews-I_Cafe_Bar-Argyroupoli_Attica.html)
 *Image retrieved from:*[vges.gr](https://www.vges.gr/)
 
+**Kapu coffee-drinks-cocktails**
+
+<img src="media/kapu.jpg" width="500"/>
+
+Kapu is a really nice place with a beautiful yard to enjoy on sunny days. You can enjoy your beverages on the mornings and your drinks at night. In order to get there you can get a cab or a taxi, by car(it should be pretty easy to find a parking spot there) or by public transportations, by bus or by metro(the bus stop and the metro station are really close).
+
+*Information and image retrieved from:*[Kapu](https://kapu.gr/)
+
 ## <a name="food"></a>Food
 
 Here are the best places where you can enjoy the Greek food.
