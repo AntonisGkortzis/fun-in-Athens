@@ -372,10 +372,10 @@ Address: [Αιόλου 48, 50 str, Αθήνα 105 60](https://www.google.gr/maps
 
 Seychelles is located on Metaxourgeio and serves value for money greek food. Reservations are suggested.
 
-| Opening Hours: Daily 10:00 to 2:00
-| Contact: +302111834789
-
-Address: [Κεραμεικού 49, Αθήνα 104 36](https://www.google.gr/maps/place/%CE%A3%CE%B5%CF%8B%CF%87%CE%AD%CE%BB%CE%BB%CE%B5%CF%82/@37.982275,23.7180833,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd268d6dcd17:0x3f2f7aea74dd8cf9!8m2!3d37.982275!4d23.720272)
+| Opening Hours | Daily 10:00 to 2:00	 |
+| ------------- |:----------------------:|
+| Address       | [Κεραμεικού 49, Αθήνα 104 36](https://www.google.gr/maps/place/%CE%A3%CE%B5%CF%8B%CF%87%CE%AD%CE%BB%CE%BB%CE%B5%CF%82/@37.982275,23.7180833,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd268d6dcd17:0x3f2f7aea74dd8cf9!8m2!3d37.982275!4d23.720272) |
+| Contact       | +302111834789|
 
 *Information retrieved from:* [Seychelles](http://www.seycheles.gr/en)
 
