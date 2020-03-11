@@ -25,6 +25,14 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 ## <a name="cafe"></a>Cafeterias
 Here are the best places where you can enjoy your morning drinking a cup of coffee.
 
+**TELARO*
+
+<img src="media/telaro.jpg" width="500"/>
+
+Telaro is a cozy cafeteria with delicious branch, and nice music. It has 2 floors, and the second floor is a helpful and nice place to study or do your work, especially with friends. It's located the heart of Athens and you will not have hard time to find it while the prices range from 2 to 8 euros.
+
+*Image retrieved from:* [TELARO](https://www.athensmagazine.gr/article/restaurants/250822-apeytheias-apo-to-telaro-to-neo-nostimo-steki-sthn-aioloy-poy-anatrepei-ta-kathierwmena)
+
 **DOPE ROASTING Co.**
 
 <img src="media/dope.jpg" width="500"/>
@@ -231,7 +239,7 @@ Cap cap is a perfect place in order to eat sweets. The place is really nice and 
 
 Address: [Πανόρμου 26, Αιγάλεω 122 42](https://www.google.gr/maps/place/CapCap+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@37.993951,23.6788133,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcb0094099eb:0xe83d02bb0e73d4fb!8m2!3d37.993951!4d23.681002)
 
-*Information and Photo retrieved from: *[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
 
 **Mparmpeekiou**
 
@@ -548,7 +556,7 @@ Address: [T.K, Ακτή Μικρολίμανου, Πειραιάς 185 33](https
 
 **Skipper's**
 
-<img src="media/Skipper's.jpg" alt="Skipper's" width="500"/>
+<img src="media/Skippers.JPG" alt="Skipper's" width="500"/>
 
 Skipper’s bar opened on the 4th of May, 1987 and is currently going through its 26th year of operation. All these years Skipper's has remained constant supporting the principles of aesthetics, honesty and friendly prices. It's a magnificent place right along the seaside where you can enjoy your beverage or drinks. The easiest way to go there is by car.
 
