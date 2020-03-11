@@ -42,6 +42,15 @@ A really good place in Peristeri. You can get there using the metro railway or t
 
 *Information and image retrieved from:*[fnl](https://www.fnl-guide.com/gr/el/the-bars/godmama-s-yard/)
 
+**I Cafe Bar**
+
+<img src="media/icafe.jpg" width="500"/>
+
+A place where you can visit all day long and have a great time. It has a really good environment with a yard so the place is much more in sunny days. The menu haw a lot of different things you can choose from and the prices are quite low. You can eat your breakfast, drink your coffee and your cocktails. Whatever time you choose to come you will always find yourself contemplating among a lot of options. The  I Cafe Bar is located in Argyroupoli so it is not quite easy to get there by public transportations. Of course, the best idea is to access the place by car and you will surely find a parking spot pretty fast.
+
+*Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3695477-d17520095-Reviews-I_Cafe_Bar-Argyroupoli_Attica.html)
+*Image retrieved from:*[vges.gr](https://www.vges.gr/)
+
 ## <a name="food"></a>Food
 
 Here are the best places where you can enjoy the Greek food.
