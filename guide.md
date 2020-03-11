@@ -79,9 +79,8 @@ Even though it doesn't offer Greek recipes, "The Doctor's Wheelchair" (or in Gre
 
 <img src="media/loukoumades.png" alt="Loukoumades" width="500"/>
 
-Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection. They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry!
+Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection. They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry! You will find it at [Aiolou & Agias Irinis 21](https://www.google.gr/maps/place/LUKUMAΔΕΣ/@37.9769125,23.7254017,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3cd2b5c53f:0xeadb95bb43cf5947!8m2!3d37.9769125!4d23.7275904) in Athens.
 
-*Address:*[21, EOLOU & AGHIAS IRINIS STR.](https://www.google.gr/maps/place/LUKUMAΔΕΣ/@37.9769125,23.7254017,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3cd2b5c53f:0xeadb95bb43cf5947!8m2!3d37.9769125!4d23.7275904)|
 *Information and photo retrieved from :* [Lukumades](https://www.lukumades.com/about)
 
 **Choureal**
