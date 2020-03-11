@@ -471,6 +471,14 @@ For more Potato King, check [this](https://www.youtube.com/watch?v=Y07VUDYMGUA)!
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10289905-Reviews-Potato_King-Athens_Attica.html)
 
+#### <a name="peking"></a>**Peking Duck**
+
+<img src="media/peking.jpg" alt="Peking Duck" width="500"/>
+
+"Peking Duck" is the perfect destination for street food lovers, especially when they are familiar with fusion asian kitchen. The restaurant is located next to the metro station of Panormou which is very easy to access as it is a major commute center for thousands of Athenians and tourists every day. It offers unique spins on traditional oriental recipes which made it a lure for pursuers of radical but grounded flavors. The restaurant has a big variety of dishes but it specializes on duck which is the primary draw for most of its clientele.
+ 
+*Information retrieved from:*[Peking Duck](https://pekingduck.gr/)  |
+*Image retrieved from:*[Peking Duck](https://pekingduck.gr/katalogos)
 
 ## <a name="nightlife"></a>Night Life
 
