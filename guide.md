@@ -473,6 +473,15 @@ Address: [Αγίου Φιλίππου 7, Αθήνα 105 55](https://www.google.g
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10289905-Reviews-Potato_King-Athens_Attica.html)
 
+**Opus Inner Pleasure**
+
+<img src="media/Opus.jpg" alt="Opus" width="500"/>
+
+Located in Glyfada, in the Southern area of Athens, Opus Inner Pleasure is one of the most popular restaurants of the area. It’s an all day bar-restaurant that serves mainly Mediterranean cuisine. It is also a quite popular option for weekend brunch or sushi! During the weekend nights, it hosts parties with various DJs, becoming the place-to-be for party lovers.
+*Information retrieved from:* [E-table]( https://www.e-table.gr/restaurant/opus-inner-pleasure) |
+*Photo retrieved from:* :* [E-table]( https://www.e-table.gr/en/restaurant/opus-inner-pleasure)
+
+
 
 ## <a name="nightlife"></a>Night Life
 
