@@ -25,6 +25,14 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 ## <a name="cafe"></a>Cafeterias
 Here are the best places where you can enjoy your morning drinking a cup of coffee.
 
+**DOPE ROASTING Co.**
+
+<ims src="media/dope.jpg" width="500"/>
+
+Dope is a sunny cafeteria 5 minutes away from the metro of Monastiraki. But why is it sunny? The roof is made out of wood, but it contains large windows so it allows the sun, to lighten the inside. Except for the cafeteria's stylish and cool design, it also serves a good coffee (and food), and one can easily read a book, study or work in a place like this. At last, it has 2 floors with different kind of tables to sit, so that you get comfy.
+
+*Image retrieved from:* [POPAGANDA](https://popaganda.gr/table/dope-roasting-co/)
+
 **MADEIRA Cafe & Bar**
 
 <img src="media/madeira.jpg" width="500"/>
@@ -36,6 +44,7 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Photo retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
+=======
 **Italus**
 
 <img src="media/italus.jpg" width="500"/>
@@ -44,6 +53,17 @@ If you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enj
 
 *Information and photo retrieved from:* [Italus](http://www.italus.gr/)
 
+=======
+**Dome**
+
+<img src="media/dome.jpg" width="500"/>
+
+Another cafeteria you should undoubtedly visit in Kallithea is "Dome", a cozy place, perfect for gathering with friends, which offers you a variety of board games to play, while enjoying your favourite beverages and snacks.
+
+*Information and photo retrieved from:* [PolisPages](https://www.polispages.gr/guide/14207/dome-%7C-kafeteria-%7C-kallithea-)
+
+
+>>>>>>> ad91a581647a0da71b149100bccaa14f64221fb0
 **Godmama’s Yard**
 
 <img src="media/godmamas.jpg" width="500"/>
@@ -102,6 +122,16 @@ Address: [Αμερικής 4, Αθήνα 105 64](https://www.google.gr/maps/plac
 Rabbithole is a Cafe/Bar right next to the most central point of the city, the famous Syntagma Square. You can visit Rabbithole to enjoy a coffee or tea while working on your projects, or for a beer and a cocktail once it gets dark. Just above it, one of the most picturesque locations in Athens awaits. The Passage of the Merchants.
 
 *Information and photo retrieved from:* [Rabbithole](https://rabbitholebar.gr/) 
+
+**Belle Epoque**
+
+<img src="media/belle_epoque.jpg" width="500"/>
+
+Belle Epoque (or Μπέλ Επόκ) gives a vintage aesthetic in the neighborhoods of Piraeus. This small cafe with its bright colors and its artistic decoration inspired by the '60s- '70s is the perfect place to  enjoy a high-quality coffee. The menu offers a large variety of choices and the prices worth the given value. Their brunch is significant,including pancakes, eggs, sandwiches and desserts. Except from your coffee you can also enjoy a cup of tea or hot chocolate and many different beverages.
+
+Address: [Αριστοτέλους 10, Πειραιάς 185 35](https://www.google.gr/maps/place/%CE%9C%CF%80%CE%B5%CE%BB+%CE%95%CF%80%CF%8C%CE%BA/@37.9412122,23.6439683,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bbe87686d969:0x1faee70d9ba63f8e!8m2!3d37.9412122!4d23.646157?hl=en)
+
+*Informationand photo retrieved from:*[Belle-epoque Site](https://belle-epoque.gr/)
 
 ## <a name="food"></a>Food
 
@@ -814,6 +844,17 @@ Address: [Αιόλου 11, Αθήνα 105 55](https://www.google.gr/maps/place/C
 It might sound pretty bizarre, but there is a place where Greek and Irish cultures briefly meet. James Joyce is an Irish pub that serves traditional Irish favourites as well as Greek dishes, such as the famous Greek salad; needless to mention that the refreshing draught beers and abudant Irish whiskies are incomparable. You can find it [here](google.com/maps?q=James+Joyce&ftid=0x14a1bd22312e67a3:0x21149bfa5ea1f82b).
 
 *Information and photo retrieved from:* [James Joyce Irish Pub](https://www.jjoyceirishpubathens.com/)
+
+**Barley Cargo**
+
+<img src="media/barley-cargo.jpg" alt="The Speakeasy" width="500"/>
+
+Barley Cargo offers a beer tasting experience in central Athens with more than 230 international beers including 70 Greek beers and 17 on tap varieties. Established in 2012 by Marios Mantzoukis and Nectarios Kefalas, Barley Cargo is the perfect place to get acquainted with Greek beers, which are winning awards all around the world.
+
+Address: [Kolokotroni 6, Athens, 105 61](https://goo.gl/maps/1aNTcpxhjD1cpDWE6)
+
+*Information retrieved from:* [Why Athens](https://whyathens.com/barley-cargo/) |
+*Photo retrieved from:* [My secret Athens](https://www.mysecretathens.gr/2012/09/barley-cargo/)
 
 **Podiki**
 
