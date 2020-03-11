@@ -30,9 +30,8 @@ Here are the best places where you can enjoy the Greek food.
 
 <img src="media/theYard.jpg" alt="The Yard" width="500"/>
 
-Even though this place beauty is hidden in its simplicity and secrecy, more people should know about it. The Yard ("Αυλή" in Greek) is a hidden paradise in the area of Psiri at he center of Athens. This difficult to find place is a traditional Greek restaurant that is bound to remind you of the 60s.
+Even though this place beauty is hidden in its simplicity and secrecy, more people should know about it. The Yard ("Αυλή" in Greek) is a hidden paradise in the area of Psiri at he center of Athens. This difficult to find place is a traditional Greek restaurant that is bound to remind you of the 60s and is located at [Agiou Dimitriou 12](https://www.google.gr/maps/place/Agiou+Dimitriou+12,+Athina+105+54/@37.9796252,23.7237424,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd249853df6d:0x84aa56a003836200!8m2!3d37.9796252!4d23.7259311) in Athens.
 
-*Address:*[Αγίου Δημητρίου 12, Αθήνα](https://www.google.gr/maps/place/Agiou+Dimitriou+12,+Athina+105+54/@37.9796252,23.7237424,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd249853df6d:0x84aa56a003836200!8m2!3d37.9796252!4d23.7259311) |
 *Photo retrieved from:* [Olive Magazine](https://www.olivemagazine.gr/εστιατόρια-bars/η-ελένη-ψυχούλη-βγαίνει-τσάρκα-στου-αν/)
 
 **Fairytale**
@@ -1197,6 +1196,22 @@ Its internal space consists of 7 floors and 9 underground levels. During the sum
 
 *Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/) |
 *Photo retrieved form:* [Google](https://www.google.com/search?q=onassis+cultural+center&sxsrf=ALeKk000HTD7ue1WpZh5sUSgwyT4k6zXGw:1583864295430&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjo-82lwpDoAhWSN8AKHdXTCesQ_AUoAnoECCEQBA&biw=1366&bih=657#imgrc=5jC5E-VAR9H8sM/)
+
+**Instar**
+
+<img src="media/instar.jpg" alt="instar" width="500"/>
+
+*12 March 2020 - 22 March 2020*
+
+The new choreographic work of the dance group Proschima is presented in March for 8 performances. Maria Koliopoulou creates a duet for women's identity, interpreted by Ioanna Apostolou and Christina Ryanhart.
+
+*Choreographer:* Maria Koliopoulou
+*Artists:* Ioanna Apostolou, Christina Ryanhart
+
+Tickets: 10€
+Reservations - Info: 6909471254, from 11:00 - 14:00 & 17:00 - 20:00
+
+*Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/instar_apo_tin_omada_sygxronoy_xoroy_prosxima)
 
 
 **ADD 2020**
