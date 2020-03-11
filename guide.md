@@ -552,6 +552,15 @@ The name of this place says it all. 360 Degrees is a lush rooftop garden and coc
 
 *Information and photo retrieved from:* [Greek City Times](https://greekcitytimes.com/2018/07/03/athens-immaculate-360-degrees-rooftop-bar/?amp)
 
+**City Zen**
+
+<img src="media/cityzen.jpg" alt="City Zen" width="500"/>
+
+An all day bar and restaurant with great ambience located in the heart of the historical centre of Athens, offering an astounding view of the Acropolis. The bar has a unique roof terrace, making it ideal for summer visits. You can enjoy everything from refreshing beverages and brunch to dinner dishes and sparkling coctails; not to mention a wide variety of coffees.
+
+*Information retrieved from:* [City Zen](https://www.cityzenathens.gr/) |
+*Photo retrieved from:* [Elepod](https://www.elepod.gr/business/cityzen-all-day-cafe-bar-kaphes-poto-me-thea-akropole-monasteraki)
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
