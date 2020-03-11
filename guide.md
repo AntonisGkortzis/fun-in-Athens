@@ -478,8 +478,11 @@ Address: [Αγίου Φιλίππου 7, Αθήνα 105 55](https://www.google.g
 <img src="media/Opus.jpg" alt="Opus" width="500"/>
 
 Located in Glyfada, in the Southern area of Athens, Opus Inner Pleasure is one of the most popular restaurants of the area. It’s an all day bar-restaurant that serves mainly Mediterranean cuisine. It is also a quite popular option for weekend brunch or sushi! During the weekend nights, it hosts parties with various DJs, becoming the place-to-be for party lovers.
+
+Address: [9, Pandoras str., Glyfada](https://www.google.com/maps/place/OPUS+Inner+Pleasure/@37.8581684,23.7546593,15z/data=!4m5!3m4!1s0x0:0x661da4526d4af8ca!8m2!3d37.8581684!4d23.7546593?hl=el)
+
 *Information retrieved from:* [E-table]( https://www.e-table.gr/restaurant/opus-inner-pleasure) |
-*Photo retrieved from:* :* [E-table]( https://www.e-table.gr/en/restaurant/opus-inner-pleasure)
+*Photo retrieved from:* : [E-table]( https://www.e-table.gr/en/restaurant/opus-inner-pleasure)
 
 
 
