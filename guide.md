@@ -1958,3 +1958,13 @@ Locations near Marathonas Beach include the Wetland of Brexiza and the Ancient d
 Restaurants near Marathonas Beach include Cavouri (Greek), Avra (Greek, Seafood), Taj Mahal (Indian), Vietnam (Vietnamese) and H Trata (Greek).
 
 *Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
+
+**Zoumperi Beach**
+
+<img src="media/zoumperi-beach.jpg" alt="Zoumperi Beach" width="500"/>
+
+The coastline of Nea Makri has many areas for your to enjoy the beach and clear blue sea. Zoumberi is a Beach in Nea Makri in Athens in the Attica Region of Greece.
+The postal code of Zoumberi is 19005 and its telephone access code is +3022940. Zoumberi is at an altitude of 20 meters. 
+Locations near Zoumberi include the Town of Nea Makri and the Small port of Mati.
+
+*Information retrieved from:* [Zoumperi Beach](*Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
