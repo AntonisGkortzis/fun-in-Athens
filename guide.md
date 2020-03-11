@@ -748,6 +748,17 @@ Address: [Θησέως 16, Αθήνα 105 62](https://www.google.gr/maps/place/D
 *Information retrieved from:* [WhyAthens](https://whyathens.com/athens-nightlife/) |
 *Photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com/LocationPhotoDirectLink-g189400-d6029269-i209959965-Drunk_Sinatra-Athens_Attica.html)
 
+**The Speakeasy**
+
+<img src="media/speakeasy.jpg" alt="The Speakeasy" width="500"/>
+
+You can walk past this street of Syntagma a million times, and you will still not notice anything special about this scruffy building’s old door. Well, now you know that it leads to one of the coolest underground bars in Athens. The concept is of course borrowed from the Prohibition era secret bars, and so the design is very 1930s. It's a great way to escape the loudness of the centre and enjoy a quiet talk with a good cocktail.
+
+Address: [Λέκκα 12, Αθήνα 105 62](https://goo.gl/maps/Z2hYMscA3qMUWpQt7)
+
+*Information retrieved from:* [TravelPorter](https://thetravelporter.com/blog/2016/7/14/athens-hidden-bars-10-nocturnal-gems-you-need-to-know-about) |
+*Photo retrieved from:* [foursquare](https://foursquare.com/v/the-speakeasy/52b8ab6c11d2bde308cd9ae7?openPhotoId=5dab8416c56b780008690376)
+
 **360 Cocktail Bar**
 
 <img src="media/360_cocktail_bar.jpg" alt="360 Cocktail Bar" width="500"/>
