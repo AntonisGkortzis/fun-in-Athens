@@ -370,6 +370,8 @@ If you’re planning on visiting, don’t forget to try the great pancakes that 
 
 If you want to eat the best crepe in Athens you can visit ilion (new liosia) attikis and try the very known creperie The twins inspiration!
 
+*Information and photo retrieved from:* [The twins inspiration](https://www.facebook.com/thetwinsinspiration/) 
+
 **Mama Roux**
 
 <img src="media/mamaRoux.jpg" alt="Mama Roux" width="500"/>
