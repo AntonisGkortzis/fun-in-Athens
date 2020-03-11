@@ -939,7 +939,7 @@ Number of participants per tour: 20 people
 :calendar: Date: 01 March - 31 March 2020
 
 *Information retrieved from:* [SNFCC](https://www.snfcc.org/en) |
-*Photo retrieved from:*[Architectural Diges](https://www.architecturaldigest.com/)
+*Photo retrieved from:*[Architectural Digest](https://www.architecturaldigest.com/)
 
 
 
