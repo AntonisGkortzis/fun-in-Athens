@@ -366,7 +366,11 @@ If you’re planning on visiting, don’t forget to try the great pancakes that 
 
 **The twins inspiration**
 
+<img src="media/twins.jpg" alt="The twins inspiration" width="500"/>
+
 If you want to eat the best crepe in Athens you can visit ilion (new liosia) attikis and try the very known creperie The twins inspiration!
+
+*Information and photo retrieved from:* [The twins inspiration](https://www.facebook.com/thetwinsinspiration/) 
 
 **Mama Roux**
 
@@ -548,6 +552,14 @@ It’s a marvelous quiet place up on a hill at [Chaidari, Athens](https://www.go
 Address: [Φιλικής Εταιρείας, Χαϊδάρι 124 61](https://www.google.gr/maps/place/%CE%A4%CE%97%CE%9B%CE%95%CE%A3%CE%9A%CE%9F%CE%A0%CE%99%CE%9F/@38.006967,23.6540462,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bb5282459acb:0xbcb04e251a50a81a!8m2!3d38.006967!4d23.6562349)
 
 *Information retrieved from:* [XPAT ATHENS]( https://www.xpatathens.com/)
+
+**Arch beer house**
+
+<img src="media/arch.jpg" alt="Brewery Arch beer house" width="500"/>
+
+You can drink some of the most strange beers in the brewery Arch beer house in Peristeri near the metro station in the central square
+
+*Information retrieved from:* [Arch beer house](https://www.archbeerhouse.gr/) |*Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3695541-d10113681-Reviews-Arch_Beer_House-Peristeri_Attica.html)
 
 **Lohan Nightclub**
 
