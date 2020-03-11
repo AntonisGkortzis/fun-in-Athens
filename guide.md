@@ -36,6 +36,15 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Image retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
+<<<<<<< HEAD
+=======
+**Italus**
+
+f you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enjoying the beautifully ornamented interior atmosphere, you must definitely try its renowned hot chocolate, served in a cup made of chocolate waffle, or order a selfieccino, a cup of coffee with a photo of yours on it!
+
+*Information retrieved from:* [Italus](http://www.italus.gr/)
+
+>>>>>>> bf229449e13e4c6966ea76abd3792149123f1c30
 **Godmama’s Yard**
 
 <img src="media/godmamas.jpg" width="500"/>
@@ -94,16 +103,6 @@ Address: [Αμερικής 4, Αθήνα 105 64](https://www.google.gr/maps/plac
 Rabbithole is a Cafe/Bar right next to the most central point of the city, the famous Syntagma Square. You can visit Rabbithole to enjoy a coffee or tea while working on your projects, or for a beer and a cocktail once it gets dark. Just above it, one of the most picturesque locations in Athens awaits. The Passage of the Merchants.
 
 *Information and photo retrieved from:* [Rabbithole](https://rabbitholebar.gr/) 
-
-**Belle Epoque**
-
-<img src="media/belle_epoque.jpg" width="500"/>
-
-Belle Epoque (or Μπέλ Επόκ) gives a vintage aesthetic in the neighborhoods of Piraeus. This small cafe with its bright colors and its artistic decoration inspired by the '60s- '70s is the perfect place to  enjoy a high-quality coffee. The menu offers a large variety of choices and the prices worth the given value. Their brunch is significant,including pancakes, eggs, sandwiches and desserts. Except from your coffee you can also enjoy a cup of tea or hot chocolate and many different beverages.
-
-Address: [Αριστοτέλους 10, Πειραιάς 185 35](https://www.google.gr/maps/place/%CE%9C%CF%80%CE%B5%CE%BB+%CE%95%CF%80%CF%8C%CE%BA/@37.9412122,23.6439683,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bbe87686d969:0x1faee70d9ba63f8e!8m2!3d37.9412122!4d23.646157?hl=en)
-
-*Informationand photo retrieved from:*[Belle-epoque Site](https://belle-epoque.gr/)
 
 ## <a name="food"></a>Food
 
@@ -1267,6 +1266,22 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 
 *Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/) |
 *Photo retrieved from:* [Tripsavvy](https://www.tripsavvy.com)
+
+**Penteli's (Drafi) Waterfalls**
+
+<img src="media/drafi.jpg" alt="Drafi waterfalls" width="500"/>
+
+A hundred meters from a frequented street in Penteli , on the side , there is a river and a waterfall at least ten meters. Arbit asphalt, rarily burnt trees, deforest slopes . These sees someone moving within the boundaries of the settlement of Penteli . But if you look a little more closely, you will see that nature even resists and still forming oases in the foundations of illegal houses that have filled the mountain. Such a place is the waterfall of Ntrafi or waterfall of Penteli. You will find many articles on the internet about them. Water is pure, deep, even suitable for swimming, though the latter sounds imaginary. You got to keep it clean as a whistle, even if seems an old-fashioned saying. There have been hard times to this stream, called Bathyrema-Lykorema (Balanaris), originating from the Byzantine Monastery of Agios Nikolaos Kallisiwn and flowing till Rafina. Let's preserve what nature has handed out. Have a nice geocaching l!
+
+*How to get there*
+To approach the cache area if you don't have your own car, just board 451bus line heading to Palaia Penteli via Chalandri and alight either at 1st or 2nd station, Achaion str. You will encounter a small opening the kind of a backroad. In just three minutes' walk from the top of the track, you get there.So simple.
+
+*The Cache*
+It is a plastic lock&lock tupper that contain logbook, pencil and stash note that we please to not remove, some trade items and an FTF award for the first finder. You can see it with his initial contents here.
+To find the cache is very easy.
+Have fun and enjoy the area!
+
+*Information retrieved from:* [Drafi](https://www.geocaching.com/geocache/GC504AY_pentelis-drafi-waterfalls) 
 
 **Guided Tours at the Stavros Niarchos Park**
 
