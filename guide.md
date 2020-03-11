@@ -170,7 +170,6 @@ Address: [Διομείας 2, Αθήνα 105 63](https://www.google.gr/maps/plac
 
 *Information and photo retrieved from:* [Choureal](https://www.choureal.gr/)
 
-
 **Nancy's Sweet Home**
 
 <img src="media/nancy.jpg" alt="Nancy's Sweet Home" width="500"/>
@@ -312,7 +311,6 @@ and waiting for you to finish them at one of the 5 Butcher's Burger & Steak Hous
 Address: [Βουλής 7, Αθήνα 105 62](https://www.google.gr/maps/place/Butcher's+Burger+%26+Steak+House+Syntagma/@37.9766848,23.7305898,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd6ae505caeb:0xc5729018a6110135!8m2!3d37.9766848!4d23.7327785)
 
 *Information and photo retrieved from:* [Butcher's Burger](http://www.butchersburger-steak.gr)
-
 
 **Feyrouz**
 
@@ -484,8 +482,6 @@ Address: [9, Pandoras str., Glyfada](https://www.google.com/maps/place/OPUS+Inne
 *Information retrieved from:* [E-table]( https://www.e-table.gr/restaurant/opus-inner-pleasure) |
 *Photo retrieved from:* : [E-table]( https://www.e-table.gr/en/restaurant/opus-inner-pleasure)
 
-
-
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
@@ -587,7 +583,6 @@ _📍 : [Paramithias 14, Kerameikos](https://www.google.gr/maps/place/BEAUTY+KIL
 _📞: +30 21 0524 0117_
 
 _Photo retrieved from [Athens Voice](https://www.athensvoice.gr/)_
-
 
 **Bouzoukia**
 
@@ -829,7 +824,6 @@ all these cool features apart, the foundation offers a great place for long walk
 
 *Info retrieved from:* [SNF](https://www.snf.org/en/) | *Photo retrieved from:* [AthensVoice](https://www.athensvoice.gr/places/99674_kentro-politismoy-idryma-stayros-niarhos-snf)
 
-
 **Invisible tours by “Shedia”**
 
 <img src="media/aorates.jpg" alt="Invisible Tours" width="500"/>
@@ -844,7 +838,6 @@ The goal of these social tours is to energize the person who is leading the tour
 • Participation fee is €8* (5€ for students)
 
 *Information and photo retrieved from:* [Shedia](https://www.shedia.gr/diadromes/)
-
 
 **Monastiraki**
 
@@ -936,20 +929,17 @@ Apart from all the tours you can do on your own, you can also join some organize
 
 [<img src="media/freetour.jpg" alt="Free Tour" width="500"/>](https://www.youtube.com/watch?v=KphBnQum_4w)
 
-
 **Athens Street Art Free tour**
 
 <img src="media/athens-street-art-tour-of-exarchia.jpg" alt="Street art in athens" width="500"/>
 
 This tour, offered in English, takes you to the Exarchia square, a neighborhood in the city center of Athens. A local artist will let you explore the varied street art and its rich history. Art will vary from political to social messages or simply pieces of pure art, some of which has been left by great graffiti artists from Europe.
 
-
 **Athens free Food tour**
 
 <img src="media/street-food-tour.jpg" alt="Athens Free Food Tour" width="500"/>
 
 Enjoy the best local on-the-go snacks on your way to visiting the most popular fresh markets, in which you are going to taste a selection of traditional products.
-
 
 **Walk in Beautiful and Secret Athens**
 
@@ -1052,7 +1042,6 @@ The collection is displayed along the museum’s two floors and is divided into 
 *Information retrieved from:* [civitatis](https://www.introducingathens.com/national-archaeological-museum) |
 *Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4360)
 
-
 **Byzantine and Christian Museum**
 
 <img src="media/byzantinemuseum.jpg" alt="Byzantine and Christian Museum" width="500"/>
@@ -1083,7 +1072,6 @@ The museum of Cycladic Art is dedicated to the study and demonstration of the an
 More information on the museum and its opening hours can be found [here](https://cycladic.gr/en).
 
 *Information retrieved from:* [Museum of Cycladic Art](https://cycladic.gr/en) | *Photo retrieved from:* [visitgreece](http://www.visitgreece.gr/en/culture/museums/museum_of_cycladic_art)
-
 
 ## <a name="monuments"></a>Monuments
 
@@ -1168,7 +1156,6 @@ This ancient temple is located very close to the centre of Athens. Its building 
 *Information retrieved from:* [Athensguide](https://www.athensguide.com/temple-of-olympian-zeus/) |
 *Photo retrieved from:* [Ancient History Encyclopedia](https://www.ancient.eu/image/4005/the-temple-of-olympian-zeus-athens/)
 
-
 ## <a name="activities"></a>Activities
 
 Athens has many things to do for athletics individuals too! From walking to our famous mountains to skydiving!
@@ -1228,7 +1215,6 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 *Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/) |
 *Photo retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
 
-
 **Guided Tours at the Stavros Niarchos Park**
 
 <img src="media/niarchos_park.jpg" alt="Stavros Niarchos Park" width="500"/>
@@ -1245,8 +1231,6 @@ Number of participants per tour: 20 people
 *Information retrieved from:* [SNFCC](https://www.snfcc.org/en) |
 *Photo retrieved from:*[Architectural Digest](https://www.architecturaldigest.com/)
 
-
-
 **Skydive Athens**
 
 <img src="media/skydive.jpg" alt="Skydive" width="500"/>
@@ -1254,7 +1238,6 @@ Number of participants per tour: 20 people
 Are you a extreme person? Then Skydive Athens is the perfect place to fall from 14.000 ft ,but fear not because you will be receiving plenty of informations from the instructors! Is it by far the most memorable thing to do! There are also other options to do such as jumping from 8.000 ft. And at last,what Skydive athens offers is a package to teach you to make your own skydive without any instructors attached to you! To get there you will have to take a bus from KTEL Liosion to Kastro Viotias,but everything will be set,because a special bus will pick you immediatly after your arrival
 
 *Information and photo retrieved from:* [Skydive Athens](https://skydive-athens.gr)
-
 
 **Paintball Park Malakasa**
 
@@ -1264,7 +1247,6 @@ If you are in Athens and you are searching for an alternative way of fun, this i
 
 *Information and photo retrieved from:* [Paintball Park](https://www.paintball-park.gr/)
 
-
 **Adventure Park**
 
 <img src="media/adventure_park.jpg" alt="Adventure Park" width="500"/>
@@ -1272,7 +1254,6 @@ If you are in Athens and you are searching for an alternative way of fun, this i
 Adventure Park is a recreational area in the forest with multiple activities for you to do in nature. Some of the activities are: zip lines, archery, bungee trampoline, operation tarantula and free games. Here, you have the opportunity to "fly" from tree to tree, no matter your age, always in the safety equipment that the park will provide you. The park is located in Malakasa. Embrace your inner child and start flying!
 
 *Information and photo retrieved from:* [Adventure Park](https://www.adventure-park.gr/index.php/en/)
-
 
 **The National Garden and Zappeion**
 
@@ -1329,7 +1310,6 @@ Located south of Athens, the Blue Hole is a sea cave that burrows vertically dow
 
 *Information and photo retrieved from:* [culture trip](https://theculturetrip.com/europe/greece/articles/the-best-day-trips-from-athens/)
 
-
 #### <a name="mpafi"></a>**Mpafi shelter**
 
 <img src="media/mpafi.jpg" alt="Mpafi" width="500"/>
@@ -1381,7 +1361,6 @@ Kyma surf school based in Athens is a mobile surf school and open all year round
 If you are a **Karaoke** lover or looking for something "different" for night out, the Ghosh House is the ideal place for you and your friends. With 5 euros entrance is the absolute place to create memories that you remember for long years. The location is between Monastiraki and Thiseio Metro Station, at the region who called "Psyrri"!
 
 *Informations and photo retrieved from:* [Ghost House](https://www.ghosthouse.gr/)
-
 
 ## <a name="shopping"></a>Shopping
 
@@ -1440,7 +1419,6 @@ Voukourestiou Street is the most high-end street of Athens. You can find luxury 
 
 *Information retrieved from:* [Think Athens](https://www.thinkathens.com/blog/top-places-shopping-in-athens/) |
 *Photo retrieved from:* [Athens Voice](https://www.athensvoice.gr/life/urban-culture/athens/437284_odos-voykoyrestioy)
-
 
 **McArthur Glen**
 
@@ -1675,7 +1653,6 @@ Tickets available at: www.addfestival.gr
 
 *Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/add_2020)
 
-
 ## <a name="Accomodation"></a>Accomodation
 
 Explore Athens'most magical hotels and spas
@@ -1731,7 +1708,6 @@ Awarded best rooftop view hotel at World Luxury Hotel Awards,
 St. George Lycabettus offers mesmerising panoramic views over Athens to the Acropolis and the Saronic Gulf. At the same time, the guest is also perfectly positioned in the pulsing heart of Athens, just steps away from Kolonaki’s alluring shops, museums, galleries and eateries.
 
 *Information and photo retrieved from:* [St. George Lycabettus](https://www.sglycabettus.gr/) 
-
 
 ## <a name="fullDayTrips"></a>Full Day Trips
 
@@ -1831,7 +1807,6 @@ More information on this trip can be found [here](https://www.getyourguide.com/a
 
 *Information retrieved from:* [Get Your Guide](https://www.getyourguide.com/athens-l91/from-athens-full-day-rail-tour-to-meteora-t87635/) | *Photo retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Meteora)
 
-
 ## <a name="beach"></a>Beach
 
 Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
@@ -1852,7 +1827,6 @@ A series of many small beaches in small natural bays with rocks that impress wit
 
 *Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
-
 
 **Pasalimani, Sounio**
 
