@@ -1062,6 +1062,16 @@ Benaki's museum is one of the top museum in Athens.What you will see inside of t
 *Information retrieved from:*[Tripadvisor](https://tripadvisor.com.gr) |
 *Photo retrived from:*[Liberal](https://liberal.gr)
 
+**Museum of Cycladic Art**
+
+<img src="media/cycladicArt.jpg" alt="Museum of Cycladic Art" width="500"/>
+
+The museum of Cycladic Art is dedicated to the study and demonstration of the ancient civilizations of Aegean and Cyprus (500 BC - 600 AD). The museum organizes multiple archaeological and modern art exhibitions. 
+More information on the museum and its opening hours can be found [here](https://cycladic.gr/en).
+
+*Information retrieved from:* [Museum of Cycladic Art](https://cycladic.gr/en) | *Photo retrieved from:* [visitgreece](http://www.visitgreece.gr/en/culture/museums/museum_of_cycladic_art)
+
+
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
