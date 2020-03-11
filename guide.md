@@ -1130,6 +1130,16 @@ You are downtown in Athens and you want to have fun with your friends or family;
 
 *Information retrieved from:* [Playhouse](http://www.playhouse.gr/)
 
+**OPEN MIC ATHENS**
+
+<img src="media/open-mic.jpg" alt="OPEN-MIC" width="500"/>
+
+Open Mic Athens at the hospitable Akroasis of Kypseli. Known and unknown stand up comedians present their work.
+
+Every Friday at 21:00
+Contact: 2111822336 – 6907363999 
+
+*Information and Photo retrieved from:* [AKROASIS](https://akroasis.gr/open-mic-athens/)
 
 ## <a name="artAndCulture"></a>Art and Culture
 
