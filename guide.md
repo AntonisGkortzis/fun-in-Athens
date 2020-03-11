@@ -7,6 +7,7 @@ Photo owned by [ceoworld.biz](https://ceoworld.biz/)
 Are you planning to visit Athens and searching for exciting activities to spend your time? This guide will help you find the most suitable way to explore the city depending on your taste!
 
 ## <a name="menu"></a>Menu
+* [Cafeterias](#cafe) ♨️
 * [Food](#food) 🍕
 * [Night Life](#nightlife) 💃
 * [Tours](#tours) 🚶
@@ -21,6 +22,17 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Beach](#beach) 🏄
 
 
+## <a name="cafe"></a>Cafeterias
+Here are the best places where you can enjoy your morning drinking a cup of coffee.
+
+**MADEIRA Cafe & Bar**
+
+<img src="media/madeira.jpg" width="500"/>
+
+The perfect place to enjoy your beverage or drinks in the summer days. In winter, there is a small place so most of the times is full, but when the yard is open the enviroment is so much nicer. On summer days you won't have a problem and worry if you are going to find a spot to sit since the yard is big enough to keep everyone happy.
+
+*Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
+*Image retrieved from:*[findhere.gr](https://www.findhere.gr/)
 
 ## <a name="food"></a>Food
 
