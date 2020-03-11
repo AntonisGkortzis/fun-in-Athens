@@ -1580,6 +1580,20 @@ During these years, Greek public has been introduced to numerous artistic curren
 
 *Information and photo retrieved from:* [Bernier Eliades](https://bernier-eliades.com/)
 
+**"5"**
+
+<img src="media/five.jpg" alt="five" width="500"/>
+
+*7 March 2020 - 15 March 2020*
+
+*Artists:* Giorgos N. Papadogiannakis | Canderola | Despoina Mykoniati | Christos Linopoulos | Giorgos Barbas 
+
+Five friends present their work
+
+Daily from 12:00-23:00, free entrance
+
+*Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/omadiki_ekthesi_5)
+
 **Onassis Cultural Centre**
 
 <img src="media/onassisCultural.jpg" alt="Onassis Cultural Centre" width="500"/>
