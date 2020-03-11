@@ -1708,7 +1708,7 @@ Hilton Athens is a luxurious hotel located in . A favorite among locals and gues
 [You can discover more about Hilton Athens and its amenities here](https://www.hiltonathens.gr/)<br>
 
 *Information retrieved from:* [Hilton Athens](https://www3.hilton.com/en/hotels/greece/hilton-athens-ATHHITW/index.html) |
-*Photo retrieved form:* [Hilton Athens Booking.com](https://www.booking.com/hotel/gr/hilton-athens.el.html?label=gen173nr-1DCAsoXEINaGlsdG9uLWF0aGVuc0gzWARoXIgBAZgBCLgBF8gBDNgBA-gBAYgCAagCA7gCzo2h8wXAAgE;sid=1fc444795f7e1eca4f89f99ed51be977;dist=0&keep_landing=1&sb_price_type=total&type=total&)
+*Photo retrieved from:* [Hilton Athens Booking.com](https://www.booking.com/hotel/gr/hilton-athens.el.html?label=gen173nr-1DCAsoXEINaGlsdG9uLWF0aGVuc0gzWARoXIgBAZgBCLgBF8gBDNgBA-gBAYgCAagCA7gCzo2h8wXAAgE;sid=1fc444795f7e1eca4f89f99ed51be977;dist=0&keep_landing=1&sb_price_type=total&type=total&)
 
 **Hotel Grande Bretagne**
 
