@@ -34,6 +34,14 @@ The perfect place to enjoy your beverage or drinks in the summer days. In winter
 *Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Image retrieved from:*[findhere.gr](https://www.findhere.gr/)
 
+**Godmama’s Yard**
+
+<img src="media/godmamas.jpg" width="500"/>
+
+A really good place in Peristeri. You can get there using the metro railway or the bus. If you get there by car it will be easy for you to find a spot to park your car, but not so close to the Godmama's Yard. Exceptions if you are truly lucky can happen and you may find a perfect spot. The Godmama’s Yard is here to offer a really nice and cozy place with a huge yard in the back of the cafe. It may be a new place in town but people have already loved it, so you will find a lot of nice people there.
+
+*Information and image retrieved from:*[fnl](https://www.fnl-guide.com/gr/el/the-bars/godmama-s-yard/)
+
 ## <a name="food"></a>Food
 
 Here are the best places where you can enjoy the Greek food.
