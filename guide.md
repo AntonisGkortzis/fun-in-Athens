@@ -555,6 +555,8 @@ Address: [Φιλικής Εταιρείας, Χαϊδάρι 124 61](https://www.
 
 **Arch beer house**
 
+<img src="media/arch.jpg" alt="Brewery Arch beer house" width="500"/>
+
 You can drink some of the most strange beers in the brewery Arch beer house in Peristeri near the metro station in the central square
 
 *Information retrieved from:* [Arch beer house](https://www.archbeerhouse.gr/) 
