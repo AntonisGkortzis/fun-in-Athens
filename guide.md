@@ -1356,6 +1356,14 @@ A really fun way to spend time with your friends and family is by playing ping p
 
 The best way to play with your friends and have a lot of fun. You don't need to know to play bowling at a good level. In fact, I like it even more and laugh a lot more when none of my friends know how to play. It is really entertaining and for those who are really competitive with each other they can still do their thing, but you won't care. Try to hit a strike and look at their faces. That's a whole different level of fun! It is located in the Mall Athens so you can get there and relax after shopping.
 
+**iBeach Volleyball Club**
+
+<img src="media/ibeach.jpg" width="500"/>
+
+You are a fan of beach volleyball? That's the ideal place for you! You can go and play with your friends against each other but you can also participate in tournaments with other teams! Those tournaments take place every weekend, so make sure you checkout the program for that. There are 3 levels for each category: bronze, silver and gold. You can choose your level depending on how amateur you are! Of course the categories are: men, women and mixed. There are 2 courts, in Kifissia and in Papagou.
+
+*Information and image retrieved from:*[iBeach](https://www.ibeach.gr/)
+
 ## <a name="artAndCulture"></a>Art and Culture
 
 **Megaron - The Athens Concert Hall**
