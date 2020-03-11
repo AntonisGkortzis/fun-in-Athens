@@ -480,7 +480,7 @@ Located in Glyfada, in the Southern area of Athens, Opus Inner Pleasure is one o
 Address: [9, Pandoras str., Glyfada](https://www.google.com/maps/place/OPUS+Inner+Pleasure/@37.8581684,23.7546593,15z/data=!4m5!3m4!1s0x0:0x661da4526d4af8ca!8m2!3d37.8581684!4d23.7546593?hl=el)
 
 *Information retrieved from:* [E-table]( https://www.e-table.gr/restaurant/opus-inner-pleasure) |
-*Photo retrieved from:* : [E-table]( https://www.e-table.gr/en/restaurant/opus-inner-pleasure)
+*Photo retrieved from:* [E-table]( https://www.e-table.gr/en/restaurant/opus-inner-pleasure)
 
 ## <a name="nightlife"></a>Night Life
 
@@ -1859,6 +1859,7 @@ Hidden from plain sight and known mostly among locals living in the residential 
 **Porto Rafti beach**
 
 <img src="media/portorafti.jpg" width="500"/>
+
 
 Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from Athens and it is not easily accessible through public transportations. Although, the beach is totally worth it if you have a car. Porto Rafti has brilliant calm waters with a variety of restaurants and Bars fronting the water. It is excellent for late afternoon or early evenings to sit and enjoy the view or go for a swim if you desire. Just keep in mind that the view is really incredible.
 
