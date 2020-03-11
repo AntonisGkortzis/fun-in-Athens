@@ -486,7 +486,7 @@ Located in Glyfada, in the Southern area of Athens, Opus Inner Pleasure is one o
 Address: [9, Pandoras str., Glyfada](https://www.google.com/maps/place/OPUS+Inner+Pleasure/@37.8581684,23.7546593,15z/data=!4m5!3m4!1s0x0:0x661da4526d4af8ca!8m2!3d37.8581684!4d23.7546593?hl=el)
 
 *Information retrieved from:* [E-table]( https://www.e-table.gr/restaurant/opus-inner-pleasure) |
-*Photo retrieved from:* : [E-table]( https://www.e-table.gr/en/restaurant/opus-inner-pleasure)
+*Photo retrieved from:* [E-table]( https://www.e-table.gr/en/restaurant/opus-inner-pleasure)
 
 ## <a name="nightlife"></a>Night Life
 
@@ -1723,7 +1723,7 @@ Hilton Athens is a luxurious hotel located in . A favorite among locals and gues
 [You can discover more about Hilton Athens and its amenities here](https://www.hiltonathens.gr/)<br>
 
 *Information retrieved from:* [Hilton Athens](https://www3.hilton.com/en/hotels/greece/hilton-athens-ATHHITW/index.html) |
-*Photo retrieved form:* [Hilton Athens Booking.com](https://www.booking.com/hotel/gr/hilton-athens.el.html?label=gen173nr-1DCAsoXEINaGlsdG9uLWF0aGVuc0gzWARoXIgBAZgBCLgBF8gBDNgBA-gBAYgCAagCA7gCzo2h8wXAAgE;sid=1fc444795f7e1eca4f89f99ed51be977;dist=0&keep_landing=1&sb_price_type=total&type=total&)
+*Photo retrieved from:* [Hilton Athens Booking.com](https://www.booking.com/hotel/gr/hilton-athens.el.html?label=gen173nr-1DCAsoXEINaGlsdG9uLWF0aGVuc0gzWARoXIgBAZgBCLgBF8gBDNgBA-gBAYgCAagCA7gCzo2h8wXAAgE;sid=1fc444795f7e1eca4f89f99ed51be977;dist=0&keep_landing=1&sb_price_type=total&type=total&)
 
 **Hotel Grande Bretagne**
 
@@ -1874,6 +1874,7 @@ Hidden from plain sight and known mostly among locals living in the residential 
 **Porto Rafti beach**
 
 <img src="media/portorafti.jpg" width="500"/>
+
 
 Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from Athens and it is not easily accessible through public transportations. Although, the beach is totally worth it if you have a car. Porto Rafti has brilliant calm waters with a variety of restaurants and Bars fronting the water. It is excellent for late afternoon or early evenings to sit and enjoy the view or go for a swim if you desire. Just keep in mind that the view is really incredible.
 
