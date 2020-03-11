@@ -921,6 +921,21 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 *Photo retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
 
 
+**Guided Tours at the Stavros Niarchos Park"**
+
+<img src="media/niarchos_park.jpg" alt="Stavros Niarchos Park" width="500"/>
+
+The Stavros Niarchos Park, a modern Landscape Architecture project, has been designed in accordance with the principles of sustainability, ecosystems and the alternations of a place that is in constant evolution. It is a welcoming and open space, with plantings and a character that reflects the Mediterranean landscape. The tour involves continuous walking down the Stavros Niarchos Park and the use of stairs. Estimated walking distance is calculated at 1 km.
+Daily at 17.00
+
+Meeting point: VISITORS CENTER (Evripidou & Doiranis, Kallithea)
+Tour Duration: 60'
+Number of participants per tour: 20 people
+:ticket: Free admission via online pre-registration
+:calendar: Date: 01 March - 31 March 2020
+
+
+
 **Skydive Athens**
 
 <img src="media/skydive.jpg" alt="Skydive" width="500"/>
