@@ -33,8 +33,8 @@ The perfect place to enjoy your beverage or drinks in the summer days. In winter
 
 Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/place/Madeira+Cafe+%26+Bar/@38.0473333,23.7634344,17z/data=!3m1!4b1!4m5!3m4!1s0x14a198a0489b8671:0xbc82d4c212011fbe!8m2!3d38.0473333!4d23.7656231)
 
-*Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
-*Image retrieved from:*[findhere.gr](https://www.findhere.gr/)
+*Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
+*Image retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
 **Godmama’s Yard**
 
@@ -44,7 +44,7 @@ A really good place in Peristeri. You can get there using the metro railway or t
 
 Address: [Βασ. Αλεξάνδρου 98, Περιστέρι 121 34](https://www.google.gr/maps/place/Godmama's+Yard/@38.0104107,23.6910026,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a3703c66efef:0x4b0bbd06827f40a3!8m2!3d38.0104107!4d23.6931913)
 
-*Information and image retrieved from:*[fnl](https://www.fnl-guide.com/gr/el/the-bars/godmama-s-yard/)
+*Information and image retrieved from:* [fnl](https://www.fnl-guide.com/gr/el/the-bars/godmama-s-yard/)
 
 **I Cafe Bar**
 
@@ -54,8 +54,8 @@ A place where you can visit all day long and have a great time. It has a really 
 
 Address: [Αλεξιουπόλεως 29, Αργυρούπολη 164 52](https://www.google.gr/maps/place/I+Cafe+Bar/@37.9060571,23.7468765,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a4abcc9c7789:0x353d08bb8222a194!8m2!3d37.9060571!4d23.7490652)
 
-*Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3695477-d17520095-Reviews-I_Cafe_Bar-Argyroupoli_Attica.html)
-*Image retrieved from:*[vges.gr](https://www.vges.gr/)
+*Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3695477-d17520095-Reviews-I_Cafe_Bar-Argyroupoli_Attica.html)
+*Image retrieved from:* [vges.gr](https://www.vges.gr/)
 
 **Kapu coffee-drinks-cocktails**
 
@@ -65,7 +65,7 @@ Kapu is a really nice place with a beautiful yard to enjoy on sunny days. You ca
 
 Address: [Χαλδείας 34, Ελληνικό 167 77](https://www.google.gr/maps/place/Kapu+coffee-drinks-cocktails/@37.8910659,23.7475667,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1be17a237f8b9:0x51c626ccc27ad877!8m2!3d37.8910659!4d23.7497554)
 
-*Information and image retrieved from:*[Kapu](https://kapu.gr/)
+*Information and image retrieved from:* [Kapu](https://kapu.gr/)
 
 **Barrett**
 
@@ -75,7 +75,7 @@ Barrett is a really nice place in the center of Athens. You can enjoy your coffe
 
 Address: [Πρωτογένους 11, Αθήνα 105 54](https://www.google.gr/maps/place/Barrett/@37.9780996,23.7234724,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd236c63e78b:0x12275ad50feb2527!8m2!3d37.9780996!4d23.7256611)
 
-*Information and image retrieved from:*[Barrett](http://www.barrett-athens.gr/)
+*Information and image retrieved from:* [Barrett](http://www.barrett-athens.gr/)
 
 **City Link**
 
@@ -85,7 +85,7 @@ As a complete stroll destination in downtown Athens, City Link hosts some of the
 
 Address: [Αμερικής 4, Αθήνα 105 64](https://www.google.gr/maps/place/City+Link/@37.9775662,23.7325816,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3935610687:0x632a57c399478751!8m2!3d37.9775662!4d23.7347703)
 
-*Information and image retrieved from:*[City Link](https://www.citylink.gr/)
+*Information and image retrieved from:* [City Link](https://www.citylink.gr/)
 
 ## <a name="food"></a>Food
 
@@ -189,7 +189,7 @@ Cap cap is a perfect place in order to eat sweets. The place is really nice and 
 
 Address: [Πανόρμου 26, Αιγάλεω 122 42](https://www.google.gr/maps/place/CapCap+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@37.993951,23.6788133,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcb0094099eb:0xe83d02bb0e73d4fb!8m2!3d37.993951!4d23.681002)
 
-*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
+*Information and image retrieved from: *[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
 
 **Mparmpeekiou**
 
@@ -437,7 +437,7 @@ Basegrill Athens started in 2005 and it's a very famous Steak House - Restaurant
 
 Address: [Λεωφ. Κωνσταντινουπόλεως 64, Περιστέρι 121 33](https://www.google.gr/maps/place/Basegrill+Athens/@38.011895,23.7059933,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a36c7e066517:0xe6c56d4281732b98!8m2!3d38.011895!4d23.708182)
 
-*Photo retrieved from:*[Athens Voice](https://www.athensvoice.gr/guide/taste/restaurants/82725_base-grill)
+*Photo retrieved from:* [Athens Voice](https://www.athensvoice.gr/guide/taste/restaurants/82725_base-grill)
 
 **Bel Rey**
 
@@ -458,7 +458,7 @@ Chocolatata is a really nice and cozy place really close to the Megaron Mousikis
 
 Address: [Παπαδιαμαντοπούλου 138, Ζωγράφου 157 73](https://www.google.gr/maps/place/Chocolatata/@37.9825746,23.7646545,17z/data=!3m1!4b1!4m5!3m4!1s0x14a197fefbbd1a9f:0x8d2ae536e3964c8a!8m2!3d37.9825746!4d23.7668432)
 
-*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
+*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
 
 **Potato King**
 
@@ -469,7 +469,7 @@ For more Potato King, check [this](https://www.youtube.com/watch?v=Y07VUDYMGUA)!
 
 Address: [Αγίου Φιλίππου 7, Αθήνα 105 55](https://www.google.gr/maps/place/Potato+King/@37.9767512,23.7212687,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd224936de07:0xb49c29caa5b819b3!8m2!3d37.9767512!4d23.7234574)
 
-*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10289905-Reviews-Potato_King-Athens_Attica.html)
+*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10289905-Reviews-Potato_King-Athens_Attica.html)
 
 **Opus Inner Pleasure**
 
@@ -791,7 +791,7 @@ Podiki is a place where young people, mostly students, gather for a live music s
 
 Address: [Επτανήσου 9, Αθήνα 112 57](https://www.google.gr/maps/place/%CE%A4%CE%BF+%CE%A0%CE%BF%CE%BD%CF%84%CE%AF%CE%BA%CE%B9+%CE%A1%CE%B5%CE%BC%CF%80%CE%B5%CF%84%CE%AC%CE%B4%CE%B9%CE%BA%CE%BF+%CE%91%CE%B8%CE%AE%CE%BD%CE%B1/@37.996935,23.732897,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a2cbde1ae4d7:0x958072c0512ad674!8m2!3d37.996935!4d23.7350857?hl=el)
 
-*Information and image retrieved from:*[Podiki](http://podiki.gr/)
+*Information and image retrieved from:* [Podiki](http://podiki.gr/)
 
 **Arodou Restaurant**
 
@@ -801,7 +801,7 @@ A really nice Restaurant where there a lot of live shows and not only on weekend
 
 Address: [Μιαούλη 22, Αθήνα 105 54](https://www.google.gr/maps/place/%CE%91%CF%81%CF%8C%CE%B4%CE%BF%CF%85/@37.9780556,23.7230891,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd2373220a8d:0xd0a8192d817f3aa9!8m2!3d37.9780556!4d23.7252778?hl=el)
 
-*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10340922-Reviews-Arodou-Athens_Attica.html)
+*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10340922-Reviews-Arodou-Athens_Attica.html)
 
 ## <a name="tours"></a>Tours
 
@@ -892,7 +892,7 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 Plateia Mavili is one of the liveliest square in Athens located under the Lycabettus hill and is part of Ampelokipoi district.It's one of the few square in the centre of Athens that still retains its neighborhood features.With legendary bars and ever-new arrivals popping all over the square. The square's landmark since 1989 is the "Canteen" thats caters with fast food and is a perfect spot to get chicken wings on the go after a night out.
 
-* Information retrieved from :*[Bovary](https://www.bovary.gr/city/7190/10-diahronika-magazia-gia-poto-kai-nostimo-fagito-stin-plateia-mavili )photo retrieved from:*[Trip2Athens](http://athina984.gr/wp-site/2019/08/28/dialogoi-stin-plateia-mavili/)
+* Information retrieved from :* [Bovary](https://www.bovary.gr/city/7190/10-diahronika-magazia-gia-poto-kai-nostimo-fagito-stin-plateia-mavili )photo retrieved from:*[Trip2Athens](http://athina984.gr/wp-site/2019/08/28/dialogoi-stin-plateia-mavili/)
 
 **Pasalimani - Marina Zeas**
 
@@ -1051,7 +1051,7 @@ The Byzantine and Christian Museum, which is based in Athens, is one of Greece�
 The museum has over 25,000 artefacts in its possession. The artefacts date from between the 3rd and 20th century AD, and their provenance encompasses the entire Greek world, as well as regions in which Hellenism flourished. The size and range of the collections and value of the exhibits makes the Museum a veritable treasury of Byzantine and post-Byzantine art and culture.
 
 
-*Address:*[Λεωφ. Βασιλίσσης Σοφίας 22, Αθήνα 106 75](https://www.google.com/maps/place/%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CF%8C+%CE%BA%CE%B1%CE%B9+%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C+%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF/@37.9754096,23.7423982,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd4139122d11:0xcfd5b8307a32933c!8m2!3d37.9754096!4d23.7445869?hl=el) |
+*Address:* [Λεωφ. Βασιλίσσης Σοφίας 22, Αθήνα 106 75](https://www.google.com/maps/place/%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CF%8C+%CE%BA%CE%B1%CE%B9+%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C+%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF/@37.9754096,23.7423982,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd4139122d11:0xcfd5b8307a32933c!8m2!3d37.9754096!4d23.7445869?hl=el) |
 *Information retrieved from:* [Byzantinemuseum](https://www.byzantinemuseum.gr/en/museum/) |
 *Photo retrieved from:* [GTP](https://www.gtp.gr/TDirectoryDetails.asp?ID=4349)
 
@@ -1061,8 +1061,8 @@ The museum has over 25,000 artefacts in its possession. The artefacts date from 
 
 Benaki's museum is one of the top museum in Athens.What you will see inside of the museum is a presentation of Greek Culture of history in art of the Greek world from the prehistory to the 20th century ,up to 6.000 object.Apart from Greek Culture what will you see is also  culture from Asians world and in the end you will be seeing ancient sculptures from Byzantium
 
-*Information retrieved from:*[Tripadvisor](https://tripadvisor.com.gr) |
-*Photo retrived from:*[Liberal](https://liberal.gr)
+*Information retrieved from:* [Tripadvisor](https://tripadvisor.com.gr) |
+*Photo retrived from:* [Liberal](https://liberal.gr)
 
 **Museum of Cycladic Art**
 
@@ -1178,7 +1178,7 @@ Sounion National Park
 
 Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. Lying about 50km south-east of Athens, the  Sounion National Park hosts relics of ancient silver, lead and zinc mines, as well as cave fossils unique to the whole of Greece. Inside the park you will find a magnificent and easy trail which starts near the Agios Konstantinos village(you will usually find a parking spot there), it surrounds the dramatic Chaos gulch (a collapsed ancient cave), it continues briefly on tarmac and then the view opens and you can see the city of Lavrion as well as the islands of Makronisos and Kea. The path arrives at the church of Agia Triada, where you will find natural spring water. From there, a dirty old road will lead you to the ancient mines' washing plants and tanks and then you will come across Kitsios cave. Finally, north of Poseidon's temple you will fing the rocky outcrops of Mavro Lithari and Vasilopoula.
 
-*Information retrieved from:*[AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/) |
+*Information retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/) |
 *Photo of Sounion National Park retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
 
 Ymittos Mountain
@@ -1213,7 +1213,7 @@ Lycabettus hill is the highest point in the center of Athens. At the top of the 
 No matter what you choose, you must be sure for one thing. You will enjoy the breathtaking panoramic view of Athens.
 
 *Information retrieved from:* [Lycabettus](https://www.lycabettushill.com/) |
-*Photo retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
+*Photo retrieved from:* [Tripsavvy](https://www.tripsavvy.com)
 
 **Guided Tours at the Stavros Niarchos Park**
 
@@ -1229,7 +1229,7 @@ Number of participants per tour: 20 people
 :calendar: Date: 01 March - 31 March 2020
 
 *Information retrieved from:* [SNFCC](https://www.snfcc.org/en) |
-*Photo retrieved from:*[Architectural Digest](https://www.architecturaldigest.com/)
+*Photo retrieved from:* [Architectural Digest](https://www.architecturaldigest.com/)
 
 **Skydive Athens**
 
@@ -1263,8 +1263,8 @@ Nothing is better than a wonderful walk through National Garden and Zappeion nea
 Easily access due to the location which is near the Syntagma Metro station and behind the Greek Parliament!
 Address: Leoforos Amalias 1, Athens 10557 Greece
 
-*Information retrieved from: *[IntroducingAthens](https://www.introducingathens.com/) |
-*Photo retrieved from:*[AthensTransport](https://www.athenstransport.com/)
+*Information retrieved from:* [IntroducingAthens](https://www.introducingathens.com/) |
+*Photo retrieved from:* [AthensTransport](https://www.athenstransport.com/)
 
 **Allou Fun Park**
 
@@ -1342,7 +1342,7 @@ Standard route: 10km running- 40km cycling- 5km running
 
 Super Sprint for children
 
-*Location:*[Olympic Rowing Schinias](https://goo.gl/maps/u9u1oMHeKrxLH7iZ6) |
+*Location:* [Olympic Rowing Schinias](https://goo.gl/maps/u9u1oMHeKrxLH7iZ6) |
 *Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/diathlo_sprint_standard)
 
 **Kyma Surf School**
@@ -1506,14 +1506,14 @@ In the PLAyCE collection there are over 600 board games we have collected from a
 **Ping Pong in Ano Patissia**
 
 <img src="media/pingpong.jpg" width="500"/>
-*Image retrieved from:*[blanosbowling.gr](https://www.blanosbowling.gr/)
+*Image retrieved from:* [blanosbowling.gr](https://www.blanosbowling.gr/)
 
 A really fun way to spend time with your friends and family is by playing ping pong. The rules are pretty simple and all of the family can play, since it doesn't need a lot of athletic skill. It will be really fun and you will have a great time playing with each other, since it is a game where you should really control your strength and that's really hard. You can find ping pong courts in a lot of places but I recommend the one in Ano Patissia, because there are 3 of them, so the queue list will be too little time, if not non-existent at all. Plus, it is easily accessible by bus or train. Both train station and bus stop are 2 minutes on foot from there.
 
 **Bowling in Mall Athens**
 
 <img src="media/bowling.jpg" width="500"/>
-*Image retrieved from:*[ipop.gr](http://www.ipop.gr/)
+*Image retrieved from:* [ipop.gr](http://www.ipop.gr/)
 
 The best way to play with your friends and have a lot of fun. You don't need to know to play bowling at a good level. In fact, I like it even more and laugh a lot more when none of my friends know how to play. It is really entertaining and for those who are really competitive with each other they can still do their thing, but you won't care. Try to hit a strike and look at their faces. That's a whole different level of fun! It is located in the Mall Athens so you can get there and relax after shopping.
 
@@ -1523,7 +1523,7 @@ The best way to play with your friends and have a lot of fun. You don't need to 
 
 You are a fan of beach volleyball? That's the ideal place for you! You can go and play with your friends against each other but you can also participate in tournaments with other teams! Those tournaments take place every weekend, so make sure you checkout the program for that. There are 3 levels for each category: bronze, silver and gold. You can choose your level depending on how amateur you are! Of course the categories are: men, women and mixed. There are 2 courts, in Kifissia and in Papagou.
 
-*Information and image retrieved from:*[iBeach](https://www.ibeach.gr/)
+*Information and image retrieved from:* [iBeach](https://www.ibeach.gr/)
 
 **Duo Capriccioso**
 
@@ -1619,8 +1619,8 @@ Its internal space consists of 7 floors and 9 underground levels. During the sum
 
 Gazarte is a multifaceted art and culture offering alternative entertainment and entertainment options to the visitor. Gazarte facilities include the Music Stage, Bookstore and Gazarte Cinema on the ground floor, the Cocktails Bar Restaurant with its Taratsa on the first floor, and the Multiple Events Room on the second floor.Located in Gazi's main square, next to Kerameikos Metro Station, Gazarte has a panoramic view of the Acropolis and Gazi, while being easy to access. For more information about its upcoming events you can check here:https://www.gazarte.gr/
 
-*Information retrieved from:*[culturenow](https://www.culturenow.gr/venue/gazarte/) |
-*Photo retieved form:*[Google](https://www.google.com/search?q=gazarte&sxsrf=ALeKk03opJykAs74FRA10bnwF7zuiVWrUA:1583887534546&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpg_HumJHoAhVWEncKHQhdBHcQ_AUoAnoECBcQBA&cshid=1583887677206282&biw=1536&bih=754#imgrc=3iG05n1s7R_7tM)
+*Information retrieved from:* [culturenow](https://www.culturenow.gr/venue/gazarte/) |
+*Photo retieved form:* [Google](https://www.google.com/search?q=gazarte&sxsrf=ALeKk03opJykAs74FRA10bnwF7zuiVWrUA:1583887534546&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpg_HumJHoAhVWEncKHQhdBHcQ_AUoAnoECBcQBA&cshid=1583887677206282&biw=1536&bih=754#imgrc=3iG05n1s7R_7tM)
 
 **Instar**
 
@@ -1786,8 +1786,8 @@ The cost of the boats from Pireaus port is approximately 15 euros and the distan
 
 With this cruise you can visit three of the islands in Greece’s Saronic Gulf in turn, in just a day. Stroll on Hydra, visit Paros, and spend time on Aegina, either exploring alone or touring its Temple of Aphaia. Escpecially, on summer days it will make the day perfect and totally worth it. At the end of the day, you may be tired, but you still can do a lot of things. Look every other section of this guide to help you find the perfect place for you after a long and tiring day!
 
-*Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com/AttractionProductReview-g3695532-d13857583-Full_Day_Cruise_to_Greek_Islands_from_Athens_Poros_Hydra_Aegina-Paleo_Faliro_Atti.html)
-*Image retrieved from:*[Ferries](https://www.ferries.gr/)
+*Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/AttractionProductReview-g3695532-d13857583-Full_Day_Cruise_to_Greek_Islands_from_Athens_Poros_Hydra_Aegina-Paleo_Faliro_Atti.html)
+*Image retrieved from:* [Ferries](https://www.ferries.gr/)
 
 **Delphi archaeological site**
 
@@ -1842,7 +1842,7 @@ Hidden from plain sight and known mostly among locals living in the residential 
 
 Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from Athens and it is not easily accessible through public transportations. Although, the beach is totally worth it if you have a car. Porto Rafti has brilliant calm waters with a variety of restaurants and Bars fronting the water. It is excellent for late afternoon or early evenings to sit and enjoy the view or go for a swim if you desire. Just keep in mind that the view is really incredible.
 
-*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
+*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
 
 **Voula beach**
 
@@ -1850,7 +1850,7 @@ Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from At
 
 Voula beach is really close to Vouliagmeni, so you can access the beach by car or by bus. If you choose the latter option, just take the metro until the Elliniko Station where you can get a bus to get you to the beach. The water is really clear and you can enjoy the sun by tanning in your sunbed. You can also ask the waiter or waitress to get you a beverage or something to eat while you are relaxing. Especially on hot days, visiting this beach is really worth it, since you can get there using public transportations. The car is obviously preferred especially when there is a parking lot available, but it is not mandatory.
 
-*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
+*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
 
 **Costa del Sol beach**
 
