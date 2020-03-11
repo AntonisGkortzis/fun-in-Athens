@@ -1558,7 +1558,6 @@ The Athens Concert Hall offers a comprehensive range of facilities for all sorts
 *Information retrieved from:* [Megaron](http://www.megaron.gr/default.asp?la=2) |
 *Photo retrieved form:* [EuGMS](https://www.eugms.org/2020/congress-venue.html)
 
-
 **To Treno sto Rouf railway carriage theater**
 
 <img src="media/totreno.jpg" alt="Treno Sto Rouf" width="500"/>
@@ -1567,7 +1566,6 @@ The Railway Carriage Theater to Treno sto Rouf is  an innovative and integrated 
 
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/) |
 *Photo retrieved form:* [To Treno sto Rouf](https://totrenostorouf.gr/en/)
-
 
 **Labrini Boviatsu - Exhibition "Ocean"**
 
@@ -1580,6 +1578,16 @@ Opening: Thursday 12 March 2020, 19.30
 :calendar: Date: 12 March 2020 - 4 April 2020
 
 *Information and photo retrieved from:* [Art and Life](https://www.artandlife.gr/athens)
+
+**Athens Art Core "Death in Athens"**
+
+<img src="media/death-in-athens.jpg" alt="death-in-athens" width="500"/>
+
+*13 March 2020 - 15 March 2020*
+
+More info available at the [Official Site](https://www.athensartcore.com/)
+
+*Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/athens_art_core_death_in_athens)
 
 **Bernier Eliades**
 
@@ -1625,7 +1633,6 @@ Gazarte is a multifaceted art and culture offering alternative entertainment and
 *Information retrieved from:*[culturenow](https://www.culturenow.gr/venue/gazarte/) |
 *Photo retieved form:*[Google](https://www.google.com/search?q=gazarte&sxsrf=ALeKk03opJykAs74FRA10bnwF7zuiVWrUA:1583887534546&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpg_HumJHoAhVWEncKHQhdBHcQ_AUoAnoECBcQBA&cshid=1583887677206282&biw=1536&bih=754#imgrc=3iG05n1s7R_7tM)
 
-
 **Instar**
 
 <img src="media/instar.jpg" alt="instar" width="500"/>
@@ -1641,7 +1648,6 @@ Tickets: 10€
 Reservations - Info: 6909471254, from 11:00 - 14:00 & 17:00 - 20:00
 
 *Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/instar_apo_tin_omada_sygxronoy_xoroy_prosxima)
-
 
 **ADD 2020**
 
