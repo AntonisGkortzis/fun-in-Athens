@@ -1691,6 +1691,11 @@ With this cruise you can visit three of the islands in Greece’s Saronic Gulf i
 *Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com/AttractionProductReview-g3695532-d13857583-Full_Day_Cruise_to_Greek_Islands_from_Athens_Poros_Hydra_Aegina-Paleo_Faliro_Atti.html)
 *Image retrieved from:*[Ferries](https://www.ferries.gr/)
 
+**Delphi archaeological site**
+<img src="media/Delphi.jpg" alt="Delphi" width="500"/>
+Another popular destination for a day trip close to Athens is the archaeological site of Delphi. Delphi, which lies at the foot of Mount Parnassos, had the most significant and famous oracle of ancient Greece and it was considered to be the center of the world. The most important part of the site was the temple of Apollo, where Pythia, the priestess, delivered her oracles.  Delphi is located about 2 hours away by car from Athens and it is also very close to Arachova ski resort.
+*Information retrieved from:* [Visit Greece](http://www.visitgreece.gr/en/culture/world_heritage_sites/delphi) |
+*Photo retrieved from:* [Greece Travel]( https://www.greecetravel.com/delphi/ancient-delphi.html)
 
 ## <a name="beach"></a>Beach
 
@@ -1742,3 +1747,12 @@ Voula beach is really close to Vouliagmeni, so you can access the beach by car o
 Address: [Βούλα 166 73](https://www.google.gr/maps/place/A%22+%CE%A0%CE%BB%CE%B1%CE%B6+%CE%92%CE%BF%CF%8D%CE%BB%CE%B1%CF%82/@37.8504972,23.7473019,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bfc2f9ae7c45:0x445555d56c5bd816!8m2!3d37.8504972!4d23.7494906)
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
+
+**Costa del Sol beach**
+
+<img src="media/CostaDelSol.jpg" alt="Akti" width="500"/>
+
+The Costa del Sol beach is a popular Athenian beach. It’s located at the Alimos seaside and it’s the nearest organized beach to the Athens city center. It can be easily accessed by tram (“Zefyros” stop). The entrance fee is 6 euros for non-Alimos residents, while the entrance it’s free for the residents of Alimos. The facilities include: beach volleyball and beach-racket courts, beach bars, restaurants, nightclubs, and a venue for hosting receptions and concerts. There is also a water park, as well as a rental service for canoes and pedal boats.
+
+*Information retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/ )|
+*Photo retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/wp-content/uploads/2016/08/0003.jpg)
