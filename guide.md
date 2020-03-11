@@ -1842,6 +1842,14 @@ More information on this trip can be found [here](https://www.getyourguide.com/a
 
 *Information retrieved from:* [Get Your Guide](https://www.getyourguide.com/athens-l91/from-athens-full-day-rail-tour-to-meteora-t87635/) | *Photo retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Meteora)
 
+**Trikala Korinthias**
+
+<img src="media/trikala.jpg" alt="Delphi" width="500"/>
+
+Less than two hours away from Athens, Trikala are an amazing getaway into nature. You can wander in the forests and the lakes, eat at traditional restaurants and enjoy the coziness of the small villages. The view of the surrounding mountains is breathtaking and the local hospitality services will definitely not disappoint you!
+
+*Information and photo retrieved from:* [Reader](https://www.reader.gr/life/travel/taxidiotikes-protaseis/apodraseis-stin-ellada/314595/trikala-korinthias-enas-mikros)
+
 ## <a name="beach"></a>Beach
 
 Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
