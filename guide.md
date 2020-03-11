@@ -1,6 +1,6 @@
 # Cool things to do in Athens
 
-<img src="media/acro.jpg" alt="drawing" width="500"/>
+<img src="media/acro.jpg" alt="Acropolis" width="500"/>
 
 Photo owned by [ceoworld.biz](https://ceoworld.biz/)
 
@@ -36,7 +36,7 @@ Even though this place beauty is hidden in its simplicity and secrecy, more peop
 
 **Fairytale**
 
-<img src="media/fairytale.jpg" alt="Fairytail" width="500"/>
+<img src="media/fairytale.jpg" alt="Fairytale" width="500"/>
 
 If you love fairytales and sweets, then you should definitely visit this "sweet" magical place in Nea Filadelfeia. Fairytale is the ideal place where sweets and tales are mixed in a unique way. Its owners love all Disney heroes and they have visited all of Disneys parks. Drawing their inspiration from their visits, Fairytale was created, but its not only looks as all sweets served are a work of art both in appearance and taste. Fairytale's exact location is at [Tripia 33](https://www.google.com/maps/dir//38.0354,23.736193/@38.035337,23.666058,12z), Nea Filadelfia.
 
@@ -195,7 +195,7 @@ For a reservation or openning hours, please visit the following link: https://ww
 
 **Butcher's Burger**
 
-<img src="media/burger.jpg" alt="Butcher's Burger" width="500"/>
+<img src="media/butcherburger.jfif" alt="Butcher's Burger" width="500"/>
 
 The most delicious and great burgers with the most delicious handmade juicy burger & most delicious steaks are here
 and waiting for you to finish them at one of the 5 Butcher's Burger & Steak House shops!
@@ -266,7 +266,7 @@ Seychelles is located on Metaxourgeio and serves value for money greek food. Res
 
 Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enjoying. The menu changes with the season, and the kitchen is continually evolving. The menu features: salads, cold dishes and raw, wooden oven, charcoal, casserole and fritters, and desserts.
 
-*Information and photo retrieved from:* [Cookoovaya] (https://cookoovaya.gr/en/)
+*Information and photo retrieved from:* [Cookoovaya](https://cookoovaya.gr/en/)
 
 **Koi Sushi Bar**
 
@@ -274,7 +274,7 @@ Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enj
 
 If you are a fan of sushi, you must visit it while you are staying in Athens. It is located in the city Center, really close to the Syntagma Square. The service is really nice. People are really polite and your order gets ready really quickly. One more attribute of this place is that the sushi tastes nice, there are a lot of options you can choose from and they are considerably cheap. If you have never tried sushi in your life before I suggest you do it in this place, since people are helping you to find out what you will like the most.
 
-*Information and photo retrieved from:* [Trip Advisor] (https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d5121936-Reviews-Koi_Sushi_Bar-Athens_Attica.html)
+*Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d5121936-Reviews-Koi_Sushi_Bar-Athens_Attica.html)
 
 **Hot Hot Burger Bar**
 
@@ -282,7 +282,7 @@ If you are a fan of sushi, you must visit it while you are staying in Athens. It
 
 You are in downtown Athens and you want something delicious and quick at the same time? Hot Hot Burger Bar is there for you! There are a lot of burgers you can choose from and 10 different types of sauces, all made by them! Of course I haven't tasted them all, but I guarantee you that every single one of them is so tasty. Get there(it is very easily accessible) and you won't miss out. A really important note would be that there are a lot of vegan burgers, for every vegan out there wanting to eat a delicious burger.
 
-*Information and photo retrieved from:* [Hot Hot Burger Bar] (http://www.hothot.gr/)
+*Information and photo retrieved from:* [Hot Hot Burger Bar](http://www.hothot.gr/)
 
 **Etnico**
 
@@ -290,7 +290,7 @@ You are in downtown Athens and you want something delicious and quick at the sam
 
 Etnico is all about ethnic street food right in the center of Athens. In this place, you can taste the world, so you can choose different plates from different countries and even different continents. Some examples would be Mexican Chimichanga και Burrito, Arabic Falafel, Indian Samosas and Korean salads. As I mentioned earlier it is located between the two metro stations, Syntagma and Monastiraki. So from wherever you choose to go, just have in ming that it is about 10 minutes on foot. Don't get intimated by that, it is a really nice place to visit and eat since the food is really tasty. Let alone that you are going to enjoy walking till there, as the Ermou street is really close to it. My personal recomendation would be, to strall around Ermou street, maybe even go shopping there and afterwards grab something to eat from Etnico.
 
-*Information and photo retrieved from:* [Etnico] (https://www.etnico.gr/)
+*Information and photo retrieved from:* [Etnico](https://www.etnico.gr/)
 
 **The Big Bad Wolf**
 
@@ -298,7 +298,7 @@ Etnico is all about ethnic street food right in the center of Athens. In this pl
 
 The Big Bad Wolf is a place where you can enjoy delicious and quality food. It can be a burger, a souvlaki or even a salad. You can choose whatever your preferations are, from a double bacon burger to a vegan one. So every customer will be satisfied after going to this place. The Big Bad Wolf is located in a variety of locations so if it happens you are close to one of those don't hesitate. You are going to leave the place with a sense of fulfillment, as you are going to enjoy the food. Another really import advantage of this place is that the people who work there are really polite and your order is ready really quickly.
 
-*Information and photo retrieved from:* [The Big Bad Wolf] (https://www.tbbw.gr/)
+*Information and photo retrieved from:* [The Big Bad Wolf](https://www.tbbw.gr/)
 
 **Basegrill Athens**
 
@@ -306,8 +306,8 @@ The Big Bad Wolf is a place where you can enjoy delicious and quality food. It c
 
 Basegrill Athens started in 2005 and it's a very famous Steak House - Restaurant, due to the high quality meat as well as the great hospitality. Meat is highly respected there, it is treated as a gift and they are constantly looking to choose the best ones from the Greek market. It is then prepared with caution and cooked at the right temperature. Finally it is served and cut right in front of the customer. Because of all of this quality, Basegrill Athens got the attention of plenty people and even a great amount of celebrities. So, what are you waiting for? Go and try a taste of warm hospitality and high quality menu.
 
-*Address retrieved from:*[Λεωφ. Κωσταντινουπόλεως 64, Περιστέρι] (https://www.google.com/maps/place/Basegrill+Athens/@38.0105273,23.7088258,16.75z/data=!4m5!3m4!1s0x14a1a36c7e066517:0xe6c56d4281732b98!8m2!3d38.0118955!4d23.7081823) |
-*Photo retrieved from:*[Athens Voice] (https://www.athensvoice.gr/guide/taste/restaurants/82725_base-grill)
+*Address retrieved from:*[Λεωφ. Κωσταντινουπόλεως 64, Περιστέρι](https://www.google.com/maps/place/Basegrill+Athens/@38.0105273,23.7088258,16.75z/data=!4m5!3m4!1s0x14a1a36c7e066517:0xe6c56d4281732b98!8m2!3d38.0118955!4d23.7081823) |
+*Photo retrieved from:*[Athens Voice](https://www.athensvoice.gr/guide/taste/restaurants/82725_base-grill)
 
 **Bel Rey**
 
@@ -817,7 +817,7 @@ This magnificent temple on the Acropolis of Athens was built between 447 and 432
 
 The Erechtheion is an ancient Greek temple located on the north side of the Acropolis. The temple was erected in 421-406 BC and was dedicated to both Athena and Poseidon. In particular, the eastern part of the building was dedicated to Athena Polias, while the western part served the cult of Poseidon-Erechtheus and held the altars of Hephaestus and Voutos, brother of Erechtheus.
 
-On the north side of the temple, there is the famous "Porch of the Maidens", with six sculpted female figures (Caryatids) serving as supporting columns. Five of them are in the Acropolis Museum and the last one in the British Museum; those on the building are casts.
+On the north side of the temple, there is the famous "Porch of the Maidens", with six sculpted female figures (Caryatids) serving as supporting columns. The birthplace of the six Caryatids is the Peloponnesian village of Karyes. Five of them are in the Acropolis Museum and the last one in the British Museum; those on the building are casts.
 
 *Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/monuments/erechtheion) |
 *Photo retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Erechtheion)
@@ -929,6 +929,16 @@ Are you a extreme person? Then Skydive Athens is the perfect place to fall from 
 If you are in Athens and you are searching for an alternative way of fun, this is the best place for you! Paintball Park Malakasa is an area of 150 acres and it constitutes the biggest Paintball Park of Greece and one of the biggest if not the biggest in Europe. There are two independent areas, Paintball NEST, for friends and teams, and Paintball Park EVENT, for kid's parties and events. Both areas promise to offer moments of action, decompression and joy to any type of groups. The park is ready to serve every paintball scenario needed in order to fulfill its customers to the fullest! You will find formed forest fields, with army jeep, bulwarks, bridges, wooden homes, small rivers, fortresses, minefields, sniper position, observatories, stone village etc. It is only 25 minutes far from Athens and you can access the area by car, bus or train. More details on how to get there in the link below!
 
 *Information and photo retrieved from:* [Paintball Park](https://www.paintball-park.gr/)
+
+
+**Adventure Park**
+
+<img src="media/adventure_park.jpg" alt="Adventure Park" width="500"/>
+
+Adventure Park is a recreational area in the forest with multiple activities for you to do in nature. Some of the activities are: zip lines, archery, bungee trampoline, operation tarantula and free games. Here, you have the opportunity to "fly" from tree to tree, no matter your age, always in the safety equipment that the park will provide you. The park is located in Malakasa. Embrace your inner child and start flying!
+
+*Information and photo retrieved from:* [Adventure Park](https://www.adventure-park.gr/index.php/en/)
+
 
 **The National Garden and Zappeion**
 
@@ -1160,7 +1170,7 @@ You are downtown in Athens and you want to have fun with your friends or family;
 Open Mic Athens at the hospitable Akroasis of Kypseli. Known and unknown stand up comedians present their work.
 
 Every Friday at 21:00
-Contact: 2111822336 – 6907363999 
+Contact: 2111822336 – 6907363999
 
 *Information and Photo retrieved from:* [AKROASIS](https://akroasis.gr/open-mic-athens/)
 
@@ -1218,6 +1228,16 @@ Its internal space consists of 7 floors and 9 underground levels. During the sum
 
 *Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/) |
 *Photo retrieved form:* [Google](https://www.google.com/search?q=onassis+cultural+center&sxsrf=ALeKk000HTD7ue1WpZh5sUSgwyT4k6zXGw:1583864295430&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjo-82lwpDoAhWSN8AKHdXTCesQ_AUoAnoECCEQBA&biw=1366&bih=657#imgrc=5jC5E-VAR9H8sM/)
+
+**Gazarte**
+
+<img src="media/gazarte.jpg" alt="gazarte" width="500"/>
+
+Gazarte is a multifaceted art and culture offering alternative entertainment and entertainment options to the visitor. Gazarte facilities include the Music Stage, Bookstore and Gazarte Cinema on the ground floor, the Cocktails Bar Restaurant with its Taratsa on the first floor, and the Multiple Events Room on the second floor.Located in Gazi's main square, next to Kerameikos Metro Station, Gazarte has a panoramic view of the Acropolis and Gazi, while being easy to access. For more information about its upcoming events you can check here:https://www.gazarte.gr/ 
+
+*Information retrieved from:*[culturenow](https://www.culturenow.gr/venue/gazarte/) |
+*Photo retieved form:*[Google](https://www.google.com/search?q=gazarte&sxsrf=ALeKk03opJykAs74FRA10bnwF7zuiVWrUA:1583887534546&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpg_HumJHoAhVWEncKHQhdBHcQ_AUoAnoECBcQBA&cshid=1583887677206282&biw=1536&bih=754#imgrc=3iG05n1s7R_7tM)
+
 
 **Instar**
 
@@ -1329,6 +1349,25 @@ Spetses is one of the most cosmopolitan and picturesque islands in Greece. Locat
 *Information retrieved from:* [Greeka](https://www.greeka.com/attica/athens/tours/t07b-one-day-tour-to-spetses-island/) |
 *Photo retrieved from:* [Greece-is](https://www.greece-is.com/wp-content/uploads/2016/08/SPETSES_YannisLarios_Spetses_IMG_1008.jpg)
 
+**Chalkida**
+
+<img src="media/chalkida.jpg" alt="chalkida" width="500"/>
+
+One hour from Athens, you can visit the beautiful city of Chalkida. Ouza taverns and snacks for Sunday excursions, beautiful beaches to the north and south with clear waters and sandy beaches and a sense that the city lives on a permanent holiday.From the Negreponte bridge you can watch the changing direction of the waters of Euripos every six hours, a classic family attraction of the 1970s. Moreover, you can see the Roman aqueduct, known as the Arches, with twelve arches.
+
+*Information retrieved from:* [athinorama](https://www.athinorama.gr/travel/greece/destination.aspx?did=497&aid=710065) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=%CF%87%CE%B1%CE%BB%CE%BA%CE%B9%CE%B4%CE%B1&sxsrf=ALeKk00Ogy_GeAD3vkLw_gla5-F9UsXPkQ:1583886666903&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiXsZTRlZHoAhUHxosKHaxmBskQ_AUoAnoECBsQBA&biw=1536&bih=754#imgrc=AgJ_EeDOEdyNAM)
+
+**Full Day Cruise to Greek Islands from Athens: Poros - Hydra - Aegina**
+
+<img src="media/hpa.jpg" width="500"/>
+
+With this cruise you can visit three of the islands in Greece’s Saronic Gulf in turn, in just a day. Stroll on Hydra, visit Paros, and spend time on Aegina, either exploring alone or touring its Temple of Aphaia. Escpecially, on summer days it will make the day perfect and totally worth it. At the end of the day, you may be tired, but you still can do a lot of things. Look every other section of this guide to help you find the perfect place for you after a long and tiring day!
+
+*Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com/AttractionProductReview-g3695532-d13857583-Full_Day_Cruise_to_Greek_Islands_from_Athens_Poros_Hydra_Aegina-Paleo_Faliro_Atti.html)
+*Image retrieved from:*[Ferries](https://www.ferries.gr/)
+>>>>>>> 642027c4f324b77cc59ec36958da6d2355b497d2
+
 ## <a name="beach"></a>Beach
 
 Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
@@ -1349,4 +1388,3 @@ A series of many small beaches in small natural bays with rocks that impress wit
 
 *Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
-
