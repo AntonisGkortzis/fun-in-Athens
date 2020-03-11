@@ -1087,6 +1087,7 @@ More information on the museum and its opening hours can be found [here](https:/
 In the Hellenic IT Museum you'll see rare exhibits, including computers, software, and even video games, from the previous century. If you're interested in the history of technology, you shouldn't miss it! This Museum encourages,  educates and brings emotions!
 Fun fact: There’s a room with an old TV and joystick, where you can see by yourself how people were watching TV in the past and how they were playing!
 
+*Information retrieved from:* [This is athens](https://www.thisisathens.org/museums/hellenic-it-museum) |*Photo retrieved from:* [Hellenic IT Museum](https://elmp.gr/en/home_en/)
 
 ## <a name="monuments"></a>Monuments
 
