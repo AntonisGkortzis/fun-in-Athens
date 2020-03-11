@@ -46,7 +46,19 @@ If you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enj
 
 *Information and photo retrieved from:* [Italus](http://www.italus.gr/)
 
+<<<<<<< HEAD
 >>>>>>> bf229449e13e4c6966ea76abd3792149123f1c30
+=======
+**Dome**
+
+<img src="media/dome.jpg" width="500"/>
+
+Another cafeteria you should undoubtedly visit in Kallithea is "Dome", a cozy place, perfect for gathering with friends, which offers you a variety of board games to play, while enjoying your favourite beverages and snacks.
+
+*Information and photo retrieved from:* [PolisPages](https://www.polispages.gr/guide/14207/dome-%7C-kafeteria-%7C-kallithea-)
+
+
+>>>>>>> ad91a581647a0da71b149100bccaa14f64221fb0
 **Godmama’s Yard**
 
 <img src="media/godmamas.jpg" width="500"/>
