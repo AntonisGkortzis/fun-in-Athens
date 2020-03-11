@@ -1215,7 +1215,7 @@ One of the most exciting things that you can to do in Athens is Kart, the small 
 
 Going hiking is a great way to explore and get to know Athens! There are a lot of places ideal for a hiking adventure!
 
-Sounion National Park
+**Sounion National Park**
 
 <img src="media/sounionpark.jpg" alt="Sounion National Park" width="500"/>
 
@@ -1224,7 +1224,7 @@ Sounion is most known for Poseidon's mighty temple and its magnificent sunsets. 
 *Information retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/) |
 *Photo of Sounion National Park retrieved from:* [AthensInsider](https://athensinsider.com/3-top-hikes-around-athens/)
 
-Ymittos Mountain
+**Ymittos Mountain**
 
 <img src="media/ymittos.jpg" alt="Ymittos Trails" width="500"/>
 
