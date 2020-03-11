@@ -38,9 +38,8 @@ Even though this place beauty is hidden in its simplicity and secrecy, more peop
 
 <img src="media/fairytale.jpg" alt="Fairytail" width="500"/>
 
-If you love fairytales and sweets, then you must visit this "sweet" magical place in Nea Filadelfeia. Fairytale is the ideal place where sweets and tales are mixed in a unique way. Its owners love the heroes of Disney and they have visited all of Disneys parks. Drawing their inspiration from their visits Fairytale was created, but its not only looks. The sweets served are a work of are both in appearance and taste, just be careful since you wont be the first to eat too much
+If you love fairytales and sweets, then you should definitely visit this "sweet" magical place in Nea Filadelfeia. Fairytale is the ideal place where sweets and tales are mixed in a unique way. Its owners love all Disney heroes and they have visited all of Disneys parks. Drawing their inspiration from their visits, Fairytale was created, but its not only looks as all sweets served are a work of art both in appearance and taste. Fairytale's exact location is at [Tripia 33](https://www.google.com/maps/dir//38.0354,23.736193/@38.035337,23.666058,12z), Nea Filadelfia.
 
-*Address:*[Tripia 33, Nea Filadelfia](https://www.google.com/maps/dir//38.0354,23.736193/@38.035337,23.666058,12z) |
 *Photo retrieved from:* [Bovary](https://www.bovary.gr/city/9159/sto-fairytale-sti-nea-filadelfeia-goneis-kai-paidia-kanoyn-oyra-gia-na-mpoyn-se-ena)
 
 **Brooklyn the taste factory**
@@ -1132,6 +1131,16 @@ You are downtown in Athens and you want to have fun with your friends or family;
 
 *Information retrieved from:* [Playhouse](http://www.playhouse.gr/)
 
+**OPEN MIC ATHENS**
+
+<img src="media/open-mic.jpg" alt="OPEN-MIC" width="500"/>
+
+Open Mic Athens at the hospitable Akroasis of Kypseli. Known and unknown stand up comedians present their work.
+
+Every Friday at 21:00
+Contact: 2111822336 – 6907363999 
+
+*Information and Photo retrieved from:* [AKROASIS](https://akroasis.gr/open-mic-athens/)
 
 ## <a name="artAndCulture"></a>Art and Culture
 
