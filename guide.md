@@ -1260,10 +1260,6 @@ One of the most exciting things that you can to do in Athens is Kart, the small 
 
 *Information retrieved from:* [Kartland](https://kartland.gr/)
 
-**Hiking**
-
-Going hiking is a great way to explore and get to know Athens! There are a lot of places ideal for a hiking adventure!
-
 **Sounion National Park**
 
 <img src="media/sounionpark.jpg" alt="Sounion National Park" width="500"/>
