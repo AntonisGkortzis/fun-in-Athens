@@ -40,6 +40,8 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 
 f you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enjoying the beautifully ornamented interior atmosphere, you must definitely try its renowned hot chocolate, served in a cup made of chocolate waffle, or order a selfieccino, a cup of coffee with a photo of yours on it!
 
+*Information retrieved from:* [Italus](http://www.italus.gr/)
+
 **Godmama’s Yard**
 
 <img src="media/godmamas.jpg" width="500"/>
