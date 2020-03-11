@@ -833,7 +833,7 @@ A really nice Restaurant where there a lot of live shows and not only on weekend
 
 Address: [Μιαούλη 22, Αθήνα 105 54](https://www.google.gr/maps/place/%CE%91%CF%81%CF%8C%CE%B4%CE%BF%CF%85/@37.9780556,23.7230891,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd2373220a8d:0xd0a8192d817f3aa9!8m2!3d37.9780556!4d23.7252778?hl=el)
 
-*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10340922-Reviews-Arodou-Athens_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10340922-Reviews-Arodou-Athens_Attica.html)
 
 ## <a name="tours"></a>Tours
 
@@ -1573,14 +1573,14 @@ In the PLAyCE collection there are over 600 board games we have collected from a
 **Ping Pong in Ano Patissia**
 
 <img src="media/pingpong.jpg" width="500"/>
-*Image retrieved from:* [blanosbowling.gr](https://www.blanosbowling.gr/)
+*Photo retrieved from:* [blanosbowling.gr](https://www.blanosbowling.gr/)
 
 A really fun way to spend time with your friends and family is by playing ping pong. The rules are pretty simple and all of the family can play, since it doesn't need a lot of athletic skill. It will be really fun and you will have a great time playing with each other, since it is a game where you should really control your strength and that's really hard. You can find ping pong courts in a lot of places but I recommend the one in Ano Patissia, because there are 3 of them, so the queue list will be too little time, if not non-existent at all. Plus, it is easily accessible by bus or train. Both train station and bus stop are 2 minutes on foot from there.
 
 **Bowling in Mall Athens**
 
 <img src="media/bowling.jpg" width="500"/>
-*Image retrieved from:* [ipop.gr](http://www.ipop.gr/)
+*Photo retrieved from:* [ipop.gr](http://www.ipop.gr/)
 
 The best way to play with your friends and have a lot of fun. You don't need to know to play bowling at a good level. In fact, I like it even more and laugh a lot more when none of my friends know how to play. It is really entertaining and for those who are really competitive with each other they can still do their thing, but you won't care. Try to hit a strike and look at their faces. That's a whole different level of fun! It is located in the Mall Athens so you can get there and relax after shopping.
 
@@ -1590,7 +1590,7 @@ The best way to play with your friends and have a lot of fun. You don't need to 
 
 You are a fan of beach volleyball? That's the ideal place for you! You can go and play with your friends against each other but you can also participate in tournaments with other teams! Those tournaments take place every weekend, so make sure you checkout the program for that. There are 3 levels for each category: bronze, silver and gold. You can choose your level depending on how amateur you are! Of course the categories are: men, women and mixed. There are 2 courts, in Kifissia and in Papagou.
 
-*Information and image retrieved from:* [iBeach](https://www.ibeach.gr/)
+*Information and Photo retrieved from:* [iBeach](https://www.ibeach.gr/)
 
 **Duo Capriccioso**
 
@@ -1865,7 +1865,7 @@ The cost of the boats from Pireaus port is approximately 15 euros and the distan
 With this cruise you can visit three of the islands in Greece’s Saronic Gulf in turn, in just a day. Stroll on Hydra, visit Paros, and spend time on Aegina, either exploring alone or touring its Temple of Aphaia. Escpecially, on summer days it will make the day perfect and totally worth it. At the end of the day, you may be tired, but you still can do a lot of things. Look every other section of this guide to help you find the perfect place for you after a long and tiring day!
 
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/AttractionProductReview-g3695532-d13857583-Full_Day_Cruise_to_Greek_Islands_from_Athens_Poros_Hydra_Aegina-Paleo_Faliro_Atti.html)
-*Image retrieved from:* [Ferries](https://www.ferries.gr/)
+*Photo retrieved from:* [Ferries](https://www.ferries.gr/)
 
 **Delphi archaeological site**
 
