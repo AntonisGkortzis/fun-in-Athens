@@ -27,7 +27,7 @@ Here are the best places where you can enjoy your morning drinking a cup of coff
 
 **DOPE ROASTING Co.**
 
-<ims src="media/dope.jpg" width="500"/>
+<img src="media/dope.jpg" width="500"/>
 
 Dope is a sunny cafeteria 5 minutes away from the metro of Monastiraki. But why is it sunny? The roof is made out of wood, but it contains large windows so it allows the sun, to lighten the inside. Except for the cafeteria's stylish and cool design, it also serves a good coffee (and food), and one can easily read a book, study or work in a place like this. At last, it has 2 floors with different kind of tables to sit, so that you get comfy.
 
