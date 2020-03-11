@@ -1768,6 +1768,16 @@ Another popular destination for a day trip close to Athens is the archaeological
 *Information retrieved from:* [Visit Greece](http://www.visitgreece.gr/en/culture/world_heritage_sites/delphi) |
 *Photo retrieved from:* [Greece Travel]( https://www.greecetravel.com/delphi/ancient-delphi.html)
 
+**Meteora**
+
+<img src="media/meteora.jpg" alt="meteora" width="500"/>
+
+Taking this Full-Day Rail Tour from Athens will be an amazing opportunity for you to enjoy views of the Greek countryside. By visiting the two spectacular clifftop monasteries and exploring the hermit caves of Badovas, countless panoramic images will remain etched in your memory with the opportunity for video and photos along the way.
+More information on this trip can be found [here](https://www.getyourguide.com/athens-l91/from-athens-full-day-rail-tour-to-meteora-t87635/)
+
+*Information retrieved from:* [Get Your Guide](https://www.getyourguide.com/athens-l91/from-athens-full-day-rail-tour-to-meteora-t87635/) | *Photo retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Meteora)
+
+
 ## <a name="beach"></a>Beach
 
 Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
