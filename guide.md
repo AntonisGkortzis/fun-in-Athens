@@ -231,7 +231,7 @@ Cap cap is a perfect place in order to eat sweets. The place is really nice and 
 
 Address: [Πανόρμου 26, Αιγάλεω 122 42](https://www.google.gr/maps/place/CapCap+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@37.993951,23.6788133,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcb0094099eb:0xe83d02bb0e73d4fb!8m2!3d37.993951!4d23.681002)
 
-*Information and Photo retrieved from: *[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
 
 **Mparmpeekiou**
 
