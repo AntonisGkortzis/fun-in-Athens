@@ -87,6 +87,12 @@ Address: [Αμερικής 4, Αθήνα 105 64](https://www.google.gr/maps/plac
 
 *Information and image retrieved from:* [City Link](https://www.citylink.gr/)
 
+**Rabbithole**
+
+Rabbithole is a Cafe/Bar right next to the most central point of the city, the famous Syntagma Square. You can visit Rabbithole to enjoy a coffee or tea while working on your projects, or for a beer and a cocktail once it gets dark. Just above it, one of the most picturesque locations in Athens awaits. The Passage of the Merchants.
+
+*Information retrieved from:* [Rabbithole](https://rabbitholebar.gr/) 
+
 ## <a name="food"></a>Food
 
 Here are the best places where you can enjoy the Greek food.
