@@ -553,6 +553,11 @@ Address: [Φιλικής Εταιρείας, Χαϊδάρι 124 61](https://www.
 
 *Information retrieved from:* [XPAT ATHENS]( https://www.xpatathens.com/)
 
+**Arch beer house**
+
+You can drink some of the most strange beers in the brewery Arch beer house in Peristeri near the metro station in the central square
+
+
 **Lohan Nightclub**
 
 <img src="media/lohan-nightclub.jpg" alt="Lohan Nightclub" width="500"/>
