@@ -67,6 +67,14 @@ Barrett is a really nice place in the center of Athens. You can enjoy your coffe
 
 *Information and image retrieved from:*[Barrett](http://www.barrett-athens.gr/)
 
+**City Link**
+
+<img src="media/citylink.jpg" width="500"/>
+
+As a complete stroll destination in downtown Athens, City Link hosts some of the city's best cafes and restaurants, including historic Athénée, Clemente, Pasaji, Ilios and Salon de Bricolage offering all-day dining options, as well as enjoyable drinks to make the best exit to downtown. As it is in downtown, it is easily accessible through the metro railway. City Link is only about 2 minutes away on foot from the Syntagma metro station and about 4 from the Syntagma Square.
+
+*Information and image retrieved from:*[City Link](https://www.citylink.gr/)
+
 ## <a name="food"></a>Food
 
 Here are the best places where you can enjoy the Greek food.
