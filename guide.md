@@ -34,7 +34,7 @@ The perfect place to enjoy your beverage or drinks in the summer days. In winter
 Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/place/Madeira+Cafe+%26+Bar/@38.0473333,23.7634344,17z/data=!3m1!4b1!4m5!3m4!1s0x14a198a0489b8671:0xbc82d4c212011fbe!8m2!3d38.0473333!4d23.7656231)
 
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
-*Image retrieved from:* [findhere.gr](https://www.findhere.gr/)
+*Photo retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
 **Italus**
 
@@ -1929,7 +1929,7 @@ Hidden from plain sight and known mostly among locals living in the residential 
 
 Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from Athens and it is not easily accessible through public transportations. Although, the beach is totally worth it if you have a car. Porto Rafti has brilliant calm waters with a variety of restaurants and Bars fronting the water. It is excellent for late afternoon or early evenings to sit and enjoy the view or go for a swim if you desire. Just keep in mind that the view is really incredible.
 
-*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
 
 **Voula beach**
 
@@ -1937,7 +1937,7 @@ Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from At
 
 Voula beach is really close to Vouliagmeni, so you can access the beach by car or by bus. If you choose the latter option, just take the metro until the Elliniko Station where you can get a bus to get you to the beach. The water is really clear and you can enjoy the sun by tanning in your sunbed. You can also ask the waiter or waitress to get you a beverage or something to eat while you are relaxing. Especially on hot days, visiting this beach is really worth it, since you can get there using public transportations. The car is obviously preferred especially when there is a parking lot available, but it is not mandatory.
 
-*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
 
 **Costa del Sol beach**
 
