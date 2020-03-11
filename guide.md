@@ -1566,6 +1566,8 @@ Explore Athens'most magical hotels and spas
 
 The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels of the World (SLH)</strong> and located in the heart of  most exclusive area of Athens Riviera, Vouliagmeni. It is located just a few minutes away from Vouiliagmeni's sandy beaches, but also close enough to some historical sites, like Cape Sounion. Its haute cuisine and organic food from its farm combined with its friendly and attentive staff, its spa premises and its exquisite design make The Margi Hotel a heaven away from home.
 
+Address: [Λητούς 11, Βουλιαγμένη 166 71](https://www.google.gr/maps/place/The+Margi/@37.81387,23.7718283,17z/data=!3m1!4b1!4m8!3m7!1s0x14a1eaaff3bc795f:0x89bd99102dab07f3!5m2!4m1!1i2!8m2!3d37.81387!4d23.774017)
+
 [You can discover more about The Margi Hotel and its amenities here](https://www.emst.gr/en/contact)<br>
 
 *Information retrieved from:* [The Margi Hotel](https://www.themargi.gr/) |
@@ -1577,6 +1579,8 @@ The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels 
 
 On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four Seasons offers the best of both worlds: a laid-back seaside escape just 30 minutes from the historical city centre. So, go on, discover the greek ancient civilization at the Acropolis, downtown, then return to Four Seasons to unwind, relax, enjoy a relaxing spa and an extraordinary gastronomical experience.
 
+Address: [Απόλλωνος 40, Βουλιαγμένη 166 71](https://www.google.gr/maps/search/four+seasons+astir+palace+hotel+athens/@37.8047688,23.7676773,17z/data=!3m1!4b1)
+
 [You can discover more about The Four Seasons Astir Palace Hotel Athens and its amenities here](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens)<br>
 
 *Information retrieved from:* [Four Seasons Astir Palace Hotel Athens](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens) |
@@ -1587,6 +1591,8 @@ On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four S
 <img src="media/hilton_athens.jpg" alt="Hilton Athens" width="500"/>
 
 Hilton Athens is a luxurious hotel located in . A favorite among locals and guests alike, the landmark hotel is a destination itself as the hub for Athens’ business, cultural and social life. It incorporates a very unique architectural and artistic style that the guests can enjoy. There is also the option to enjoy a relaxing day at the spa. View the Acropolis and city skyline from the private balcony of the guest rooms. Its prime location in the heart of Athens is the perfect home base for discovering the city's world-famous attractions.
+
+Address: [Λεωφ. Βασιλίσσης Σοφίας 46, Αθήνα 115 28](https://www.google.gr/maps/place/Hilton+%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD/@37.9765661,23.7480508,17z/data=!3m1!4b1!4m8!3m7!1s0x14a1bd44d9f03945:0x96690683c8008e91!5m2!4m1!1i2!8m2!3d37.9765661!4d23.7502395)
 
 [You can discover more about Hilton Athens and its amenities here](https://www.hiltonathens.gr/)<br>
 
