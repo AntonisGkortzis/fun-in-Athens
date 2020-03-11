@@ -36,6 +36,12 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Image retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
+**Italus**
+
+f you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enjoying the beautifully ornamented interior atmosphere, you must definitely try its renowned hot chocolate, served in a cup made of chocolate waffle, or order a selfieccino, a cup of coffee with a photo of yours on it!
+
+*Information retrieved from:* [Italus](http://www.italus.gr/)
+
 **Godmama’s Yard**
 
 <img src="media/godmamas.jpg" width="500"/>
@@ -1111,6 +1117,7 @@ More information on the museum and its opening hours can be found [here](https:/
 <img src="media/it museum.jpg" alt="Greek Museum of Informatics" width="500"/>
 
 In the Hellenic IT Museum you'll see rare exhibits, including computers, software, and even video games, from the previous century. If you're interested in the history of technology, you shouldn't miss it! This Museum encourages,  educates and brings emotions!
+
 Fun fact: There’s a room with an old TV and joystick, where you can see by yourself how people were watching TV in the past and how they were playing!
 
 *Information and photo retrieved from:* [This is athens](https://www.thisisathens.org/museums/hellenic-it-museum) 
