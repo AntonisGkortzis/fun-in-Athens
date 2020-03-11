@@ -1083,12 +1083,12 @@ More information on the museum and its opening hours can be found [here](https:/
 *Information retrieved from:* [Museum of Cycladic Art](https://cycladic.gr/en) | *Photo retrieved from:* [visitgreece](http://www.visitgreece.gr/en/culture/museums/museum_of_cycladic_art)
 
 **Hellenic IT Museum**
-<img src="media/museum_logo_100.png" alt="Greek Museum of Informatics" width="500"/>
+<img src="media/it museum.jpg" alt="Greek Museum of Informatics" width="500"/>
 
 In the Hellenic IT Museum you'll see rare exhibits, including computers, software, and even video games, from the previous century. If you're interested in the history of technology, you shouldn't miss it! This Museum encourages,  educates and brings emotions!
 Fun fact: There’s a room with an old TV and joystick, where you can see by yourself how people were watching TV in the past and how they were playing!
 
-*Information retrieved from:* [This is athens](https://www.thisisathens.org/museums/hellenic-it-museum) |*Photo retrieved from:* [Hellenic IT Museum](https://elmp.gr/en/home_en/)
+*Information and photo retrieved from:* [This is athens](https://www.thisisathens.org/museums/hellenic-it-museum) 
 
 ## <a name="monuments"></a>Monuments
 
