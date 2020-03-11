@@ -809,7 +809,7 @@ This magnificent temple on the Acropolis of Athens was built between 447 and 432
 
 The Erechtheion is an ancient Greek temple located on the north side of the Acropolis. The temple was erected in 421-406 BC and was dedicated to both Athena and Poseidon. In particular, the eastern part of the building was dedicated to Athena Polias, while the western part served the cult of Poseidon-Erechtheus and held the altars of Hephaestus and Voutos, brother of Erechtheus.
 
-On the north side of the temple, there is the famous "Porch of the Maidens", with six sculpted female figures (Caryatids) serving as supporting columns. Five of them are in the Acropolis Museum and the last one in the British Museum; those on the building are casts.
+On the north side of the temple, there is the famous "Porch of the Maidens", with six sculpted female figures (Caryatids) serving as supporting columns. The birthplace of the six Caryatids is the Peloponnesian village of Karyes. Five of them are in the Acropolis Museum and the last one in the British Museum; those on the building are casts.
 
 *Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/monuments/erechtheion) |
 *Photo retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Erechtheion)
