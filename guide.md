@@ -1319,10 +1319,10 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 
 A hundred meters from a frequented street in Penteli , on the side , there is a river and a waterfall at least ten meters. Arbit asphalt, rarily burnt trees, deforest slopes . These sees someone moving within the boundaries of the settlement of Penteli . But if you look a little more closely, you will see that nature even resists and still forming oases in the foundations of illegal houses that have filled the mountain. Such a place is the waterfall of Ntrafi or waterfall of Penteli. You will find many articles on the internet about them. Water is pure, deep, even suitable for swimming, though the latter sounds imaginary. You got to keep it clean as a whistle, even if seems an old-fashioned saying. There have been hard times to this stream, called Bathyrema-Lykorema (Balanaris), originating from the Byzantine Monastery of Agios Nikolaos Kallisiwn and flowing till Rafina. Let's preserve what nature has handed out. Have a nice geocaching l!
 
-*How to get there*
+*How to get there* <br>
 To approach the cache area if you don't have your own car, just board 451bus line heading to Palaia Penteli via Chalandri and alight either at 1st or 2nd station, Achaion str. You will encounter a small opening the kind of a backroad. In just three minutes' walk from the top of the track, you get there.So simple.
 
-*The Cache*
+*The Cache* <br>
 It is a plastic lock&lock tupper that contain logbook, pencil and stash note that we please to not remove, some trade items and an FTF award for the first finder. You can see it with his initial contents here.
 To find the cache is very easy.
 Have fun and enjoy the area!
