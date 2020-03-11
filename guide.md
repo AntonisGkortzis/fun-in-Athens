@@ -466,6 +466,14 @@ Lot 51 gives a lot of value to the quality of the coffee and wants to make it a 
 
 *Information & photo retrieved from:* [Esquire](https://esquire.com.gr/poto/bars/5852/giati-oloi-pigainoun-sto-lot-51)
 
+**MYLOS**
+
+<img src="media/mylos.jpg" width="500"/>
+
+Mylos is one of the greatest club in Athens. It is really famous and respected in the west suburbs of Athens. A single night in this marvelous club will make you a great fan of it. Before you know it, you will become a regular customer. If you like trash Greek music combined with just a bit of trap and rap, Mylos is the place you need to be.
+
+*Photo retrieved from:* [MYLOS' facebook page] https://www.facebook.com/pages/category/Dance---Night-Club/MYLOS-173618299411072/
+
 **TYCO**
 
 <img src="media/tyco.jpg" alt="TYCO" width="500"/>
