@@ -1698,6 +1698,14 @@ With this cruise you can visit three of the islands in Greece’s Saronic Gulf i
 *Image retrieved from:*[Ferries](https://www.ferries.gr/)
 
 
+**Xylokastro** 
+
+<img src="media/Xylokastro.jpg width="500"/>
+                                          
+Xylokastro is a small town in north Peloponnese only 120km away from Athens. It is both summer and winter destination as it is located between mountains and sea. Its name came from the wooden castle built near the marine. The people and the beauty of nature will make you love this place. You can walk in Pefkias which is a small "forest" next to the sea and get some fresh air, you can visit villages around Xylokastro or even Zireia, one of the highest mountains and ski centers in Peloponnese. In Zireia there is also a music festival at the end of August with a variety of music genres and a lot of campers.
+
+*Image retrieved from:*[Google](https://www.google.com/search?q=xylokastro&client=firefox-b-d&sxsrf=ALeKk03WYhyS_8JgvcaoirFdkXJ0W7J4Gg:1583901414776&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiWjr_JzJHoAhUBwcQBHYx2DwAQ_AUoAnoECBsQBA&biw=764&bih=750)
+
 ## <a name="beach"></a>Beach
 
 Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
