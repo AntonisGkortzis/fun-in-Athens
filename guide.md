@@ -25,6 +25,14 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 ## <a name="cafe"></a>Cafeterias
 Here are the best places where you can enjoy your morning drinking a cup of coffee.
 
+**TELARO*
+
+<img src="media/telaro.jpg" width="500"/>
+
+Telaro is a cozy cafeteria with delicious branch, and nice music. It has 2 floors, and the second floor is a helpful and nice place to study or do your work, especially with friends. It's located the heart of Athens and you will not have hard time to find it while the prices range from 2 to 8 euros.
+
+*Image retrieved from:* [TELARO](https://www.athensmagazine.gr/article/restaurants/250822-apeytheias-apo-to-telaro-to-neo-nostimo-steki-sthn-aioloy-poy-anatrepei-ta-kathierwmena)
+
 **DOPE ROASTING Co.**
 
 <img src="media/dope.jpg" width="500"/>
@@ -559,7 +567,7 @@ Address: [T.K, Ακτή Μικρολίμανου, Πειραιάς 185 33](https
 
 **Skipper's**
 
-<img src="media/Skipper's.jpg" alt="Skipper's" width="500"/>
+<img src="media/Skippers.JPG" alt="Skipper's" width="500"/>
 
 Skipper’s bar opened on the 4th of May, 1987 and is currently going through its 26th year of operation. All these years Skipper's has remained constant supporting the principles of aesthetics, honesty and friendly prices. It's a magnificent place right along the seaside where you can enjoy your beverage or drinks. The easiest way to go there is by car.
 
