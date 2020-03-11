@@ -922,6 +922,16 @@ If you are in Athens and you are searching for an alternative way of fun, this i
 
 *Information and photo retrieved from:* [Paintball Park](https://www.paintball-park.gr/)
 
+
+**Adventure Park**
+
+<img src="media/adventure_park.jpg" alt="Adventure Park" width="500"/>
+
+Adventure Park is a recreational area in the forest with multiple activities for you to do in nature. Some of the activities are: zip lines, archery, bungee trampoline, operation tarantula and free games. Here, you have the opportunity to "fly" from tree to tree, no matter your age, always in the safety equipment that the park will provide you. The park is located in Malakasa. Embrace your inner child and start flying!
+
+*Information and photo retrieved from:* [Adventure Park](https://www.adventure-park.gr/index.php/en/)
+
+
 **The National Garden and Zappeion**
 
 <img src="media/garden.jpg" alt="National Garden" width="500"/>
