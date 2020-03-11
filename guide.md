@@ -205,7 +205,7 @@ Cap cap is a perfect place in order to eat sweets. The place is really nice and 
 
 Address: [Πανόρμου 26, Αιγάλεω 122 42](https://www.google.gr/maps/place/CapCap+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@37.993951,23.6788133,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcb0094099eb:0xe83d02bb0e73d4fb!8m2!3d37.993951!4d23.681002)
 
-*Information and image retrieved from: *[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
+*Information and Photo retrieved from: *[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
 
 **Mparmpeekiou**
 
@@ -482,7 +482,7 @@ Chocolatata is a really nice and cozy place really close to the Megaron Mousikis
 
 Address: [Παπαδιαμαντοπούλου 138, Ζωγράφου 157 73](https://www.google.gr/maps/place/Chocolatata/@37.9825746,23.7646545,17z/data=!3m1!4b1!4m5!3m4!1s0x14a197fefbbd1a9f:0x8d2ae536e3964c8a!8m2!3d37.9825746!4d23.7668432)
 
-*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
 
 **Potato King**
 
@@ -493,7 +493,7 @@ For more Potato King, check [this](https://www.youtube.com/watch?v=Y07VUDYMGUA)!
 
 Address: [Αγίου Φιλίππου 7, Αθήνα 105 55](https://www.google.gr/maps/place/Potato+King/@37.9767512,23.7212687,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd224936de07:0xb49c29caa5b819b3!8m2!3d37.9767512!4d23.7234574)
 
-*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10289905-Reviews-Potato_King-Athens_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10289905-Reviews-Potato_King-Athens_Attica.html)
 
 **Opus Inner Pleasure**
 
@@ -538,7 +538,7 @@ Another magnificent place in Petroupoli, just like Terra Petra is Apolis. There 
 
 Address: [Αγίου Δημητρίου, Πετρούπολη 132 31](https://www.google.gr/maps/place/Apolis/@38.0459619,23.6843777,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a39e9a1fc603:0x4a4da1b94dcd633a!8m2!3d38.0459619!4d23.6865664)
 
-*Image retrieved from:* [Apolis](http://www.apolis.gr/)
+*Photo retrieved from:* [Apolis](http://www.apolis.gr/)
 
 **A For Athens Cocktail Bar**
 
@@ -823,7 +823,7 @@ Podiki is a place where young people, mostly students, gather for a live music s
 
 Address: [Επτανήσου 9, Αθήνα 112 57](https://www.google.gr/maps/place/%CE%A4%CE%BF+%CE%A0%CE%BF%CE%BD%CF%84%CE%AF%CE%BA%CE%B9+%CE%A1%CE%B5%CE%BC%CF%80%CE%B5%CF%84%CE%AC%CE%B4%CE%B9%CE%BA%CE%BF+%CE%91%CE%B8%CE%AE%CE%BD%CE%B1/@37.996935,23.732897,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a2cbde1ae4d7:0x958072c0512ad674!8m2!3d37.996935!4d23.7350857?hl=el)
 
-*Information and image retrieved from:* [Podiki](http://podiki.gr/)
+*Information and Photo retrieved from:* [Podiki](http://podiki.gr/)
 
 **Arodou Restaurant**
 
