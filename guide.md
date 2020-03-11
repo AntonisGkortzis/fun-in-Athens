@@ -561,6 +561,14 @@ An all day bar and restaurant with great ambience located in the heart of the hi
 *Information retrieved from:* [City Zen](https://www.cityzenathens.gr/) |
 *Photo retrieved from:* [Elepod](https://www.elepod.gr/business/cityzen-all-day-cafe-bar-kaphes-poto-me-thea-akropole-monasteraki)
 
+**James Joyce Irish Pub**
+
+<img src="media/james-joyce.jpg" alt="James Joyce Irish Pub" width="500"/>
+
+It might sound pretty bizarre, but there is a place where Greek and Irish cultures briefly meet. James Joyce is an Irish pub that serves traditional Irish favourites as well as Greek dishes, such as the famous Greek salad; needless to mention that the refreshing draught beers and abudant Irish whiskies are incomparable. You can find it [here](google.com/maps?q=James+Joyce&ftid=0x14a1bd22312e67a3:0x21149bfa5ea1f82b).
+
+*Information and photo retrieved from:* [James Joyce Irish Pub](https://www.jjoyceirishpubathens.com/)
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
@@ -1231,6 +1239,15 @@ Every Friday at 21:00
 Contact: 2111822336 – 6907363999
 
 *Information and Photo retrieved from:* [AKROASIS](https://akroasis.gr/open-mic-athens/)
+
+**PLAyCE**
+
+<img src="media/playce.jpg" alt="drawing" width="500"/>
+
+In the PLAyCE collection there are over 600 board games we have collected from around the world. Our staff will put you in the game one by one, solving any queries about the rules but suggesting the game that suits you. Also, twenty flavors of real chocolate served as fluid as you like, twenty-four teas, original milkshakes and delicious snacks are some of the hundreds on our menu.
+
+*Information & photo retrieved from:* [PLAyCE](https://www.playce.gr/)
+
 
 ## <a name="artAndCulture"></a>Art and Culture
 
