@@ -296,7 +296,6 @@ The Big Bad Wolf is a place where you can enjoy delicious and quality food. It c
 
 *Information and photo retrieved from:* [The Big Bad Wolf] (https://www.tbbw.gr/)
 
-<<<<<<< HEAD
 **Basegrill Athens**
 
 <img src="media/basegrill.jpg" width="500"/>
@@ -305,7 +304,7 @@ Basegrill Athens started in 2005 and it's a very famous Steak House - Restaurant
 
 *Address retrieved from:*[Λεωφ. Κωσταντινουπόλεως 64, Περιστέρι] (https://www.google.com/maps/place/Basegrill+Athens/@38.0105273,23.7088258,16.75z/data=!4m5!3m4!1s0x14a1a36c7e066517:0xe6c56d4281732b98!8m2!3d38.0118955!4d23.7081823)
 *Photo retrieved from:*[Athens Voice] (https://www.athensvoice.gr/guide/taste/restaurants/82725_base-grill)
-=======
+
 **Bel Rey**
 
 <img src="media/mpel-rey-1280x720.jpg" alt="bel-rey" width="500"/>
@@ -314,7 +313,6 @@ Bel Rey is a former car lubricant turned into an all day snack bar. With vintage
 
 *Information retrieved from:* [maxmag](https://www.maxmag.gr/city-guide/athina-koukaki-bel-rey/)|
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BC%CF%80%CE%B5%CE%BB+%CF%81%CE%B5%CF%85+%CE%BA%CE%BF%CF%85%CE%BA%CE%B1%CE%BA%CE%B9&tbm=isch&ved=2ahUKEwix1-mJhpHoAhWIhxQKHbdmBtYQ2-cCegQIABAA&oq=%CE%BC%CF%80%CE%B5%CE%BB+%CF%81&gs_l=img.1.0.35i39j0j0i8i30j0i24l7.1329.3350..4335...1.0..4.180.1479.0j11......0....1..gws-wiz-img.....10..0i67j35i362i39j0i131.pQF0tnEByWw&ei=-iBoXrHyLoiPUrfNmbAN&bih=754&biw=1536#imgrc=G-r2KpU02Cih3M)
->>>>>>> 8285db2ade6eb7443597611178d094cc1a279786
 
 ## <a name="nightlife"></a>Night Life
 
