@@ -818,6 +818,17 @@ It might sound pretty bizarre, but there is a place where Greek and Irish cultur
 
 *Information and photo retrieved from:* [James Joyce Irish Pub](https://www.jjoyceirishpubathens.com/)
 
+**Barley Cargo**
+
+<img src="media/barley-cargo.jpg" alt="The Speakeasy" width="500"/>
+
+Barley Cargo offers a beer tasting experience in central Athens with more than 230 international beers including 70 Greek beers and 17 on tap varieties. Established in 2012 by Marios Mantzoukis and Nectarios Kefalas, Barley Cargo is the perfect place to get acquainted with Greek beers, which are winning awards all around the world.
+
+Address: [Kolokotroni 6, Athens, 105 61](https://goo.gl/maps/1aNTcpxhjD1cpDWE6)
+
+*Information retrieved from:* [Why Athens](https://whyathens.com/barley-cargo/) |
+*Photo retrieved from:* [My secret Athens](https://www.mysecretathens.gr/2012/09/barley-cargo/)
+
 **Podiki**
 
 <img src="media/podiki.jpg" width="500"/>
