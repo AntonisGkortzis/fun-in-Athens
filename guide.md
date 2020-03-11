@@ -34,8 +34,10 @@ The perfect place to enjoy your beverage or drinks in the summer days. In winter
 Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/place/Madeira+Cafe+%26+Bar/@38.0473333,23.7634344,17z/data=!3m1!4b1!4m5!3m4!1s0x14a198a0489b8671:0xbc82d4c212011fbe!8m2!3d38.0473333!4d23.7656231)
 
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
-*Image retrieved from:* [findhere.gr](https://www.findhere.gr/)
+*Photo retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
+<<<<<<< HEAD
+=======
 **Italus**
 
 <img src="media/italus.jpg" width="500"/>
@@ -44,6 +46,19 @@ If you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enj
 
 *Information and photo retrieved from:* [Italus](http://www.italus.gr/)
 
+<<<<<<< HEAD
+>>>>>>> bf229449e13e4c6966ea76abd3792149123f1c30
+=======
+**Dome**
+
+<img src="media/dome.jpg" width="500"/>
+
+Another cafeteria you should undoubtedly visit in Kallithea is "Dome", a cozy place, perfect for gathering with friends, which offers you a variety of board games to play, while enjoying your favourite beverages and snacks.
+
+*Information and photo retrieved from:* [PolisPages](https://www.polispages.gr/guide/14207/dome-%7C-kafeteria-%7C-kallithea-)
+
+
+>>>>>>> ad91a581647a0da71b149100bccaa14f64221fb0
 **Godmama’s Yard**
 
 <img src="media/godmamas.jpg" width="500"/>
@@ -102,6 +117,16 @@ Address: [Αμερικής 4, Αθήνα 105 64](https://www.google.gr/maps/plac
 Rabbithole is a Cafe/Bar right next to the most central point of the city, the famous Syntagma Square. You can visit Rabbithole to enjoy a coffee or tea while working on your projects, or for a beer and a cocktail once it gets dark. Just above it, one of the most picturesque locations in Athens awaits. The Passage of the Merchants.
 
 *Information and photo retrieved from:* [Rabbithole](https://rabbitholebar.gr/) 
+
+**Belle Epoque**
+
+<img src="media/belle_epoque.jpg" width="500"/>
+
+Belle Epoque (or Μπέλ Επόκ) gives a vintage aesthetic in the neighborhoods of Piraeus. This small cafe with its bright colors and its artistic decoration inspired by the '60s- '70s is the perfect place to  enjoy a high-quality coffee. The menu offers a large variety of choices and the prices worth the given value. Their brunch is significant,including pancakes, eggs, sandwiches and desserts. Except from your coffee you can also enjoy a cup of tea or hot chocolate and many different beverages.
+
+Address: [Αριστοτέλους 10, Πειραιάς 185 35](https://www.google.gr/maps/place/%CE%9C%CF%80%CE%B5%CE%BB+%CE%95%CF%80%CF%8C%CE%BA/@37.9412122,23.6439683,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bbe87686d969:0x1faee70d9ba63f8e!8m2!3d37.9412122!4d23.646157?hl=en)
+
+*Informationand photo retrieved from:*[Belle-epoque Site](https://belle-epoque.gr/)
 
 ## <a name="food"></a>Food
 
@@ -825,6 +850,17 @@ It might sound pretty bizarre, but there is a place where Greek and Irish cultur
 
 *Information and photo retrieved from:* [James Joyce Irish Pub](https://www.jjoyceirishpubathens.com/)
 
+**Barley Cargo**
+
+<img src="media/barley-cargo.jpg" alt="The Speakeasy" width="500"/>
+
+Barley Cargo offers a beer tasting experience in central Athens with more than 230 international beers including 70 Greek beers and 17 on tap varieties. Established in 2012 by Marios Mantzoukis and Nectarios Kefalas, Barley Cargo is the perfect place to get acquainted with Greek beers, which are winning awards all around the world.
+
+Address: [Kolokotroni 6, Athens, 105 61](https://goo.gl/maps/1aNTcpxhjD1cpDWE6)
+
+*Information retrieved from:* [Why Athens](https://whyathens.com/barley-cargo/) |
+*Photo retrieved from:* [My secret Athens](https://www.mysecretathens.gr/2012/09/barley-cargo/)
+
 **Podiki**
 
 <img src="media/podiki.jpg" width="500"/>
@@ -843,7 +879,7 @@ A really nice Restaurant where there a lot of live shows and not only on weekend
 
 Address: [Μιαούλη 22, Αθήνα 105 54](https://www.google.gr/maps/place/%CE%91%CF%81%CF%8C%CE%B4%CE%BF%CF%85/@37.9780556,23.7230891,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd2373220a8d:0xd0a8192d817f3aa9!8m2!3d37.9780556!4d23.7252778?hl=el)
 
-*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10340922-Reviews-Arodou-Athens_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10340922-Reviews-Arodou-Athens_Attica.html)
 
 ## <a name="tours"></a>Tours
 
@@ -1583,14 +1619,14 @@ In the PLAyCE collection there are over 600 board games we have collected from a
 **Ping Pong in Ano Patissia**
 
 <img src="media/pingpong.jpg" width="500"/>
-*Image retrieved from:* [blanosbowling.gr](https://www.blanosbowling.gr/)
+*Photo retrieved from:* [blanosbowling.gr](https://www.blanosbowling.gr/)
 
 A really fun way to spend time with your friends and family is by playing ping pong. The rules are pretty simple and all of the family can play, since it doesn't need a lot of athletic skill. It will be really fun and you will have a great time playing with each other, since it is a game where you should really control your strength and that's really hard. You can find ping pong courts in a lot of places but I recommend the one in Ano Patissia, because there are 3 of them, so the queue list will be too little time, if not non-existent at all. Plus, it is easily accessible by bus or train. Both train station and bus stop are 2 minutes on foot from there.
 
 **Bowling in Mall Athens**
 
 <img src="media/bowling.jpg" width="500"/>
-*Image retrieved from:* [ipop.gr](http://www.ipop.gr/)
+*Photo retrieved from:* [ipop.gr](http://www.ipop.gr/)
 
 The best way to play with your friends and have a lot of fun. You don't need to know to play bowling at a good level. In fact, I like it even more and laugh a lot more when none of my friends know how to play. It is really entertaining and for those who are really competitive with each other they can still do their thing, but you won't care. Try to hit a strike and look at their faces. That's a whole different level of fun! It is located in the Mall Athens so you can get there and relax after shopping.
 
@@ -1600,7 +1636,7 @@ The best way to play with your friends and have a lot of fun. You don't need to 
 
 You are a fan of beach volleyball? That's the ideal place for you! You can go and play with your friends against each other but you can also participate in tournaments with other teams! Those tournaments take place every weekend, so make sure you checkout the program for that. There are 3 levels for each category: bronze, silver and gold. You can choose your level depending on how amateur you are! Of course the categories are: men, women and mixed. There are 2 courts, in Kifissia and in Papagou.
 
-*Information and image retrieved from:* [iBeach](https://www.ibeach.gr/)
+*Information and Photo retrieved from:* [iBeach](https://www.ibeach.gr/)
 
 **Duo Capriccioso**
 
@@ -1875,7 +1911,7 @@ The cost of the boats from Pireaus port is approximately 15 euros and the distan
 With this cruise you can visit three of the islands in Greece’s Saronic Gulf in turn, in just a day. Stroll on Hydra, visit Paros, and spend time on Aegina, either exploring alone or touring its Temple of Aphaia. Escpecially, on summer days it will make the day perfect and totally worth it. At the end of the day, you may be tired, but you still can do a lot of things. Look every other section of this guide to help you find the perfect place for you after a long and tiring day!
 
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com/AttractionProductReview-g3695532-d13857583-Full_Day_Cruise_to_Greek_Islands_from_Athens_Poros_Hydra_Aegina-Paleo_Faliro_Atti.html)
-*Image retrieved from:* [Ferries](https://www.ferries.gr/)
+*Photo retrieved from:* [Ferries](https://www.ferries.gr/)
 
 **Delphi archaeological site**
 
@@ -1939,7 +1975,7 @@ Hidden from plain sight and known mostly among locals living in the residential 
 
 Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from Athens and it is not easily accessible through public transportations. Although, the beach is totally worth it if you have a car. Porto Rafti has brilliant calm waters with a variety of restaurants and Bars fronting the water. It is excellent for late afternoon or early evenings to sit and enjoy the view or go for a swim if you desire. Just keep in mind that the view is really incredible.
 
-*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
 
 **Voula beach**
 
@@ -1947,7 +1983,7 @@ Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from At
 
 Voula beach is really close to Vouliagmeni, so you can access the beach by car or by bus. If you choose the latter option, just take the metro until the Elliniko Station where you can get a bus to get you to the beach. The water is really clear and you can enjoy the sun by tanning in your sunbed. You can also ask the waiter or waitress to get you a beverage or something to eat while you are relaxing. Especially on hot days, visiting this beach is really worth it, since you can get there using public transportations. The car is obviously preferred especially when there is a parking lot available, but it is not mandatory.
 
-*Information and image retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
 
 **Costa del Sol beach**
 
@@ -1957,3 +1993,14 @@ The Costa del Sol beach is a popular Athenian beach. It’s located at the Alimo
 
 *Information retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/ )|
 *Photo retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/wp-content/uploads/2016/08/0003.jpg)
+
+**Marathonas Beach**
+
+<img src="media/marathonas-beach.jpg" alt="Marathonas Beach" width="500"/>
+
+Marathonas Beach is a Beach in Attica, East in Athens in the Attica Region of Greece.
+The postal code of Marathonas Beach is 19007 and its telephone access code is +3022940.
+Locations near Marathonas Beach include the Wetland of Brexiza and the Ancient demos of Marathon.
+Restaurants near Marathonas Beach include Cavouri (Greek), Avra (Greek, Seafood), Taj Mahal (Indian), Vietnam (Vietnamese) and H Trata (Greek).
+
+*Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
