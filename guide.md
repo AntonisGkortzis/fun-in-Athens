@@ -52,7 +52,7 @@ A really good place in Peristeri. You can get there using the metro railway or t
 
 Address: [Βασ. Αλεξάνδρου 98, Περιστέρι 121 34](https://www.google.gr/maps/place/Godmama's+Yard/@38.0104107,23.6910026,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a3703c66efef:0x4b0bbd06827f40a3!8m2!3d38.0104107!4d23.6931913)
 
-*Information and image retrieved from:* [fnl](https://www.fnl-guide.com/gr/el/the-bars/godmama-s-yard/)
+*Information and Photo retrieved from:* [fnl](https://www.fnl-guide.com/gr/el/the-bars/godmama-s-yard/)
 
 **I Cafe Bar**
 
@@ -63,7 +63,7 @@ A place where you can visit all day long and have a great time. It has a really 
 Address: [Αλεξιουπόλεως 29, Αργυρούπολη 164 52](https://www.google.gr/maps/place/I+Cafe+Bar/@37.9060571,23.7468765,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a4abcc9c7789:0x353d08bb8222a194!8m2!3d37.9060571!4d23.7490652)
 
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3695477-d17520095-Reviews-I_Cafe_Bar-Argyroupoli_Attica.html)
-*Image retrieved from:* [vges.gr](https://www.vges.gr/)
+*Photo retrieved from:* [vges.gr](https://www.vges.gr/)
 
 **Kapu coffee-drinks-cocktails**
 
@@ -73,7 +73,7 @@ Kapu is a really nice place with a beautiful yard to enjoy on sunny days. You ca
 
 Address: [Χαλδείας 34, Ελληνικό 167 77](https://www.google.gr/maps/place/Kapu+coffee-drinks-cocktails/@37.8910659,23.7475667,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1be17a237f8b9:0x51c626ccc27ad877!8m2!3d37.8910659!4d23.7497554)
 
-*Information and image retrieved from:* [Kapu](https://kapu.gr/)
+*Information and Photo retrieved from:* [Kapu](https://kapu.gr/)
 
 **Barrett**
 
@@ -83,7 +83,7 @@ Barrett is a really nice place in the center of Athens. You can enjoy your coffe
 
 Address: [Πρωτογένους 11, Αθήνα 105 54](https://www.google.gr/maps/place/Barrett/@37.9780996,23.7234724,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd236c63e78b:0x12275ad50feb2527!8m2!3d37.9780996!4d23.7256611)
 
-*Information and image retrieved from:* [Barrett](http://www.barrett-athens.gr/)
+*Information and Photo retrieved from:* [Barrett](http://www.barrett-athens.gr/)
 
 **City Link**
 
@@ -93,7 +93,7 @@ As a complete stroll destination in downtown Athens, City Link hosts some of the
 
 Address: [Αμερικής 4, Αθήνα 105 64](https://www.google.gr/maps/place/City+Link/@37.9775662,23.7325816,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3935610687:0x632a57c399478751!8m2!3d37.9775662!4d23.7347703)
 
-*Information and image retrieved from:* [City Link](https://www.citylink.gr/)
+*Information and Photo retrieved from:* [City Link](https://www.citylink.gr/)
 
 **Rabbithole**
 
