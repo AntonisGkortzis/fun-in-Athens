@@ -52,7 +52,6 @@ If you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enj
 
 *Information and photo retrieved from:* [Italus](http://www.italus.gr/)
 
-=======
 **Dome**
 
 <img src="media/dome.jpg" width="500"/>
