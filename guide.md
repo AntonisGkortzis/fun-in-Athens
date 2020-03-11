@@ -36,6 +36,10 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Image retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
+**Italus**
+
+f you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enjoying the beautifully ornamented interior atmosphere, you must definitely try its renowned hot chocolate, served in a cup made of chocolate waffle, or order a selfieccino, a cup of coffee with a photo of yours on it!
+
 **Godmama’s Yard**
 
 <img src="media/godmamas.jpg" width="500"/>
