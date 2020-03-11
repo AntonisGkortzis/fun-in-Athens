@@ -25,7 +25,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 ## <a name="cafe"></a>Cafeterias
 Here are the best places where you can enjoy your morning drinking a cup of coffee.
 
-**TELARO*
+**TELARO**
 
 <img src="media/telaro.jpg" width="500"/>
 
