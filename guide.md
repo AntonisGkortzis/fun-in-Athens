@@ -1294,6 +1294,15 @@ Kyma surf school based in Athens is a mobile surf school and open all year round
 *Information retrieved from:* [kymasurfschool](https://www.kymasurfschool.gr/surf-lessons)|
 *Photo retrieved from:* [Google](https://www.google.com/search?q=kyma+surf&sxsrf=ALeKk01RSKCGxl7Obv2Oj2Osr21biXZdgw:1583882709952&source=lnms&tbm=isch&sa=X&ved=2ahUKEwirmKvyhpHoAhWdxcQBHa7qAZ8Q_AUoAnoECAsQBA&cshid=1583882727586378&biw=1536&bih=754#imgrc=FDZnjouuuRNABM)
 
+**Ghost House**
+
+<img src="media/Ghost House.jpg"  width="500"/>
+
+If you are a **Karaoke** lover or looking for something "different" for night out, the Ghosh House is the ideal place for you and your friends. With 5 euros entrance is the absolute place to create memories that you remember for long years.
+
+*Informations and photo retrieved from:* [Ghost House](https://www.ghosthouse.gr/)
+
+
 ## <a name="shopping"></a>Shopping
 
 There are a lot of places where you can go shopping in Athens! Below you can find the most famous places!
@@ -1566,8 +1575,6 @@ Explore Athens'most magical hotels and spas
 
 The Margi Hotel, is a boutique hotel, member of the <strong>Small Luxury Hotels of the World (SLH)</strong> and located in the heart of  most exclusive area of Athens Riviera, Vouliagmeni. It is located just a few minutes away from Vouiliagmeni's sandy beaches, but also close enough to some historical sites, like Cape Sounion. Its haute cuisine and organic food from its farm combined with its friendly and attentive staff, its spa premises and its exquisite design make The Margi Hotel a heaven away from home.
 
-Address: [Λητούς 11, Βουλιαγμένη 166 71](https://www.google.gr/maps/place/The+Margi/@37.81387,23.7718283,17z/data=!3m1!4b1!4m8!3m7!1s0x14a1eaaff3bc795f:0x89bd99102dab07f3!5m2!4m1!1i2!8m2!3d37.81387!4d23.774017)
-
 [You can discover more about The Margi Hotel and its amenities here](https://www.emst.gr/en/contact)<br>
 
 *Information retrieved from:* [The Margi Hotel](https://www.themargi.gr/) |
@@ -1578,8 +1585,6 @@ Address: [Λητούς 11, Βουλιαγμένη 166 71](https://www.google.gr/
 <img src="media/fsapha.jpg" alt="Four Seasons Astir Palace Hotel Athens" width="500"/>
 
 On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four Seasons offers the best of both worlds: a laid-back seaside escape just 30 minutes from the historical city centre. So, go on, discover the greek ancient civilization at the Acropolis, downtown, then return to Four Seasons to unwind, relax, enjoy a relaxing spa and an extraordinary gastronomical experience.
-
-Address: [Απόλλωνος 40, Βουλιαγμένη 166 71](https://www.google.gr/maps/search/four+seasons+astir+palace+hotel+athens/@37.8047688,23.7676773,17z/data=!3m1!4b1)
 
 [You can discover more about The Four Seasons Astir Palace Hotel Athens and its amenities here](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens)<br>
 
@@ -1592,23 +1597,10 @@ Address: [Απόλλωνος 40, Βουλιαγμένη 166 71](https://www.goog
 
 Hilton Athens is a luxurious hotel located in . A favorite among locals and guests alike, the landmark hotel is a destination itself as the hub for Athens’ business, cultural and social life. It incorporates a very unique architectural and artistic style that the guests can enjoy. There is also the option to enjoy a relaxing day at the spa. View the Acropolis and city skyline from the private balcony of the guest rooms. Its prime location in the heart of Athens is the perfect home base for discovering the city's world-famous attractions.
 
-Address: [Λεωφ. Βασιλίσσης Σοφίας 46, Αθήνα 115 28](https://www.google.gr/maps/place/Hilton+%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD/@37.9765661,23.7480508,17z/data=!3m1!4b1!4m8!3m7!1s0x14a1bd44d9f03945:0x96690683c8008e91!5m2!4m1!1i2!8m2!3d37.9765661!4d23.7502395)
-
 [You can discover more about Hilton Athens and its amenities here](https://www.hiltonathens.gr/)<br>
 
 *Information retrieved from:* [Hilton Athens](https://www3.hilton.com/en/hotels/greece/hilton-athens-ATHHITW/index.html) |
 *Photo retrieved form:* [Hilton Athens Booking.com](https://www.booking.com/hotel/gr/hilton-athens.el.html?label=gen173nr-1DCAsoXEINaGlsdG9uLWF0aGVuc0gzWARoXIgBAZgBCLgBF8gBDNgBA-gBAYgCAagCA7gCzo2h8wXAAgE;sid=1fc444795f7e1eca4f89f99ed51be977;dist=0&keep_landing=1&sb_price_type=total&type=total&)
-
-**Hotel Grande Bretagne**
-
-<img src="media/GB.jpg" alt="GB" width="500"/>
-
-The most iconic hotel in Athens, located at Syntagma Square, is one of the most luxurious and high-end hotels of the city. Its has a classical design and its facilities include an indoor pool, a spa, an outdoor pool and a fitness center. It also offers plenty of restaurants and bars, such as the GB Roof Garden restaurant, Alexander bar and The Winter Garden.
-
-[You can discover more about HotelGrande Bretagne and its amenities here](https://hotelbretagne.grandluxuryhotels.com/en/h/31/hotel-grande-bretagne?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeLPKULmiay8E4Yneo3cJUmr1OA86ZgjrxoL10QLkfkfKoTBQIdMhH0aAkmnEALw_wcB)
-
-*Information retrieved from:* [Hotel Grande Bretagne]( https://hotelbretagne.grandluxuryhotels.com/en/h/31/hotel-grande-bretagne?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeLPKULmiay8E4Yneo3cJUmr1OA86ZgjrxoL10QLkfkfKoTBQIdMhH0aAkmnEALw_wcB) |
-*Photo retrieved from:* [Booking.com]( https://www.booking.com/hotel/gr/grandbretagneathens.el.html)
 
 
 ## <a name="fullDayTrips"></a>Full Day Trips
@@ -1707,8 +1699,6 @@ Athens is well known for its beatiful sun and weather, so if you are visiting At
 
 One of the best and famous beaches in Athens is Schinias. It is a really beautiful place and the waters are crystal clear. Karavi is a beach bar in Schinias beach that elevates the customers' experience! It offers plenty of things to the customer. First of all, you can enjoy your beverage or food in your sunbed. Then, there are a lot of beach volley courts  and if you are lucky enough you can watch professional tournaments that take place there. Last but not least, there are a lot of water sports that one can do there. So as you can see there are lot of ways to enjoy your time there. The only disadvantage of this place is that it is only accessible by car, since it is far enough from metro stations, bus stops etc. But don't let that prevent from enjoying a beautiful sunny day in summer gets wasted.
 
-Address: [Λεωφ. Ποσειδώνος 198, Μαραθώνας 190 07](https://www.google.gr/maps/place/%CE%9A%CE%B1%CF%81%CE%AC%CE%B2%CE%B9/@38.133623,24.0108352,17z/data=!3m1!4b1!4m5!3m4!1s0x14a17902cb1d3359:0xe27c07047adcc49b!8m2!3d38.133623!4d24.0130239)
-
 *Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Attraction_Review-g669631-d6586221-Reviews-Karavi_Schinias_Water_Sports-Marathon_East_Attica_Region_Attica.html)
 
 **Limanakia Vouliagmenis**
@@ -1717,10 +1707,9 @@ Address: [Λεωφ. Ποσειδώνος 198, Μαραθώνας 190 07](https:/
 
 A series of many small beaches in small natural bays with rocks that impress with their natural beauty and wild charm of the landscape spreads in Vouliagmeni, on the way to Varkiza. The turquoise cool waters are accessible by descending paths between the rocks.
 
-Address: [Βουλιαγμένη 166 71](https://www.google.gr/maps/place/%CE%92'%CE%9B%CE%99%CE%9C%CE%91%CE%9D%CE%91%CE%9A%CE%99%CE%91/@37.8019282,23.7879456,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1eac1b2c3bbef:0x6ed1e43737ced9c6!8m2!3d37.8019282!4d23.7901343)
-
 *Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
+
 
 **Pasalimani, Sounio**
 
@@ -1743,8 +1732,6 @@ Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from At
 <img src="media/voula.jpg" width="500"/>
 
 Voula beach is really close to Vouliagmeni, so you can access the beach by car or by bus. If you choose the latter option, just take the metro until the Elliniko Station where you can get a bus to get you to the beach. The water is really clear and you can enjoy the sun by tanning in your sunbed. You can also ask the waiter or waitress to get you a beverage or something to eat while you are relaxing. Especially on hot days, visiting this beach is really worth it, since you can get there using public transportations. The car is obviously preferred especially when there is a parking lot available, but it is not mandatory.
-
-Address: [Βούλα 166 73](https://www.google.gr/maps/place/A%22+%CE%A0%CE%BB%CE%B1%CE%B6+%CE%92%CE%BF%CF%8D%CE%BB%CE%B1%CF%82/@37.8504972,23.7473019,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bfc2f9ae7c45:0x445555d56c5bd816!8m2!3d37.8504972!4d23.7494906)
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
 
