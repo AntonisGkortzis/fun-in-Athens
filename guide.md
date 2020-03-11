@@ -60,8 +60,6 @@ Another cafeteria you should undoubtedly visit in Kallithea is "Dome", a cozy pl
 
 *Information and photo retrieved from:* [PolisPages](https://www.polispages.gr/guide/14207/dome-%7C-kafeteria-%7C-kallithea-)
 
-
->>>>>>> ad91a581647a0da71b149100bccaa14f64221fb0
 **Godmama’s Yard**
 
 <img src="media/godmamas.jpg" width="500"/>
