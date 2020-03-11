@@ -1950,3 +1950,14 @@ The Costa del Sol beach is a popular Athenian beach. It’s located at the Alimo
 
 *Information retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/ )|
 *Photo retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/wp-content/uploads/2016/08/0003.jpg)
+
+**Marathonas Beach**
+
+<img src="media/marathonas-beach.jpg" alt="Marathonas Beach" width="500"/>
+
+Marathonas Beach is a Beach in Attica, East in Athens in the Attica Region of Greece.
+The postal code of Marathonas Beach is 19007 and its telephone access code is +3022940.
+Locations near Marathonas Beach include the Wetland of Brexiza and the Ancient demos of Marathon.
+Restaurants near Marathonas Beach include Cavouri (Greek), Avra (Greek, Seafood), Taj Mahal (Indian), Vietnam (Vietnamese) and H Trata (Greek).
+
+*Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
