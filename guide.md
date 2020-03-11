@@ -304,9 +304,8 @@ The Big Bad Wolf is a place where you can enjoy delicious and quality food. It c
 
 <img src="media/basegrill.jpg" width="500"/>
 
-Basegrill Athens started in 2005 and it's a very famous Steak House - Restaurant, due to the high quality meat as well as the great hospitality. Meat is highly respected there, it is treated as a gift and they are constantly looking to choose the best ones from the Greek market. It is then prepared with caution and cooked at the right temperature. Finally it is served and cut right in front of the customer. Because of all of this quality, Basegrill Athens got the attention of plenty people and even a great amount of celebrities. So, what are you waiting for? Go and try a taste of warm hospitality and high quality menu.
+Basegrill Athens started in 2005 and it's a very famous Steak House - Restaurant, due to the high quality meat as well as the great hospitality. Meat is highly respected there, it is treated as a gift and they are constantly looking to choose the best ones from the Greek market. It is then prepared with caution and cooked at the right temperature. Finally it is served and cut right in front of the customer. Because of all of this quality, Basegrill Athens got the attention of plenty people and even a great amount of celebrities. So, what are you waiting for? Go and try a taste of warm hospitality and high quality menu at [Konstantinoupoleos Avenue 64](https://www.google.com/maps/place/Basegrill+Athens/@38.0105273,23.7088258,16.75z/data=!4m5!3m4!1s0x14a1a36c7e066517:0xe6c56d4281732b98!8m2!3d38.0118955!4d23.7081823) in Peristeri, Athens.
 
-*Address retrieved from:*[Λεωφ. Κωσταντινουπόλεως 64, Περιστέρι](https://www.google.com/maps/place/Basegrill+Athens/@38.0105273,23.7088258,16.75z/data=!4m5!3m4!1s0x14a1a36c7e066517:0xe6c56d4281732b98!8m2!3d38.0118955!4d23.7081823) |
 *Photo retrieved from:*[Athens Voice](https://www.athensvoice.gr/guide/taste/restaurants/82725_base-grill)
 
 **Bel Rey**
