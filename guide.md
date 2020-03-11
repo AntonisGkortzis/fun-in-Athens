@@ -883,6 +883,16 @@ The Changing of the Guards takes place in front of the Tomb of the Unknown Soldi
 *Information retrieved from:* [Planetware](https://www.planetware.com) |
 *Photo retrieved from:* [Planetware](https://www.planetware.com/photos-large/GR/greece-athens-changing-of-the-guard.jpg)
 
+**Temple of Olympian Zeus**
+
+<img src="media/ZeusTemple.jpg" alt="ZeusTemple" width="500"/>
+
+This ancient temple is located very close to the centre of Athens. Its building began in the 6th century BC, however the construction was stopped and eventually the temple was finished in 131 AD, almost 700 years later. Originally there were 104 Corinthian columns, while nowadays only 15 remain standing. One of the columns collapsed during a storm in 1852. Hadrian, the Roman emperor who completed the temple, had placed a giant gold and ivory status of Zeus inside the temple with an equally large one of himself next to it. In our days, nothing has remained of these statues. The temple of Zeus was probably destroyed in an earthquake during the medieval period.
+
+*Information retrieved from:* [Athensguide](https://www.athensguide.com/temple-of-olympian-zeus/) |
+*Photo retrieved from:* [Ancient History Encyclopedia](https://www.ancient.eu/image/4005/the-temple-of-olympian-zeus-athens/)
+
+
 ## <a name="activities"></a>Activities
 
 Athens has many things to do for athletics individuals too! From walking to our famous mountains to skydiving!
@@ -1281,7 +1291,7 @@ Its internal space consists of 7 floors and 9 underground levels. During the sum
 
 <img src="media/gazarte.jpg" alt="gazarte" width="500"/>
 
-Gazarte is a multifaceted art and culture offering alternative entertainment and entertainment options to the visitor. Gazarte facilities include the Music Stage, Bookstore and Gazarte Cinema on the ground floor, the Cocktails Bar Restaurant with its Taratsa on the first floor, and the Multiple Events Room on the second floor.Located in Gazi's main square, next to Kerameikos Metro Station, Gazarte has a panoramic view of the Acropolis and Gazi, while being easy to access. For more information about its upcoming events you can check here:https://www.gazarte.gr/ 
+Gazarte is a multifaceted art and culture offering alternative entertainment and entertainment options to the visitor. Gazarte facilities include the Music Stage, Bookstore and Gazarte Cinema on the ground floor, the Cocktails Bar Restaurant with its Taratsa on the first floor, and the Multiple Events Room on the second floor.Located in Gazi's main square, next to Kerameikos Metro Station, Gazarte has a panoramic view of the Acropolis and Gazi, while being easy to access. For more information about its upcoming events you can check here:https://www.gazarte.gr/
 
 *Information retrieved from:*[culturenow](https://www.culturenow.gr/venue/gazarte/) |
 *Photo retieved form:*[Google](https://www.google.com/search?q=gazarte&sxsrf=ALeKk03opJykAs74FRA10bnwF7zuiVWrUA:1583887534546&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpg_HumJHoAhVWEncKHQhdBHcQ_AUoAnoECBcQBA&cshid=1583887677206282&biw=1536&bih=754#imgrc=3iG05n1s7R_7tM)
