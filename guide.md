@@ -1669,7 +1669,7 @@ The most iconic hotel in Athens, located at Syntagma Square, is one of the most 
 *Information retrieved from:* [Hotel Grande Bretagne]( https://hotelbretagne.grandluxuryhotels.com/en/h/31/hotel-grande-bretagne?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeLPKULmiay8E4Yneo3cJUmr1OA86ZgjrxoL10QLkfkfKoTBQIdMhH0aAkmnEALw_wcB) |
 *Photo retrieved from:* [Booking.com]( https://www.booking.com/hotel/gr/grandbretagneathens.el.html)
 
-**St George Lycabettus**
+**St. George Lycabettus**
 
 <img src="media/stGeorge.jpg" alt="st George Lycabettus" width="500"/>
 
@@ -1681,7 +1681,7 @@ St. George Lycabettus offers mesmerising panoramic views over Athens to the Acro
 
 ## <a name="fullDayTrips"></a>Full Day Trips
 
-If you are staying in Athens for a couple of days, it's worth making a day tripand discover a different part of Greece
+If you are staying in Athens for a couple of days, it's worth making a daytrip and discover a different part of Greece
 
 **Port of Piraeus**
 
