@@ -593,7 +593,7 @@ all these cool features apart, the foundation offers a great place for long walk
 
 **Invisible tours by “Shedia”**
 
-<img src="media/aorate.jpeg" alt="Invisible Tours" width="500"/>
+<img src="media/aorate.jpg" alt="Invisible Tours" width="500"/>
 
 Invisible tours is a social project run by the Greek street paper “Shedia”. It is a social tours program based in the capital of Greece, Athens, in which homeless people become tour guides in a very different kind of a city walk. This is a tour that introduces visitors to many important social and solidarity institutions of the Greek capital (soup kitchens, day centers, drug rehabilitation centers, homeless shelters etc). The guides provide information on the types of services offered by each institution as well as how they themselves have experienced or are still experiencing homelessness.
 They share information on the changing face of homelessness and social exclusion, the challenges faced by the institutions that strive to cope with the demand for more social services as well as the profile of the people behind solidarity organizations that are at the forefront of the battle again poverty and social exclusion, as they try to safeguard individual and collective dignity. And this is the most striking element of “Invisible Tours”: the personal narrative; in other words, communicating one’s personal experience from life on the streets. All of the tour guides are “Shedia” street paper vendors. 
