@@ -898,6 +898,12 @@ by Anastasiou Brewing Co. that is located right beside the pub. Having that said
 
 Address: [Χαϊμαντά 25, Χαλάνδρι 152 34](https://www.google.com/maps/place/The+Local+Pub/@38.021125,23.7997258,17z/data=!3m1!4b1!4m5!3m4!1s0x14a198f9a86d9a0b:0x8b76260b26b50f78!8m2!3d38.0211208!4d23.8019145?hl=el)
 
+#####Opening Hours:
+| Day        | Schedule          |
+| ------------- |:-------------:|
+| Monday      | Closed |
+| Tue-Sun        | 6:00pm -02:00am | 
+
 *Information and Photo retrieved from:* [Newsbeast](https://www.newsbeast.gr/entertainment/arthro/794927/the-local-pub-mia-buraria-agglikon-prodiagrafon-sto-halandri)
 
 ## <a name="tours"></a>Tours
