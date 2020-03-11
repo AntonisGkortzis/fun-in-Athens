@@ -195,7 +195,7 @@ For a reservation or openning hours, please visit the following link: https://ww
 
 **Butcher's Burger**
 
-<img src="media/burger.jpg" alt="Butcher's Burger" width="500"/>
+<img src="media/butcherburger.jfif" alt="Butcher's Burger" width="500"/>
 
 The most delicious and great burgers with the most delicious handmade juicy burger & most delicious steaks are here
 and waiting for you to finish them at one of the 5 Butcher's Burger & Steak House shops!
@@ -1152,7 +1152,7 @@ You are downtown in Athens and you want to have fun with your friends or family;
 Open Mic Athens at the hospitable Akroasis of Kypseli. Known and unknown stand up comedians present their work.
 
 Every Friday at 21:00
-Contact: 2111822336 – 6907363999 
+Contact: 2111822336 – 6907363999
 
 *Information and Photo retrieved from:* [AKROASIS](https://akroasis.gr/open-mic-athens/)
 
@@ -1330,6 +1330,16 @@ One hour from Athens, you can visit the beautiful city of Chalkida. Ouza taverns
 *Information retrieved from:* [athinorama](https://www.athinorama.gr/travel/greece/destination.aspx?did=497&aid=710065) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CF%87%CE%B1%CE%BB%CE%BA%CE%B9%CE%B4%CE%B1&sxsrf=ALeKk00Ogy_GeAD3vkLw_gla5-F9UsXPkQ:1583886666903&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiXsZTRlZHoAhUHxosKHaxmBskQ_AUoAnoECBsQBA&biw=1536&bih=754#imgrc=AgJ_EeDOEdyNAM)
 
+**Full Day Cruise to Greek Islands from Athens: Poros - Hydra - Aegina**
+
+<img src="media/hpa.jpg" width="500"/>
+
+With this cruise you can visit three of the islands in Greece’s Saronic Gulf in turn, in just a day. Stroll on Hydra, visit Paros, and spend time on Aegina, either exploring alone or touring its Temple of Aphaia. Escpecially, on summer days it will make the day perfect and totally worth it. At the end of the day, you may be tired, but you still can do a lot of things. Look every other section of this guide to help you find the perfect place for you after a long and tiring day!
+
+*Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com/AttractionProductReview-g3695532-d13857583-Full_Day_Cruise_to_Greek_Islands_from_Athens_Poros_Hydra_Aegina-Paleo_Faliro_Atti.html)
+*Image retrieved from:*[Ferries](https://www.ferries.gr/)
+>>>>>>> 642027c4f324b77cc59ec36958da6d2355b497d2
+
 ## <a name="beach"></a>Beach
 
 Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
@@ -1350,4 +1360,3 @@ A series of many small beaches in small natural bays with rocks that impress wit
 
 *Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
-
