@@ -897,6 +897,8 @@ Plateia Mavili is one of the liveliest square in Athens located under the Lycabe
 Looking for a place near the sea to spend your day? Pasalimani or Marina Zeas is your answer.  
 Pasalimani or Marina Zeas is the second biggest port of Pireaus.  In the ancient times, it was the biggest military harbour.  Nowadays, it is said that is the center of amusement of Pireaus. There you can enjoy the beauty of the sea while walking around the port or by visiting one of the plenty of restaurants, coffee shops and shops around the port and Kanari’s square.
 
+Kastella is a place which is located right next to it. it is considered as one of the most elegant and popular neighbor in Piraeus. It is up on a hill, known as Prophet Elias, and if you walk to the top of it you can see the whole unique view of the central harbor (Pasalimani - Marina Zeas). There is also a variety of shops, restaurants, as well as a theater (Veakio Theater).
+
 *Information retrieved from:* [Wikipedia](https://el.wikipedia.org/wiki/%CE%9B%CE%B9%CE%BC%CE%AD%CE%BD%CE%B1%CF%82_%CE%96%CE%AD%CE%B1%CF%82) |
 *Photo retrieved from:* [Pinterest](https://gr.pinterest.com/)
 
