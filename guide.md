@@ -493,6 +493,15 @@ When the sun sets, you'll also enjoy selected lounge and house music by well-kno
 
 *Information and photo retrieved from:* [αθηνόραμα bar awards](https://www.athinoramabarawards.gr/bar-vravevmeno.aspx?id=10005350&Year=2019)
 
+**Chelsea Hotel**
+
+<img src="media/chelsea.jpg" alt="chelsea" width="500"/>
+
+Chelsea Hotel is one of the most visited bars in Pangrati. Here you will find mosaics on the floor, classic marble bars, wooden - coffee shop chairs, rattlesnakes, hanging musicians, writers, actors, colorful multicolored, iron chairs with their tables (or not), flagstaffs. You'll drink cheap, you will hear nice music, you will see a lot of people. You will be served by polite staff, you will take your pet along, you will go in the afternoon and leave late at night.
+
+*Information retieved from:* [thedot](https://thedot.gr/downtown-atzenta-mparakia-epiloges/article/9338/chelsea-hotel-ena-magazi-sto-pagkrati-poy-milas) |
+*Photo retieved from:* [Google](https://www.google.com/search?q=chelsea+%CF%80%CE%B1%CE%B3%CE%BA%CF%81%CE%B1%CF%84%CE%B9&tbm=isch&ved=2ahUKEwjq0_GzmZHoAhUF_KQKHdf3DaQQ2-cCegQIABAA&oq=chelse&gs_l=img.1.0.35i39l2j0l8.611115.613524..614451...1.0..3.144.1435.0j11......0....1..gws-wiz-img.....10..0i67j35i362i39j0i131.r9wIDNFI8OE&ei=PzVoXqq4D4X4kwXX77egCg&bih=754&biw=1536#imgrc=75QbLWFO-EFstM)
+
 **Plintirio Bar**
 
 <img src="media/plintirio.jpg" alt="Plintirio Bar" width="500"/>
