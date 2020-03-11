@@ -372,10 +372,10 @@ Address: [Αιόλου 48, 50 str, Αθήνα 105 60](https://www.google.gr/maps
 
 Seychelles is located on Metaxourgeio and serves value for money greek food. Reservations are suggested.
 
-| Opening Hours: Daily 10:00 to 2:00
-| Contact: +302111834789
-
-Address: [Κεραμεικού 49, Αθήνα 104 36](https://www.google.gr/maps/place/%CE%A3%CE%B5%CF%8B%CF%87%CE%AD%CE%BB%CE%BB%CE%B5%CF%82/@37.982275,23.7180833,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd268d6dcd17:0x3f2f7aea74dd8cf9!8m2!3d37.982275!4d23.720272)
+| Opening Hours | Daily 10:00 to 2:00	 |
+| ------------- |:----------------------:|
+| Address       | [Κεραμεικού 49, Αθήνα 104 36](https://www.google.gr/maps/place/%CE%A3%CE%B5%CF%8B%CF%87%CE%AD%CE%BB%CE%BB%CE%B5%CF%82/@37.982275,23.7180833,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd268d6dcd17:0x3f2f7aea74dd8cf9!8m2!3d37.982275!4d23.720272) |
+| Contact       | +302111834789|
 
 *Information retrieved from:* [Seychelles](http://www.seycheles.gr/en)
 
@@ -1543,6 +1543,17 @@ Contact: E-mail: spitikerameikos@gmail.com | Phone: 2114014975 (20:00-2:00), 698
 <img src="media/megaronConcertHall.jpeg" alt="Megaron" width="500"/>
 
 The Athens Concert Hall offers a comprehensive range of facilities for all sorts of cultural activities, designed to the very highest specifications and one of the most impressive venues of its kind anywhere in the world. It offers a forum for all sorts of cultural activities – both artistic and educational.
+
+Opening hours:
+* Monday - Friday	 10.00 am – 6.00 pm <br>
+* Saturday - Sunday	 10.00 am – 2.00 pm <br>
+
+On day of performance:
+* Monday - Friday	 10.00 am – 8.30 pm <br>
+* Saturday       	 10.00 am – 2.00 pm & 6.00 pm - 8.30 pm <br>
+* Sunday	         6.00 pm – 8.30 pm <br>
+
+Tickets are available at the Concert Hall [booking offices](https://www.google.com/maps/place/%CE%9C%CE%AD%CE%B3%CE%B1%CF%81%CE%BF+%CE%9C%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE%CF%82+%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD/@37.9810208,23.7518902,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd5100ae96b3:0x2efa440dcf5a2ce7!8m2!3d37.9810208!4d23.7540789) or you can buy them from home online/by phone.
 
 *Information retrieved from:* [Megaron](http://www.megaron.gr/default.asp?la=2) |
 *Photo retrieved form:* [EuGMS](https://www.eugms.org/2020/congress-venue.html)
