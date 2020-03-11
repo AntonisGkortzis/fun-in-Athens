@@ -854,6 +854,15 @@ Organizing a trip to the Temple of Poseidon is worth your time but making the mo
 *Information retrieved from:* [VisitGreece](http://www.visitgreece.gr/en/culture/archaeological_sites/the_archaeological_site_of_sounio) |
 *Photo retrieved from:* [GreekTravelPages](https://www.gtp.gr/TDirectoryDetails.asp?ID=14990)
 
+**Odeon of Herodes Atticus**
+
+<img src="media/herodes_atticus.jpg" alt="Odeon of Herodes Atticus" width="500"/>
+
+The Odeon of Herodes Atticus, which is also known as the “Herodeon”, is located on the the southern slopes of the Acropolis, on Dionysiou Areopagitou Street. The monument was constructed during the second century AD and was sponsored by Tiberius Claudius Herod Atticus, in memory of his wife Aspasia Annia Regilla. The Odeon had a roof made from cedar wood. It served mainly musical festivals, and could host up to 5,000 spectators. It was destroyed in 267 BC at the incursion of the Heruli, who burnt many buildings in ancient Athens. The monument was restored during 1952-1953 using marble from the Dionysus area. Since 1957 it stages art festivals, such as concerts, ancient drama performances, etc. If you have the chance to attend a concert or a performance taking place in the Odeon of Herodes Atticus, during Athens Festival, you will be amazed by the feeling it provokes!
+
+*Information retrieved from:* [Ministry of Culture and Sports](http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=6622) |
+*Photo retrieved from:* [THE CRAZY TOURIST](https://www.thecrazytourist.com/25-best-things-to-do-in-athens-greece/)
+
 **Panathenaic Stadium**
 
 <img src="media/panathenaic-stadium.jpg" alt="Panathenaic Stadium" width="500"/>
@@ -1438,3 +1447,12 @@ A series of many small beaches in small natural bays with rocks that impress wit
 
 *Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
+
+
+**Pasalimani, Sounio**
+
+<img src="media/pasalimani_sounio_01.jpg" alt="Pasalimani, Sounio" width="500"/>
+
+Hidden from plain sight and known mostly among locals living in the residential area of Pasa in Sounio, you can find the beach of Pasalimani. The sea here is deep, clear and bright blue, while the beach is sandy and of golden brown color. Driving towards Sounio, you turn on the 72nd km Athens-Sounio Rd. and you cross the residential area until you reach the wonderful beach and the uniquely blue sea, where you can kick back on this peaceful beach and swim your everyday troubles away.
+
+*Information and photo retrieved from:* [True Voyagers](https://truevoyagers.com/)
