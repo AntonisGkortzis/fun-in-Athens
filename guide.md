@@ -2045,7 +2045,7 @@ Locations near Zoumberi include the Town of Nea Makri and the Small port of Mati
 *Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
 
 
-## <a name="beach"></a>Beach
+## <a name="musicFestivals"></a>Music Festivals
 
 In Athens you can enjoy many music festivals, especially at summer when the weather is suitable for outdoor activities.
 
