@@ -577,6 +577,14 @@ Podiki is a place where young people, mostly students, gather for a live music s
 
 *Information and image retrieved from:*[Podiki](http://podiki.gr/)
 
+**Arodou Restaurant**
+
+<img src="media/arodou.jpg" width="500"/>
+
+A really nice Restaurant where there a lot of live shows and not only on weekends. The service is quite nice, polite and quick. The food is actually good but a little expensive for the portions they serve. But overall, the place is pretty nice to visit. The enviroment is nice, cozy and friendly and the days where there a live music show, the experience from this place is a lot more satisfying. Of course, you can have your drinks there, mostly for wine and retsina.
+
+*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10340922-Reviews-Arodou-Athens_Attica.html)
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
