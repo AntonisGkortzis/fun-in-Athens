@@ -932,6 +932,20 @@ Situated just 40 minutes via Flying Dolphin (a sort of boat-insect hybrid that l
 
 *Information and photo are retrieved from:* [culture trip](https://theculturetrip.com/europe/greece/articles/aegina-island-perfect-day-trip-athens/)
 
+**Plato's Academy Park**
+
+<img src="media/plato.jpg" width="500"/>
+
+The area of Athens where Plato was teaching his students is the Plato's Academy Park in Kolonos. He founded the academy in 387 B.C. but it was destroyed by the Romans in 86 B.C. Today this area is a public park accessible to everyone. 
+
+<img src="media/museumplato.jpg" width="500"/>
+
+You will find people talking with each other in every corner of the park, dogs walking with their owners but also an amazing digital museum. This museum uses the latest technologies, offering the visitor a journey into the history and work of Plato. 
+
+*Photo retrieved from:* [Google](https://www.google.com/search?q=plato+museum&client=firefox-b-d&sxsrf=ALeKk03t5k84puv24ojuV--UU-fVRi4PEQ:1583906082565&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivpqL73ZHoAhVSpYsKHUsZDMoQ_AUoAXoECB4QAw&biw=766&bih=750)
+*Photo retrieved from:* [Google](https://www.google.com/search?q=plato+academy&client=firefox-b-d&sxsrf=ALeKk01Z-Ln4bwpzOwraM0A0x6cu9YCedA:1583905820124&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjAmJD-3JHoAhWkzMQBHTmpDIoQ_AUoAXoECBcQAw&biw=766&bih=750)
+*Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Platonic_Academy)
+*Information retrieved from:* [plato-academy](http://www.plato-academy.gr/en/web/guest/museum)
 ## <a name="museums"></a>Museums
 
 Here you will find the most visit-worthy museums in Athens.
