@@ -552,7 +552,7 @@ Address: [T.K, Ακτή Μικρολίμανου, Πειραιάς 185 33](https
 
 **Skipper's**
 
-<img src="media/Skipper's.jpg" alt="Skipper's" width="500"/>
+<img src="media/Skippers.JPG" alt="Skipper's" width="500"/>
 
 Skipper’s bar opened on the 4th of May, 1987 and is currently going through its 26th year of operation. All these years Skipper's has remained constant supporting the principles of aesthetics, honesty and friendly prices. It's a magnificent place right along the seaside where you can enjoy your beverage or drinks. The easiest way to go there is by car.
 
