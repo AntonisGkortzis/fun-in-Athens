@@ -25,6 +25,14 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 ## <a name="cafe"></a>Cafeterias
 Here are the best places where you can enjoy your morning drinking a cup of coffee.
 
+**TELARO*
+
+<img src="media/telaro.jpg" width="500"/>
+
+Telaro is a cozy cafeteria with delicious branch, and nice music. It has 2 floors, and the second floor is a helpful and nice place to study or do your work, especially with friends. It's located the heart of Athens and you will not have hard time to find it while the prices range from 2 to 8 euros.
+
+*Image retrieved from:* [TELARO](https://www.athensmagazine.gr/article/restaurants/250822-apeytheias-apo-to-telaro-to-neo-nostimo-steki-sthn-aioloy-poy-anatrepei-ta-kathierwmena)
+
 **DOPE ROASTING Co.**
 
 <img src="media/dope.jpg" width="500"/>
