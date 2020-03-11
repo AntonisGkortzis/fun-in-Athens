@@ -628,8 +628,8 @@ Apart from all the tours you can do on your own, you can also join some organize
 
 [!(<img src="media/freetour.jpg" alt="Free Tour" width="500"/>)](https://www.youtube.com/watch?v=KphBnQum_4w)
 
-**Athens Street Art Free tour**
 
+**Athens Street Art Free tour**
 
 <img src="media/athens-street-art-tour-of-exarchia.jpg" alt="Street art in athens" width="500"/>
 
