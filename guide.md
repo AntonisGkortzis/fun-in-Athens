@@ -1321,6 +1321,15 @@ Spetses is one of the most cosmopolitan and picturesque islands in Greece. Locat
 *Information retrieved from:* [Greeka](https://www.greeka.com/attica/athens/tours/t07b-one-day-tour-to-spetses-island/) |
 *Photo retrieved from:* [Greece-is](https://www.greece-is.com/wp-content/uploads/2016/08/SPETSES_YannisLarios_Spetses_IMG_1008.jpg)
 
+**Chalkida**
+
+<img src="media/chalkida.jpg" alt="chalkida" width="500"/>
+
+One hour from Athens, you can visit the beautiful city of Chalkida. Ouza taverns and snacks for Sunday excursions, beautiful beaches to the north and south with clear waters and sandy beaches and a sense that the city lives on a permanent holiday.From the Negreponte bridge you can watch the changing direction of the waters of Euripos every six hours, a classic family attraction of the 1970s. Moreover, you can see the Roman aqueduct, known as the Arches, with twelve arches.
+
+*Information retrieved from:* [athinorama](https://www.athinorama.gr/travel/greece/destination.aspx?did=497&aid=710065) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=%CF%87%CE%B1%CE%BB%CE%BA%CE%B9%CE%B4%CE%B1&sxsrf=ALeKk00Ogy_GeAD3vkLw_gla5-F9UsXPkQ:1583886666903&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiXsZTRlZHoAhUHxosKHaxmBskQ_AUoAnoECBsQBA&biw=1536&bih=754#imgrc=AgJ_EeDOEdyNAM)
+
 ## <a name="beach"></a>Beach
 
 Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
