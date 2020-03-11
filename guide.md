@@ -25,6 +25,14 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 ## <a name="cafe"></a>Cafeterias
 Here are the best places where you can enjoy your morning drinking a cup of coffee.
 
+**DOPE ROASTING Co.**
+
+<img src="media/dope.jpg" width="500"/>
+
+Dope is a sunny cafeteria 5 minutes away from the metro of Monastiraki. But why is it sunny? The roof is made out of wood, but it contains large windows so it allows the sun, to lighten the inside. Except for the cafeteria's stylish and cool design, it also serves a good coffee (and food), and one can easily read a book, study or work in a place like this. At last, it has 2 floors with different kind of tables to sit, so that you get comfy.
+
+*Image retrieved from:* [POPAGANDA](https://popaganda.gr/table/dope-roasting-co/)
+
 **MADEIRA Cafe & Bar**
 
 <img src="media/madeira.jpg" width="500"/>
@@ -36,7 +44,6 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Photo retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
-<<<<<<< HEAD
 =======
 **Italus**
 
@@ -46,8 +53,6 @@ If you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enj
 
 *Information and photo retrieved from:* [Italus](http://www.italus.gr/)
 
-<<<<<<< HEAD
->>>>>>> bf229449e13e4c6966ea76abd3792149123f1c30
 =======
 **Dome**
 
@@ -2004,3 +2009,13 @@ Locations near Marathonas Beach include the Wetland of Brexiza and the Ancient d
 Restaurants near Marathonas Beach include Cavouri (Greek), Avra (Greek, Seafood), Taj Mahal (Indian), Vietnam (Vietnamese) and H Trata (Greek).
 
 *Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
+
+**Zoumperi Beach**
+
+<img src="media/zoumperi-beach.jpg" alt="Zoumperi Beach" width="500"/>
+
+The coastline of Nea Makri has many areas for your to enjoy the beach and clear blue sea. Zoumberi is a Beach in Nea Makri in Athens in the Attica Region of Greece.
+The postal code of Zoumberi is 19005 and its telephone access code is +3022940. Zoumberi is at an altitude of 20 meters. 
+Locations near Zoumberi include the Town of Nea Makri and the Small port of Mati.
+
+*Information retrieved from:* [Zoumperi Beach](*Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
