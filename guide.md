@@ -44,7 +44,7 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Photo retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
-=======
+
 **Italus**
 
 <img src="media/italus.jpg" width="500"/>
@@ -53,7 +53,7 @@ If you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enj
 
 *Information and photo retrieved from:* [Italus](http://www.italus.gr/)
 
-=======
+
 **Dome**
 
 <img src="media/dome.jpg" width="500"/>
@@ -62,8 +62,6 @@ Another cafeteria you should undoubtedly visit in Kallithea is "Dome", a cozy pl
 
 *Information and photo retrieved from:* [PolisPages](https://www.polispages.gr/guide/14207/dome-%7C-kafeteria-%7C-kallithea-)
 
-
->>>>>>> ad91a581647a0da71b149100bccaa14f64221fb0
 **Godmama’s Yard**
 
 <img src="media/godmamas.jpg" width="500"/>
