@@ -1563,6 +1563,15 @@ Tickets available at: www.addfestival.gr
 
 *Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/add_2020)
 
+#### <a name="taf"></a>**Taf The Art Foundation**
+
+<img src="media/taf.jpg" alt="Taf The Art Foundation" width="500"/>
+
+If you are looking for the best points in the cultural map of the city, then you should definitely visit "Taf The Art Foundation".  It all started at 2009 when an abandoned building in the center of Athens was part of a cultural project that has been focusing since then on participatory culture, experimentation and exploration. Everything that has been created from people is accessible to people all year round. Everyone can visit T.A.F, enjoy a drink, listen to music , see some interesting creations or even create something themselves.
+
+*Information retrieved from:* [Taf The Art Foundation](http://theartfoundation.metamatic.gr/EN/arxikh/) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=taf+the+art+found&client=firefox-b-d&sxsrf=ALeKk02MhKodGGkyb4X6UJzlE8F6PqWufA:1583871341182&source=lnms&tbm=isch&sa=X&ved=2ahUKEwipuaTF3JDoAhWKaRUIHZgaACcQ_AUoAXoECAwQAw&biw=766&bih=750)
+
 
 ## <a name="Accomodation"></a>Accomodation
 
