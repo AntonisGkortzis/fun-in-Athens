@@ -25,7 +25,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 ## <a name="cafe"></a>Cafeterias
 Here are the best places where you can enjoy your morning drinking a cup of coffee.
 
-**TELARO*
+**TELARO**
 
 <img src="media/telaro.jpg" width="500"/>
 
@@ -301,7 +301,7 @@ Address: [Θεμιστοκλέους 43-45, Αθήνα 106 83](https://www.googl
 Yiasemi is a funky cafe and bistro, located in the historic city center of Athens, at Mnisikleous street. It is quite well know for its
 picturesque setting, as it offers sitting options on the famous stairs of Mnisikleous street, that go all the way to the hill of the Acropolis and took the name of the ancient architect Mnisikli.
 
-Address: [Μνησικλέους 23, Αθήνα 105 55](Μνησικλέους 23, Αθήνα 105 55)
+Address: [Μνησικλέους 23, Αθήνα 105 55](https://www.google.com/maps/place/Yiasemi/@37.973568,23.6929157,13z/data=!4m8!1m2!2m1!1zzrPOuc6xz4POtc68zrk!3m4!1s0x14a1bd17febc518d:0x8174fddead635a45!8m2!3d37.973464!4d23.727893)
 
 *Photo retrieved from:* [Travel to Athens](https://www.traveltoathens.eu/item/cafe-yiasemi/)
 
