@@ -469,6 +469,8 @@ Address: [Παπαδιαμαντοπούλου 138, Ζωγράφου 157 73](htt
 Potato King is a fast food shop in the middle of Monastiraki, 3' walk from Metro Station. As say their name, are expert at potatoes and they selling 4 or 5 kind of potatoes, classic, country, wave and others. Except potatoes, of course Potato King sell different kind of meat, pork or chicken, gyros or kalamaki, either and souvlaki like a traditional souvlaki shop. The specialty of the shop is the Mahal mix, which is slices of pork and chicken together with 4 kinds of potatoes and 2 differen sauces! Now, the prices are very low for the quality that we pay and the quantity will satisfy even the most hungry guy!
 For more Potato King, check [this](https://www.youtube.com/watch?v=Y07VUDYMGUA)!
 
+Address: [Αγίου Φιλίππου 7, Αθήνα 105 55](https://www.google.gr/maps/place/Potato+King/@37.9767512,23.7212687,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd224936de07:0xb49c29caa5b819b3!8m2!3d37.9767512!4d23.7234574)
+
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10289905-Reviews-Potato_King-Athens_Attica.html)
 
 
@@ -482,6 +484,8 @@ Of course, when you visit Athens, you cannot skip its night life. Below, we have
 
 A magnificent place right along the seaside! It is placed in Piraeus and it is really nice to visit all day long. You can enjoy your coffee, drinks of even food, which is so delicious! Istioploikos although was added in the night life section, since in the night the place becomes even more better. it turns into a bar, where people drink their cocktails and listen to good music. The really known party of Istioploikos takes place every Sunday evening from 9 pm. The most easy way to go there is by car.
 
+Address: [T.K, Ακτή Μικρολίμανου, Πειραιάς 185 33](https://www.google.gr/maps/search/istioploikos/@37.9359835,23.6577617,17z/data=!3m1!4b1)
+
 *All information retrieved from:* [Istioploikos](http://www.istioploikos.gr/el/)
 
 **Terra Petra**
@@ -489,6 +493,8 @@ A magnificent place right along the seaside! It is placed in Piraeus and it is r
 <img src="media/terrapetra.jpg" alt="Terra Petra" width="500"/>
 
 What a nice way to enjoy your evening whilst glazing the whole beauty of Athens. Terra Petra has a breathtaking view across Athens and it is really nice play to get your cocktail and drink. Don't missunderstand me, this place is really nice to visit all day. Of course, on the daylight you don't want to drink a cocktail, or do you? Either way, you can also enjoy there your brunch along side with a cup of coffee or fresh juice. It is placed in Petroupoli, so you can get there by bus or by car. Don't worry, there is a huge parking lot waiting for you!
+
+Address: [Ανατολικής Ρωμυλίας 1, Πετρούπολη 132 31](https://www.google.gr/maps/place/Terra+Petra/@38.0448181,23.6706415,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a37f43719397:0xbf6c0828bbeaab3!8m2!3d38.0448181!4d23.6728302)
 
 *All information retrieved from:* [Terra Petra](https://www.terrapetra.gr/)
 
@@ -498,6 +504,8 @@ What a nice way to enjoy your evening whilst glazing the whole beauty of Athens.
 
 Another magnificent place in Petroupoli, just like Terra Petra is Apolis. There are really close to each other and they offer pretty much the same thing. A breathtaking view while enjoying your beverage, cocktail or food. Apolis is a little bit more cozy than Terra Petra, so if you don't want loud music, this is the place for you. You can talk and chill with your friends and family there. I promise you that you are going to enjoy every second while sitting there and enjoying the view.
 
+Address: [Αγίου Δημητρίου, Πετρούπολη 132 31](https://www.google.gr/maps/place/Apolis/@38.0459619,23.6843777,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a39e9a1fc603:0x4a4da1b94dcd633a!8m2!3d38.0459619!4d23.6865664)
+
 *Image retrieved from:* [Apolis](http://www.apolis.gr/)
 
 **A For Athens Cocktail Bar**
@@ -505,6 +513,8 @@ Another magnificent place in Petroupoli, just like Terra Petra is Apolis. There 
 <img src="media/aForAthens.jpg" alt="A For Athens" width="500"/>
 
 A For Athens is an ideal place to enjoy your house special cocktails at night! On the top floor, there is an urban terrace which creates a beautiful and fun atmosphere with a stunning view over the Acropolis and Monastiraki Square. It is placed right in the city center and is easily accessible, as the metro station is 2 minutes away on foot.
+
+Address: [Μιαούλη 2, Αθήνα 105 54](https://www.google.gr/maps/search/a+for+athens+bar+address/@37.9767246,23.722541,17z/data=!3m1!4b1)
 
 *Information retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d2665318-Reviews-A_for_Athens_Cocktail_Bar-Athens_Attica.html) |
 *Photo retrieved from:* [A For Athens](https://aforathens.com/photos/)
@@ -515,6 +525,8 @@ A For Athens is an ideal place to enjoy your house special cocktails at night! O
 
 It’s a marvelous quiet place up on a hill at [Chaidari, Athens](https://www.google.com/maps/place/%CE%A4%CE%97%CE%9B%CE%95%CE%A3%CE%9A%CE%9F%CE%A0%CE%99%CE%9F/@38.006967,23.6540462,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bb5282459acb:0xbcb04e251a50a81a!8m2!3d38.006967!4d23.6562349). It's like love at first sight! You most definately won't need more than a moment to fall in love with this place. Inside the store you will find 21 telescopes which you can use to look at the magnificent view from the Piraeus port to the Olympic Stadium! The ideal spot for a relaxing drink or a dinner!
 
+Address: [Φιλικής Εταιρείας, Χαϊδάρι 124 61](https://www.google.gr/maps/place/%CE%A4%CE%97%CE%9B%CE%95%CE%A3%CE%9A%CE%9F%CE%A0%CE%99%CE%9F/@38.006967,23.6540462,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bb5282459acb:0xbcb04e251a50a81a!8m2!3d38.006967!4d23.6562349)
+
 *Information retrieved from:* [XPAT ATHENS]( https://www.xpatathens.com/)
 
 **Lohan Nightclub**
@@ -523,6 +535,8 @@ It’s a marvelous quiet place up on a hill at [Chaidari, Athens](https://www.go
 
 If you like pop and trap music, this club is definitely a must for you. The huge space and the beautiful design will give you an unforgettable experience. In this club, you can have your favorite drinks, dance till the morning and enjoy the performance of the best DJ's in the world. It is near the city center, just a five-minute walk from the metro station "Keramikos"!
 
+Address: [30, Ιερά Οδός 32, Αθήνα 104 35](https://www.google.gr/maps/place/Lohan/@37.980089,23.7118973,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcdf1361cf75:0xd93f0d81a48af300!8m2!3d37.980089!4d23.714086)
+
 *Information and photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Attraction_Review-g189400-d11827483-Reviews-Lohan_Nightclub-Athens_Attica.html)
 
 **Nalu**
@@ -530,6 +544,8 @@ If you like pop and trap music, this club is definitely a must for you. The huge
 <img src="media/nalu.jpg" alt="Nalu" width="500"/>
 
 Nalu is an all day venue, next to the sea and open all year! It is located in Alimos and you can go there by bus or tram, but I would recommend by car since the place offers a free parking lot! A cozy environment offers its customers to enjoy themselves all day long. In the morning, you can enjoy your beverage and brunch with the unique sea view. In the afternoon, you can enjoy the breathtaking sunset next to the sea while drinking a glass of wine. And in the night, you can enjoy unique cocktails and drinks, while listening to your favorite music.
+
+Address: [Λεωφ. Ποσειδώνος, Άλιμος 174 55](https://www.google.gr/maps/place/N%C4%81lu/@37.9055873,23.7143516,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1be62bc8c5a61:0x83b98f4ac7d6e3c7!8m2!3d37.9055873!4d23.7165403)
 
 *Information retrieved from:* [Nalu](https://www.nalu.gr/en/home) |
 *Photo retrieved from:* [Regroup](https://www.regroup.gr/default/388/deals/5870/nalu-menu/)
@@ -542,6 +558,8 @@ If you like cocktails and fancy drinks, then Holy Spirit is an ideal place for y
 
 If you prefer cocktails only in summer, then Holy Spirit Beach Bar is a very beautiful place and the best choice that you have. Enjoy amazing and tasty cocktails at the beach of Varkiza with the sound of the sea waves. Holy Spirit Beach Bar is located at Varkiza Resort Yabanaki beach.
 
+Address: [Ακτή ΕΟΤ Βάρκιζας, Αθήνα 161 72](https://www.google.gr/maps/place/Holy+Spirit+Beach+Bar/@37.8207269,23.8065033,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1952b9ca6ab81:0x6751412a02c026db!8m2!3d37.8207269!4d23.808692?hl=el)
+
 *Information retrieved from:* [Varkiza Resort](https://www.varkizaresort.gr/el_GR/stores/holy-spirit.html) |
 *Photo retrieved from:* [Varkiza Resort](https://www.varkizaresort.gr/media/upload-files/cache/843/84346924fb1b5c02c2e105b1c65ddc6a_mg5443.jpg)
 
@@ -552,7 +570,7 @@ If you prefer cocktails only in summer, then Holy Spirit Beach Bar is a very bea
 Inspired by the last lines of the first King Kong movie in 1933 _"It was beauty. As always, beauty killed the beast"_, this fantastic *cocktail bar* offers high quality cocktails, but that's not just it. It is located inside a house that was built at the '30s and its decor is a funky mix of vintage and industrial, including an underground urban jungle, which create a chill, cinematic scene.
 You can visit Beauty Killed the Beast for its amazing _cocktails_, as well as its wonderful _brunch_ that also has a lot of vegan options.
 
-_📍 : Paramithias 14, Kerameikos_
+_📍 : [Paramithias 14, Kerameikos](https://www.google.gr/maps/place/BEAUTY+KILLED+THE+BEAST/@37.9832268,23.7137022,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd277cd8815b:0x7a13ee9a67c8e36d!8m2!3d37.9832268!4d23.7158909?hl=el)
 
 _📞: +30 21 0524 0117_
 
@@ -574,6 +592,8 @@ Then there are the smaller, borderline cult stages, that we call skyladika, whic
 <img src="media/clumsies.jpg" alt="The Clumsies" width="500"/>
 
 Nestled in an unassuming street in the vibrant centre of Athens, The Clumsies is an all-day cocktail bar that has steadily climbed its way up the World’s Best list since its inception in 2012. Don’t let the name fool you, there is nothing clumsy about the quality of cocktails, food or service offered at this slick Athens hip-spot. The Clumsies' philosophy is not only centred around creating a unique cocktail and food experience, but also promoting interaction between the customer and bartender to encourage the exploration new tastes and flavours.
+
+Address: [Πραξιτέλους 30, Αθήνα 105 61](https://www.google.gr/maps/place/The+Clumsies/@37.9789356,23.7275716,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3b6559ab61:0xe4da18e67110b926!8m2!3d37.9789356!4d23.7297603?hl=el)
 
 *Information retrieved from:* [Greek City Times](https://greekcitytimes.com/2017/11/23/athens-bar-clumsies-ranked-among-worlds-best/?amp) |
 *Photo retrieved from:* [The Clumsies](https://www.theclumsies.gr/)
@@ -601,6 +621,8 @@ Useful info:
 Relatively new to Nea Smyrni square, New Habits is a all day cafe-bar located. Very Popular for its cocktails and parties, new Habits is a perfect destination to have fun at one of
 the most popular squares of Athens, day and night.
 
+Address: [25ης Μαρτίου 25, Νέα Σμύρνη 171 21](https://www.google.gr/maps/place/NEW+HABITS/@37.9470494,23.7123191,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bc52a36fb269:0xb89cc3c7051434ec!8m2!3d37.9470494!4d23.7145078?hl=el)
+
 *Photo retrieved from:* [New Habits](http://newhabits.gr/gallery/the-place/#prettyPhoto)
 
 **Baba Au Rum**
@@ -608,7 +630,6 @@ the most popular squares of Athens, day and night.
 <img src="media/babaaurum.png" alt="Baba Au Rum" width="500"/>
 
 Baba Au Rum has won multiple awards over the last few years and have been listed as one of the best rum bars in the world. It has become renowned for its premium selection of rum and other spirits, while also having exotic drinks mixed with organic herbs and unexpected spices. You will find it a few twists and turns away from Syntagma Square at [Klitiou 6](https://www.google.com/maps/place/Baba+au+rum/@37.9773968,23.7276655,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3c8e015b15:0xde9376e3acda79ed!8m2!3d37.9773968!4d23.7298542).
-
 *Information retrieved from:* [Why Athens](http://newhabits.gr/gallery/the-place/#prettyPhoto) |
 *Photo retrieved from:* [Baba Au Rum](http://babaaurum.com/)
 
@@ -617,6 +638,8 @@ Baba Au Rum has won multiple awards over the last few years and have been listed
 <img src="media/lot51.jpg" alt="Lot 51" width="500"/>
 
 Lot 51 gives a lot of value to the quality of the coffee and wants to make it a better as possible. Apart from that, you can find there very interesting labels of whiskey and a lot of tasty cocktails. Last but not least, there are many choices there if you want to have a meal, for example brunch, salat, burger or even pasta.
+
+Address: [Παπαδιαμαντοπούλου 24Β, Αθήνα 115 28](https://www.google.gr/maps/place/LOT+51/@37.9789537,23.7538973,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd2b908d75f7:0xb36011cf0d44706d!8m2!3d37.9789537!4d23.756086?hl=el)
 
 *Information & photo retrieved from:* [Esquire](https://esquire.com.gr/poto/bars/5852/giati-oloi-pigainoun-sto-lot-51)
 
@@ -633,7 +656,7 @@ Mylos is one of the greatest club in Athens. It is really famous and respected i
 <img src="media/tyco.jpg" alt="TYCO" width="500"/>
 
 Are you interested on spending a chill night walking around Athens with your favourite cocktail at hand? Then Tyco is the best place  for you to visit.  
-It is located at 11 Romvis street, 10560 Athens, Greece and offers you various tasty and cheap cocktails from the classic ones to more exotic and different.   
+It is located at [11 Romvis street, 10560 Athens, Greece](https://www.google.gr/maps/search/tyco/@37.9838371,23.6604345,12z/data=!3m1!4b1?hl=el) and offers you various tasty and cheap cocktails from the classic ones to more exotic and different.   
 Grab your favourite cocktail and start exploring Athens by night.
 
 *Information and photo retrieved from:* [TYCOS' facebook page](https://www.facebook.com/TakeYourCocktailOut/)
@@ -646,6 +669,8 @@ The hidden bar on Normanou Street, near the Monastiraki’s square, is one of th
 
 When the sun sets, you'll also enjoy selected lounge and house music by well-known Greek and world DJ's!
 
+Address: [Νορμανού 3, Αθήνα 105 55](https://www.google.gr/maps/place/Couleur+Locale/@37.9766552,23.7223068,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd2255d23b63:0x4b35c1b89153d25d!8m2!3d37.9766552!4d23.7244955?hl=el)
+
 *Information and photo retrieved from:* [αθηνόραμα bar awards](https://www.athinoramabarawards.gr/bar-vravevmeno.aspx?id=10005350&Year=2019)
 
 **Chelsea Hotel**
@@ -653,6 +678,8 @@ When the sun sets, you'll also enjoy selected lounge and house music by well-kno
 <img src="media/chelsea.jpg" alt="chelsea" width="500"/>
 
 Chelsea Hotel is one of the most visited bars in Pangrati. Here you will find mosaics on the floor, classic marble bars, wooden - coffee shop chairs, rattlesnakes, hanging musicians, writers, actors, colorful multicolored, iron chairs with their tables (or not), flagstaffs. You'll drink cheap, you will hear nice music, you will see a lot of people. You will be served by polite staff, you will take your pet along, you will go in the afternoon and leave late at night.
+
+Address: [Αρχιμήδους, Πρόκλου και, Αθήνα 116 35](https://www.google.gr/maps/place/Chelsea+Hotel/@37.967777,23.7415413,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd6a4a643ad3:0xdafde0cb439a69a3!8m2!3d37.967777!4d23.74373?hl=el)
 
 *Information retieved from:* [thedot](https://thedot.gr/downtown-atzenta-mparakia-epiloges/article/9338/chelsea-hotel-ena-magazi-sto-pagkrati-poy-milas) |
 *Photo retieved from:* [Google](https://www.google.com/search?q=chelsea+%CF%80%CE%B1%CE%B3%CE%BA%CF%81%CE%B1%CF%84%CE%B9&tbm=isch&ved=2ahUKEwjq0_GzmZHoAhUF_KQKHdf3DaQQ2-cCegQIABAA&oq=chelse&gs_l=img.1.0.35i39l2j0l8.611115.613524..614451...1.0..3.144.1435.0j11......0....1..gws-wiz-img.....10..0i67j35i362i39j0i131.r9wIDNFI8OE&ei=PzVoXqq4D4X4kwXX77egCg&bih=754&biw=1536#imgrc=75QbLWFO-EFstM)
@@ -663,6 +690,8 @@ Chelsea Hotel is one of the most visited bars in Pangrati. Here you will find mo
 
 Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintirio bar takes you to a laundry room styled bar where you can drink, dance and have fun!  
 
+Address: [Δεκελέων 36, Ορφέως 33, Αθήνα 118 54](https://www.google.gr/maps/place/%CE%A0%CE%BB%CF%85%CE%BD%CF%84%CE%AE%CF%81%CE%B9%CE%BF+Bar/@37.9769574,23.707672,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd266653a7e5:0xf1810eb71d1d1306!8m2!3d37.9769574!4d23.7098607?hl=el)
+
 *Photo retrieved from:* [Plintirio bar facebook page](https://www.facebook.com/%CE%A0%CE%BB%CF%85%CE%BD%CF%84%CE%AE%CF%81%CE%B9%CE%BF-Bar-1413208995564217/)
 
 **Six Dogs**                                                                                                                                                                                                                                   
@@ -671,12 +700,16 @@ Wanna go back in time and dance to the goldies of the 80s, 90s and 00s? Plintiri
 
 Six d.o.g.s is an all day/all night cultural center in the historical triangle of Athens. It combines a Gig space, Project Space, a bar, a foyer and a garden. It does over 500+ events yearly on average and the venue keeps a hyperactive but never tiring character. It offers all kinds of homemade seasonal beverages, unique cocktails and the best edible treats you can think of. Along with that, the design when mixed with all the events makes this places irresistible.                                                                                                                                    
 
+Address: [Αβραμιώτου 6-8, Αθήνα 105 51](https://www.google.gr/maps/place/six+d.o.g.s/@37.9774684,23.7246229,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd2339b5d703:0x1064e7b168cee196!8m2!3d37.9774684!4d23.7268116?hl=el)
+
 *Information retrieved from:* [SixDogs](http://www.sixdogs.gr) |*Photo retrieved from:* [Popaganda](https://popaganda.gr/citylife/six-d-o-g-s-presents-broken-king-cocktail/)
 
 **Cabezon**
 
 <img src= "media/barrr-thumb-large.jpg" alt= "Cabezon" width="500"/>
 In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. With cobblestones, small tables and some tires instead of seats, Reggae music and calmness. That kind of calmness that reminds you of your summer vacation. At Cabezon you can sit there and talk, enjoy your night, have some meze and chill with your group of friends with some beer or wine.
+
+Address: [Κεραμεικού 110, Αθήνα 104 35](https://www.google.gr/maps/place/Cabezon/@37.9801764,23.7130439,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcdf5df46c7f:0x70dd2b18800be69d!8m2!3d37.9801764!4d23.7152326?hl=el)
 
 *Information retrieved from:* [Nou-Pou](https://www.nou-pou.gr/ektos-synorwn/pame-kentro/oi-6-pio-omorfes-ayles-sto-meta3oyrgeio/) |
 *Photo retrieved from:* [Kathimerini](https://www.kathimerini.gr/829044/article/epikairothta/ellada/ayles-all-day)
@@ -687,6 +720,8 @@ In one of the most beautiful yards of Metaxourgio, a little paradise is hidden. 
 
 Romantso is the former office building of the homonymous brochure and is located in the historic shopping center of Athens. It is both an office space for creative start-ups and a cultural center, open to public, with a daily event schedule.The cultural center offers a wide range of events, related to the interests of urban life, music, performance, art, food and conversation. You can check the upcoming events at http://www.romantso.gr/
 
+Address: [Αναξαγόρα 3, Αθήνα 105 52](https://www.google.gr/maps/place/%CE%A1%CE%BF%CE%BC%CE%AC%CE%BD%CF%84%CF%83%CE%BF/@37.982301,23.7236754,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd2517e113eb:0x24635daea39f9781!8m2!3d37.982301!4d23.7258641?hl=el)
+
 *Information retrieved from* [Romatso](http://www.romantso.gr/) |
 *Photo retrieved from* [Google](https://www.google.com/search?q=%CF%81%CE%BF%CE%BC%CE%B1%CE%BD%CF%84%CF%83%CE%BF&sxsrf=ALeKk01auHXnsajePHv3ClDG0fnFGJqpjw:1583845072683&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLzr7X-o_oAhVEzqYKHaUKBZQQ_AUoAnoECA4QBA&biw=1536&bih=754#imgrc=fIDG1nB8C9bA_M)
 
@@ -695,6 +730,8 @@ Romantso is the former office building of the homonymous brochure and is located
 <img src="media/drunkSinatra.jpg" alt="Drunk Sinatra" width="500"/>
 
 This hidden all day bar with its vintage theme is located close to the popular night spots of Kolokotroni Street and has been a hit with the locals from the day it opened. Paying homage to old “blue eyes”, this long narrow bar sees patrons spilling out onto the pavement, where additional tables and chairs are set up and are well serviced. Its décor and cocktail list are inspired by the ‘50s and ‘60s and has a fun relaxed atmosphere. Many start the night here before moving on to the next hotspot.
+
+Address: [Θησέως 16, Αθήνα 105 62](https://www.google.gr/maps/place/Drunk+Sinatra/@37.977293,23.7287224,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3c637a2fc1:0x49986e1644df3fa!8m2!3d37.977293!4d23.7309111?hl=el)
 
 *Information retrieved from:* [WhyAthens](https://whyathens.com/athens-nightlife/) |
 *Photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com/LocationPhotoDirectLink-g189400-d6029269-i209959965-Drunk_Sinatra-Athens_Attica.html)
@@ -705,6 +742,8 @@ This hidden all day bar with its vintage theme is located close to the popular n
 
 The name of this place says it all. 360 Degrees is a lush rooftop garden and cocktail bar with a unique industrial design that gives guests panoramic views of the entire city and the Acropolis. Right on Monastiraki Square, just steps away from the Monastiraki Flea Market, 360 Degrees is the place to go to for some dining and drinks with the best view of Athens, hands down!
 
+Address: [Ηφαίστου 2, Αθήνα 105 55](https://www.google.gr/maps/place/360+Cocktail+bar/@37.9762855,23.7233775,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd22e45a490f:0x865190e05bf0509b!8m2!3d37.9762855!4d23.7255662?hl=el)
+
 *Information and photo retrieved from:* [Greek City Times](https://greekcitytimes.com/2018/07/03/athens-immaculate-360-degrees-rooftop-bar/?amp)
 
 **City Zen**
@@ -712,6 +751,8 @@ The name of this place says it all. 360 Degrees is a lush rooftop garden and coc
 <img src="media/cityzen.jpg" alt="City Zen" width="500"/>
 
 An all day bar and restaurant with great ambience located in the heart of the historical centre of Athens, offering an astounding view of the Acropolis. The bar has a unique roof terrace, making it ideal for summer visits. You can enjoy everything from refreshing beverages and brunch to dinner dishes and sparkling coctails; not to mention a wide variety of coffees. You can find it [here](https://www.google.com/maps/place/City+ZEN+All+Day+Bar+Restaurant/@37.9762698,23.7252637,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd22d5d6642b:0xc437c550c5bdb50c!8m2!3d37.9762656!4d23.7274524)
+
+Address: [Αιόλου 11, Αθήνα 105 55](https://www.google.gr/maps/place/City+ZEN+All+Day+Bar+Restaurant/@37.9762656,23.7252637,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd22d5d6642b:0xc437c550c5bdb50c!8m2!3d37.9762656!4d23.7274524?hl=el)
 
 *Information retrieved from:* [City Zen](https://www.cityzenathens.gr/) |
 *Photo retrieved from:* [Elepod](https://www.elepod.gr/business/cityzen-all-day-cafe-bar-kaphes-poto-me-thea-akropole-monasteraki)
@@ -730,6 +771,8 @@ It might sound pretty bizarre, but there is a place where Greek and Irish cultur
 
 Podiki is a place where young people, mostly students, gather for a live music show. They drink, they eat and the mostly dance to the live music. In Podiki you can hear folk, pop, rebetika, traditional from great artists. With a friendly atmosphere and its great past this place is unique and definately worth visiting. After you visit this place, you can get more in touch with how greek people enjoy their evenings and what music they listen to. An important note: it is not a certain genre.
 
+Address: [Επτανήσου 9, Αθήνα 112 57](https://www.google.gr/maps/place/%CE%A4%CE%BF+%CE%A0%CE%BF%CE%BD%CF%84%CE%AF%CE%BA%CE%B9+%CE%A1%CE%B5%CE%BC%CF%80%CE%B5%CF%84%CE%AC%CE%B4%CE%B9%CE%BA%CE%BF+%CE%91%CE%B8%CE%AE%CE%BD%CE%B1/@37.996935,23.732897,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a2cbde1ae4d7:0x958072c0512ad674!8m2!3d37.996935!4d23.7350857?hl=el)
+
 *Information and image retrieved from:*[Podiki](http://podiki.gr/)
 
 **Arodou Restaurant**
@@ -737,6 +780,8 @@ Podiki is a place where young people, mostly students, gather for a live music s
 <img src="media/arodou.jpg" width="500"/>
 
 A really nice Restaurant where there a lot of live shows and not only on weekends. The service is quite nice, polite and quick. The food is actually good but a little expensive for the portions they serve. But overall, the place is pretty nice to visit. The enviroment is nice, cozy and friendly and the days where there a live music show, the experience from this place is a lot more satisfying. Of course, you can have your drinks there, mostly for wine and retsina.
+
+Address: [Μιαούλη 22, Αθήνα 105 54](https://www.google.gr/maps/place/%CE%91%CF%81%CF%8C%CE%B4%CE%BF%CF%85/@37.9780556,23.7230891,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd2373220a8d:0xd0a8192d817f3aa9!8m2!3d37.9780556!4d23.7252778?hl=el)
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10340922-Reviews-Arodou-Athens_Attica.html)
 
