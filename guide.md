@@ -1659,6 +1659,16 @@ Hilton Athens is a luxurious hotel located in . A favorite among locals and gues
 *Information retrieved from:* [Hilton Athens](https://www3.hilton.com/en/hotels/greece/hilton-athens-ATHHITW/index.html) |
 *Photo retrieved form:* [Hilton Athens Booking.com](https://www.booking.com/hotel/gr/hilton-athens.el.html?label=gen173nr-1DCAsoXEINaGlsdG9uLWF0aGVuc0gzWARoXIgBAZgBCLgBF8gBDNgBA-gBAYgCAagCA7gCzo2h8wXAAgE;sid=1fc444795f7e1eca4f89f99ed51be977;dist=0&keep_landing=1&sb_price_type=total&type=total&)
 
+**Hotel Grande Bretagne**
+
+<img src="media/GB.jpg" alt="GB" width="500"/>
+
+The most iconic hotel in Athens, located at Syntagma Square, is one of the most luxurious and high-end hotels of the city. Its has a classical design and its facilities include an indoor pool, a spa, an outdoor pool and a fitness center. It also offers plenty of restaurants and bars, such as the GB Roof Garden restaurant, Alexander bar and The Winter Garden.
+[You can discover more about Hotel Grande Bretagne and its amenities here](https://hotelbretagne.grandluxuryhotels.com/en/h/31/hotel-grande-bretagne?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeLPKULmiay8E4Yneo3cJUmr1OA86ZgjrxoL10QLkfkfKoTBQIdMhH0aAkmnEALw_wcB)
+
+*Information retrieved from:* [Hotel Grande Bretagne]( https://hotelbretagne.grandluxuryhotels.com/en/h/31/hotel-grande-bretagne?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeLPKULmiay8E4Yneo3cJUmr1OA86ZgjrxoL10QLkfkfKoTBQIdMhH0aAkmnEALw_wcB) |
+*Photo retrieved from:* [Booking.com]( https://www.booking.com/hotel/gr/grandbretagneathens.el.html)
+
 
 ## <a name="fullDayTrips"></a>Full Day Trips
 
