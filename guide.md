@@ -390,7 +390,8 @@ Chocolatata is a really nice and cozy place really close to the Megaron Mousikis
 
 <img src="media/Potato King.jpg" width="500"/>
 
-Potato King is a fast food shop in the middle of Monastiraki, 3' walk from Metro Station. As say their name, are expert at potatoes and they selling 4 or 5 kind of potatoes, classic, country, wave and others. Except potatoes, of course Potato King sell different kind of meat, pork or chicken, gyros or kalamaki, either and souvlaki like a traditional souvlaki shop. The specialty of the shop is the Mahal mix, which is slices of pork and chicken together with 4 kinds of potatoes and 2 differen sauces! Now, the prices are very low for the quality that we pay and the quantity will satisfy even the most hungry guy! For more Potato King, check *[this](https://www.youtube.com/watch?v=Y07VUDYMGUA)!
+Potato King is a fast food shop in the middle of Monastiraki, 3' walk from Metro Station. As say their name, are expert at potatoes and they selling 4 or 5 kind of potatoes, classic, country, wave and others. Except potatoes, of course Potato King sell different kind of meat, pork or chicken, gyros or kalamaki, either and souvlaki like a traditional souvlaki shop. The specialty of the shop is the Mahal mix, which is slices of pork and chicken together with 4 kinds of potatoes and 2 differen sauces! Now, the prices are very low for the quality that we pay and the quantity will satisfy even the most hungry guy!
+For more Potato King, check [this](https://www.youtube.com/watch?v=Y07VUDYMGUA)!
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10289905-Reviews-Potato_King-Athens_Attica.html)
 
