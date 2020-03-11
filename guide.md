@@ -552,6 +552,15 @@ The name of this place says it all. 360 Degrees is a lush rooftop garden and coc
 
 *Information and photo retrieved from:* [Greek City Times](https://greekcitytimes.com/2018/07/03/athens-immaculate-360-degrees-rooftop-bar/?amp)
 
+**City Zen**
+
+<img src="media/cityzen.jpg" alt="City Zen" width="500"/>
+
+An all day bar and restaurant with great ambience located in the heart of the historical centre of Athens, offering an astounding view of the Acropolis. The bar has a unique roof terrace, making it ideal for summer visits. You can enjoy everything from refreshing beverages and brunch to dinner dishes and sparkling coctails; not to mention a wide variety of coffees.
+
+*Information retrieved from:* [City Zen](https://www.cityzenathens.gr/) |
+*Photo retrieved from:* [Elepod](https://www.elepod.gr/business/cityzen-all-day-cafe-bar-kaphes-poto-me-thea-akropole-monasteraki)
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
@@ -623,6 +632,10 @@ Around Flisvos Marina area, just a few miles away from Syntagma square, you can 
 Filopappou hill, also called the Hill of the Muses, is the perfect spot for a stroll especially at sunset! The hill offers a breathtaking view to the Saronic Gulf and of course and a really advantaging point to take a photo of the Acropolis. Of course there is a lot of history hidden in this hill. The monument of Filopappos, which identifies the hill, was built between AD 114 and 116 in honour of Julius Antiochus Filopappos, a prominent Roman consul and administrator.
 
 *Information and photo retrieved from:* [Lonely Planet](https://www.lonelyplanet.com/greece/athens/attractions/filopappou-hill/a/poi-sig/1008076/359421)
+
+Plateia Mavili is one of the liveliest square in Athens located under the Lycabettus hill and is part of Ampelokipoi district.It's one of the few square in the centre of Athens that still retains its neighborhood features.With legendary bars and ever-new arrivals popping all over the square. The square's landmark since 1989 is the "Canteen" thats caters with fast food and is a perfect spot to get chicken wings on the go after a night out.
+
+* Information retrieved from :*[Bovary](https://www.bovary.gr/city/7190/10-diahronika-magazia-gia-poto-kai-nostimo-fagito-stin-plateia-mavili )photo retrieved from:*[Trip2Athens](http://athina984.gr/wp-site/2019/08/28/dialogoi-stin-plateia-mavili/)
 
 **Pasalimani - Marina Zeas**
 
@@ -930,7 +943,7 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 *Photo retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
 
 
-**Guided Tours at the Stavros Niarchos Park"**
+**Guided Tours at the Stavros Niarchos Park**
 
 <img src="media/niarchos_park.jpg" alt="Stavros Niarchos Park" width="500"/>
 
@@ -940,8 +953,11 @@ Daily at 17.00
 Meeting point: VISITORS CENTER (Evripidou & Doiranis, Kallithea)
 Tour Duration: 60'
 Number of participants per tour: 20 people
-:ticket: Free admission via online pre-registration
+:ticket: Free admission via [online pre-registration](https://www.eventora.com/en/Events/snfcc-park-2020)
 :calendar: Date: 01 March - 31 March 2020
+
+*Information retrieved from:* [SNFCC](https://www.snfcc.org/en) |
+*Photo retrieved from:*[Architectural Digest](https://www.architecturaldigest.com/)
 
 
 
@@ -1383,7 +1399,7 @@ Spetses is one of the most cosmopolitan and picturesque islands in Greece. Locat
 
 **Chalkida**
 
-<img src="media/chalkida.jpg" alt="chalkida" width="500"/>
+<img src="media/chalkida2.jpg" alt="chalkida" width="500"/>
 
 One hour from Athens, you can visit the beautiful city of Chalkida. Ouza taverns and snacks for Sunday excursions, beautiful beaches to the north and south with clear waters and sandy beaches and a sense that the city lives on a permanent holiday.From the Negreponte bridge you can watch the changing direction of the waters of Euripos every six hours, a classic family attraction of the 1970s. Moreover, you can see the Roman aqueduct, known as the Arches, with twelve arches.
 
@@ -1420,3 +1436,12 @@ A series of many small beaches in small natural bays with rocks that impress wit
 
 *Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
+
+
+**Pasalimani, Sounio**
+
+<img src="media/pasalimani_sounio_01.jpg" alt="Pasalimani, Sounio" width="500"/>
+
+Hidden from plain sight and known mostly among locals living in the residential area of Pasa in Sounio, you can find the beach of Pasalimani. The sea here is deep, clear and bright blue, while the beach is sandy and of golden brown color. Driving towards Sounio, you turn on the 72nd km Athens-Sounio Rd. and you cross the residential area until you reach the wonderful beach and the uniquely blue sea, where you can kick back on this peaceful beach and swim your everyday troubles away.
+
+*Information and photo retrieved from:* [True Voyagers](https://truevoyagers.com/)
