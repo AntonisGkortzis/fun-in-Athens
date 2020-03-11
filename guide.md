@@ -590,6 +590,23 @@ all these cool features apart, the foundation offers a great place for long walk
 
 *Info retrieved from:* [SNF](https://www.snf.org/en/) | *Photo retrieved from:* [AthensVoice](https://www.athensvoice.gr/places/99674_kentro-politismoy-idryma-stayros-niarhos-snf)
 
+
+**Invisible tours by “Shedia”**
+
+<img src="media/aorate.jpeg" alt="Invisible Tours" width="500"/>
+
+Invisible tours is a social project run by the Greek street paper “Shedia”. It is a social tours program based in the capital of Greece, Athens, in which homeless people become tour guides in a very different kind of a city walk. This is a tour that introduces visitors to many important social and solidarity institutions of the Greek capital (soup kitchens, day centers, drug rehabilitation centers, homeless shelters etc). The guides provide information on the types of services offered by each institution as well as how they themselves have experienced or are still experiencing homelessness.
+They share information on the changing face of homelessness and social exclusion, the challenges faced by the institutions that strive to cope with the demand for more social services as well as the profile of the people behind solidarity organizations that are at the forefront of the battle again poverty and social exclusion, as they try to safeguard individual and collective dignity. And this is the most striking element of “Invisible Tours”: the personal narrative; in other words, communicating one’s personal experience from life on the streets. All of the tour guides are “Shedia” street paper vendors. 
+ 
+The goal of these social tours is to energize the person who is leading the tour. The tours also aim at creating new ways for him/her to support himself/herself, providing new training and educational opportunities and moving a step closer to social (re)integration.
+
+“Invisible Tours” are run every Saturday at 10:30a.m., starting from the offices of Shedia street paper in central Athens (2 Nikiou str. Athens).
+• Duration is approx. 2 hours
+• Participation fee is €8* (5€ for students)
+
+*Information and photo retrieved from:* [Shedia](https://www.shedia.gr/diadromes/)
+
+
 **Monastiraki**
 
 <img src="media/downtown.jpg" alt="Monastiraki" width="500"/>
