@@ -31,8 +31,6 @@ Here are the best places where you can enjoy your morning drinking a cup of coff
 
 The perfect place to enjoy your beverage or drinks in the summer days. In winter, there is a small place so most of the times is full, but when the yard is open the enviroment is so much nicer. On summer days you won't have a problem and worry if you are going to find a spot to sit since the yard is big enough to keep everyone happy.
 
-Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/place/Madeira+Cafe+%26+Bar/@38.0473333,23.7634344,17z/data=!3m1!4b1!4m5!3m4!1s0x14a198a0489b8671:0xbc82d4c212011fbe!8m2!3d38.0473333!4d23.7656231)
-
 *Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Image retrieved from:*[findhere.gr](https://www.findhere.gr/)
 
@@ -42,8 +40,6 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 
 A really good place in Peristeri. You can get there using the metro railway or the bus. If you get there by car it will be easy for you to find a spot to park your car, but not so close to the Godmama's Yard. Exceptions if you are truly lucky can happen and you may find a perfect spot. The Godmama’s Yard is here to offer a really nice and cozy place with a huge yard in the back of the cafe. It may be a new place in town but people have already loved it, so you will find a lot of nice people there.
 
-Address: [Βασ. Αλεξάνδρου 98, Περιστέρι 121 34](https://www.google.gr/maps/place/Godmama's+Yard/@38.0104107,23.6910026,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a3703c66efef:0x4b0bbd06827f40a3!8m2!3d38.0104107!4d23.6931913)
-
 *Information and image retrieved from:*[fnl](https://www.fnl-guide.com/gr/el/the-bars/godmama-s-yard/)
 
 **I Cafe Bar**
@@ -51,8 +47,6 @@ Address: [Βασ. Αλεξάνδρου 98, Περιστέρι 121 34](https://ww
 <img src="media/icafe.jpg" width="500"/>
 
 A place where you can visit all day long and have a great time. It has a really good environment with a yard so the place is much more in sunny days. The menu haw a lot of different things you can choose from and the prices are quite low. You can eat your breakfast, drink your coffee and your cocktails. Whatever time you choose to come you will always find yourself contemplating among a lot of options. The  I Cafe Bar is located in Argyroupoli so it is not quite easy to get there by public transportations. Of course, the best idea is to access the place by car and you will surely find a parking spot pretty fast.
-
-Address: [Αλεξιουπόλεως 29, Αργυρούπολη 164 52](https://www.google.gr/maps/place/I+Cafe+Bar/@37.9060571,23.7468765,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a4abcc9c7789:0x353d08bb8222a194!8m2!3d37.9060571!4d23.7490652)
 
 *Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3695477-d17520095-Reviews-I_Cafe_Bar-Argyroupoli_Attica.html)
 *Image retrieved from:*[vges.gr](https://www.vges.gr/)
@@ -63,8 +57,6 @@ Address: [Αλεξιουπόλεως 29, Αργυρούπολη 164 52](https://
 
 Kapu is a really nice place with a beautiful yard to enjoy on sunny days. You can enjoy your beverages on the mornings and your drinks at night. In order to get there you can get a cab or a taxi, by car(it should be pretty easy to find a parking spot there) or by public transportations, by bus or by metro(the bus stop and the metro station are really close).
 
-Address: [Χαλδείας 34, Ελληνικό 167 77](https://www.google.gr/maps/place/Kapu+coffee-drinks-cocktails/@37.8910659,23.7475667,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1be17a237f8b9:0x51c626ccc27ad877!8m2!3d37.8910659!4d23.7497554)
-
 *Information and image retrieved from:*[Kapu](https://kapu.gr/)
 
 **Barrett**
@@ -73,8 +65,6 @@ Address: [Χαλδείας 34, Ελληνικό 167 77](https://www.google.gr/ma
 
 Barrett is a really nice place in the center of Athens. You can enjoy your coffee in the morning and your drinks and cocktails at night. The unique about this place is that on its walls local artists showcase their latest projects, whether these are paintings, photographs or collages. You can get there by all means of public transportations(bus,metro or train).
 
-Address: [Πρωτογένους 11, Αθήνα 105 54](https://www.google.gr/maps/place/Barrett/@37.9780996,23.7234724,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd236c63e78b:0x12275ad50feb2527!8m2!3d37.9780996!4d23.7256611)
-
 *Information and image retrieved from:*[Barrett](http://www.barrett-athens.gr/)
 
 **City Link**
@@ -82,8 +72,6 @@ Address: [Πρωτογένους 11, Αθήνα 105 54](https://www.google.gr/ma
 <img src="media/citylink.jpg" width="500"/>
 
 As a complete stroll destination in downtown Athens, City Link hosts some of the city's best cafes and restaurants, including historic Athénée, Clemente, Pasaji, Ilios and Salon de Bricolage offering all-day dining options, as well as enjoyable drinks to make the best exit to downtown. As it is in downtown, it is easily accessible through the metro railway. City Link is only about 2 minutes away on foot from the Syntagma metro station and about 4 from the Syntagma Square.
-
-Address: [Αμερικής 4, Αθήνα 105 64](https://www.google.gr/maps/place/City+Link/@37.9775662,23.7325816,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3935610687:0x632a57c399478751!8m2!3d37.9775662!4d23.7347703)
 
 *Information and image retrieved from:*[City Link](https://www.citylink.gr/)
 
@@ -461,6 +449,16 @@ Chocolatata is a really nice and cozy place really close to the Megaron Mousikis
 Address: [Παπαδιαμαντοπούλου 138, Ζωγράφου 157 73](https://www.google.gr/maps/place/Chocolatata/@37.9825746,23.7646545,17z/data=!3m1!4b1!4m5!3m4!1s0x14a197fefbbd1a9f:0x8d2ae536e3964c8a!8m2!3d37.9825746!4d23.7668432)
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
+
+**Potato King**
+
+<img src="media/Potato King.jpg" width="500"/>
+
+Potato King is a fast food shop in the middle of Monastiraki, 3' walk from Metro Station. As say their name, are expert at potatoes and they selling 4 or 5 kind of potatoes, classic, country, wave and others. Except potatoes, of course Potato King sell different kind of meat, pork or chicken, gyros or kalamaki, either and souvlaki like a traditional souvlaki shop. The specialty of the shop is the Mahal mix, which is slices of pork and chicken together with 4 kinds of potatoes and 2 differen sauces! Now, the prices are very low for the quality that we pay and the quantity will satisfy even the most hungry guy!
+For more Potato King, check [this](https://www.youtube.com/watch?v=Y07VUDYMGUA)!
+
+*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10289905-Reviews-Potato_King-Athens_Attica.html)
+
 
 ## <a name="nightlife"></a>Night Life
 
@@ -1710,12 +1708,3 @@ Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from At
 Voula beach is really close to Vouliagmeni, so you can access the beach by car or by bus. If you choose the latter option, just take the metro until the Elliniko Station where you can get a bus to get you to the beach. The water is really clear and you can enjoy the sun by tanning in your sunbed. You can also ask the waiter or waitress to get you a beverage or something to eat while you are relaxing. Especially on hot days, visiting this beach is really worth it, since you can get there using public transportations. The car is obviously preferred especially when there is a parking lot available, but it is not mandatory.
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
-
-**Costa del Sol beach**
-
-<img src="media/CostaDelSol.jpg" alt="Akti" width="500"/>
-
-The Costa del Sol beach is a popular Athenian beach. It’s located at the Alimos seaside and it’s the nearest organized beach to the Athens city center. It can be easily accessed by tram (“Zefyros” stop). The entrance fee is 6 euros for non-Alimos residents, while the entrance it’s free for the residents of Alimos. The facilities include: beach volleyball and beach-racket courts, beach bars, restaurants, nightclubs, and a venue for hosting receptions and concerts. There is also a water park, as well as a rental service for canoes and pedal boats.
-
-*Information retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/ )|
-*Photo retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/wp-content/uploads/2016/08/0003.jpg)
