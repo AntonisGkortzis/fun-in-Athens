@@ -883,6 +883,16 @@ The Changing of the Guards takes place in front of the Tomb of the Unknown Soldi
 *Information retrieved from:* [Planetware](https://www.planetware.com) |
 *Photo retrieved from:* [Planetware](https://www.planetware.com/photos-large/GR/greece-athens-changing-of-the-guard.jpg)
 
+**Temple of Olympian Zeus**
+
+<img src="media/ZeusTemple.jpg" alt="ZeusTemple" width="500"/>
+
+This ancient temple is located very close to the centre of Athens. Its building began in the 6th century BC, however the construction was stopped and eventually the temple was finished in 131 AD, almost 700 years later. Originally there were 104 Corinthian columns, while nowadays only 15 remain standing. One of the columns collapsed during a storm in 1852. Hadrian, the Roman emperor who completed the temple, had placed a giant gold and ivory status of Zeus inside the temple with an equally large one of himself next to it. In our days, nothing has remained of these statues. The temple of Zeus was probably destroyed in an earthquake during the medieval period.
+
+*Information retrieved from:* [Athensguide](https://www.athensguide.com/temple-of-olympian-zeus/) |
+*Photo retrieved from:* [Ancient History Encyclopedia](https://www.ancient.eu/image/4005/the-temple-of-olympian-zeus-athens/)
+
+
 ## <a name="activities"></a>Activities
 
 Athens has many things to do for athletics individuals too! From walking to our famous mountains to skydiving!
@@ -1081,7 +1091,7 @@ Super Sprint for children
 
 **Kyma Surf School**
 
-<img src="kymasurf.jpg" alt="kyma" width="500"/>
+<img src="media/kymasurf.jpg" alt="kyma" width="500"/>
 
 Kyma surf school based in Athens is a mobile surf school and open all year round for all ages.From the beginner who looking for a fun and an easy way to experience surfing to the intermediate surfer to improve their technique and ability, the friendly KYMA surf school are ready to help.Let us show you that surfing is all about fun. We teach you in small, easy waves, over a sandy bottom with proper equipment, and guaranteed smiles.
 
@@ -1281,7 +1291,7 @@ Its internal space consists of 7 floors and 9 underground levels. During the sum
 
 <img src="media/gazarte.jpg" alt="gazarte" width="500"/>
 
-Gazarte is a multifaceted art and culture offering alternative entertainment and entertainment options to the visitor. Gazarte facilities include the Music Stage, Bookstore and Gazarte Cinema on the ground floor, the Cocktails Bar Restaurant with its Taratsa on the first floor, and the Multiple Events Room on the second floor.Located in Gazi's main square, next to Kerameikos Metro Station, Gazarte has a panoramic view of the Acropolis and Gazi, while being easy to access. For more information about its upcoming events you can check here:https://www.gazarte.gr/ 
+Gazarte is a multifaceted art and culture offering alternative entertainment and entertainment options to the visitor. Gazarte facilities include the Music Stage, Bookstore and Gazarte Cinema on the ground floor, the Cocktails Bar Restaurant with its Taratsa on the first floor, and the Multiple Events Room on the second floor.Located in Gazi's main square, next to Kerameikos Metro Station, Gazarte has a panoramic view of the Acropolis and Gazi, while being easy to access. For more information about its upcoming events you can check here:https://www.gazarte.gr/
 
 *Information retrieved from:*[culturenow](https://www.culturenow.gr/venue/gazarte/) |
 *Photo retieved form:*[Google](https://www.google.com/search?q=gazarte&sxsrf=ALeKk03opJykAs74FRA10bnwF7zuiVWrUA:1583887534546&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpg_HumJHoAhVWEncKHQhdBHcQ_AUoAnoECBcQBA&cshid=1583887677206282&biw=1536&bih=754#imgrc=3iG05n1s7R_7tM)
@@ -1405,6 +1415,17 @@ One hour from Athens, you can visit the beautiful city of Chalkida. Ouza taverns
 
 *Information retrieved from:* [athinorama](https://www.athinorama.gr/travel/greece/destination.aspx?did=497&aid=710065) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CF%87%CE%B1%CE%BB%CE%BA%CE%B9%CE%B4%CE%B1&sxsrf=ALeKk00Ogy_GeAD3vkLw_gla5-F9UsXPkQ:1583886666903&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiXsZTRlZHoAhUHxosKHaxmBskQ_AUoAnoECBsQBA&biw=1536&bih=754#imgrc=AgJ_EeDOEdyNAM)
+
+**Agistri**
+
+<img src="media/agistri.jpg" alt="agistri" width="500"/>
+
+Agistri Island with its island aura is one of the most sought after destinations for weekenders, as it is a breath away from Athens and it's a great destination for those who love camping, biking or hiking in nature. It is known for its beautiful beaches, very green and tranquility and it consists of three nearby villages: Megalochori, Skala and Limenaria.
+Take your bike with you, as distances are close and you do not need a car.
+The cost of the boats from Pireaus port is approximately 15 euros and the distance is 1 hour.
+
+*Information retieved from:* [travelstyle](https://www.travelstyle.gr/48-hours-sto-authentiko-agkistri/) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%B1%CE%B3%CE%BA%CE%B9%CF%83%CF%84%CF%81%CE%B9&sxsrf=ALeKk00aLr8YDA1erpafxfPUlp-9v4WaRw:1583890133952&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj2nLDGopHoAhXuxaYKHQeGCW4Q_AUoAXoECBsQAw&biw=1536&bih=706#imgrc=ZqdUqXnL4veoMM)
 
 **Full Day Cruise to Greek Islands from Athens: Poros - Hydra - Aegina**
 
