@@ -195,7 +195,7 @@ For a reservation or openning hours, please visit the following link: https://ww
 
 **Butcher's Burger**
 
-<img src="media/burger.jpg" alt="Butcher's Burger" width="500"/>
+<img src="media/butcherburger.jfif" alt="Butcher's Burger" width="500"/>
 
 The most delicious and great burgers with the most delicious handmade juicy burger & most delicious steaks are here
 and waiting for you to finish them at one of the 5 Butcher's Burger & Steak House shops!
