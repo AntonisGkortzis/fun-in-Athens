@@ -44,7 +44,6 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Photo retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
-
 **Italus**
 
 <img src="media/italus.jpg" width="500"/>
@@ -52,7 +51,6 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 If you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enjoying the beautifully ornamented interior atmosphere, you must definitely try its renowned hot chocolate, served in a cup made of chocolate waffle, or order a selfieccino, a cup of coffee with a photo of yours on it!
 
 *Information and photo retrieved from:* [Italus](http://www.italus.gr/)
-
 
 **Dome**
 
@@ -547,6 +545,16 @@ A magnificent place right along the seaside! It is placed in Piraeus and it is r
 Address: [T.K, Ακτή Μικρολίμανου, Πειραιάς 185 33](https://www.google.gr/maps/search/istioploikos/@37.9359835,23.6577617,17z/data=!3m1!4b1)
 
 *All information retrieved from:* [Istioploikos](http://www.istioploikos.gr/el/)
+
+**Skipper's**
+
+<img src="media/Skipper's.jpg" alt="Skipper's" width="500"/>
+
+Skipper’s bar opened on the 4th of May, 1987 and is currently going through its 26th year of operation. All these years Skipper's has remained constant supporting the principles of aesthetics, honesty and friendly prices. It's a magnificent place right along the seaside where you can enjoy your beverage or drinks. The easiest way to go there is by car.
+
+Address: [Μαρίνα, Άλιμος 174 55](https://www.google.com/maps/place/Skipper's/@37.9141714,23.7046989,14.72z/data=!4m5!3m4!1s0x0:0xa0fb3ce28dbf0291!8m2!3d37.9139167!4d23.7004444)
+
+*All information retrieved from:* [Skipper's](https://skippersbar.gr/)
 
 **Terra Petra**
 
