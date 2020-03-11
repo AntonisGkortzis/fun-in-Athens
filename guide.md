@@ -1646,3 +1646,12 @@ Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from At
 Voula beach is really close to Vouliagmeni, so you can access the beach by car or by bus. If you choose the latter option, just take the metro until the Elliniko Station where you can get a bus to get you to the beach. The water is really clear and you can enjoy the sun by tanning in your sunbed. You can also ask the waiter or waitress to get you a beverage or something to eat while you are relaxing. Especially on hot days, visiting this beach is really worth it, since you can get there using public transportations. The car is obviously preferred especially when there is a parking lot available, but it is not mandatory.
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
+
+**Costa del Sol beach**
+
+<img src="media/CostaDelSol.jpg" alt="Akti" width="500"/>
+
+The Costa del Sol beach is a popular Athenian beach. It’s located at the Alimos seaside and it’s the nearest organized beach to the Athens city center. It can be easily accessed by tram (“Zefyros” stop). The entrance fee is 6 euros for non-Alimos residents, while the entrance it’s free for the residents of Alimos. The facilities include: beach volleyball and beach-racket courts, beach bars, restaurants, nightclubs, and a venue for hosting receptions and concerts. There is also a water park, as well as a rental service for canoes and pedal boats.
+
+*Information retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/ )|
+*Photo retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/wp-content/uploads/2016/08/0003.jpg)
