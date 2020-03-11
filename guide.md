@@ -904,6 +904,13 @@ __Opening Hours:__
 | Monday      | Closed |
 | Tue-Sun        | 6:00pm -02:00am |
 
+__People said:__
+> Excellent homemade beer. Best pub in the area.
+
+>His home brewed beer is amazing.
+
+**Source: **[Google My Business Ratings](https://www.google.com/search?hl=el&ei=TcZoXt_VNc7gkgXi34vYCQ&q=the+local+pub+&oq=the+local+pub+&gs_l=psy-ab.3..0i71l8.4762.6210..6356...0.3..0.198.1815.0j10......0....1..gws-wiz.........26%3A158.Z4gHmqliGTM&ved=0ahUKEwifsIffo5LoAhVOsKQKHeLvApsQ4dUDCAo&uact=5#lrd=0x14a198f9a86d9a0b:0x8b76260b26b50f78,1,,,)
+
 *Information and Photo retrieved from:* [Newsbeast](https://www.newsbeast.gr/entertainment/arthro/794927/the-local-pub-mia-buraria-agglikon-prodiagrafon-sto-halandri)
 
 ## <a name="tours"></a>Tours
