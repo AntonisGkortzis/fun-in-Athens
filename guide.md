@@ -304,7 +304,7 @@ Address: [Θεμιστοκλέους 43-45, Αθήνα 106 83](https://www.googl
 Yiasemi is a funky cafe and bistro, located in the historic city center of Athens, at Mnisikleous street. It is quite well know for its
 picturesque setting, as it offers sitting options on the famous stairs of Mnisikleous street, that go all the way to the hill of the Acropolis and took the name of the ancient architect Mnisikli.
 
-Address: [Μνησικλέους 23, Αθήνα 105 55](Μνησικλέους 23, Αθήνα 105 55)
+Address: Μνησικλέους 23, Αθήνα 105 55
 
 *Photo retrieved from:* [Travel to Athens](https://www.traveltoathens.eu/item/cafe-yiasemi/)
 
