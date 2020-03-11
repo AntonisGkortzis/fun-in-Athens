@@ -1684,8 +1684,11 @@ With this cruise you can visit three of the islands in Greece’s Saronic Gulf i
 *Image retrieved from:*[Ferries](https://www.ferries.gr/)
 
 **Delphi archaeological site**
+
 <img src="media/Delphi.jpg" alt="Delphi" width="500"/>
+
 Another popular destination for a day trip close to Athens is the archaeological site of Delphi. Delphi, which lies at the foot of Mount Parnassos, had the most significant and famous oracle of ancient Greece and it was considered to be the center of the world. The most important part of the site was the temple of Apollo, where Pythia, the priestess, delivered her oracles.  Delphi is located about 2 hours away by car from Athens and it is also very close to Arachova ski resort.
+
 *Information retrieved from:* [Visit Greece](http://www.visitgreece.gr/en/culture/world_heritage_sites/delphi) |
 *Photo retrieved from:* [Greece Travel]( https://www.greecetravel.com/delphi/ancient-delphi.html)
 
