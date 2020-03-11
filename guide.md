@@ -1349,6 +1349,13 @@ In the PLAyCE collection there are over 600 board games we have collected from a
 
 A really fun way to spend time with your friends and family is by playing ping pong. The rules are pretty simple and all of the family can play, since it doesn't need a lot of athletic skill. It will be really fun and you will have a great time playing with each other, since it is a game where you should really control your strength and that's really hard. You can find ping pong courts in a lot of places but I recommend the one in Ano Patissia, because there are 3 of them, so the queue list will be too little time, if not non-existent at all. Plus, it is easily accessible by bus or train. Both train station and bus stop are 2 minutes on foot from there.
 
+**Bowling in Mall Athens**
+
+<img src="media/bowling.jpg" width="500"/>
+*Image retrieved from:*[ipop.gr](http://www.ipop.gr/)
+
+The best way to play with your friends and have a lot of fun. You don't need to know to play bowling at a good level. In fact, I like it even more and laugh a lot more when none of my friends know how to play. It is really entertaining and for those who are really competitive with each other they can still do their thing, but you won't care. Try to hit a strike and look at their faces. That's a whole different level of fun! It is located in the Mall Athens so you can get there and relax after shopping.
+
 ## <a name="artAndCulture"></a>Art and Culture
 
 **Megaron - The Athens Concert Hall**
