@@ -1397,6 +1397,17 @@ One hour from Athens, you can visit the beautiful city of Chalkida. Ouza taverns
 *Information retrieved from:* [athinorama](https://www.athinorama.gr/travel/greece/destination.aspx?did=497&aid=710065) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CF%87%CE%B1%CE%BB%CE%BA%CE%B9%CE%B4%CE%B1&sxsrf=ALeKk00Ogy_GeAD3vkLw_gla5-F9UsXPkQ:1583886666903&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiXsZTRlZHoAhUHxosKHaxmBskQ_AUoAnoECBsQBA&biw=1536&bih=754#imgrc=AgJ_EeDOEdyNAM)
 
+**Agistri**
+
+<img src="media/agistri.jpg" alt="agistri" width="500"/>
+
+Agistri Island with its island aura is one of the most sought after destinations for weekenders, as it is a breath away from Athens and it's a great destination for those who love camping, biking or hiking in nature. It is known for its beautiful beaches, very green and tranquility and it consists of three nearby villages: Megalochori, Skala and Limenaria.
+Take your bike with you, as distances are close and you do not need a car.
+The cost of the boats from Pireaus port is approximately 15 euros and the distance is 1 hour.
+
+*Information retieved from:* [travelstyle](https://www.travelstyle.gr/48-hours-sto-authentiko-agkistri/) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%B1%CE%B3%CE%BA%CE%B9%CF%83%CF%84%CF%81%CE%B9&sxsrf=ALeKk00aLr8YDA1erpafxfPUlp-9v4WaRw:1583890133952&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj2nLDGopHoAhXuxaYKHQeGCW4Q_AUoAXoECBsQAw&biw=1536&bih=706#imgrc=ZqdUqXnL4veoMM)
+
 **Full Day Cruise to Greek Islands from Athens: Poros - Hydra - Aegina**
 
 <img src="media/hpa.jpg" width="500"/>
