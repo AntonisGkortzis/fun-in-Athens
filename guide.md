@@ -118,6 +118,16 @@ Rabbithole is a Cafe/Bar right next to the most central point of the city, the f
 
 *Information and photo retrieved from:* [Rabbithole](https://rabbitholebar.gr/) 
 
+**Belle Epoque**
+
+<img src="media/belle_epoque.jpg" width="500"/>
+
+Belle Epoque (or Μπέλ Επόκ) gives a vintage aesthetic in the neighborhoods of Piraeus. This small cafe with its bright colors and its artistic decoration inspired by the '60s- '70s is the perfect place to  enjoy a high-quality coffee. The menu offers a large variety of choices and the prices worth the given value. Their brunch is significant,including pancakes, eggs, sandwiches and desserts. Except from your coffee you can also enjoy a cup of tea or hot chocolate and many different beverages.
+
+Address: [Αριστοτέλους 10, Πειραιάς 185 35](https://www.google.gr/maps/place/%CE%9C%CF%80%CE%B5%CE%BB+%CE%95%CF%80%CF%8C%CE%BA/@37.9412122,23.6439683,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bbe87686d969:0x1faee70d9ba63f8e!8m2!3d37.9412122!4d23.646157?hl=en)
+
+*Informationand photo retrieved from:*[Belle-epoque Site](https://belle-epoque.gr/)
+
 ## <a name="food"></a>Food
 
 Here are the best places where you can enjoy the Greek food.
