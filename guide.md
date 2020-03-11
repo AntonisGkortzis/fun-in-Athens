@@ -105,6 +105,8 @@ Even though this place beauty is hidden in its simplicity and secrecy, more peop
 
 If you love fairytales and sweets, then you should definitely visit this "sweet" magical place in Nea Filadelfeia. Fairytale is the ideal place where sweets and tales are mixed in a unique way. Its owners love all Disney heroes and they have visited all of Disneys parks. Drawing their inspiration from their visits, Fairytale was created, but its not only looks as all sweets served are a work of art both in appearance and taste. Fairytale's exact location is at [Tripia 33](https://www.google.com/maps/dir//38.0354,23.736193/@38.035337,23.666058,12z), Nea Filadelfia.
 
+Address: [Τρυπιά 48, Νέα Φιλαδέλφεια Αττικής 143 41](https://www.google.gr/maps/search/fairytale/@37.9735995,23.7138973,12z/data=!3m1!4b1)
+
 *Photo retrieved from:* [Bovary](https://www.bovary.gr/city/9159/sto-fairytale-sti-nea-filadelfeia-goneis-kai-paidia-kanoyn-oyra-gia-na-mpoyn-se-ena)
 
 **Brooklyn the taste factory**
@@ -112,6 +114,8 @@ If you love fairytales and sweets, then you should definitely visit this "sweet"
 <img src="media/brooklynTheTasteFactory.jpg" alt="Brooklyn The Taste Factory" width="500"/>
 
 Even though most restaurants in Athens are located in or near the center, this particular one is not. Brooklyn the taste factory is an American-like burger house with a wide variety of burgers and similar choices. Since it is located in Greece though, be careful because all portions are really generous. The stuff is polite and the restaurant's environment fits the needs of a modern college student while also being family friendly. If you actually decide to visit, keep in mind that you might wait a bit for the order to arrive since most things are made in the spot. You will find this excuisite burger house at [Parnithos 183](https://www.google.com/maps/dir//Brooklyn+the+taste+factory/@38.0956957,23.6684965,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x14a1a1bf5027c02b:0xfed9f2dd897b3bd9!2m2!1d23.7385365!2d38.0957165) in Acharnes.
+
+Address: [Πάρνηθος 183, Αχαρνές 136 72](https://www.google.gr/maps/place/Brooklyn+the+taste+factory/@38.0957165,23.7363478,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a1bf5027c02b:0xfed9f2dd897b3bd9!8m2!3d38.0957165!4d23.7385365)
 
 *Photo retrieved from:* [Brooklyn the taste factory](https://brooklyn-the-taste-factory.business.site)
 
@@ -121,6 +125,8 @@ Even though most restaurants in Athens are located in or near the center, this p
 
 You are hungry. You are near Omonoia and in 30 minutes you have a presentation with your team at AUEB. You need a classic OG souvlaki-kalamaki, and suddenly... BOOM. "Livadia" or "ΣΟΥΒΛΑΚΙ Η ΛΕΙΒΑΔΕΙΑ" is right next to you. Just the Holy lemon, bread/pita, fried potatoes and  kalamaki-Pork. Functioning since 1965, serves traditional tastes made with joy and meraki. The ingredients are handmade with no extra flavors & add-ons. Just the clean tasteful meat. Of course you can order a cold drink if you are thirsty or a colorful salad to accompany your appetite.   
 
+Address: [Κάνιγγος 2-4, Αθήνα 106 77](https://www.google.gr/maps/place/%CE%A3%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9+%CE%97+%CE%9B%CE%95%CE%99%CE%92%CE%91%CE%94%CE%99%CE%91/@37.9845894,23.7283438,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd305f95ddf9:0xfa6ca97c51011e92!8m2!3d37.9845894!4d23.7305325)
+
 *Information and photo retrieved from:* [Η ΛΕΙΒΑΔΙΑ](https://www.souvlaki-leivadia.gr/)
 
 **The Doctor's Wheelchair**
@@ -129,6 +135,8 @@ You are hungry. You are near Omonoia and in 30 minutes you have a presentation w
 
 Even though it doesn't offer Greek recipes, "The Doctor's Wheelchair" (or in Greek "Το Καροτσάκι του Γιατρού") is one of the best Greek fast food restaurants you can find in the city center. Located in the area of Psiri, this little unique restaurant offers all the delicacies a normal fast food restaurant would offer but with the generous portioning of the Greeks. If you decide to visit, I suggest trying the "Loua Loua" sandwich. This magnificent gastronomical creation will probably keep you satisfied for the rest of the day, that is if you manage to eat it whole. Its exact location is at [Miaouli 5](https://www.google.gr/maps/place/Miaouli+5,+Athina+105+54/@37.97708,23.7233708,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd23053dac0b:0xb0155bec7836bf32!8m2!3d37.97708!4d23.7255595) in Athens.
 
+Address: [Μιαούλη 5, Αθήνα 105 54](https://www.google.gr/maps/place/%CE%A4%CE%BF+%CE%9A%CE%B1%CF%81%CF%8C%CF%84%CF%83%CE%B9+%CF%84%CE%BF%CF%85+%CE%93%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CF%8D/@37.9773918,23.7232774,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd231a6cdcbb:0xcdace0bd4beacaef!8m2!3d37.9773918!4d23.7254661)
+
 *Photo retrieved from:* [Maxmag](https://www.maxmag.gr/city-guide/karotsi-toy-giatroy-docs-burger-bar/)
 
 **TELI'S CHOPS**
@@ -136,6 +144,8 @@ Even though it doesn't offer Greek recipes, "The Doctor's Wheelchair" (or in Gre
 <img src="media/tbtt.jpg" alt="Teli's Chops" width="500"/>
 
 "TELI'S CHOPS", or in Greek, "ΤΑ ΜΠΡΙΖΟΛΑΚΙΑ ΤΟΥ ΤΕΛΗ", is a very good hidden tavern, with only one main dish. Chops. You get in, and they just ask you how many portions to bring on table. They also serve a legendary dish as an appetizer with tomato, peppers (spicy and not) & feta cheese, all grilled, just for free. Of course fried potatoes are served with the chops. Telis's tavern started its functioning since 1977 and is still the best of its kind. A portion costs almost 10 euros but it's totally worth its money (you satiate for good). But be careful not to be confused with the real tavern, because some unfair competitors have opened a chop-shop right next to the original, with the name "Telis"! The real one is the one on your right, as you see both taverns. Anyway, words are not enough to describe the taste. We suggest you going at least one time, and you won't lose. And just a tip of advice. If you go, when the order comes in table, do not post a picture of it on any social media or something like that. You will ruin it's magicness.
+
+Address: [Ευρυπίδου 86, Αθήνα 105 53](https://www.google.gr/maps/place/%CE%9C%CF%80%CF%81%CE%B9%CE%B6%CE%BF%CE%BB%CE%AC%CE%B4%CE%B9%CE%BA%CE%BF+%CE%A4%CE%AD%CE%BB%CE%B7%CF%82+(%CE%BF+%CE%91%CF%85%CE%B8%CE%B5%CE%BD%CF%84%CE%B9%CE%BA%CF%8C%CF%82)/@37.9804767,23.7211576,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd246c365b5d:0xb08e1dd806c56e41!8m2!3d37.9804767!4d23.7233463)
 
 *Information retrieved from:* **My soul**
 *Photo retrieved from:* [Oneman](https://www.oneman.gr/food-drink/sta-mprizolakia-toy-telh-afhneis-kai-thn-psyxh-soy/)
@@ -146,6 +156,8 @@ Even though it doesn't offer Greek recipes, "The Doctor's Wheelchair" (or in Gre
 
 Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection. They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry! You will find it at [Aiolou & Agias Irinis 21](https://www.google.gr/maps/place/LUKUMAΔΕΣ/@37.9769125,23.7254017,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3cd2b5c53f:0xeadb95bb43cf5947!8m2!3d37.9769125!4d23.7275904) in Athens.
 
+Address: [Eolou 21, & Aghias Irinis Str, Athina 105 51](https://www.google.gr/maps/search/lukumades/@39.2402037,22.2536666,8z/data=!3m1!4b1)
+
 *Information and photo retrieved from :* [Lukumades](https://www.lukumades.com/about)
 
 **Choureal**
@@ -153,6 +165,8 @@ Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried 
 <img src="media/choux.jpg" alt="Choureal" width="500"/>
 
 Ever wanted a nice desert? CHOUREAL is a perfect place to eat a beloved desert , a homemade profiterole. The difference of course is that these profiteroles are made in ‘a la minute’ fashion which means they are being made by the time you visit this place.They fragrant choux are always freshly baked.During your order you can fill it either with silk cream or hand-made ice cream and you can top it with your favorite things!
+
+Address: [Διομείας 2, Αθήνα 105 63](https://www.google.gr/maps/place/Choureal+-+Choux+%26+Profiterole/@37.9762301,23.729612,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bdd477e6533b:0xa4a832b81517e608!8m2!3d37.9762301!4d23.7318007)
 
 *Information and photo retrieved from:* [Choureal](https://www.choureal.gr/)
 
@@ -163,6 +177,8 @@ Ever wanted a nice desert? CHOUREAL is a perfect place to eat a beloved desert ,
 
 If you are a fan of sweets, that's the place for you! So many different options, but all so delicious! Being such a huge fan of chocolate, I strongly recommend it, but even if you are not so into chocolate you can find all kinds of sweets there! Juicy chocolate pies, hellish strawberry pies, southern kazan dip and many more are waiting for you. The most relaxing and sweet Candy Store in Athens is located at Psyri, really close to the Monastiraki Square.
 
+Address: [Πλ. Ηρώων 1, Αθήνα 105 54](https://www.google.gr/maps/place/%CE%A4%CE%BF+%CE%A3%CE%B5%CF%81%CE%BC%CF%80%CE%B5%CF%84%CF%8C%CF%83%CF%80%CE%B9%CF%84%CE%BF+%CF%84%CE%B7%CF%82+%CE%9D%CE%AC%CE%BD%CF%83%CF%85%CF%82/@37.978332,23.7226633,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a4abcc9c7789:0x383bd2f8f1c5f8b7!8m2!3d37.978332!4d23.724852)
+
 *Information retrieved from:* [Nancy's Sweet Home](https://www.nancysweethome.gr/) |
 *Photo retrieved from:* [LIFO](https://www.lifo.gr/team/peina/55522)
 
@@ -172,6 +188,8 @@ If you are a fan of sweets, that's the place for you! So many different options,
 
 Cap cap is a perfect place in order to eat sweets. The place is really nice and cozy, the staff is really polite and ready to serve you at any time. And the most important, the sweets are delicious. You can go there through the metro railway and stop at the Aigaleo metro station. Another way is by car, where you can find a parking spot quite easily.
 
+Address: [Πανόρμου 26, Αιγάλεω 122 42](https://www.google.gr/maps/place/CapCap+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@37.993951,23.6788133,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcb0094099eb:0xe83d02bb0e73d4fb!8m2!3d37.993951!4d23.681002)
+
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
 
 **Mparmpeekiou**
@@ -179,6 +197,8 @@ Cap cap is a perfect place in order to eat sweets. The place is really nice and 
 <img src="media/mparmpeekiou.jpg" alt="Mparmpeekiou" width="500"/>
 
 For meat lovers, Mparmpeekiou is heaven on earth. It started as a traditional-original stake house and later became an awarded burger house known for its huge portions, the wide variety of burgers and amazing flavors. Mparmpeekiou is located at Piraeus, Nea Smyrni and Chalandri. Don't forget to try out the most popular burger in the menu called *the brave one*, however you might win a special prize if you manage to eat the burger called *grandpa of the brave* which is equal to eating 8 entire burgers.
+
+Address: [Λεωφ. Ελ. Βενιζέλου 18, Νέα Σμύρνη 171 23](https://www.google.gr/maps/search/mparmpeekiou/@37.973615,23.7489178,13z/data=!3m1!4b1)
 
 *Information retrieved from:* [Mparmpeekiou](http://www.mparmpeekiou.com/en/) |
 *Photo retrieved from:* [Peiraias.me](http://peiraias.me/mparmpekiou/)
@@ -189,6 +209,8 @@ For meat lovers, Mparmpeekiou is heaven on earth. It started as a traditional-or
 
 If you are in the mood for a good falafel, look no more! "Falafellas" is a small shop right in the heart of Athens(on the central street called "Aiolou").No matter the time you decide to visit, you will probably have to wait for a while, since there are always people waiting in line to have a taste of the delicious falafel. Don't worry though, the line moves on quickly and it is totally worth the wait. You can order the classic falafel, as much spicy as you want it, or you can go for the meatball one. Both of them are amazing!
 
+Address: [Αιόλου 51, Αθήνα 105 51](https://www.google.gr/maps/place/Falafellas/@37.978443,23.7257933,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3ca9053429:0x1d7319017d4252c!8m2!3d37.978443!4d23.727982)
+
 *Information retrieved from:* [iEfimerida](https://www.iefimerida.gr) |
 *Photo retrieved from:* [Skyscanner](https://www.skyscanner.net/trip/athens/restaurants/falafellas)
 
@@ -197,6 +219,8 @@ If you are in the mood for a good falafel, look no more! "Falafellas" is a small
 <img src="media/Vlachika.jpg" alt="Vlachika" width="500"/>
 
 If you are a meat lover, then Vlachika is the perfect place to taste quality and delicious greek bbq. There they offer a large variety of meat based dishes, so you can choose and eat any delicacies such us beef grilled steak, grilled lamb chops, pork on a spit (in Greek γουρνοπούλα) and many other grilled dishes. In Vlachica you can also taste traditional Greek dishes such as Mousakas, Pastitsio, Gemista etc. One the best dishes that you can taste in Vlachika is the lamb on a spit and Kokoretsi. Lamb on a spit and Kokoretsi are the most traditional, popular and delicious meals in Greece, so I strongly recommend them! Vlachika are located at the southern suburbs of Athens on a region called Vari.
+
+Address: [Leoforos Evelpidon, Πρεβέζης, Βάρη 166 72](https://www.google.gr/maps/place/Ta+Vlachika/@37.8347597,23.7897571,17z/data=!3m1!4b1!4m5!3m4!1s0x14a195394b670753:0x9cac6ef1a030a93!8m2!3d37.8347597!4d23.7919458)
 
 *Information retrieved from:* [Vlachika](http://www.vlachika.gr/) |
 *Photo retrieved from:* [Google](http://www.vlachika.gr/wp-content/uploads/2010/07/11149389_1582772561974345_6388572603203465498_n.jpg)
@@ -216,6 +240,8 @@ It may be hidden in a small passage of Mitropoleos street which does not grab yo
 
 Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's menu remains small and at the same time complete. Five wrapped skewers, potatoes and a salad. Skewers' main ingredients are mushrooms or lentil meatballs, which are enriched with a variety of healthy, fresh and handmade ingredients such as authentic Sicilian recipe tomato sauce, avocado, vegan mayo, mustard, organic vegan yogurt sauce, vegan cheese, salad and bbq sauce.
 
+Address: [Θεμιστοκλέους 43-45, Αθήνα 106 83](https://www.google.gr/maps/place/Cookoomela+Grill/@37.985791,23.7313543,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd36cd2a8619:0xef281ea2a9c52f3a!8m2!3d37.985791!4d23.733543)
+
 *Information retrieved from:* [Lifo](http://www.lifo.gr"/) |
 *Photo retrieved from:* [Google](https://i2.wp.com/www.madameginger.com/wp-content/uploads/2019/03/Cookoomela-Exarcheia-1.jpg?quality=92&fit=1310%2C900)
 
@@ -225,6 +251,8 @@ Cookoomela is the perfect place to eat a vegan souvlaki in Athens. Cookoomela's 
 
 Yiasemi is a funky cafe and bistro, located in the historic city center of Athens, at Mnisikleous street. It is quite well know for its
 picturesque setting, as it offers sitting options on the famous stairs of Mnisikleous street, that go all the way to the hill of the Acropolis and took the name of the ancient architect Mnisikli.
+
+Address: [Μνησικλέους 23, Αθήνα 105 55](Μνησικλέους 23, Αθήνα 105 55)
 
 *Photo retrieved from:* [Travel to Athens](https://www.traveltoathens.eu/item/cafe-yiasemi/)
 
@@ -236,6 +264,8 @@ picturesque setting, as it offers sitting options on the famous stairs of Mnisik
 
 Someone would probably think that you can't fit another souvlaki in the center of Athens but I'm sure you will understand the reason this restaurant made the list the moment you take the first bite! Great quality ingredients and different choices in the meat like beef or lamb will surely introduce you to a souvlaki flavour you never knew before. Hoocut is placed at Platia Agias Eirinis 9 in Athens (near Monastiraki square).
 
+Address: [Πλ. Αγίας Ειρήνης 9, Αθήνα 105 63](https://www.google.gr/maps/place/Hoocut/@37.9768491,23.7259077,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3cce30baeb:0x6967827830b5119!8m2!3d37.9768491!4d23.7280964)
+
 *Information retrieved from:* [Hoocut](https://hoocut.com/hoocut) |
 *Photo retrieved from:* [Facebook](https://www.facebook.com/hoocut/photos/p.352925158604743/352925158604743/?type=1&theater)
 
@@ -244,6 +274,8 @@ Someone would probably think that you can't fit another souvlaki in the center o
 <img src="media/karaflas.jpg" alt="Karaflas Original" width="500"/>
 
 You don't want to miss out the best creperie in town! Karaflas Original is placed in Zografou and you can get there by bus. I strongly suggest you go there and totally recommend you take a sweet crepe. My favourite with chocolate and biscuit but you can have everything you want even if its not a sweet crepe. The place offers you a lot of ingredients you can choose from, so feel free to get there and choose after you have seen all possible choices. The best part about this place and the one thing that makes it so unique is that whatever you choose to have, the ingredients will not only be inside the crepe but also above it. So make sure when you get there that you are starving in order to eat the whole thing. If you are not ,  you can share it with someone else and still be too much for both of you.
+
+Address: [Παπάγου 99, Ζωγράφου 157 73](https://www.google.gr/maps/place/KarafLas+Original/@37.9776082,23.7693202,17z/data=!3m1!4b1!4m5!3m4!1s0x14a197fbb00d0c59:0x355adb121bf85bcf!8m2!3d37.9776082!4d23.7715089)
 
 *Photo retrieved from:* [Facebook](https://www.facebook.com/%CE%9A%CF%81%CE%B5%CF%80%CE%B5%CF%81%CE%B9-%CE%9A%CE%B1%CF%81%CE%B1%CF%86%CE%BB%CE%B1%CF%82-%CE%BF%CF%81%CE%B9%CF%84%CE%B6%CE%B9%CE%BD%CE%B1%CE%BB-1633501440053949/)
 
@@ -257,11 +289,15 @@ Recommended dishes by frequent visitors are the Drunken Chicken Fillets, the fre
 
 For a reservation or openning hours, please visit the following link: https://www.facebook.com/kivelirest
 
+Address: [Επτανήσου 15, Αθήνα 112 57](https://www.google.gr/maps/place/%CE%9A%CF%85%CE%B2%CE%AD%CE%BB%CE%B7/@37.99785,23.7331533,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a2c968c63ccf:0x650a204709548fbb!8m2!3d37.99785!4d23.735342)
+
 **Rock n Roll**
 
 <img src="media/rocknroll.jpg" alt="Rock N Roll" width="500"/>
 
 "The Rock n Roll Restaurant in Kolonaki is one of the most successful places in Athens for nightlife, American-style cuisine and burgers. It has been operating since 1987 as the city's most timeless club restaurant and has loyal personalities. The space is modern, tasteful and mainstream following the rhythm of the night and the city. At the Athens Rock n Roll menu you will find a delectable burger with onions, rice with vegetables and broccoli right, veal steak with red wine, fresh crushed pizza, fresh and vegetarian pasta and New York cheesecake with jam." In Rock n Roll it's more than tasting great food. The atmosphere is amazing and the place embraces something classy. Visit it for your breakfast, lunch or dinner and get a great food experience in Athens.
+
+Address: [Λουκιανού 6, Αθήνα 106 75](https://www.google.gr/maps/search/rock+and+roll/@37.9789614,23.7364165,16z/data=!3m1!4b1)
 
 *Information retrieved from:* [e-table](https://www.e-table.gr/restaurant/rock-n-roll-athens) |
 *Photo retrieved from:* [Lifo](https://www.lifo.gr/articles/athens_articles/171381)
@@ -273,6 +309,8 @@ For a reservation or openning hours, please visit the following link: https://ww
 The most delicious and great burgers with the most delicious handmade juicy burger & most delicious steaks are here
 and waiting for you to finish them at one of the 5 Butcher's Burger & Steak House shops!
 
+Address: [Βουλής 7, Αθήνα 105 62](https://www.google.gr/maps/place/Butcher's+Burger+%26+Steak+House+Syntagma/@37.9766848,23.7305898,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd6ae505caeb:0xc5729018a6110135!8m2!3d37.9766848!4d23.7327785)
+
 *Information and photo retrieved from:* [Butcher's Burger](http://www.butchersburger-steak.gr)
 
 
@@ -283,6 +321,8 @@ and waiting for you to finish them at one of the 5 Butcher's Burger & Steak Hous
 "Feyrouz" is a corner in the historic center of Athens overlooking Aeolos, aiming to introduce its guests to the family's small gastronomic history, originating in Antioch and Lebanon, Cyprus and Constantinople.
 A corner that hopes to accommodate its guests for the scarce time they spend in the city's daily life, the warmth of the place, the hospitality of the family atmosphere, the coziness of quality music, and above all, the enjoyment of eating nobody fresh, handmade and full of family delicacies, like at home, a little deeper, somewhere in the East.
 
+Address: [Αγάθωνος 2, Αθήνα 105 51](https://www.google.gr/maps/place/Feyrouz/@37.9781516,23.7255616,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3cb20ac76f:0x737022fa291e8754!8m2!3d37.9781516!4d23.7277503)
+
 *Information retrieved from:* [Feyrouz](https://feyrouz.gr/) |
 *Photo retrieved from:* [TripAdvisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d6784810-Reviews-Feyrouz-Athens_Attica.html)
 
@@ -292,6 +332,8 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 
 "The Bank Job" is a cocktale bar on Kolocotroni street, housed in one of the historic buildings of the athenian city center. It aims to "marry" the old and the new and "break the rules". It offers unique cocktale mixes and some of the best ,usic in the city.
 
+Address: [105 62 13, Κολοκοτρώνη, Αθήνα 105 62](https://www.google.gr/maps/place/The+Bank+Job/@37.9773926,23.7299361,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3c0cc3ad8d:0x8d0f792afa99ca2a!8m2!3d37.9773926!4d23.7321248)
+
 *Photo retrieved from:* [The Bank Job](https://thebankjob.gr/photos.php)
 
 **Telescope**
@@ -300,13 +342,15 @@ A corner that hopes to accommodate its guests for the scarce time they spend in 
 
 “Telescope” is a Cafeteria-Bar-Restaurant located in the top of a hill in Chaidari,Athens . This place has a breathtaking view and you will definitely get the best view of Athens from there . Also , this place offers a wide variety of drinks and delicious meals. Definitely worth a visit .
 
+Address: [Φιλικής Εταιρείας, Χαϊδάρι 124 61](https://www.google.gr/maps/place/%CE%A4%CE%97%CE%9B%CE%95%CE%A3%CE%9A%CE%9F%CE%A0%CE%99%CE%9F/@38.006967,23.6540462,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bb5282459acb:0xbcb04e251a50a81a!8m2!3d38.006967!4d23.6562349)
+
 *Information and photo retrieved Petros Siachos*
 
 **Riza Riza**
 
 <img src="media/rizariza.jpg" alt="Riza Riza" width="500"/>
 
-Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) (19 Drakou Street, Athens) and it’s a great choice for all day long.  
+Riza Riza is a cozy and friendly greek restaurant at [Koukaki](#koukaki) [19 Drakou Street, Athens](https://www.google.gr/maps/place/%CE%A1%CE%AF%CE%B6%CE%B1+%CE%A1%CE%AF%CE%B6%CE%B1/@37.9656041,23.7234014,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd1ae91d4573:0xf16bd9af746a3180!8m2!3d37.9656041!4d23.7255901) and it’s a great choice for all day long.  
 There you can enjoy your morning coffee and brunch and delicious food as well as special cocktails made from Greek distillates (raki, ouzo and tsipouro) later at night.  
 
 If you’re planning on visiting, don’t forget to try the great pancakes that they serve.
@@ -320,6 +364,8 @@ If you’re planning on visiting, don’t forget to try the great pancakes that 
 
 Located on Aiolou Street in the heart of historic Athens' commercial district, Mama Roux is a multi-ethnic restaurant offering dishes from many cultures in a relaxed, urban atmosphere. By using techniques derived from different cultures, this restaurant offers a wide-ranging menu, moving continuously towards new directions while also retaining its classical dishes.
 
+Address: [Αιόλου 48, 50 str, Αθήνα 105 60](https://www.google.gr/maps/place/Mama+Roux/@37.9779884,23.7258109,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3cb2219a7d:0xec88160d5bfa6310!8m2!3d37.9779884!4d23.7279996)
+
 *Information and photo retrieved from:* [Mama Roux](http://www.mamaroux.gr/)
 
 **Seychelles**
@@ -331,6 +377,8 @@ Seychelles is located on Metaxourgeio and serves value for money greek food. Res
 | Opening Hours: Daily 10:00 to 2:00
 | Contact: +302111834789
 
+Address: [Κεραμεικού 49, Αθήνα 104 36](https://www.google.gr/maps/place/%CE%A3%CE%B5%CF%8B%CF%87%CE%AD%CE%BB%CE%BB%CE%B5%CF%82/@37.982275,23.7180833,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd268d6dcd17:0x3f2f7aea74dd8cf9!8m2!3d37.982275!4d23.720272)
+
 *Information retrieved from:* [Seychelles](http://www.seycheles.gr/en)
 
 **Cookoovaya**
@@ -338,6 +386,8 @@ Seychelles is located on Metaxourgeio and serves value for money greek food. Res
 <img src="media/cookoovaya.jpg" alt="Cookoovaya" width="500"/>
 
 Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enjoying. The menu changes with the season, and the kitchen is continually evolving. The menu features: salads, cold dishes and raw, wooden oven, charcoal, casserole and fritters, and desserts.
+
+Address: [Χατζηγιάννη Μέξη 2, Αθήνα 115 28](https://www.google.gr/maps/place/Cookoovaya/@37.9770209,23.7492053,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd5acccde5ef:0xe976808e2612a6fd!8m2!3d37.9770209!4d23.751394)
 
 *Information and photo retrieved from:* [Cookoovaya](https://cookoovaya.gr/en/)
 
@@ -347,6 +397,8 @@ Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enj
 
 If you are a fan of sushi, you must visit it while you are staying in Athens. It is located in the city Center, really close to the Syntagma Square. The service is really nice. People are really polite and your order gets ready really quickly. One more attribute of this place is that the sushi tastes nice, there are a lot of options you can choose from and they are considerably cheap. If you have never tried sushi in your life before I suggest you do it in this place, since people are helping you to find out what you will like the most.
 
+Address: [Απόλλωνος 1, Αθήνα 105 57](https://www.google.gr/maps/place/Koi+Sushi+Bar/@37.9746363,23.7309991,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3dd054ca37:0x1ba5f459658a9a35!8m2!3d37.9746363!4d23.7331878)
+
 *Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d5121936-Reviews-Koi_Sushi_Bar-Athens_Attica.html)
 
 **Hot Hot Burger Bar**
@@ -354,6 +406,8 @@ If you are a fan of sushi, you must visit it while you are staying in Athens. It
 <img src="media/hothot.jpg" alt="Hot Hot Burger Bar" width="500"/>
 
 You are in downtown Athens and you want something delicious and quick at the same time? Hot Hot Burger Bar is there for you! There are a lot of burgers you can choose from and 10 different types of sauces, all made by them! Of course I haven't tasted them all, but I guarantee you that every single one of them is so tasty. Get there(it is very easily accessible) and you won't miss out. A really important note would be that there are a lot of vegan burgers, for every vegan out there wanting to eat a delicious burger.
+
+Address: [Κολοκοτρώνη 14, Πραξιτέλους 2, Αθήνα 105 61](https://www.google.gr/maps/place/Hot+Hot+Burger+Bar/@37.9776365,23.7289432,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3c7a5101a7:0xb9adb68dbb594623!8m2!3d37.9776365!4d23.7311319)
 
 *Information and photo retrieved from:* [Hot Hot Burger Bar](http://www.hothot.gr/)
 
@@ -363,6 +417,8 @@ You are in downtown Athens and you want something delicious and quick at the sam
 
 Etnico is all about ethnic street food right in the center of Athens. In this place, you can taste the world, so you can choose different plates from different countries and even different continents. Some examples would be Mexican Chimichanga και Burrito, Arabic Falafel, Indian Samosas and Korean salads. As I mentioned earlier it is located between the two metro stations, Syntagma and Monastiraki. So from wherever you choose to go, just have in ming that it is about 10 minutes on foot. Don't get intimated by that, it is a really nice place to visit and eat since the food is really tasty. Let alone that you are going to enjoy walking till there, as the Ermou street is really close to it. My personal recomendation would be, to strall around Ermou street, maybe even go shopping there and afterwards grab something to eat from Etnico.
 
+Address: [Κολοκοτρώνη 22, Αθήνα 105 62](https://www.google.gr/maps/place/ETNICO+STREET+FOOD/@37.9776875,23.7284189,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3c7da6ba11:0x55017114ca0ff437!8m2!3d37.9776875!4d23.7306076)
+
 *Information and photo retrieved from:* [Etnico](https://www.etnico.gr/)
 
 **The Big Bad Wolf**
@@ -370,6 +426,8 @@ Etnico is all about ethnic street food right in the center of Athens. In this pl
 <img src="media/bigbadwolf.png" alt="The Big Bad Wolf" width="500"/>
 
 The Big Bad Wolf is a place where you can enjoy delicious and quality food. It can be a burger, a souvlaki or even a salad. You can choose whatever your preferations are, from a double bacon burger to a vegan one. So every customer will be satisfied after going to this place. The Big Bad Wolf is located in a variety of locations so if it happens you are close to one of those don't hesitate. You are going to leave the place with a sense of fulfillment, as you are going to enjoy the food. Another really import advantage of this place is that the people who work there are really polite and your order is ready really quickly.
+
+Address: [28ης Οκτωβρίου 58, Αθήνα 104 34](https://www.google.gr/maps/place/The+Big+Bad+Wolf/@37.992328,23.7294333,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a2ab2d0005cf:0x985c8008dabe063a!8m2!3d37.992328!4d23.731622)
 
 *Information and photo retrieved from:* [The Big Bad Wolf](https://www.tbbw.gr/)
 
@@ -379,6 +437,8 @@ The Big Bad Wolf is a place where you can enjoy delicious and quality food. It c
 
 Basegrill Athens started in 2005 and it's a very famous Steak House - Restaurant, due to the high quality meat as well as the great hospitality. Meat is highly respected there, it is treated as a gift and they are constantly looking to choose the best ones from the Greek market. It is then prepared with caution and cooked at the right temperature. Finally it is served and cut right in front of the customer. Because of all of this quality, Basegrill Athens got the attention of plenty people and even a great amount of celebrities. So, what are you waiting for? Go and try a taste of warm hospitality and high quality menu at [Konstantinoupoleos Avenue 64](https://www.google.com/maps/place/Basegrill+Athens/@38.0105273,23.7088258,16.75z/data=!4m5!3m4!1s0x14a1a36c7e066517:0xe6c56d4281732b98!8m2!3d38.0118955!4d23.7081823) in Peristeri, Athens.
 
+Address: [Λεωφ. Κωνσταντινουπόλεως 64, Περιστέρι 121 33](https://www.google.gr/maps/place/Basegrill+Athens/@38.011895,23.7059933,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a36c7e066517:0xe6c56d4281732b98!8m2!3d38.011895!4d23.708182)
+
 *Photo retrieved from:*[Athens Voice](https://www.athensvoice.gr/guide/taste/restaurants/82725_base-grill)
 
 **Bel Rey**
@@ -386,6 +446,8 @@ Basegrill Athens started in 2005 and it's a very famous Steak House - Restaurant
 <img src="media/mpel-rey-1280x720.jpg" alt="bel-rey" width="500"/>
 
 Bel Rey is a former car lubricant turned into an all day snack bar. With vintage furniture, glazed posters with current theatrical performances and a large wooden bar, Bel Rey is sure to become a favorite hangout for both yound and old. There is a wide range of tasty brunch and cocktails.
+
+Address: [Φαλήρου 88, Αθήνα 117 41](https://www.google.gr/maps/place/%CE%9C%CF%80%CE%B5%CE%BB+%CE%A1%CE%B5%CF%8B/@37.962375,23.7205974,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd046202888f:0x67a0d12a498397c7!8m2!3d37.962375!4d23.7227861)
 
 *Information retrieved from:* [maxmag](https://www.maxmag.gr/city-guide/athina-koukaki-bel-rey/)|
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BC%CF%80%CE%B5%CE%BB+%CF%81%CE%B5%CF%85+%CE%BA%CE%BF%CF%85%CE%BA%CE%B1%CE%BA%CE%B9&tbm=isch&ved=2ahUKEwix1-mJhpHoAhWIhxQKHbdmBtYQ2-cCegQIABAA&oq=%CE%BC%CF%80%CE%B5%CE%BB+%CF%81&gs_l=img.1.0.35i39j0j0i8i30j0i24l7.1329.3350..4335...1.0..4.180.1479.0j11......0....1..gws-wiz-img.....10..0i67j35i362i39j0i131.pQF0tnEByWw&ei=-iBoXrHyLoiPUrfNmbAN&bih=754&biw=1536#imgrc=G-r2KpU02Cih3M)
@@ -395,6 +457,8 @@ Bel Rey is a former car lubricant turned into an all day snack bar. With vintage
 <img src="media/chocolatata.jpg" width="500"/>
 
 Chocolatata is a really nice and cozy place really close to the Megaron Mousikis metro station. As you have understood this place is full of chocolate. I would personally recommend you the pancake with chocolate and biscuit: it is so delicious! The people who are working there are really polite and ready to serve you at any time! Plus it is fairly cheap compared to the other places who offer the same thing. You don't want to miss their chocolatata, it is something unforgettable.
+
+Address: [Παπαδιαμαντοπούλου 138, Ζωγράφου 157 73](https://www.google.gr/maps/place/Chocolatata/@37.9825746,23.7646545,17z/data=!3m1!4b1!4m5!3m4!1s0x14a197fefbbd1a9f:0x8d2ae536e3964c8a!8m2!3d37.9825746!4d23.7668432)
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
 
