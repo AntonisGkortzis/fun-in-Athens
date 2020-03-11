@@ -5,15 +5,16 @@
 For the time being, there are 10 categories that you can write about: Food, Night life, Tours, Monuments, Activities, Shopping, Fun and Games, Art and Culture, Accommodation and Full Day Trips. Feel free to add a new category if you want.
 
 ### Installation of fun-in-Athens
-  1. Open Git - Bash ,make sure you are logged in.
-  2. Clone this repository as
+  1. Create a personal fork of the project on Github.
+  2. Open Git - Bash, make sure you are logged in.
+  3. Clone this repository as
   	`> $ git clone https://github.com/YOURUSERNAME/fun-in-Athens`
-  3. A folder with the project should be made. To check if it is use
+  4. A folder with the project should be made. To check if it is use
   	`> $ ls`
      to see if the file has been cloned to your local computer.
-  4. Browse fun-in-Athens repository with
+  5. Browse fun-in-Athens repository with
   	`> $ cd fun-in-Athens`
-  5.To edit guide.md use the editor vim
+  6. To edit guide.md use the editor vim
   	`> $ vim guide.md`
      File should be opened. You are now able to edit the guide.
 

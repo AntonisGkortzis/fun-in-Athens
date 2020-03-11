@@ -46,9 +46,8 @@ If you love fairytales and sweets, then you should definitely visit this "sweet"
 
 <img src="media/brooklynTheTasteFactory.jpg" alt="Brooklyn The Taste Factory" width="500"/>
 
-Even though most restaurants in Athens are located in or near the center, this particular one is not. Brooklyn the taste factory is an American-like burger house with a wide variety of burgers and similar choices. Since its in Greece though, be careful because the portioning is really generous. The stuff is really polite and the restaurants environment fits the needs of the modern college student and its also family friendly. If you actually decide to visit, keep in mind that you might wait a bit for the order to arrive since most things are made in the spot.
+Even though most restaurants in Athens are located in or near the center, this particular one is not. Brooklyn the taste factory is an American-like burger house with a wide variety of burgers and similar choices. Since it is located in Greece though, be careful because all portions are really generous. The stuff is polite and the restaurant's environment fits the needs of a modern college student while also being family friendly. If you actually decide to visit, keep in mind that you might wait a bit for the order to arrive since most things are made in the spot. You will find this excuisite burger house at [Parnithos 183](https://www.google.com/maps/dir//Brooklyn+the+taste+factory/@38.0956957,23.6684965,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x14a1a1bf5027c02b:0xfed9f2dd897b3bd9!2m2!1d23.7385365!2d38.0957165) in Acharnes.
 
-*Address:*[Parnithos 183, Acharnes](https://www.google.com/maps/dir//Brooklyn+the+taste+factory/@38.0956957,23.6684965,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x14a1a1bf5027c02b:0xfed9f2dd897b3bd9!2m2!1d23.7385365!2d38.0957165) |
 *Photo retrieved from:* [Brooklyn the taste factory](https://brooklyn-the-taste-factory.business.site)
 
 **LIVADIA**
@@ -59,13 +58,12 @@ You are hungry. You are near Omonoia and in 30 minutes you have a presentation w
 
 *Information and photo retrieved from:* [Η ΛΕΙΒΑΔΙΑ](https://www.souvlaki-leivadia.gr/)
 
-**The Doctors Wheelchair**
+**The Doctor's Wheelchair**
 
 <img src="media/theDoctorsWheelchair.jpg" alt="The Doctor's Wheelchair" width="500"/>
 
-Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in Greek "Το Καροτσάκι του Γιατρού") is one of the best Greek fast food restaurants you can find in the city center. Located in the area of Psiri, this little unique restaurant offers all the delicacies a normal fast food restaurant would offer but with the generous portioning of the Greeks. If you decide to visit, I suggest trying the "Loua Loua" sandwich. This magnificent gastronomical creation will probably keep you satisfied for the rest of the day, that is if you manage to eat it whole.
+Even though it doesn't offer Greek recipes, "The Doctor's Wheelchair" (or in Greek "Το Καροτσάκι του Γιατρού") is one of the best Greek fast food restaurants you can find in the city center. Located in the area of Psiri, this little unique restaurant offers all the delicacies a normal fast food restaurant would offer but with the generous portioning of the Greeks. If you decide to visit, I suggest trying the "Loua Loua" sandwich. This magnificent gastronomical creation will probably keep you satisfied for the rest of the day, that is if you manage to eat it whole. Its exact location is at [Miaouli 5](https://www.google.gr/maps/place/Miaouli+5,+Athina+105+54/@37.97708,23.7233708,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd23053dac0b:0xb0155bec7836bf32!8m2!3d37.97708!4d23.7255595) in Athens.
 
-*Address:*[Μιαούλη 5, Αθήνα](https://www.google.gr/maps/place/Miaouli+5,+Athina+105+54/@37.97708,23.7233708,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd23053dac0b:0xb0155bec7836bf32!8m2!3d37.97708!4d23.7255595)|
 *Photo retrieved from:* [Maxmag](https://www.maxmag.gr/city-guide/karotsi-toy-giatroy-docs-burger-bar/)
 
 **TELI'S CHOPS**
@@ -81,9 +79,8 @@ Even though it doesn't offer Greek recipes, "The Doctors Wheelchair"(or in Greek
 
 <img src="media/loukoumades.png" alt="Loukoumades" width="500"/>
 
-Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection. They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry!
+Loukoumades are little bite-sized fluffy sweet honey balls which are deep fried to golden and crispy perfection. They are served soaked in hot honey syrup or perhaps with cinnamon and garnished with chopped walnuts or you can have it with your favourite garnish. LukuΜΑΔΕΣ is a must place to visit so you can try our most traditional pastry! You will find it at [Aiolou & Agias Irinis 21](https://www.google.gr/maps/place/LUKUMAΔΕΣ/@37.9769125,23.7254017,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3cd2b5c53f:0xeadb95bb43cf5947!8m2!3d37.9769125!4d23.7275904) in Athens.
 
-*Address:*[21, EOLOU & AGHIAS IRINIS STR.](https://www.google.gr/maps/place/LUKUMAΔΕΣ/@37.9769125,23.7254017,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd3cd2b5c53f:0xeadb95bb43cf5947!8m2!3d37.9769125!4d23.7275904)|
 *Information and photo retrieved from :* [Lukumades](https://www.lukumades.com/about)
 
 **Choureal**
@@ -1140,6 +1137,16 @@ You are downtown in Athens and you want to have fun with your friends or family;
 
 *Information retrieved from:* [Playhouse](http://www.playhouse.gr/)
 
+**OPEN MIC ATHENS**
+
+<img src="media/open-mic.jpg" alt="OPEN-MIC" width="500"/>
+
+Open Mic Athens at the hospitable Akroasis of Kypseli. Known and unknown stand up comedians present their work.
+
+Every Friday at 21:00
+Contact: 2111822336 – 6907363999 
+
+*Information and Photo retrieved from:* [AKROASIS](https://akroasis.gr/open-mic-athens/)
 
 ## <a name="artAndCulture"></a>Art and Culture
 
