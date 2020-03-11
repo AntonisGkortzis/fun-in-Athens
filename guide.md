@@ -46,9 +46,8 @@ If you love fairytales and sweets, then you should definitely visit this "sweet"
 
 <img src="media/brooklynTheTasteFactory.jpg" alt="Brooklyn The Taste Factory" width="500"/>
 
-Even though most restaurants in Athens are located in or near the center, this particular one is not. Brooklyn the taste factory is an American-like burger house with a wide variety of burgers and similar choices. Since its in Greece though, be careful because the portioning is really generous. The stuff is really polite and the restaurants environment fits the needs of the modern college student and its also family friendly. If you actually decide to visit, keep in mind that you might wait a bit for the order to arrive since most things are made in the spot.
+Even though most restaurants in Athens are located in or near the center, this particular one is not. Brooklyn the taste factory is an American-like burger house with a wide variety of burgers and similar choices. Since it is located in Greece though, be careful because all portions are really generous. The stuff is polite and the restaurant's environment fits the needs of a modern college student while also being family friendly. If you actually decide to visit, keep in mind that you might wait a bit for the order to arrive since most things are made in the spot. You will find this excuisite burger house at [Parnithos 183](https://www.google.com/maps/dir//Brooklyn+the+taste+factory/@38.0956957,23.6684965,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x14a1a1bf5027c02b:0xfed9f2dd897b3bd9!2m2!1d23.7385365!2d38.0957165) in Acharnes.
 
-*Address:*[Parnithos 183, Acharnes](https://www.google.com/maps/dir//Brooklyn+the+taste+factory/@38.0956957,23.6684965,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x14a1a1bf5027c02b:0xfed9f2dd897b3bd9!2m2!1d23.7385365!2d38.0957165) |
 *Photo retrieved from:* [Brooklyn the taste factory](https://brooklyn-the-taste-factory.business.site)
 
 **LIVADIA**
