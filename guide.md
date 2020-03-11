@@ -1152,7 +1152,7 @@ You are downtown in Athens and you want to have fun with your friends or family;
 Open Mic Athens at the hospitable Akroasis of Kypseli. Known and unknown stand up comedians present their work.
 
 Every Friday at 21:00
-Contact: 2111822336 – 6907363999 
+Contact: 2111822336 – 6907363999
 
 *Information and Photo retrieved from:* [AKROASIS](https://akroasis.gr/open-mic-athens/)
 
@@ -1321,6 +1321,15 @@ Spetses is one of the most cosmopolitan and picturesque islands in Greece. Locat
 *Information retrieved from:* [Greeka](https://www.greeka.com/attica/athens/tours/t07b-one-day-tour-to-spetses-island/) |
 *Photo retrieved from:* [Greece-is](https://www.greece-is.com/wp-content/uploads/2016/08/SPETSES_YannisLarios_Spetses_IMG_1008.jpg)
 
+**Full Day Cruise to Greek Islands from Athens: Poros - Hydra - Aegina**
+
+<img src="media/hpa.jpg" width="500"/>
+
+With this cruise you can visit three of the islands in Greece’s Saronic Gulf in turn, in just a day. Stroll on Hydra, visit Paros, and spend time on Aegina, either exploring alone or touring its Temple of Aphaia. Escpecially, on summer days it will make the day perfect and totally worth it. At the end of the day, you may be tired, but you still can do a lot of things. Look every other section of this guide to help you find the perfect place for you after a long and tiring day!
+
+*Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com/AttractionProductReview-g3695532-d13857583-Full_Day_Cruise_to_Greek_Islands_from_Athens_Poros_Hydra_Aegina-Paleo_Faliro_Atti.html)
+*Image retrieved from:*[Ferries](https://www.ferries.gr/)
+
 ## <a name="beach"></a>Beach
 
 Athens is well known for its beatiful sun and weather, so if you are visiting Athens in summer time, here are some beaches you can visit!
@@ -1341,4 +1350,3 @@ A series of many small beaches in small natural bays with rocks that impress wit
 
 *Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
-
