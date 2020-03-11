@@ -1618,3 +1618,11 @@ A series of many small beaches in small natural bays with rocks that impress wit
 Hidden from plain sight and known mostly among locals living in the residential area of Pasa in Sounio, you can find the beach of Pasalimani. The sea here is deep, clear and bright blue, while the beach is sandy and of golden brown color. Driving towards Sounio, you turn on the 72nd km Athens-Sounio Rd. and you cross the residential area until you reach the wonderful beach and the uniquely blue sea, where you can kick back on this peaceful beach and swim your everyday troubles away.
 
 *Information and photo retrieved from:* [True Voyagers](https://truevoyagers.com/)
+
+**Porto Rafti beach**
+
+<img src="media/portorafti.jpg" width="500"/>
+
+Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from Athens and it is not easily accessible through public transportations. Although, the beach is totally worth it if you have a car. Porto Rafti has brilliant calm waters with a variety of restaurants and Bars fronting the water. It is excellent for late afternoon or early evenings to sit and enjoy the view or go for a swim if you desire. Just keep in mind that the view is really incredible.
+
+*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
