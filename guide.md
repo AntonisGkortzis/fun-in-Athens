@@ -1378,7 +1378,7 @@ Spetses is one of the most cosmopolitan and picturesque islands in Greece. Locat
 
 **Chalkida**
 
-<img src="media/chalkida.jpg" alt="chalkida" width="500"/>
+<img src="media/chalkida2.jpg" alt="chalkida" width="500"/>
 
 One hour from Athens, you can visit the beautiful city of Chalkida. Ouza taverns and snacks for Sunday excursions, beautiful beaches to the north and south with clear waters and sandy beaches and a sense that the city lives on a permanent holiday.From the Negreponte bridge you can watch the changing direction of the waters of Euripos every six hours, a classic family attraction of the 1970s. Moreover, you can see the Roman aqueduct, known as the Arches, with twelve arches.
 
