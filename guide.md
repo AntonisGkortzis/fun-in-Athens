@@ -1669,6 +1669,15 @@ The most iconic hotel in Athens, located at Syntagma Square, is one of the most 
 *Information retrieved from:* [Hotel Grande Bretagne]( https://hotelbretagne.grandluxuryhotels.com/en/h/31/hotel-grande-bretagne?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeLPKULmiay8E4Yneo3cJUmr1OA86ZgjrxoL10QLkfkfKoTBQIdMhH0aAkmnEALw_wcB) |
 *Photo retrieved from:* [Booking.com]( https://www.booking.com/hotel/gr/grandbretagneathens.el.html)
 
+**St George Lycabettus**
+
+<img src="media/stGeorge.jpg" alt="st George Lycabettus" width="500"/>
+
+Awarded best rooftop view hotel at World Luxury Hotel Awards, 
+St. George Lycabettus offers mesmerising panoramic views over Athens to the Acropolis and the Saronic Gulf. At the same time, the guest is also perfectly positioned in the pulsing heart of Athens, just steps away from Kolonaki’s alluring shops, museums, galleries and eateries.
+
+*Information and photo retrieved from:* [St. George Lycabettus](https://www.sglycabettus.gr/) 
+
 
 ## <a name="fullDayTrips"></a>Full Day Trips
 
