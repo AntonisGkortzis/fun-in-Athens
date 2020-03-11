@@ -858,6 +858,15 @@ Just 14km from downtown Athens – or a short, 35-minute ride from Monastiraki o
 
 *Information retrieved from:* [Kifissia](https://www.greece-is.com/kifissia-the-northern-aristocrat/)
 
+**Lycabettus Hill**
+
+<img src="media/lykabhtos.jpeg" alt="Lycabhtos" width="500"/>
+
+Standing 277 meters above sea level, Lycabettus Hill (sometimes spelt Lykavitos) is the highest point of Athens. Although a beautiful walk up via a circular path, it will be a test of endurance and a challenge in summer. The view from Lycabettus Hill is best enjoyed at sunset whilst waiting for the lights of the Acropolis, Temple of Olympian Zeus, Panathenaic Stadium and Ancient Agora to come on. You will also be reminded that Athens is surrounded by sea with spectacular views across the Aegean. 
+
+*Information retrieved from:* [Why Athens](https://whyathens.com/lycabettus-hill/) |
+*Photo retrieved from:* [Huffington Post](https://img.huffingtonpost.com/asset/5bf592a1240000390458372a.jpeg?cache=IbNX9UWDbC&ops=crop_0_100_915_607,scalefit_960_noupscale)
+
 #### <a name="koukaki"></a>**Koukaki**
 
 <img src="media/koukaki.jpg" alt="Koukaki" width="500"/>
