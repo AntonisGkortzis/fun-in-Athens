@@ -1273,6 +1273,12 @@ In the PLAyCE collection there are over 600 board games we have collected from a
 
 *Information & photo retrieved from:* [PLAyCE](https://www.playce.gr/)
 
+**Ping Pong in Ano Patissia**
+
+<img src="media/pingpong.jpg" width="500"/>
+*Image retrieved from:*[blanosbowling.gr](https://www.blanosbowling.gr/)
+
+A really fun way to spend time with your friends and family is by playing ping pong. The rules are pretty simple and all of the family can play, since it doesn't need a lot of athletic skill. It will be really fun and you will have a great time playing with each other, since it is a game where you should really control your strength and that's really hard. You can find ping pong courts in a lot of places but I recommend the one in Ano Patissia, because there are 3 of them, so the queue list will be too little time, if not non-existent at all. Plus, it is easily accessible by bus or train. Both train station and bus stop are 2 minutes on foot from there.
 
 ## <a name="artAndCulture"></a>Art and Culture
 
