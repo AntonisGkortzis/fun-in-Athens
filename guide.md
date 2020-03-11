@@ -1,6 +1,6 @@
 # Cool things to do in Athens
 
-<img src="media/acro.jpg" alt="drawing" width="500"/>
+<img src="media/acro.jpg" alt="Acropolis" width="500"/>
 
 Photo owned by [ceoworld.biz](https://ceoworld.biz/)
 
@@ -36,7 +36,7 @@ Even though this place beauty is hidden in its simplicity and secrecy, more peop
 
 **Fairytale**
 
-<img src="media/fairytale.jpg" alt="Fairytail" width="500"/>
+<img src="media/fairytale.jpg" alt="Fairytale" width="500"/>
 
 If you love fairytales and sweets, then you should definitely visit this "sweet" magical place in Nea Filadelfeia. Fairytale is the ideal place where sweets and tales are mixed in a unique way. Its owners love all Disney heroes and they have visited all of Disneys parks. Drawing their inspiration from their visits, Fairytale was created, but its not only looks as all sweets served are a work of art both in appearance and taste. Fairytale's exact location is at [Tripia 33](https://www.google.com/maps/dir//38.0354,23.736193/@38.035337,23.666058,12z), Nea Filadelfia.
 
@@ -464,6 +464,14 @@ Baba Au Rum has won multiple awards over the last few years and have been listed
 Lot 51 gives a lot of value to the quality of the coffee and wants to make it a better as possible. Apart from that, you can find there very interesting labels of whiskey and a lot of tasty cocktails. Last but not least, there are many choices there if you want to have a meal, for example brunch, salat, burger or even pasta.
 
 *Information & photo retrieved from:* [Esquire](https://esquire.com.gr/poto/bars/5852/giati-oloi-pigainoun-sto-lot-51)
+
+**MYLOS**
+
+<img src="media/mylos.jpg" width="500"/>
+
+Mylos is one of the greatest club in Athens. It is really famous and respected in the west suburbs of Athens. A single night in this marvelous club will make you a great fan of it. Before you know it, you will become a regular customer. If you like trash Greek music combined with just a bit of trap and rap, Mylos is the place you need to be.
+
+*Photo retrieved from:* [MYLOS' facebook page] https://www.facebook.com/pages/category/Dance---Night-Club/MYLOS-173618299411072/
 
 **TYCO**
 
@@ -921,6 +929,16 @@ If you are in Athens and you are searching for an alternative way of fun, this i
 
 *Information and photo retrieved from:* [Paintball Park](https://www.paintball-park.gr/)
 
+
+**Adventure Park**
+
+<img src="media/adventure_park.jpg" alt="Adventure Park" width="500"/>
+
+Adventure Park is a recreational area in the forest with multiple activities for you to do in nature. Some of the activities are: zip lines, archery, bungee trampoline, operation tarantula and free games. Here, you have the opportunity to "fly" from tree to tree, no matter your age, always in the safety equipment that the park will provide you. The park is located in Malakasa. Embrace your inner child and start flying!
+
+*Information and photo retrieved from:* [Adventure Park](https://www.adventure-park.gr/index.php/en/)
+
+
 **The National Garden and Zappeion**
 
 <img src="media/garden.jpg" alt="National Garden" width="500"/>
@@ -1209,6 +1227,16 @@ Its internal space consists of 7 floors and 9 underground levels. During the sum
 
 *Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/) |
 *Photo retrieved form:* [Google](https://www.google.com/search?q=onassis+cultural+center&sxsrf=ALeKk000HTD7ue1WpZh5sUSgwyT4k6zXGw:1583864295430&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjo-82lwpDoAhWSN8AKHdXTCesQ_AUoAnoECCEQBA&biw=1366&bih=657#imgrc=5jC5E-VAR9H8sM/)
+
+**Gazarte**
+
+<img src="media/gazarte.jpg" alt="gazarte" width="500"/>
+
+Gazarte is a multifaceted art and culture offering alternative entertainment and entertainment options to the visitor. Gazarte facilities include the Music Stage, Bookstore and Gazarte Cinema on the ground floor, the Cocktails Bar Restaurant with its Taratsa on the first floor, and the Multiple Events Room on the second floor.Located in Gazi's main square, next to Kerameikos Metro Station, Gazarte has a panoramic view of the Acropolis and Gazi, while being easy to access. For more information about its upcoming events you can check here:https://www.gazarte.gr/ 
+
+*Information retrieved from:*[culturenow](https://www.culturenow.gr/venue/gazarte/) |
+*Photo retieved form:*[Google](https://www.google.com/search?q=gazarte&sxsrf=ALeKk03opJykAs74FRA10bnwF7zuiVWrUA:1583887534546&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpg_HumJHoAhVWEncKHQhdBHcQ_AUoAnoECBcQBA&cshid=1583887677206282&biw=1536&bih=754#imgrc=3iG05n1s7R_7tM)
+
 
 **Instar**
 
