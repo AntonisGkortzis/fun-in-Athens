@@ -520,6 +520,16 @@ Address: [T.K, Ακτή Μικρολίμανου, Πειραιάς 185 33](https
 
 *All information retrieved from:* [Istioploikos](http://www.istioploikos.gr/el/)
 
+**Skipper's**
+
+<img src="media/Skipper's.jpg" alt="Skipper's" width="500"/>
+
+Skipper’s bar opened on the 4th of May, 1987 and is currently going through its 26th year of operation. All these years Skipper's has remained constant supporting the principles of aesthetics, honesty and friendly prices. It's a magnificent place right along the seaside where you can enjoy your beverage or drinks. The easiest way to go there is by car.
+
+Address: [Μαρίνα, Άλιμος 174 55](https://www.google.com/maps/place/Skipper's/@37.9141714,23.7046989,14.72z/data=!4m5!3m4!1s0x0:0xa0fb3ce28dbf0291!8m2!3d37.9139167!4d23.7004444)
+
+*All information retrieved from:* [Skipper's](https://skippersbar.gr/)
+
 **Terra Petra**
 
 <img src="media/terrapetra.jpg" alt="Terra Petra" width="500"/>
