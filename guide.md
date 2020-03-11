@@ -138,6 +138,14 @@ If you are a fan of sweets, that's the place for you! So many different options,
 *Information retrieved from:* [Nancy's Sweet Home](https://www.nancysweethome.gr/) |
 *Photo retrieved from:* [LIFO](https://www.lifo.gr/team/peina/55522)
 
+**Cap Cap**
+
+<img src="media/capcap.jpg" width="500"/>
+
+Cap cap is a perfect place in order to eat sweets. The place is really nice and cozy, the staff is really polite and ready to serve you at any time. And the most important, the sweets are delicious. You can go there through the metro railway and stop at the Aigaleo metro station. Another way is by car, where you can find a parking spot quite easily.
+
+*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
+
 **Mparmpeekiou**
 
 <img src="media/mparmpeekiou.jpg" alt="Mparmpeekiou" width="500"/>
