@@ -44,7 +44,6 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Photo retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
-=======
 **Italus**
 
 <img src="media/italus.jpg" width="500"/>
