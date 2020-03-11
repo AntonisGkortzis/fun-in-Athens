@@ -1464,7 +1464,7 @@ With this cruise you can visit three of the islands in Greece’s Saronic Gulf i
 
 *Information retrieved from:*[Trip Advisor](https://www.tripadvisor.com/AttractionProductReview-g3695532-d13857583-Full_Day_Cruise_to_Greek_Islands_from_Athens_Poros_Hydra_Aegina-Paleo_Faliro_Atti.html)
 *Image retrieved from:*[Ferries](https://www.ferries.gr/)
->>>>>>> 642027c4f324b77cc59ec36958da6d2355b497d2
+
 
 ## <a name="beach"></a>Beach
 
