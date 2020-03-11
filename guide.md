@@ -824,6 +824,17 @@ It might sound pretty bizarre, but there is a place where Greek and Irish cultur
 
 *Information and photo retrieved from:* [James Joyce Irish Pub](https://www.jjoyceirishpubathens.com/)
 
+**Barley Cargo**
+
+<img src="media/barley-cargo.jpg" alt="The Speakeasy" width="500"/>
+
+Barley Cargo offers a beer tasting experience in central Athens with more than 230 international beers including 70 Greek beers and 17 on tap varieties. Established in 2012 by Marios Mantzoukis and Nectarios Kefalas, Barley Cargo is the perfect place to get acquainted with Greek beers, which are winning awards all around the world.
+
+Address: [Kolokotroni 6, Athens, 105 61](https://goo.gl/maps/1aNTcpxhjD1cpDWE6)
+
+*Information retrieved from:* [Why Athens](https://whyathens.com/barley-cargo/) |
+*Photo retrieved from:* [My secret Athens](https://www.mysecretathens.gr/2012/09/barley-cargo/)
+
 **Podiki**
 
 <img src="media/podiki.jpg" width="500"/>
@@ -1956,3 +1967,14 @@ The Costa del Sol beach is a popular Athenian beach. It’s located at the Alimo
 
 *Information retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/ )|
 *Photo retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/wp-content/uploads/2016/08/0003.jpg)
+
+**Marathonas Beach**
+
+<img src="media/marathonas-beach.jpg" alt="Marathonas Beach" width="500"/>
+
+Marathonas Beach is a Beach in Attica, East in Athens in the Attica Region of Greece.
+The postal code of Marathonas Beach is 19007 and its telephone access code is +3022940.
+Locations near Marathonas Beach include the Wetland of Brexiza and the Ancient demos of Marathon.
+Restaurants near Marathonas Beach include Cavouri (Greek), Avra (Greek, Seafood), Taj Mahal (Indian), Vietnam (Vietnamese) and H Trata (Greek).
+
+*Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
