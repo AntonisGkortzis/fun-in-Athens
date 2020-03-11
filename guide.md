@@ -1524,6 +1524,17 @@ You are a fan of beach volleyball? That's the ideal place for you! You can go an
 
 *Information and image retrieved from:*[iBeach](https://www.ibeach.gr/)
 
+**Duo Capriccioso**
+
+<img src="media/DuoCapriccioso.jpg" alt="Duo Capriccioso" width="500"/>
+
+*15 March 2020 *
+
+Entrance: 5€
+Contact: E-mail: spitikerameikos@gmail.com | Phone: 2114014975 (20:00-2:00), 6983522217 
+
+*Information and Photo retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/duo_capriccioso_sto_spiti_art_bar)
+
 ## <a name="artAndCulture"></a>Art and Culture
 
 **Megaron - The Athens Concert Hall**
