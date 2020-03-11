@@ -74,7 +74,7 @@ Dome, which in russian means home got its name as it makes you feel like home!
 
 A really good place in Peristeri. You can get there using the metro railway or the bus. If you get there by car it will be easy for you to find a spot to park your car, but not so close to the Godmama's Yard. Exceptions if you are truly lucky can happen and you may find a perfect spot. The Godmama’s Yard is here to offer a really nice and cozy place with a huge yard in the back of the cafe. It may be a new place in town but people have already loved it, so you will find a lot of nice people there.
 
-Address: [Βασ. Αλεξάνδρου 98, Περιστέρι 121 34](https://www.google.gr/maps/place/Godmama's+Yard/@38.0104107,23.6910026,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a3703c66efef:0x4b0bbd06827f40a3!8m2!3d38.0104107!4d23.6931913) | 
+Address: [Βασ. Αλεξάνδρου 98, Περιστέρι 121 34](https://www.google.gr/maps/place/Godmama's+Yard/@38.0104107,23.6910026,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a3703c66efef:0x4b0bbd06827f40a3!8m2!3d38.0104107!4d23.6931913) |
 *Information and Photo retrieved from:* [fnl](https://www.fnl-guide.com/gr/el/the-bars/godmama-s-yard/)
 
 **I Cafe Bar**
@@ -124,7 +124,7 @@ Address: [Αμερικής 4, Αθήνα 105 64](https://www.google.gr/maps/plac
 
 Rabbithole is a Cafe/Bar right next to the most central point of the city, the famous Syntagma Square. You can visit Rabbithole to enjoy a coffee or tea while working on your projects, or for a beer and a cocktail once it gets dark. Just above it, one of the most picturesque locations in Athens awaits. The Passage of the Merchants.
 
-*Information and photo retrieved from:* [Rabbithole](https://rabbitholebar.gr/) 
+*Information and photo retrieved from:* [Rabbithole](https://rabbitholebar.gr/)
 
 **Belle Epoque**
 
@@ -411,7 +411,7 @@ If you’re planning on visiting, don’t forget to try the great pancakes that 
 
 If you want to eat the best crepe in Athens you can visit ilion (new liosia) attikis and try the very known creperie The twins inspiration!
 
-*Information and photo retrieved from:* [The twins inspiration](https://www.facebook.com/thetwinsinspiration/) 
+*Information and photo retrieved from:* [The twins inspiration](https://www.facebook.com/thetwinsinspiration/)
 
 **Mama Roux**
 
@@ -889,6 +889,17 @@ Address: [Μιαούλη 22, Αθήνα 105 54](https://www.google.gr/maps/place
 
 *Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d10340922-Reviews-Arodou-Athens_Attica.html)
 
+**The Local Pub**
+
+<img src="media/local_pub.jpg" width="500"/>
+
+The Local Pub is a traditional pub located in Chalandri, Attica. But what is so special about The Local Pub? Among the most famous beers, Local Pub also serves homemade beers made
+by Anastasiou Brewing Co. that is located right beside the pub. Having that said, in Local Pub you can taste a great variety of Local Greek Beers, and have a great time in or outside the Pub (specially made open yard), just in the heart of Chalandri.
+
+Address: [Χαϊμαντά 25, Χαλάνδρι 152 34](https://www.google.com/maps/place/The+Local+Pub/@38.021125,23.7997258,17z/data=!3m1!4b1!4m5!3m4!1s0x14a198f9a86d9a0b:0x8b76260b26b50f78!8m2!3d38.0211208!4d23.8019145?hl=el)
+
+*Information and Photo retrieved from:* [Newsbeast](https://www.newsbeast.gr/entertainment/arthro/794927/the-local-pub-mia-buraria-agglikon-prodiagrafon-sto-halandri)
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
@@ -948,7 +959,7 @@ Just 14km from downtown Athens – or a short, 35-minute ride from Monastiraki o
 
 <img src="media/lykabhtos.jpeg" alt="Lycabhtos" width="500"/>
 
-Standing 277 meters above sea level, Lycabettus Hill (sometimes spelt Lykavitos) is the highest point of Athens. Although a beautiful walk up via a circular path, it will be a test of endurance and a challenge in summer. The view from Lycabettus Hill is best enjoyed at sunset whilst waiting for the lights of the Acropolis, Temple of Olympian Zeus, Panathenaic Stadium and Ancient Agora to come on. You will also be reminded that Athens is surrounded by sea with spectacular views across the Aegean. 
+Standing 277 meters above sea level, Lycabettus Hill (sometimes spelt Lykavitos) is the highest point of Athens. Although a beautiful walk up via a circular path, it will be a test of endurance and a challenge in summer. The view from Lycabettus Hill is best enjoyed at sunset whilst waiting for the lights of the Acropolis, Temple of Olympian Zeus, Panathenaic Stadium and Ancient Agora to come on. You will also be reminded that Athens is surrounded by sea with spectacular views across the Aegean.
 
 *Information retrieved from:* [Why Athens](https://whyathens.com/lycabettus-hill/) |
 *Photo retrieved from:* [Huffington Post](https://img.huffingtonpost.com/asset/5bf592a1240000390458372a.jpeg?cache=IbNX9UWDbC&ops=crop_0_100_915_607,scalefit_960_noupscale)
@@ -1163,7 +1174,7 @@ Benaki's museum is one of the top museum in Athens.What you will see inside of t
 
 <img src="media/cycladicArt.jpg" alt="Museum of Cycladic Art" width="500"/>
 
-The museum of Cycladic Art is dedicated to the study and demonstration of the ancient civilizations of Aegean and Cyprus (500 BC - 600 AD). The museum organizes multiple archaeological and modern art exhibitions. 
+The museum of Cycladic Art is dedicated to the study and demonstration of the ancient civilizations of Aegean and Cyprus (500 BC - 600 AD). The museum organizes multiple archaeological and modern art exhibitions.
 More information on the museum and its opening hours can be found [here](https://cycladic.gr/en).
 
 *Information retrieved from:* [Museum of Cycladic Art](https://cycladic.gr/en) | *Photo retrieved from:* [visitgreece](http://www.visitgreece.gr/en/culture/museums/museum_of_cycladic_art)
@@ -1176,7 +1187,7 @@ In the Hellenic IT Museum you'll see rare exhibits, including computers, softwar
 
 Fun fact: There’s a room with an old TV and joystick, where you can see by yourself how people were watching TV in the past and how they were playing!
 
-*Information and photo retrieved from:* [This is athens](https://www.thisisathens.org/museums/hellenic-it-museum) 
+*Information and photo retrieved from:* [This is athens](https://www.thisisathens.org/museums/hellenic-it-museum)
 
 ## <a name="monuments"></a>Monuments
 
@@ -1330,7 +1341,7 @@ It is a plastic lock&lock tupper that contain logbook, pencil and stash note tha
 To find the cache is very easy.
 Have fun and enjoy the area!
 
-*Information retrieved from:* [Drafi](https://www.geocaching.com/geocache/GC504AY_pentelis-drafi-waterfalls) 
+*Information retrieved from:* [Drafi](https://www.geocaching.com/geocache/GC504AY_pentelis-drafi-waterfalls)
 
 **Guided Tours at the Stavros Niarchos Park**
 
@@ -1649,7 +1660,7 @@ You are a fan of beach volleyball? That's the ideal place for you! You can go an
 *15 March 2020 *
 
 Entrance: 5€
-Contact: E-mail: spitikerameikos@gmail.com | Phone: 2114014975 (20:00-2:00), 6983522217 
+Contact: E-mail: spitikerameikos@gmail.com | Phone: 2114014975 (20:00-2:00), 6983522217
 
 *Information and Photo retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/duo_capriccioso_sto_spiti_art_bar)
 
@@ -1723,7 +1734,7 @@ During these years, Greek public has been introduced to numerous artistic curren
 
 *7 March 2020 - 15 March 2020*
 
-*Artists:* Giorgos N. Papadogiannakis | Canderola | Despoina Mykoniati | Christos Linopoulos | Giorgos Barbas 
+*Artists:* Giorgos N. Papadogiannakis | Canderola | Despoina Mykoniati | Christos Linopoulos | Giorgos Barbas
 
 Five friends present their work
 
@@ -1832,10 +1843,10 @@ The most iconic hotel in Athens, located at Syntagma Square, is one of the most 
 
 <img src="media/stGeorge.jpg" alt="st George Lycabettus" width="500"/>
 
-Awarded best rooftop view hotel at World Luxury Hotel Awards, 
+Awarded best rooftop view hotel at World Luxury Hotel Awards,
 St. George Lycabettus offers mesmerising panoramic views over Athens to the Acropolis and the Saronic Gulf. At the same time, the guest is also perfectly positioned in the pulsing heart of Athens, just steps away from Kolonaki’s alluring shops, museums, galleries and eateries.
 
-*Information and photo retrieved from:* [St. George Lycabettus](https://www.sglycabettus.gr/) 
+*Information and photo retrieved from:* [St. George Lycabettus](https://www.sglycabettus.gr/)
 
 ## <a name="fullDayTrips"></a>Full Day Trips
 
@@ -2014,7 +2025,7 @@ Restaurants near Marathonas Beach include Cavouri (Greek), Avra (Greek, Seafood)
 <img src="media/zoumperi-beach.jpg" alt="Zoumperi Beach" width="500"/>
 
 The coastline of Nea Makri has many areas for your to enjoy the beach and clear blue sea. Zoumberi is a Beach in Nea Makri in Athens in the Attica Region of Greece.
-The postal code of Zoumberi is 19005 and its telephone access code is +3022940. Zoumberi is at an altitude of 20 meters. 
+The postal code of Zoumberi is 19005 and its telephone access code is +3022940. Zoumberi is at an altitude of 20 meters.
 Locations near Zoumberi include the Town of Nea Makri and the Small port of Mati.
 
 *Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
