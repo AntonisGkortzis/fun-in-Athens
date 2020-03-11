@@ -1186,22 +1186,6 @@ Its internal space consists of 7 floors and 9 underground levels. During the sum
 *Information retrieved from:* [Harper's Bazaar](https://www.harpersbazaar.com/uk/travel/a28116013/athens-arts-culture-guide/) |
 *Photo retrieved form:* [Google](https://www.google.com/search?q=onassis+cultural+center&sxsrf=ALeKk000HTD7ue1WpZh5sUSgwyT4k6zXGw:1583864295430&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjo-82lwpDoAhWSN8AKHdXTCesQ_AUoAnoECCEQBA&biw=1366&bih=657#imgrc=5jC5E-VAR9H8sM/)
 
-**Hellenic Motor Museum**
-
-<img src="media/hellenic-motor-museum.jpg" alt="Motor Museum" width="500"/>
-
-Hellenic Motor Museum occupies 5.000 sqm. in a unique building in terms of architecture and design. Its exhibitions are dedicated to the evolution of the car and display more than 110 cars from the 19th and the 20th century.
-It is located in the heart of Athens, just a few minutes away from the National Archaeological Museum.
-
-OPENING HOURS
-
-* Monday to Friday	10:00 – 14:00
-* Saturday	11:00 – 18:00
-* Sunday	11:00 – 18:00
-
-*Information retrieved from:* [Hellenic Motor Museum](https://www.hellenicmotormuseum.gr/en/) |
-*Photo retrieved from:* [the fashionable traveler](http://thefashionabletraveller.blogspot.com/2012/12/i-drove-all-day-night.html)
-
 **Instar**
 
 <img src="media/instar.jpg" alt="instar" width="500"/>
@@ -1218,32 +1202,6 @@ Reservations - Info: 6909471254, from 11:00 - 14:00 & 17:00 - 20:00
 
 *Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/instar_apo_tin_omada_sygxronoy_xoroy_prosxima)
 
-**National Museum of Contemporary Arts (EMST)**
-
-<img src="media/emst.jpg" alt="EMST Museum" width="500"/>
-
-The National Museum of Contemporary Art, Athens (EMST) began its operation in 2000. It is located where the former Fix Brewery premises were, on Syngrou Ave. and the building occupies a total of 18.142 sqm. on a 3.123 sqm surface.
-
-The Museum’s has a constantly growing collection, which consists of works by Greek and international artists, such as Jannis Kounellis, Stephen Antonakos, Gary Hill, Vlassis Caniaris, Chryssa, Mona Hatoun, Emily Jacir, Ilya and Emilia Kabakov, Kim Sooja, Nikos Kessanlis, Shirin Neshat, Lucas Samaras, Costas Tsoclis, Bill Viola, Joseph Kosuth, Pedro Cabrita Reiss, Costas Varotsos, George Lappas, Oliver Ressler, Gulsun Karamustafa a.o.
-
-From 2003 until 2008 it presented exhibitions and events at the Athens Concert Hall, the Athens School of Fine Arts and in the public space. From September 30th, 2008, it was hosted in sections of the building of the Athens Conservatoire.
-
-In May 2015 EMST moved to its permanent premises. From October 2016 to this day, it makes use of the building’s contemporary exhibition spaces, educational facilities, screening room, the museum shop and other facilities, producing or supporting a large number of exhibitions and other activities including conferences, talks, book presentations, film screenings, and dance and musical performances and connecting people from all over the world throught culture and art.
-
-OPENING HOURS
-
-* Monday	CLOSED <br>
-* Tuesday	11.00 am – 7.00 pm <br>
-* Wednesday	11.00 am – 7.00 pm <br>
-* Thursday	11.00 am – 10.00 pm <br>
-* Friday	11.00 am – 7.00 pm <br>
-* Saturday	11.00 am – 7.00 pm <br>
-* Sunday	11.00 am – 7.00 pm <br>
-
-*Information retrieved from:* [EMST](https://www.emst.gr/en/museum)  |
-*Photo retrieved form:* [EMST](https://www.emst.gr/en/)
-
-[MORE INFORMATION](https://www.emst.gr/en/contact)
 
 **ADD 2020**
 
