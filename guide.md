@@ -49,7 +49,7 @@ The perfect place to enjoy your beverage or drinks in the summer days. In winter
 
 Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/place/Madeira+Cafe+%26+Bar/@38.0473333,23.7634344,17z/data=!3m1!4b1!4m5!3m4!1s0x14a198a0489b8671:0xbc82d4c212011fbe!8m2!3d38.0473333!4d23.7656231)
 
-*Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
+*Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html) |
 *Photo retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
 **Italus**
@@ -74,8 +74,7 @@ Dome, which in russian means home got its name as it makes you feel like home!
 
 A really good place in Peristeri. You can get there using the metro railway or the bus. If you get there by car it will be easy for you to find a spot to park your car, but not so close to the Godmama's Yard. Exceptions if you are truly lucky can happen and you may find a perfect spot. The Godmama’s Yard is here to offer a really nice and cozy place with a huge yard in the back of the cafe. It may be a new place in town but people have already loved it, so you will find a lot of nice people there.
 
-Address: [Βασ. Αλεξάνδρου 98, Περιστέρι 121 34](https://www.google.gr/maps/place/Godmama's+Yard/@38.0104107,23.6910026,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a3703c66efef:0x4b0bbd06827f40a3!8m2!3d38.0104107!4d23.6931913)
-
+Address: [Βασ. Αλεξάνδρου 98, Περιστέρι 121 34](https://www.google.gr/maps/place/Godmama's+Yard/@38.0104107,23.6910026,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1a3703c66efef:0x4b0bbd06827f40a3!8m2!3d38.0104107!4d23.6931913) | 
 *Information and Photo retrieved from:* [fnl](https://www.fnl-guide.com/gr/el/the-bars/godmama-s-yard/)
 
 **I Cafe Bar**
@@ -1996,7 +1995,7 @@ Voula beach is really close to Vouliagmeni, so you can access the beach by car o
 
 The Costa del Sol beach is a popular Athenian beach. It’s located at the Alimos seaside and it’s the nearest organized beach to the Athens city center. It can be easily accessed by tram (“Zefyros” stop). The entrance fee is 6 euros for non-Alimos residents, while the entrance it’s free for the residents of Alimos. The facilities include: beach volleyball and beach-racket courts, beach bars, restaurants, nightclubs, and a venue for hosting receptions and concerts. There is also a water park, as well as a rental service for canoes and pedal boats.
 
-*Information retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/ )|
+*Information retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/ ) |
 *Photo retrieved from:* [Akti Tou Iliou]( https://www.aktitouiliou.gr/wp-content/uploads/2016/08/0003.jpg)
 
 **Marathonas Beach**
