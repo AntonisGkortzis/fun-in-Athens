@@ -20,6 +20,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Accomodation](#accomodation) 🏨
 * [Full day trips](#fullDayTrips) :car:
 * [Beach](#beach) 🏄
+* [Music Festivals](#musicFestivals) 🎸 
 
 
 ## <a name="cafe"></a>Cafeterias
@@ -2042,3 +2043,30 @@ The postal code of Zoumberi is 19005 and its telephone access code is +3022940. 
 Locations near Zoumberi include the Town of Nea Makri and the Small port of Mati.
 
 *Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
+
+
+## <a name="beach"></a>Beach
+
+In Athens you can enjoy many music festivals, especially at summer when the weather is suitable for outdoor activities.
+
+**Release Athens**
+
+<img src="media/release.jpg" alt="Zoumperi Beach" width="500"/>
+
+A young music festival meant to deliver the latest in global tunes to a hungry Greek audience, Release Athens is returning for the third year to, in their own words, “release difficulties and everyday stress through the dynamics of good music, culture and interactivity!” Over three set dates, the festival will deliver a broad menu of musical artists and genres, providing a little bit of everything for all to enjoy. In 2016, its first year, Release brought esteemed guests to Greece such as Slowdive, The Brian Jonestown Massacre, Parov Stelar and many more. This year, former The Verve frontman Richard Ashcroft, Thievery Corporation and critically acclaimed funk/jazz band Jamiroquai will headline at three respective dates. Like Ejekt, the festival takes place right on the water, just down the road from the port of Piraeus. Release is a great way to start the summer in Greece, mingling with the locals, taking in the sea breeze, and jamming out to the latest in international sounds.
+
+
+**Eject**
+
+<img src="media/ejekt.jpg" alt="Zoumperi Beach" width="500"/>
+
+Returning for the 14th year, Ejekt Music Festival will kick off a string of summer bashes in Athens with a strong headline performance by Australian rockers Nick Cave and the Bad Seeds. The festival has historically brought emerging artists together with global notables like The Killers, Crystal Castles and The Beastie Boys. Set on the coast, just a few steps from the sea, this summer celebration is an ongoing rave that matches the energy of bustling Athens. Others set to take the stage include the Editors, Wolf Alice, Protomartyr and Jack Heart. Placing a special emphasis on rock and all sounds grunge, the two-day festival is sure to set the tone for the summer to come. The festival is easy to get to on public transportation, and provides an exciting twist on summer for both locals and out of towners.
+
+**Rockwave Festival**
+
+<img src="media/rockwave.jpg" alt="Zoumperi Beach" width="500"/>
+
+From classic and metal to new-wave, if rock is your thing, The Rockwave Festival was tailored to you. Beginning in 1996 and growing in popularity since the early 2000s, Rockwave has arguably become Greece’s most impressive festival, pulling notable names from all over the Western world like Metallica, Depeche Mode, and Black Sabbath. 
+
+
+*Information retrieved from:* [Athens Insider](https://www.athensinsider.com/5-fab-athens-music-festivals-brighten-summer/)
