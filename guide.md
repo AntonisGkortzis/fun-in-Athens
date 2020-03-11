@@ -561,6 +561,14 @@ An all day bar and restaurant with great ambience located in the heart of the hi
 *Information retrieved from:* [City Zen](https://www.cityzenathens.gr/) |
 *Photo retrieved from:* [Elepod](https://www.elepod.gr/business/cityzen-all-day-cafe-bar-kaphes-poto-me-thea-akropole-monasteraki)
 
+**James Joyce Irish Pub**
+
+<img src="media/james-joyce.jpg" alt="James Joyce Irish Pub" width="500"/>
+
+It might sound pretty bizarre, but there is a place where Greek and Irish cultures briefly meet. James Joyce is an Irish pub that serves traditional Irish favourites as well as Greek dishes, such as the famous Greek salad; needless to mention that the refreshing draught beers and abudant Irish whiskies are incomparable. You can find it [here](google.com/maps?q=James+Joyce&ftid=0x14a1bd22312e67a3:0x21149bfa5ea1f82b).
+
+*Information and photo retrieved from:* [James Joyce Irish Pub](https://www.jjoyceirishpubathens.com/)
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
