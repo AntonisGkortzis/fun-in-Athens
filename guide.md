@@ -1,6 +1,6 @@
 # Cool things to do in Athens
 
-<img src="media/acro.jpg" alt="drawing" width="500"/>
+<img src="media/acro.jpg" alt="Acropolis" width="500"/>
 
 Photo owned by [ceoworld.biz](https://ceoworld.biz/)
 
@@ -36,7 +36,7 @@ Even though this place beauty is hidden in its simplicity and secrecy, more peop
 
 **Fairytale**
 
-<img src="media/fairytale.jpg" alt="Fairytail" width="500"/>
+<img src="media/fairytale.jpg" alt="Fairytale" width="500"/>
 
 If you love fairytales and sweets, then you should definitely visit this "sweet" magical place in Nea Filadelfeia. Fairytale is the ideal place where sweets and tales are mixed in a unique way. Its owners love all Disney heroes and they have visited all of Disneys parks. Drawing their inspiration from their visits, Fairytale was created, but its not only looks as all sweets served are a work of art both in appearance and taste. Fairytale's exact location is at [Tripia 33](https://www.google.com/maps/dir//38.0354,23.736193/@38.035337,23.666058,12z), Nea Filadelfia.
 
