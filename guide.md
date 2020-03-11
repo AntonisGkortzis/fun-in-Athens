@@ -137,17 +137,6 @@ Address: [Αριστοτέλους 10, Πειραιάς 185 35](https://www.goog
 
 *Informationand photo retrieved from:*[Belle-epoque Site](https://belle-epoque.gr/)
 
-**Pirée**
-
-<img src="media/piree.jpg" width="500"/>
-
-Who wouldn't like drink their coffee in a place full of art?It is possible at Pirée, a great café near Piraeus port. Combining culture and entertainment, Pirée has a café bar where you can enjoy drinks, high-quality coffee and a food menu while admiring the work of new artists. The energy of this place is outstandind and you may even get to assist in an art performance.
-
-Address: [Κάστορος 78, Πειραιάς](https://www.google.gr/maps/place/PIREE/@37.941207,23.6111374,13z/data=!4m8!1m2!2m1!1spIREE!3m4!1s0x14a1bbc6d734f519:0xacac6a7c6818a7bd!8m2!3d37.9501045!4d23.6380928?hl=en)
-
-*Information and photo retrieved from:*[Pirée Site](https://www.piree.gr/el)
-
-
 ## <a name="food"></a>Food
 
 Here are the best places where you can enjoy the Greek food.
@@ -2029,4 +2018,4 @@ The coastline of Nea Makri has many areas for your to enjoy the beach and clear 
 The postal code of Zoumberi is 19005 and its telephone access code is +3022940. Zoumberi is at an altitude of 20 meters. 
 Locations near Zoumberi include the Town of Nea Makri and the Small port of Mati.
 
-*Information retrieved from:* [Zoumperi Beach](*Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
+*Information retrieved from:* [Marathonas Beach](http://www.greece.com/destinations/Attica/Athens/Beach/Marathonas_Beach.html)
