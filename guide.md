@@ -1356,6 +1356,18 @@ On the sophisticated Athens Riviera, at the tip of a pine-clad peninsula, Four S
 *Information retrieved from:* [Four Seasons Astir Palace Hotel Athens](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens) |
 *Photo retrieved form:* [Four Seasons Astir Palace Hotel Athens](https://www.fourseasons.com/content/fourseasons/en/properties/athens/landing_pages/ppc/landing_3.html?gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB&source=gaw18APL01&ef_id=Cj0KCQjw9ZzzBRCKARIsANwXaeJ9DBwlocegxdpvrMXxcfqbssBK-XFAxGUPqqEMssicxtaGP63RI70aAiiKEALw_wcB:G:s&s_kwcid=AL!4732!3!419893037425!e!!g!!four%20seasons%20astir%20palace%20in%20athens)
 
+**Hilton Athens**
+
+<img src="media/hilton_athens.jpg" alt="Hilton Athens" width="500"/>
+
+Hilton Athens is a luxurious hotel located in . A favorite among locals and guests alike, the landmark hotel is a destination itself as the hub for Athens’ business, cultural and social life. It incorporates a very unique architectural and artistic style that the guests can enjoy. There is also the option to enjoy a relaxing day at the spa. View the Acropolis and city skyline from the private balcony of the guest rooms. Its prime location in the heart of Athens is the perfect home base for discovering the city's world-famous attractions.
+
+[You can discover more about Hilton Athens and its amenities here](https://www.hiltonathens.gr/)<br>
+
+*Information retrieved from:* [Hilton Athens](https://www3.hilton.com/en/hotels/greece/hilton-athens-ATHHITW/index.html) |
+*Photo retrieved form:* [Hilton Athens Booking.com](https://www.booking.com/hotel/gr/hilton-athens.el.html?label=gen173nr-1DCAsoXEINaGlsdG9uLWF0aGVuc0gzWARoXIgBAZgBCLgBF8gBDNgBA-gBAYgCAagCA7gCzo2h8wXAAgE;sid=1fc444795f7e1eca4f89f99ed51be977;dist=0&keep_landing=1&sb_price_type=total&type=total&)
+
+
 ## <a name="fullDayTrips"></a>Full Day Trips
 
 If you are staying in Athens for a couple of days, it's worth making a day tripand discover a different part of Greece
