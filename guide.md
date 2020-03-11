@@ -44,7 +44,6 @@ Address: [Πεύκων 5, Ηράκλειο 141 22](https://www.google.gr/maps/pl
 *Information retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g3137973-d15289678-Reviews-Madeira_Cafe_Bar-Irakleio_Attica.html)
 *Photo retrieved from:* [findhere.gr](https://www.findhere.gr/)
 
-=======
 **Italus**
 
 <img src="media/italus.jpg" width="500"/>
@@ -53,7 +52,6 @@ If you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enj
 
 *Information and photo retrieved from:* [Italus](http://www.italus.gr/)
 
-=======
 **Dome**
 
 <img src="media/dome.jpg" width="500"/>
@@ -62,8 +60,6 @@ Another cafeteria you should undoubtedly visit in Kallithea is "Dome", a cozy pl
 
 *Information and photo retrieved from:* [PolisPages](https://www.polispages.gr/guide/14207/dome-%7C-kafeteria-%7C-kallithea-)
 
-
->>>>>>> ad91a581647a0da71b149100bccaa14f64221fb0
 **Godmama’s Yard**
 
 <img src="media/godmamas.jpg" width="500"/>
@@ -132,6 +128,17 @@ Belle Epoque (or Μπέλ Επόκ) gives a vintage aesthetic in the neighborhoo
 Address: [Αριστοτέλους 10, Πειραιάς 185 35](https://www.google.gr/maps/place/%CE%9C%CF%80%CE%B5%CE%BB+%CE%95%CF%80%CF%8C%CE%BA/@37.9412122,23.6439683,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bbe87686d969:0x1faee70d9ba63f8e!8m2!3d37.9412122!4d23.646157?hl=en)
 
 *Informationand photo retrieved from:*[Belle-epoque Site](https://belle-epoque.gr/)
+
+**Pirée**
+
+<img src="media/piree.jpg" width="500"/>
+
+Who wouldn't like drink their coffee in a place full of art?It is possible at Pirée, a great café near Piraeus port. Combining culture and entertainment, Pirée has a café bar where you can enjoy drinks, high-quality coffee and a food menu while admiring the work of new artists. The energy of this place is outstandind and you may even get to assist in an art performance.
+
+Address: [Κάστορος 78, Πειραιάς](https://www.google.gr/maps/place/PIREE/@37.941207,23.6111374,13z/data=!4m8!1m2!2m1!1spIREE!3m4!1s0x14a1bbc6d734f519:0xacac6a7c6818a7bd!8m2!3d37.9501045!4d23.6380928?hl=en)
+
+*Information and photo retrieved from:*[Pirée Site](https://www.piree.gr/el)
+
 
 ## <a name="food"></a>Food
 
@@ -235,7 +242,7 @@ Cap cap is a perfect place in order to eat sweets. The place is really nice and 
 
 Address: [Πανόρμου 26, Αιγάλεω 122 42](https://www.google.gr/maps/place/CapCap+%CE%91%CE%B9%CE%B3%CE%AC%CE%BB%CE%B5%CF%89/@37.993951,23.6788133,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bcb0094099eb:0xe83d02bb0e73d4fb!8m2!3d37.993951!4d23.681002)
 
-*Information and Photo retrieved from: *[Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
+*Information and Photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g1772175-d6413407-Reviews-Cap_Cap-Egaleo_Attica.html)
 
 **Mparmpeekiou**
 
