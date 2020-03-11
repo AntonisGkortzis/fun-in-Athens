@@ -378,6 +378,14 @@ Bel Rey is a former car lubricant turned into an all day snack bar. With vintage
 *Information retrieved from:* [maxmag](https://www.maxmag.gr/city-guide/athina-koukaki-bel-rey/)|
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BC%CF%80%CE%B5%CE%BB+%CF%81%CE%B5%CF%85+%CE%BA%CE%BF%CF%85%CE%BA%CE%B1%CE%BA%CE%B9&tbm=isch&ved=2ahUKEwix1-mJhpHoAhWIhxQKHbdmBtYQ2-cCegQIABAA&oq=%CE%BC%CF%80%CE%B5%CE%BB+%CF%81&gs_l=img.1.0.35i39j0j0i8i30j0i24l7.1329.3350..4335...1.0..4.180.1479.0j11......0....1..gws-wiz-img.....10..0i67j35i362i39j0i131.pQF0tnEByWw&ei=-iBoXrHyLoiPUrfNmbAN&bih=754&biw=1536#imgrc=G-r2KpU02Cih3M)
 
+**Chocolatata**
+
+<img src="media/chocolatata.jpg" width="500"/>
+
+Chocolatata is a really nice and cozy place really close to the Megaron Mousikis metro station. As you have understood this place is full of chocolate. I would personally recommend you the pancake with chocolate and biscuit: it is so delicious! The people who are working there are really polite and ready to serve you at any time! Plus it is fairly cheap compared to the other places who offer the same thing. You don't want to miss their chocolatata, it is something unforgettable.
+
+*Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d10780532-Reviews-Porto_Rafti_Beach-Athens_Attica.html)
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
