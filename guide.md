@@ -59,6 +59,14 @@ Kapu is a really nice place with a beautiful yard to enjoy on sunny days. You ca
 
 *Information and image retrieved from:*[Kapu](https://kapu.gr/)
 
+**Barrett**
+
+<img src="media/barrett.jpg" width="500"/>
+
+Barrett is a really nice place in the center of Athens. You can enjoy your coffee in the morning and your drinks and cocktails at night. The unique about this place is that on its walls local artists showcase their latest projects, whether these are paintings, photographs or collages. You can get there by all means of public transportations(bus,metro or train).
+
+*Information and image retrieved from:*[Barrett](http://www.barrett-athens.gr/)
+
 ## <a name="food"></a>Food
 
 Here are the best places where you can enjoy the Greek food.
