@@ -1232,6 +1232,15 @@ Contact: 2111822336 – 6907363999
 
 *Information and Photo retrieved from:* [AKROASIS](https://akroasis.gr/open-mic-athens/)
 
+**PLAyCE**
+
+<img src="media/playce.jpg" alt="drawing" width="500"/>
+
+In the PLAyCE collection there are over 600 board games we have collected from around the world. Our staff will put you in the game one by one, solving any queries about the rules but suggesting the game that suits you. Also, twenty flavors of real chocolate served as fluid as you like, twenty-four teas, original milkshakes and delicious snacks are some of the hundreds on our menu.
+
+*Information & photo retrieved from:* [PLAyCE](https://www.playce.gr/)
+
+
 ## <a name="artAndCulture"></a>Art and Culture
 
 **Megaron - The Athens Concert Hall**
