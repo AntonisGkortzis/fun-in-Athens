@@ -1685,6 +1685,8 @@ Athens is well known for its beatiful sun and weather, so if you are visiting At
 
 One of the best and famous beaches in Athens is Schinias. It is a really beautiful place and the waters are crystal clear. Karavi is a beach bar in Schinias beach that elevates the customers' experience! It offers plenty of things to the customer. First of all, you can enjoy your beverage or food in your sunbed. Then, there are a lot of beach volley courts  and if you are lucky enough you can watch professional tournaments that take place there. Last but not least, there are a lot of water sports that one can do there. So as you can see there are lot of ways to enjoy your time there. The only disadvantage of this place is that it is only accessible by car, since it is far enough from metro stations, bus stops etc. But don't let that prevent from enjoying a beautiful sunny day in summer gets wasted.
 
+Address: [Λεωφ. Ποσειδώνος 198, Μαραθώνας 190 07](https://www.google.gr/maps/place/%CE%9A%CE%B1%CF%81%CE%AC%CE%B2%CE%B9/@38.133623,24.0108352,17z/data=!3m1!4b1!4m5!3m4!1s0x14a17902cb1d3359:0xe27c07047adcc49b!8m2!3d38.133623!4d24.0130239)
+
 *Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Attraction_Review-g669631-d6586221-Reviews-Karavi_Schinias_Water_Sports-Marathon_East_Attica_Region_Attica.html)
 
 **Limanakia Vouliagmenis**
@@ -1693,9 +1695,10 @@ One of the best and famous beaches in Athens is Schinias. It is a really beautif
 
 A series of many small beaches in small natural bays with rocks that impress with their natural beauty and wild charm of the landscape spreads in Vouliagmeni, on the way to Varkiza. The turquoise cool waters are accessible by descending paths between the rocks.
 
+Address: [Βουλιαγμένη 166 71](https://www.google.gr/maps/place/%CE%92'%CE%9B%CE%99%CE%9C%CE%91%CE%9D%CE%91%CE%9A%CE%99%CE%91/@37.8019282,23.7879456,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1eac1b2c3bbef:0x6ed1e43737ced9c6!8m2!3d37.8019282!4d23.7901343)
+
 *Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
-
 
 **Pasalimani, Sounio**
 
@@ -1718,5 +1721,7 @@ Porto Rafti, unlike the Voula and Vouliagmeni beach, is a little bit far from At
 <img src="media/voula.jpg" width="500"/>
 
 Voula beach is really close to Vouliagmeni, so you can access the beach by car or by bus. If you choose the latter option, just take the metro until the Elliniko Station where you can get a bus to get you to the beach. The water is really clear and you can enjoy the sun by tanning in your sunbed. You can also ask the waiter or waitress to get you a beverage or something to eat while you are relaxing. Especially on hot days, visiting this beach is really worth it, since you can get there using public transportations. The car is obviously preferred especially when there is a parking lot available, but it is not mandatory.
+
+Address: [Βούλα 166 73](https://www.google.gr/maps/place/A%22+%CE%A0%CE%BB%CE%B1%CE%B6+%CE%92%CE%BF%CF%8D%CE%BB%CE%B1%CF%82/@37.8504972,23.7473019,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bfc2f9ae7c45:0x445555d56c5bd816!8m2!3d37.8504972!4d23.7494906)
 
 *Information and image retrieved from:*[Trip Advisor](https://www.tripadvisor.com/Attraction_Review-g189400-d1520208-Reviews-Voula_Beach-Athens_Attica.html)
