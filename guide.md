@@ -274,7 +274,7 @@ Cookoovaya philosophy is based on friends sharing dishes: sampling, tasting, enj
 
 If you are a fan of sushi, you must visit it while you are staying in Athens. It is located in the city Center, really close to the Syntagma Square. The service is really nice. People are really polite and your order gets ready really quickly. One more attribute of this place is that the sushi tastes nice, there are a lot of options you can choose from and they are considerably cheap. If you have never tried sushi in your life before I suggest you do it in this place, since people are helping you to find out what you will like the most.
 
-*Information and photo retrieved from:* [Trip Advisor] (https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d5121936-Reviews-Koi_Sushi_Bar-Athens_Attica.html)
+*Information and photo retrieved from:* [Trip Advisor](https://www.tripadvisor.com.gr/Restaurant_Review-g189400-d5121936-Reviews-Koi_Sushi_Bar-Athens_Attica.html)
 
 **Hot Hot Burger Bar**
 
@@ -282,7 +282,7 @@ If you are a fan of sushi, you must visit it while you are staying in Athens. It
 
 You are in downtown Athens and you want something delicious and quick at the same time? Hot Hot Burger Bar is there for you! There are a lot of burgers you can choose from and 10 different types of sauces, all made by them! Of course I haven't tasted them all, but I guarantee you that every single one of them is so tasty. Get there(it is very easily accessible) and you won't miss out. A really important note would be that there are a lot of vegan burgers, for every vegan out there wanting to eat a delicious burger.
 
-*Information and photo retrieved from:* [Hot Hot Burger Bar] (http://www.hothot.gr/)
+*Information and photo retrieved from:* [Hot Hot Burger Bar](http://www.hothot.gr/)
 
 **Etnico**
 
@@ -290,7 +290,7 @@ You are in downtown Athens and you want something delicious and quick at the sam
 
 Etnico is all about ethnic street food right in the center of Athens. In this place, you can taste the world, so you can choose different plates from different countries and even different continents. Some examples would be Mexican Chimichanga και Burrito, Arabic Falafel, Indian Samosas and Korean salads. As I mentioned earlier it is located between the two metro stations, Syntagma and Monastiraki. So from wherever you choose to go, just have in ming that it is about 10 minutes on foot. Don't get intimated by that, it is a really nice place to visit and eat since the food is really tasty. Let alone that you are going to enjoy walking till there, as the Ermou street is really close to it. My personal recomendation would be, to strall around Ermou street, maybe even go shopping there and afterwards grab something to eat from Etnico.
 
-*Information and photo retrieved from:* [Etnico] (https://www.etnico.gr/)
+*Information and photo retrieved from:* [Etnico](https://www.etnico.gr/)
 
 **The Big Bad Wolf**
 
@@ -298,7 +298,7 @@ Etnico is all about ethnic street food right in the center of Athens. In this pl
 
 The Big Bad Wolf is a place where you can enjoy delicious and quality food. It can be a burger, a souvlaki or even a salad. You can choose whatever your preferations are, from a double bacon burger to a vegan one. So every customer will be satisfied after going to this place. The Big Bad Wolf is located in a variety of locations so if it happens you are close to one of those don't hesitate. You are going to leave the place with a sense of fulfillment, as you are going to enjoy the food. Another really import advantage of this place is that the people who work there are really polite and your order is ready really quickly.
 
-*Information and photo retrieved from:* [The Big Bad Wolf] (https://www.tbbw.gr/)
+*Information and photo retrieved from:* [The Big Bad Wolf](https://www.tbbw.gr/)
 
 **Basegrill Athens**
 
@@ -306,8 +306,8 @@ The Big Bad Wolf is a place where you can enjoy delicious and quality food. It c
 
 Basegrill Athens started in 2005 and it's a very famous Steak House - Restaurant, due to the high quality meat as well as the great hospitality. Meat is highly respected there, it is treated as a gift and they are constantly looking to choose the best ones from the Greek market. It is then prepared with caution and cooked at the right temperature. Finally it is served and cut right in front of the customer. Because of all of this quality, Basegrill Athens got the attention of plenty people and even a great amount of celebrities. So, what are you waiting for? Go and try a taste of warm hospitality and high quality menu.
 
-*Address retrieved from:*[Λεωφ. Κωσταντινουπόλεως 64, Περιστέρι] (https://www.google.com/maps/place/Basegrill+Athens/@38.0105273,23.7088258,16.75z/data=!4m5!3m4!1s0x14a1a36c7e066517:0xe6c56d4281732b98!8m2!3d38.0118955!4d23.7081823) |
-*Photo retrieved from:*[Athens Voice] (https://www.athensvoice.gr/guide/taste/restaurants/82725_base-grill)
+*Address retrieved from:*[Λεωφ. Κωσταντινουπόλεως 64, Περιστέρι](https://www.google.com/maps/place/Basegrill+Athens/@38.0105273,23.7088258,16.75z/data=!4m5!3m4!1s0x14a1a36c7e066517:0xe6c56d4281732b98!8m2!3d38.0118955!4d23.7081823) |
+*Photo retrieved from:*[Athens Voice](https://www.athensvoice.gr/guide/taste/restaurants/82725_base-grill)
 
 **Bel Rey**
 
