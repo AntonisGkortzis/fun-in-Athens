@@ -921,7 +921,7 @@ No matter what you choose, you must be sure for one thing. You will enjoy the br
 *Photo retrieved from:*[Tripsavvy](https://www.tripsavvy.com)
 
 
-**Guided Tours at the Stavros Niarchos Park"**
+**Guided Tours at the Stavros Niarchos Park**
 
 <img src="media/niarchos_park.jpg" alt="Stavros Niarchos Park" width="500"/>
 
@@ -931,7 +931,7 @@ Daily at 17.00
 Meeting point: VISITORS CENTER (Evripidou & Doiranis, Kallithea)
 Tour Duration: 60'
 Number of participants per tour: 20 people
-:ticket: Free admission via online pre-registration
+:ticket: Free admission via [online pre-registration](https://www.eventora.com/en/Events/snfcc-park-2020)
 :calendar: Date: 01 March - 31 March 2020
 
 
