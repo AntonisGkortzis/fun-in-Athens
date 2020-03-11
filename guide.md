@@ -860,8 +860,8 @@ Organizing a trip to the Temple of Poseidon is worth your time but making the mo
 
 The Odeon of Herodes Atticus, which is also known as the “Herodeon”, is located on the the southern slopes of the Acropolis, on Dionysiou Areopagitou Street. The monument was constructed during the second century AD and was sponsored by Tiberius Claudius Herod Atticus, in memory of his wife Aspasia Annia Regilla. The Odeon had a roof made from cedar wood. It served mainly musical festivals, and could host up to 5,000 spectators. It was destroyed in 267 BC at the incursion of the Heruli, who burnt many buildings in ancient Athens. The monument was restored during 1952-1953 using marble from the Dionysus area. Since 1957 it stages art festivals, such as concerts, ancient drama performances, etc. If you have the chance to attend a concert or a performance taking place in the Odeon of Herodes Atticus, during Athens Festival, you will be amazed by the feeling it provokes!
 
-*Information retrieved from:* [Herodes Atticus](http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=6622) |
-*Photo retrieved from:* [Herodes Atticus](https://www.thecrazytourist.com/25-best-things-to-do-in-athens-greece/)
+*Information retrieved from:* [Ministry of Culture and Sports](http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=6622) |
+*Photo retrieved from:* [THE CRAZY TOURIST](https://www.thecrazytourist.com/25-best-things-to-do-in-athens-greece/)
 
 **Panathenaic Stadium**
 
