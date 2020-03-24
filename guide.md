@@ -1813,8 +1813,6 @@ Tickets available at: www.addfestival.gr
 
 <img src="media/philopapposHill.jpg" alt="Philopappos Hill" width="500"/>
 Philopappos Hill is one of the favorite spots for both Athenians and tourists, mainly in the weekend. It is a great place to picnic and admire the breathtaking views. Also, it is a good option for some easy hiking. <br>
-<br>
-📍: [Philopappos Hill](https://goo.gl/maps/BoktVwZYwyW44adB6/)
 
 Information retrieved from: [Trip Advisor](https://www.tripadvisor.com/) <br>
 Photo retrieved from: [My Guide Athens](https://www.myguideathens.com/)
