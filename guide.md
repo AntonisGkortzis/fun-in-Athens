@@ -1812,8 +1812,9 @@ Tickets available at: www.addfestival.gr
 **Philopappos Hill**
 
 <img src="media/philopapposHill.jpg" alt="Philopappos Hill" width="500"/>
-Philopappos Hill is one of the favorite spots for both Athenians and tourists, mainly in the weekend. It is a great place to picnic and admire the breathtaking views. Also, it is a good option for some easy hiking. <br>
-
+Philopappos Hill is one of the favorite spots for both Athenians and tourists, mainly in the weekend. It is a great place to picnic and admire the breathtaking views. Also, it is a good option for some easy hiking. 
+<br>
+<br>
 Information retrieved from: [Trip Advisor](https://www.tripadvisor.com/) <br>
 Photo retrieved from: [My Guide Athens](https://www.myguideathens.com/)
 
@@ -1824,6 +1825,7 @@ Photo retrieved from: [My Guide Athens](https://www.myguideathens.com/)
 
 Hymettus is a mountain that has a lot to offer. You can visit it for nature walks in forests, bird watching, its variety of wild flowers and plants and also some wild animals like foxes. In addition, if you are more of an athletic type, Hymettus is a great place for running, hiking, biking and you can see many mountain climbers during the weekend. Last but not least, Hymettus has lots of caves, archeological sites, ancient pathways and tiny hidden byzantine monasteries. 
 We suggest you to visit [Peania Cave](https://goo.gl/maps/YxL9X3d8hhDHZuFi6) which is open for visitors.
+<br>
 <br>
 _Image retrieved from_ : [Greece Is](https://www.greece-is.com/) | _Information retrieved from_ : [Trip Advisor](https://www.tripadvisor.com/)
 
