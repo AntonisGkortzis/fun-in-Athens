@@ -17,6 +17,7 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Shopping](#shopping) 🎁
 * [Fun and Games](#fun) 😁
 * [Art and Culture](#artAndCulture) :art:
+* [Nature and Parks](#natureAndParks) 🌳
 * [Accomodation](#accomodation) 🏨
 * [Full day trips](#fullDayTrips) :car:
 * [Beach](#beach) 🏄
@@ -1805,6 +1806,8 @@ ADD is the biggest tecnho music festival in Athens.
 Tickets available at: www.addfestival.gr
 
 *Information and photo are retrieved from:* [Art&Life](https://www.artandlife.gr/athens/events/add_2020)
+
+## <a name="natureAndParks"></a>Nature and Parks
 
 ## <a name="Accomodation"></a>Accomodation
 
