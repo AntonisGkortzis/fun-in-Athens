@@ -655,7 +655,7 @@ Address: [Ακτή ΕΟΤ Βάρκιζας, Αθήνα 161 72](https://www.googl
 Inspired by the last lines of the first King Kong movie in 1933 _"It was beauty. As always, beauty killed the beast"_, this fantastic *cocktail bar* offers high quality cocktails, but that's not just it. It is located inside a house that was built at the '30s and its decor is a funky mix of vintage and industrial, including an underground urban jungle, which create a chill, cinematic scene.
 You can visit Beauty Killed the Beast for its amazing _cocktails_, as well as its wonderful _brunch_ that also has a lot of vegan options.
 
-_📍 : [Paramithias 14, Kerameikos]_(https://www.google.gr/maps/place/BEAUTY+KILLED+THE+BEAST/@37.9832268,23.7137022,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd277cd8815b:0x7a13ee9a67c8e36d!8m2!3d37.9832268!4d23.7158909?hl=el)
+📍 : [Paramithias 14, Kerameikos](https://www.google.gr/maps/place/BEAUTY+KILLED+THE+BEAST/@37.9832268,23.7137022,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bd277cd8815b:0x7a13ee9a67c8e36d!8m2!3d37.9832268!4d23.7158909?hl=el)
 
 _📞: +30 21 0524 0117_
 
@@ -1813,11 +1813,21 @@ Tickets available at: www.addfestival.gr
 
 <img src="media/philopapposHill.jpg" alt="Philopappos Hill" width="500"/>
 Philopappos Hill is one of the favorite spots for both Athenians and tourists, mainly in the weekend. It is a great place to picnic and admire the breathtaking views. Also, it is a good option for some easy hiking. <br>
-
+<br>
 📍:[Philopappos Hill](https://goo.gl/maps/BoktVwZYwyW44adB6)
 
 Information retrieved from: [Trip Advisor](https://www.tripadvisor.com/) <br>
 Photo retrieved from: [My Guide Athens](https://www.myguideathens.com/)
+
+
+**Hymettus**
+
+<img src="media/hymettus.jpg" alt="Hymettus" width="500"/>
+
+Hymettus is a mountain that has a lot to offer. You can visit it for nature walks in forests, bird watching, its variety of wild flowers and plants and also some wild animals like foxes. In addition, if you are more of an athletic type, Hymettus is a great place for running, hiking, biking and you can see many mountain climbers during the weekend. Last but not least, Hymettus has lots of caves, archeological sites, ancient pathways and tiny hidden byzantine monasteries. 
+We suggest you to visit [Peania Cave](https://goo.gl/maps/YxL9X3d8hhDHZuFi6) which is open for visitors.
+<br>
+_Image retrieved from_ : [Greece Is](https://www.greece-is.com/) | _Information retrieved from_ : [Trip Advisor](https://www.tripadvisor.com/)
 
 
 ## <a name="Accomodation"></a>Accomodation
