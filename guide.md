@@ -2110,4 +2110,10 @@ Another cool thing to do in Athens is to visit one of the great food festivals t
  
  *Information and photo retrieved from:* [ATHENS STREET FOOD FESTIVAL](https://www.athensstreetfoodfestival.gr/)
  
+ **Chocolate Festival**
  
+ <img src="media/chocofest.jpeg" alt="Chocolate Festival" width="500"/>
+
+ Chocolate Fest, the country's largest festival dedicated to the most innocent and at the same time guilty pleasures of life, comes in an erotic and delicious four-day event, turning Delos Athenian Technopolis into a chocolate factory
+ 
+ *Information and photo retrieved from:* [ελculture.gr](https://www.elculture.gr/)
