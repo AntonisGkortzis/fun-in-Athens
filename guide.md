@@ -2098,3 +2098,8 @@ From classic and metal to new-wave, if rock is your thing, The Rockwave Festival
 
 
 ## <a name="foodFestivals"></a>Food Festivals
+
+Another cool thing to do in Athens is to visit one of the great food festivals that are taking place every year in the city.
+
+
+ 
