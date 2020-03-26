@@ -21,7 +21,8 @@ Are you planning to visit Athens and searching for exciting activities to spend 
 * [Accomodation](#accomodation) 🏨
 * [Full day trips](#fullDayTrips) :car:
 * [Beach](#beach) 🏄
-* [Music Festivals](#musicFestivals) 🎸 
+* [Music Festivals](#musicFestivals) 🎸
+* [Food Festivals](#foodFestivals) 
 
 
 ## <a name="cafe"></a>Cafeterias
@@ -2094,3 +2095,6 @@ From classic and metal to new-wave, if rock is your thing, The Rockwave Festival
 
 
 *Information retrieved from:* [Athens Insider](https://www.athensinsider.com/5-fab-athens-music-festivals-brighten-summer/)
+
+
+## <a name="foodFestivals"></a>Food Festivals
