@@ -542,6 +542,16 @@ Address: [9, Pandoras str., Glyfada](https://www.google.com/maps/place/OPUS+Inne
 *Information retrieved from:* [E-table]( https://www.e-table.gr/restaurant/opus-inner-pleasure) |
 *Photo retrieved from:* [E-table]( https://www.e-table.gr/en/restaurant/opus-inner-pleasure)
 
+#### <a name="peking"></a>**Peking Duck**
+
+<img src="media/peking.jpg" alt="Peking Duck" width="500"/>
+
+"Peking Duck" is the perfect destination for street food lovers, especially when they are familiar with fusion asian kitchen. The restaurant is located next to the metro station of Panormou which is very easy to access as it is a major commute center for thousands of Athenians and tourists every day. It offers unique spins on traditional oriental recipes which made it a lure for pursuers of radical but grounded flavors. The restaurant has a big variety of dishes but it specializes on duck which is the primary draw for most of its clientele.
+
+*Information retrieved from:*[Peking Duck](https://pekingduck.gr/)  |
+*Image retrieved from:*[Peking Duck](https://pekingduck.gr/katalogos)
+
+
 ## <a name="nightlife"></a>Night Life
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
@@ -916,6 +926,15 @@ __Source:__[ Google My Business Ratings](https://www.google.com/search?hl=el&ei=
 
 *Information and Photo retrieved from:* [Newsbeast](https://www.newsbeast.gr/entertainment/arthro/794927/the-local-pub-mia-buraria-agglikon-prodiagrafon-sto-halandri)
 
+**Bronco**
+
+<img src="media/bronco.jpg" width="500"/>
+
+Bronco is famous for its beers and the its good taste in rock music. It is located in both Kifissia and Kolonaki and it is open for everyone that wants to have fun. It also provides brunch and lunch and hosts music events.
+
+*Information and image retrieved from:*[Lifo](https://www.lifo.gr/guide/taste_reviews/990/bronco-enas-pareistikos-xoros-gia-oles-tis-ores-sto-kolonaki)
+
+
 ## <a name="tours"></a>Tours
 
 In order to enjoy the beauty of the city, you have to walk. So here are some tours worth doing.
@@ -1096,6 +1115,21 @@ If you want come closer to the wildlife of the mountain, you can visit one of th
 Situated just 40 minutes via Flying Dolphin (a sort of boat-insect hybrid that looks alarming but whizzes along) from the port of Piraeus, Aegina is one of the closest islands to Athens yet remains mainly un-touristy in spite of its popularity with Athenians.
 
 *Information and photo are retrieved from:* [culture trip](https://theculturetrip.com/europe/greece/articles/aegina-island-perfect-day-trip-athens/)
+
+**Plato's Academy Park**
+
+<img src="media/plato.jpg" width="500"/>
+
+The area of Athens where Plato was teaching his students is the Plato's Academy Park in Kolonos. He founded the academy in 387 B.C. but it was destroyed by the Romans in 86 B.C. Today this area is a public park accessible to everyone. 
+
+<img src="media/museumplato.jpg" width="500"/>
+
+You will find people talking with each other in every corner of the park, dogs walking with their owners but also an amazing digital museum. This museum uses the latest technologies, offering the visitor a journey into the history and work of Plato. 
+
+*Photo retrieved from:* [Google](https://www.google.com/search?q=plato+museum&client=firefox-b-d&sxsrf=ALeKk03t5k84puv24ojuV--UU-fVRi4PEQ:1583906082565&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivpqL73ZHoAhVSpYsKHUsZDMoQ_AUoAXoECB4QAw&biw=766&bih=750)
+*Photo retrieved from:* [Google](https://www.google.com/search?q=plato+academy&client=firefox-b-d&sxsrf=ALeKk01Z-Ln4bwpzOwraM0A0x6cu9YCedA:1583905820124&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjAmJD-3JHoAhWkzMQBHTmpDIoQ_AUoAXoECBcQAw&biw=766&bih=750)
+*Information retrieved from:* [Wikipedia](https://en.wikipedia.org/wiki/Platonic_Academy)
+*Information retrieved from:* [plato-academy](http://www.plato-academy.gr/en/web/guest/museum)
 
 ## <a name="museums"></a>Museums
 
@@ -1830,6 +1864,14 @@ We suggest you to visit [Peania Cave](https://goo.gl/maps/YxL9X3d8hhDHZuFi6) whi
 <br>
 _Image retrieved from_ : [Greece Is](https://www.greece-is.com/) | _Information retrieved from_ : [Trip Advisor](https://www.tripadvisor.com/)
 
+#### <a name="taf"></a>**Taf The Art Foundation**
+
+<img src="media/taf.jpg" alt="Taf The Art Foundation" width="500"/>
+
+If you are looking for the best points in the cultural map of the city, then you should definitely visit "Taf The Art Foundation".  It all started at 2009 when an abandoned building in the center of Athens was part of a cultural project that has been focusing since then on participatory culture, experimentation and exploration. Everything that has been created from people is accessible to people all year round. Everyone can visit T.A.F, enjoy a drink, listen to music , see some interesting creations or even create something themselves.
+
+*Information retrieved from:* [Taf The Art Foundation](http://theartfoundation.metamatic.gr/EN/arxikh/) |
+*Photo retrieved from:* [Google](https://www.google.com/search?q=taf+the+art+found&client=firefox-b-d&sxsrf=ALeKk02MhKodGGkyb4X6UJzlE8F6PqWufA:1583871341182&source=lnms&tbm=isch&sa=X&ved=2ahUKEwipuaTF3JDoAhWKaRUIHZgaACcQ_AUoAXoECAwQAw&biw=766&bih=750)
 
 ## <a name="Accomodation"></a>Accomodation
 
@@ -1992,6 +2034,16 @@ More information on this trip can be found [here](https://www.getyourguide.com/a
 Less than two hours away from Athens, Trikala are an amazing getaway into nature. You can wander in the forests and the lakes, eat at traditional restaurants and enjoy the coziness of the small villages. The view of the surrounding mountains is breathtaking and the local hospitality services will definitely not disappoint you!
 
 *Information and photo retrieved from:* [Reader](https://www.reader.gr/life/travel/taxidiotikes-protaseis/apodraseis-stin-ellada/314595/trikala-korinthias-enas-mikros)
+
+**Xylokastro** 
+
+<img src="media/Xylokastro.jpg width="500"/>
+
+Xylokastro is a small town in north Peloponnese only 120km away from Athens. It is both summer and winter destination as it is located between mountains and sea. Its name came from the wooden castle built near the marine. The people and the beauty of nature will make you love this place. You can walk in Pefkias which is a small "forest" next to the sea and get some fresh air, you can visit villages around Xylokastro or even Zireia, one of the highest mountains and ski centers in Peloponnese. In Zireia there is also a music festival at the end of August with a variety of music genres and a lot of campers.
+
+*Image retrieved from:*[Google](https://www.google.com/search?q=xylokastro&client=firefox-b-d&sxsrf=ALeKk03WYhyS_8JgvcaoirFdkXJ0W7J4Gg:1583901414776&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiWjr_JzJHoAhUBwcQBHYx2DwAQ_AUoAnoECBsQBA&biw=764&bih=750)
+
+
 
 ## <a name="beach"></a>Beach
 
