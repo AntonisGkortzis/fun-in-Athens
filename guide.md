@@ -1239,9 +1239,18 @@ Fun fact: There’s a room with an old TV and joystick, where you can see by you
 
 *Information and photo retrieved from:* [This is athens](https://www.thisisathens.org/museums/hellenic-it-museum)
 
+**Korai 4, Historic Site**
+
+<img src="media/korai4.jpg" alt="Korai 4, Historic Site" width="500"/>
+
+In August 1894 the newly established General Insurance Company "ETHNIKI" buys the Rossels house on 4 Korai Street where it is located. Forty years later, the Board of Directors announces the decision to rebuild the building. It started on June 11, 1936 and finished on December 30, 1938. The construction was a state of art, build with top quality materials and amenities beyond the Greek data corresponding to the prestige of ETHNIKI also containing an anti-aircraft shelter. It was a magestic accomplisment which had a huge impact on the advertisment of the company. Unfortunatelly on May 6, 1941 the German trooped after entering Athens ordered the complete take over of the building which housed various departments of the German occupation troops. At the top was an anchored cross, and the underground anti-aircraft shelter were turned into prisons. Many Greek patriots as well as citizens of all ages up to 14 were detained there.Completly isolated, prisoners wrote or scribbled out any sharp object with messages, names, dates and designs.
+Visit it to experience the feeling of silence and isolation which is trampled by the unbreakable Greek spirit which never surrenders shown by the engraved patriot messages.
+
+*Information and photo retrieved from:* [Κοραή 4](https://korai4.gr/)
+
 ## <a name="monuments"></a>Monuments
 
-Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part.
+Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part. 
 
 **Acropolis**
 
