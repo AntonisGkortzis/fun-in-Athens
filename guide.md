@@ -141,7 +141,7 @@ Address: [Αριστοτέλους 10, Πειραιάς 185 35](https://www.goog
 
 **Cafe Cafe**
 
-<img src="cafe cafe.jpg" alt"Cafe Cafe" width="500"/>
+<img src="media/cafe cafe.jpg" alt"Cafe Cafe" width="500"/>
 
 Cafe Cafe is a coffee shop by day and a bar by night positioned in the heart of Peristeri, West suburbs of Athens. There are plenty of choises in the menu including coffee, tea and many options which will satisfy the morning thirst. By night, experienced bartenders will provide for you delightfull coctails and drinks and do not even worry, the night is still young ! But we couldn't eclude your apetite. Tastefull branch as well as lunch is served capable of pleasing your expectations. So, what are you waiting for? Come and visit us!
 
