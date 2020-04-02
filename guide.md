@@ -2065,7 +2065,7 @@ Less than two hours away from Athens, Trikala are an amazing getaway into nature
 
 **Xylokastro** 
 
-<img src="media/Xylokastro.jpg width="500"/>
+<img src="media/Xylokastro.jpg" width="500"/>
 
 Xylokastro is a small town in north Peloponnese only 120km away from Athens. It is both summer and winter destination as it is located between mountains and sea. Its name came from the wooden castle built near the marine. The people and the beauty of nature will make you love this place. You can walk in Pefkias which is a small "forest" next to the sea and get some fresh air, you can visit villages around Xylokastro or even Zireia, one of the highest mountains and ski centers in Peloponnese. In Zireia there is also a music festival at the end of August with a variety of music genres and a lot of campers.
 
