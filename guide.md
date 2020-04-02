@@ -1258,6 +1258,15 @@ Visit it to experience the feeling of silence and isolation which is trampled by
 
 *Information and photo retrieved from:* [Κοραή 4](https://korai4.gr/)
 
+**Athens War Museum**
+
+<img src="media/athensWarMuseum.jpg" alt="Athens War Museum" width="500"/>
+
+The Athens War Museum has various exhibits distributed along four floors that manifest the country’s eventful military history with abundant pictures and artefacts from antiquity to modern-day.The best way to explore the museum is to start on the top floor, where you will find a collection dedicated to antiquity, Byzantine period, the Balkan Wars, the Greek War of Independence, or World War I.The following floors shows how the Greek troops fought against the Axis powers during World War II. There is also a curious collection of unusual weapons from various periods that come from all over the world.The museum also has an exterior area that is dedicated to heavy artillery and military aircrafts used by the Greek Air Force. You can visit this part of the museum without entering inside.
+
+*Information retrieved from:* [introducingathens](https://www.introducingathens.com/athens-war-museum) |
+*Photo retrived from:* [wikipedia](https://en.wikipedia.org/wiki/Athens_War_Museum)
+
 ## <a name="monuments"></a>Monuments
 
 Athens is famous for its history and its numerous monuments and museums, you don't want to miss that part. 
