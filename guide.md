@@ -1970,6 +1970,14 @@ And as a student you also get some discounts.
 
 *Information and photo are retrieved from:* [TripAdvisor](https://www.tripadvisor.de/Attraction_Review-g189403-d7974687-Reviews-Port_of_Piraeus-Piraeus_Piraeus_Region_Attica.html)
 
+**Ski Centre of Kalavryta**
+
+<img src="media/kalavryta.jpg" alt="kalavryta" width="500"/>
+
+The Ski center is located on the north side of Helmos at the position Xerokambos just 15 km from Kalavryta.It began operating in 1988. Guests that visit Kalavryta annually surpass 150,000 and most of them are young. It is the closest ski resort in Athens and welcomes skiers and snowboarders from all over Greece.You can find a parking spot quite easily.
+
+*Information and photo retrieved form:* [kalavrita-ski](https://www.kalavrita-ski.gr/genikes-plhrofories/)
+
 **Arachova**
 
 <img src="media/arachova.jpg" alt="Arachova" width="500"/>
