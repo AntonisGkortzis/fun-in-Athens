@@ -2102,6 +2102,15 @@ A series of many small beaches in small natural bays with rocks that impress wit
 *Information retrieved from:* [trip2athens](https://www.trip2athens.com/el/see-n-do/attractions/beaches/attraction-222/#tab-2) |
 *Photo retrieved from:* [Google](https://www.google.com/search?q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B1%CE%BA%CE%B9%CE%B1+%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CE%B3%CE%BC%CE%B5%CE%BD%CE%B7&sxsrf=ALeKk01VEWR9YSxs9sGtJ_XgJqRgETe6Nw:1583883741445&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5zZjeipHoAhVRxMQBHbt9DD0Q_AUoAXoECBMQAw&biw=1536&bih=754&dpr=1.25#imgrc=pQC-YGWv8PCPPM)
 
+**Zen Beach**
+
+<img src="media/zen-beach.jpg" width="500"/>
+
+Zen beach is a beach in hidden in Kavouri Vouliagmeni sourounded by the green of the trees facing west to the most beautiful sunset of the south suburbs. A place to enjoy from the calm early morning hours to the relaxing late night time acompanied with a cold beer and some amazing plates ofered from the Zen-beack reastaurant.
+
+*Information retrieved from:* [Zen Beach](https://zen-beach.gr/) |
+*Photo retrieved from:* [Zen Beach](https://zen-beach.gr/wp-content/uploads/2019/07/zen-beach-10.jpg)
+
 **Pasalimani, Sounio**
 
 <img src="media/pasalimani_sounio_01.jpg" alt="Pasalimani, Sounio" width="500"/>
