@@ -566,6 +566,16 @@ Address: [9, Pandoras str., Glyfada](https://www.google.com/maps/place/OPUS+Inne
 
 Of course, when you visit Athens, you cannot skip its night life. Below, we have listed some of the best bars for you.
 
+**Brewklyn**
+
+<img src="media/brewklyn.jpg" width="500"/>
+
+If you enjoy pizza and beer then brewklyn is the place for you. It doesn't matter what day of the week it is, at brewklyn you will always find great company! You will absolutely be amazed by the overwhelming variety of beer brands as well as by the simple but extremely tasty pizzas. The warm and cozy environment feels ideal all year round.
+
+Address: [Γιαννιτσοπούλου 3, Γλυφάδα 166 75](https://www.google.com/maps/place/Brewklyn/@37.8625468,23.7527037,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bfd17cbe40b1:0x1611da4915635ebb!8m2!3d37.8625468!4d23.7548924)
+
+*Image retrieved from:* [Google](https://www.google.com/search?q=brewklyn+%CE%B3%CE%BB%CF%85%CF%86%CE%AC%CE%B4%CE%B1&sxsrf=ALeKk01jpKiaXrqph76U7QvcG1saAehCew:1592418656043&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjLrM7ivYnqAhWmyKYKHd6dAqUQ_AUoAnoECBwQBA#imgrc=SL7Sl4TpGU0GjM)
+
 **Istioploikos**
 
 <img src="media/istioploikos.jpg" alt="Istioploikos" width="500"/>
