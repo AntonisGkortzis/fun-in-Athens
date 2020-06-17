@@ -1370,6 +1370,14 @@ This ancient temple is located very close to the centre of Athens. Its building 
 
 Athens has many things to do for athletics individuals too! From walking to our famous mountains to skydiving!
 
+**Lolos Ski-Center**
+
+<img src="media/lolosski.jpg" width="500"/>
+
+If you are into watersking you probably have heared of lolos ski center. If you are thinking about getting into the sport, it is without a doubt the best place to go. Lolos ski center is one of the first waterski schools that was ever created in Greece. The experienced trainers will guarantee the best watersking experience for all athelete levels! And remember... If you ever met a waterski athlete, there is a big chance Lolos taught him/her!
+
+*Image and information retrieved from:* [lolosski](https://www.lolosski.gr/)
+
 **Kartland**
 
 <img src="media/kartland.jpg" alt="Kartland" width="500"/>
