@@ -69,6 +69,7 @@ If you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enj
 
 Another cafeteria you should undoubtedly visit in Kallithea is "Dome", a cozy place, perfect for gathering with friends, which offers you a variety of board games to play, while enjoying your favourite beverages and snacks.
 Dome, which in russian means home got its name as it makes you feel like home!
+
 *Information and photo retrieved from:* [PolisPages](https://www.polispages.gr/guide/14207/dome-%7C-kafeteria-%7C-kallithea-)
 
 **Godmama’s Yard**
