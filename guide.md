@@ -2106,7 +2106,7 @@ A series of many small beaches in small natural bays with rocks that impress wit
 
 <img src="media/zen-beach.jpg" width="500"/>
 
-Zen beach is a beach in hidden in Kavouri Vouliagmeni sourounded by the green of the trees facing west to the most beautiful sunset of the south suburbs. A place to enjoy from the calm early morning hours to the relaxing late night time acompanied with a cold beer and some amazing plates ofered from the Zen-beack reastaurant.
+Zen beach is a beach hidden in Kavouri Vouliagmeni. Sourounded by the green colors of trees facing west offers a view to the most beautiful sunset of the south suburbs. A place to enjoy from the calm early morning hours to the relaxing late night hours acompanied with a cold beer and some amazing plates offered from the Zen-beach reastaurant.
 
 *Information retrieved from:* [Zen Beach](https://zen-beach.gr/) |
 *Photo retrieved from:* [Zen Beach](https://zen-beach.gr/wp-content/uploads/2019/07/zen-beach-10.jpg)
