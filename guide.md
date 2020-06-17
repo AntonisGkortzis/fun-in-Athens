@@ -69,7 +69,6 @@ If you ever find yourselves in Kallithea, "Italus" is a must-place to visit. Enj
 
 Another cafeteria you should undoubtedly visit in Kallithea is "Dome", a cozy place, perfect for gathering with friends, which offers you a variety of board games to play, while enjoying your favourite beverages and snacks.
 Dome, which in russian means home got its name as it makes you feel like home!
-
 *Information and photo retrieved from:* [PolisPages](https://www.polispages.gr/guide/14207/dome-%7C-kafeteria-%7C-kallithea-)
 
 **Godmama’s Yard**
@@ -1054,7 +1053,9 @@ Filopappou hill, also called the Hill of the Muses, is the perfect spot for a st
 
 Plateia Mavili is one of the liveliest square in Athens located under the Lycabettus hill and is part of Ampelokipoi district.It's one of the few square in the centre of Athens that still retains its neighborhood features.With legendary bars and ever-new arrivals popping all over the square. The square's landmark since 1989 is the "Canteen" thats caters with fast food and is a perfect spot to get chicken wings on the go after a night out.
 
-* Information retrieved from :* [Bovary](https://www.bovary.gr/city/7190/10-diahronika-magazia-gia-poto-kai-nostimo-fagito-stin-plateia-mavili )photo retrieved from:*[Trip2Athens](http://athina984.gr/wp-site/2019/08/28/dialogoi-stin-plateia-mavili/)
+* Information retrieved from :* [Bovary](https://www.bovary.gr/city/7190/10-diahronika-magazia-gia-poto-kai-nostimo-fagito-stin-plateia-mavili)
+
+*photo retrieved from:*[Trip2Athens](http://athina984.gr/wp-site/2019/08/28/dialogoi-stin-plateia-mavili/)
 
 **Pasalimani - Marina Zeas**
 
